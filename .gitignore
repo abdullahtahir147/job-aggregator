@@ -1,0 +1,38 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Generated runtime artifacts (do NOT commit these) ─────────────────────────
+# The SQLite DB can grow to 10+ MB and is rebuilt on each run
+data/jobs.db
+data/ats_cache.json
+
+# Report outputs are generated, not source-controlled
+output/report.md
+output/unknown_companies.csv
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+
+# ── IDE / editor ──────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Secrets — never commit these ──────────────────────────────────────────────
+.env
+.env.*
+*.pem
+secrets/

@@ -1,0 +1,57 @@
+# ─────────────────────────────────────────────────────────────
+# Job Scoring Filters
+# ─────────────────────────────────────────────────────────────
+# Scoring rules:
+#   +3  per matching include_titles phrase in the job title
+#   -5  per matching exclude_titles phrase in the job title
+#   +1  per include_keyword found in title + description
+#   -2  per exclude_keyword found in title + description
+#
+# All matching is case-insensitive.
+# ─────────────────────────────────────────────────────────────
+
+include_titles:
+  - "product analyst"
+  - "growth analyst"
+  - "marketing analyst"
+  - "marketing scientist"
+  - "marketing data"
+  - "product data scientist"
+  - "data scientist"
+  - "data analyst"
+  - "analytics engineer"
+
+exclude_titles:
+  - "ml engineer"
+  - "platform"
+  - "research scientist"
+  - "computer vision"
+  - "nlp"
+  - "quant"
+  - "staff engineer"
+  - "principal engineer"
+
+include_keywords:
+  - "attribution"
+  - "incrementality"
+  - "experiment"
+  - "experimentation"
+  - "causal"
+  - "bayesian"
+  - "measurement"
+  - "uplift"
+  - "ab test"
+  - "a/b"
+  - "marketing mix"
+  - "mmm"
+  - "media mix"
+
+exclude_keywords:
+  - "phd"
+  - "reinforcement learning"
+  - "cv"
+  - "computer vision"
+  - "nlp"
+  - "platform"
+  - "infrastructure"
+  - "10+ years"

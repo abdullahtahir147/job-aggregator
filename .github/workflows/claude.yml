@@ -1,0 +1,61 @@
+name: Claude Code
+
+# ── Triggers ──────────────────────────────────────────────────────────────────
+# Fires whenever someone comments on an Issue or PR (or opens an Issue)
+# containing "@claude". Claude will create a branch + PR with the changes.
+on:
+  issue_comment:
+    types: [created]
+  pull_request_review_comment:
+    types: [created]
+  issues:
+    types: [opened]   # optional: let @claude-prefixed issues auto-trigger
+
+# ── Guard ─────────────────────────────────────────────────────────────────────
+# Only run when the trigger text actually contains "@claude".
+# Prevents burning API credits on every comment.
+jobs:
+  claude:
+    runs-on: ubuntu-latest
+
+    if: >-
+      (github.event_name == 'issue_comment' &&
+       contains(github.event.comment.body, '@claude')) ||
+      (github.event_name == 'pull_request_review_comment' &&
+       contains(github.event.comment.body, '@claude')) ||
+      (github.event_name == 'issues' &&
+       contains(github.event.issue.body, '@claude'))
+
+    # ── Least-privilege permissions ──────────────────────────────────────────
+    permissions:
+      contents: write        # create branches and commits
+      pull-requests: write   # open / update PRs and leave review comments
+      issues: write          # post status comments back on the issue
+
+    steps:
+      # ── 1. Check out the code ──────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── 2. Verify Python deps install cleanly (sanity check for CI) ────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install project dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Hand off to Claude ──────────────────────────────────────────────
+      - name: Run Claude Code
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          github_token:      ${{ secrets.GITHUB_TOKEN }}
+          # Branch naming: claude/issue-42-timestamp, etc.
+          branch_prefix: "claude/"
+          # Keep a single sticky comment per issue/PR instead of spamming
+          use_sticky_comment: "true"
