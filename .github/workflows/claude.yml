@@ -49,3 +49,5 @@ jobs:
           branch_prefix: "claude/"
           # Keep a single sticky comment per issue/PR instead of spamming
           use_sticky_comment: "true"
+          # Temporarily enabled for debugging — remove once working
+          show_full_output: "true"
