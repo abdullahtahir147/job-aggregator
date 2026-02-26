@@ -39,17 +39,7 @@ jobs:
         with:
           fetch-depth: 1
 
-      # ── 2. Verify Python deps install cleanly (sanity check for CI) ────────
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-          cache: "pip"
-
-      - name: Install project dependencies
-        run: pip install -r requirements.txt
-
-      # ── 3. Hand off to Claude ──────────────────────────────────────────────
+      # ── 2. Hand off to Claude ──────────────────────────────────────────────
       - name: Run Claude Code
         uses: anthropics/claude-code-action@v1
         with:
