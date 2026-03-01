@@ -55,6 +55,27 @@ def now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
+def compute_job_age_days(posted_at: str | None) -> int | None:
+    """
+    Return integer days since the job was posted.
+
+    *posted_at* is an ISO-8601 string (as stored on Job).
+    Returns None when the date is missing or unparseable.
+    """
+    if not posted_at:
+        return None
+    try:
+        # Handle both "2026-02-28T12:00:00Z" and "2026-02-28" formats
+        clean = posted_at.replace("Z", "+00:00")
+        dt = datetime.fromisoformat(clean)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        delta = datetime.now(timezone.utc) - dt
+        return max(delta.days, 0)
+    except (ValueError, TypeError):
+        return None
+
+
 def load_companies(path: str | Path) -> list[dict[str, str]]:
     """
     Load companies from a CSV file.

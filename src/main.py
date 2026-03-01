@@ -28,11 +28,11 @@ from typing import Any
 
 from src.core.utils import (
     setup_logging, now_iso, load_companies, load_all_companies,
-    load_filters, is_uk_role, get_thread_session,
+    load_filters, is_uk_role, get_thread_session, compute_job_age_days,
 )
 from src.core.models import Job, RunRecord
 from src.core.db import JobDB
-from src.core.scoring import score_jobs, score_job
+from src.core.scoring import score_jobs, score_job, compute_recency_delta
 from src.core.intent import load_intent_rules, apply_intent
 from src.core.taxonomy import load_taxonomy_rules, apply_taxonomy, TAG_PRIORITY
 from src.core.reporting import (
@@ -188,6 +188,8 @@ def run_pipeline(
     exclude_tags: str = "",
     brief: bool = True,
     llm_pack: bool = True,
+    recency: bool = True,
+    recency_config: str = "config/recency.yaml",
 ) -> None:
     """Execute the full aggregation pipeline."""
     t0 = time.monotonic()
@@ -320,6 +322,24 @@ def run_pipeline(
         for j in all_jobs:
             j.final_score = j.score
 
+    # ── Optional: recency scoring ─────────────────────────────────
+    recency_rules: dict = {}
+    if recency:
+        recency_cfg_path = Path(recency_config)
+        if recency_cfg_path.exists():
+            import yaml
+            with open(recency_cfg_path, encoding="utf-8") as fh:
+                recency_rules = yaml.safe_load(fh) or {}
+        for j in all_jobs:
+            j.age_days = compute_job_age_days(j.posted_at)
+            delta, reason = compute_recency_delta(j.age_days, recency_rules)
+            j.recency_delta = delta
+            j.recency_reason = reason
+            j.final_score = j.score + j.intent_delta + j.recency_delta
+    else:
+        for j in all_jobs:
+            j.age_days = compute_job_age_days(j.posted_at)
+
     # ── Optional: taxonomy tagging ───────────────────────────────────
     taxonomy_rules: dict = {}
     if shortlist > 0:
@@ -346,7 +366,7 @@ def run_pipeline(
         if exclude_tags:
             drop = {t.strip().upper() for t in exclude_tags.split(",") if t.strip()}
             pool = [j for j in pool if j.tag not in drop]
-        pool.sort(key=lambda j: (-j.final_score, -j.score, j.posted_at or "", j.company))
+        pool.sort(key=lambda j: (-j.final_score, j.age_days if j.age_days is not None else 9999, j.company))
         shortlisted = pool[:shortlist]
         shortlist_count = len(shortlisted)
         write_shortlist_md(
@@ -574,6 +594,14 @@ def build_parser() -> argparse.ArgumentParser:
         "--llm-pack", action=argparse.BooleanOptionalAction, default=True,
         help="Generate llm_payload.json + llm_prompt.md when shortlist is enabled (default: True)",
     )
+    run_parser.add_argument(
+        "--recency", action=argparse.BooleanOptionalAction, default=True,
+        help="Enable recency scoring (boost fresh jobs, default: True; --no-recency to disable)",
+    )
+    run_parser.add_argument(
+        "--recency-config", type=str, default="config/recency.yaml",
+        help="Path to recency rules YAML (default: config/recency.yaml)",
+    )
 
     return parser
 
@@ -612,6 +640,8 @@ def main() -> None:
         exclude_tags=args.exclude_tags,
         brief=args.brief,
         llm_pack=args.llm_pack,
+        recency=args.recency,
+        recency_config=args.recency_config,
     )
 
 

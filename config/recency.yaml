@@ -1,0 +1,9 @@
+# Recency scoring rules
+# Jobs posted within fresh_days get fresh_boost, within recent_days get recent_boost,
+# older jobs get stale_penalty (0 = no penalty).
+
+fresh_days: 2
+recent_days: 7
+fresh_boost: 3
+recent_boost: 1
+stale_penalty: 0

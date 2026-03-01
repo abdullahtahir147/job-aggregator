@@ -377,26 +377,32 @@ def write_shortlist_md(
             lines.append(f"### {tag} ({len(items)})")
             lines.append("")
             if intent_enabled:
-                lines.append("| # | Company | Title | Location | Score | Base | Δ | Link | Reason |")
-                lines.append("|---|---------|-------|----------|-------|------|---|------|--------|")
+                lines.append("| # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |")
+                lines.append("|---|---------|-------|----------|-----|-------|------|---|------|--------|")
                 for rank, job in items:
                     link = f"[Apply]({job.url})" if job.url else "—"
                     reason = _short_reason(job.score_reasons)
-                    d = job.intent_delta
+                    if job.recency_reason:
+                        reason += f"; {job.recency_reason}"
+                    d = job.intent_delta + job.recency_delta
                     d_str = f"+{d}" if d > 0 else str(d) if d else "0"
+                    age_str = f"{job.age_days}d" if job.age_days is not None else "-"
                     lines.append(
                         f"| {rank} | {job.company} | {job.title} | {job.location}"
-                        f" | {job.final_score} | {job.score} | {d_str} | {link} | {reason} |"
+                        f" | {age_str} | {job.final_score} | {job.score} | {d_str} | {link} | {reason} |"
                     )
             else:
-                lines.append("| # | Company | Title | Location | Score | Link | Reason |")
-                lines.append("|---|---------|-------|----------|-------|------|--------|")
+                lines.append("| # | Company | Title | Location | Age | Score | Link | Reason |")
+                lines.append("|---|---------|-------|----------|-----|-------|------|--------|")
                 for rank, job in items:
                     link = f"[Apply]({job.url})" if job.url else "—"
                     reason = _short_reason(job.score_reasons)
+                    if job.recency_reason:
+                        reason += f"; {job.recency_reason}"
+                    age_str = f"{job.age_days}d" if job.age_days is not None else "-"
                     lines.append(
                         f"| {rank} | {job.company} | {job.title} | {job.location}"
-                        f" | {job.score} | {link} | {reason} |"
+                        f" | {age_str} | {job.score} | {link} | {reason} |"
                     )
             lines.append("")
 
@@ -419,17 +425,21 @@ def write_shortlist_csv(
 
     if intent_enabled:
         fieldnames = [
-            "rank", "tag", "company", "title", "location",
-            "final_score", "base_score", "intent_delta",
-            "url", "match_reason", "intent_reasons",
+            "rank", "tag", "company", "title", "location", "age_days",
+            "final_score", "base_score", "intent_delta", "recency_delta",
+            "url", "match_reason", "intent_reasons", "recency_reason",
         ]
     else:
-        fieldnames = ["rank", "tag", "company", "title", "location", "score", "url", "match_reason"]
+        fieldnames = [
+            "rank", "tag", "company", "title", "location", "age_days",
+            "score", "url", "match_reason", "recency_reason",
+        ]
 
     with open(output_path, "w", newline="", encoding="utf-8") as fh:
         writer = csv.DictWriter(fh, fieldnames=fieldnames)
         writer.writeheader()
         for i, job in enumerate(jobs, 1):
+            age = job.age_days if job.age_days is not None else ""
             if intent_enabled:
                 writer.writerow({
                     "rank": i,
@@ -437,12 +447,15 @@ def write_shortlist_csv(
                     "company": job.company,
                     "title": job.title,
                     "location": job.location,
+                    "age_days": age,
                     "final_score": job.final_score,
                     "base_score": job.score,
                     "intent_delta": job.intent_delta,
+                    "recency_delta": job.recency_delta,
                     "url": job.url or "",
                     "match_reason": "; ".join(job.score_reasons) if job.score_reasons else "",
                     "intent_reasons": "; ".join(job.intent_reasons) if job.intent_reasons else "",
+                    "recency_reason": job.recency_reason,
                 })
             else:
                 writer.writerow({
@@ -451,9 +464,11 @@ def write_shortlist_csv(
                     "company": job.company,
                     "title": job.title,
                     "location": job.location,
+                    "age_days": age,
                     "score": job.score,
                     "url": job.url or "",
                     "match_reason": "; ".join(job.score_reasons) if job.score_reasons else "",
+                    "recency_reason": job.recency_reason,
                 })
 
     logger.info("Shortlist CSV written to %s (%d jobs)", output_path, len(jobs))
@@ -492,8 +507,9 @@ def write_brief_md(
 
     def _job_bullet(job: Job) -> list[str]:
         tag_label = f" [{job.tag}]" if job.tag != "OTHER" else ""
+        age_str = f" | {job.age_days}d old" if job.age_days is not None else ""
         if intent_enabled:
-            d = job.intent_delta
+            d = job.intent_delta + job.recency_delta
             d_str = f"+{d}" if d > 0 else str(d) if d else "0"
             score_str = f"{job.final_score} (base {job.score}, Δ{d_str})"
         else:
@@ -502,10 +518,13 @@ def write_brief_md(
         intent_r = ""
         if intent_enabled and job.intent_reasons:
             intent_r = " | " + _truncate("; ".join(job.intent_reasons), 80)
+        recency_r = ""
+        if job.recency_reason:
+            recency_r = f" | {job.recency_reason}"
         bullet: list[str] = []
-        bullet.append(f"- **{job.company} — {job.title}**{tag_label}  Score: {score_str}")
+        bullet.append(f"- **{job.company} — {job.title}**{tag_label}  Score: {score_str}{age_str}")
         bullet.append(f"  {job.location}")
-        bullet.append(f"  Why: {reason}{intent_r}")
+        bullet.append(f"  Why: {reason}{intent_r}{recency_r}")
         if job.url:
             bullet.append(f"  [Apply]({job.url})")
         return bullet

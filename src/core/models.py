@@ -33,6 +33,11 @@ class Job:
     intent_reasons: list[str] = field(default_factory=list)
     final_score: int = 0  # score + intent_delta
 
+    # ---- populated by recency layer (in-memory only) ----
+    age_days: int | None = None
+    recency_delta: int = 0
+    recency_reason: str = ""
+
     # ---- populated by taxonomy layer (in-memory only) ----
     tag: str = "OTHER"
 

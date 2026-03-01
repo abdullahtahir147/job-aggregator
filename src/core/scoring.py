@@ -63,6 +63,31 @@ def score_job(job: Job, filters: dict[str, Any]) -> Job:
     return job
 
 
+def compute_recency_delta(age_days: int | None, rules: dict[str, Any]) -> tuple[int, str]:
+    """
+    Return (delta_score, reason_string) based on how old a posting is.
+
+    *rules* keys: fresh_days, recent_days, fresh_boost, recent_boost, stale_penalty.
+    """
+    if age_days is None:
+        return (0, "")
+
+    fresh_days: int = rules.get("fresh_days", 2)
+    recent_days: int = rules.get("recent_days", 7)
+    fresh_boost: int = rules.get("fresh_boost", 3)
+    recent_boost: int = rules.get("recent_boost", 1)
+    stale_penalty: int = rules.get("stale_penalty", 0)
+
+    if age_days <= fresh_days:
+        return (fresh_boost, f"very recent ({age_days}d)")
+    elif age_days <= recent_days:
+        return (recent_boost, f"recent ({age_days}d)")
+    else:
+        if stale_penalty:
+            return (stale_penalty, f"older listing ({age_days}d)")
+        return (0, "")
+
+
 def score_jobs(jobs: list[Job], filters: dict[str, Any]) -> list[Job]:
     """Score a batch of jobs. Returns the same list, mutated."""
     for job in jobs:
