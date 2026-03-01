@@ -1,0 +1,62 @@
+# Job role taxonomy — priority order (first match wins)
+taxonomy:
+  DEVREL_EVANGELISM:
+    any:
+      - "developer advocate"
+      - "devrel"
+      - "developer relations"
+      - "technical evangelist"
+      - "technology evangelist"
+  APPLIED_AI_FDE:
+    any:
+      - "forward deployed"
+      - "forward-deployed"
+      - "applied ai"
+      - "applied scientist"
+      - "solutions engineer"
+      - "solutions architect"
+      - "ai solutions"
+      - "implementation engineer"
+      - "deployment engineer"
+  MARKETING_SCIENCE:
+    any:
+      - "marketing science"
+      - "marketing scientist"
+      - "paid media"
+      - "performance marketing"
+      - "attribution"
+      - "incrementality"
+      - "media measurement"
+  PRODUCT_GROWTH_DATA:
+    any:
+      - "product analyst"
+      - "product analytics"
+      - "growth analyst"
+      - "growth data"
+      - "experiment"
+      - "experimentation"
+      - "ab test"
+      - "a/b"
+  RISK_FRAUD:
+    any:
+      - "fraud"
+      - "aml"
+      - "fincrime"
+      - "financial crime"
+      - "risk"
+      - "compliance"
+      - "controls"
+  CORE_DS:
+    any:
+      - "data scientist"
+      - "machine learning"
+      - "ml scientist"
+      - "research scientist"
+      - "applied machine learning"
+  ANALYTICS_BI:
+    any:
+      - "data analyst"
+      - "analytics engineer"
+      - "business intelligence"
+      - "bi analyst"
+      - "insights analyst"

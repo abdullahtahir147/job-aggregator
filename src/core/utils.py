@@ -1,5 +1,6 @@
 """
-Shared utilities: CSV loading, YAML loading, timestamps, logging setup.
+Shared utilities: CSV loading, YAML loading, timestamps, logging setup,
+thread-safe HTTP sessions.
 """
 
 from __future__ import annotations
@@ -7,11 +8,38 @@ from __future__ import annotations
 import csv
 import logging
 import sys
+import threading
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+import requests
 import yaml
+
+
+# ── Thread-local HTTP sessions ───────────────────────────────────────────
+
+_thread_local = threading.local()
+
+SESSION_HEADERS = {
+    "Accept": "application/json",
+    "User-Agent": "job-aggregator/1.2",
+}
+
+
+def get_thread_session() -> requests.Session:
+    """
+    Return a requests.Session scoped to the current thread.
+
+    Each thread gets its own Session (avoiding the documented thread-safety
+    issues with requests.Session).  Sessions are reused within a thread for
+    connection pooling.
+    """
+    if not hasattr(_thread_local, "session"):
+        s = requests.Session()
+        s.headers.update(SESSION_HEADERS)
+        _thread_local.session = s
+    return _thread_local.session
 
 
 def setup_logging(verbose: bool = False) -> logging.Logger:
@@ -52,6 +80,35 @@ def load_companies(path: str | Path) -> list[dict[str, str]]:
             companies.append(cleaned)
 
     return companies
+
+
+def load_all_companies(paths: list[str | Path]) -> list[dict[str, str]]:
+    """
+    Load and merge companies from multiple CSV files.
+
+    Deduplicates by careers_url (first occurrence wins, preserving overrides).
+    Silently skips CSVs that don't exist.
+    """
+    seen_urls: set[str] = set()
+    merged: list[dict[str, str]] = []
+
+    for p in paths:
+        p = Path(p)
+        if not p.exists():
+            continue
+        rows = load_companies(p)
+        for row in rows:
+            url = row.get("careers_url", "").strip().rstrip("/").lower()
+            if url and url in seen_urls:
+                continue
+            if url:
+                seen_urls.add(url)
+            merged.append(row)
+
+    if not merged:
+        raise FileNotFoundError(f"No companies found in any CSV: {paths}")
+
+    return merged
 
 
 # ── UK location filter ────────────────────────────────────────────────────

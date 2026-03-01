@@ -1,0 +1,72 @@
+intent:
+  boost:
+    # Forward-deployed / Applied AI
+    - phrase: "forward deployed"
+      delta: 4
+    - phrase: "forward-deployed"
+      delta: 4
+    - phrase: "applied ai"
+      delta: 4
+    - phrase: "applied scientist"
+      delta: 3
+    - phrase: "applied machine learning"
+      delta: 3
+    # DevRel
+    - phrase: "developer advocate"
+      delta: 3
+    - phrase: "devrel"
+      delta: 3
+    - phrase: "developer relations"
+      delta: 3
+    - phrase: "technical evangelist"
+      delta: 3
+    - phrase: "technology evangelist"
+      delta: 3
+    # Solutions / Implementation
+    - phrase: "solutions engineer"
+      delta: 2
+    - phrase: "solutions architect"
+      delta: 2
+    - phrase: "ai solutions"
+      delta: 2
+    # Product / Growth / Experimentation
+    - phrase: "product analytics"
+      delta: 2
+    - phrase: "product analyst"
+      delta: 2
+    - phrase: "experimentation"
+      delta: 3
+    - phrase: "marketing science"
+      delta: 3
+    - phrase: "incrementality"
+      delta: 3
+    - phrase: "attribution"
+      delta: 2
+    - phrase: "causal"
+      delta: 2
+    - phrase: "measurement"
+      delta: 1
+    - phrase: "growth"
+      delta: 1
+    - phrase: "product"
+      delta: 1
+  penalty:
+    - phrase: "fraud"
+      delta: -3
+    - phrase: "aml"
+      delta: -3
+    - phrase: "fincrime"
+      delta: -3
+    - phrase: "financial crime"
+      delta: -3
+    - phrase: "risk"
+      delta: -2
+    - phrase: "compliance"
+      delta: -3
+    - phrase: "controls"
+      delta: -2
+    - phrase: "\\bmi\\b"
+      delta: -2
+      regex: true
+    - phrase: "collections"
+      delta: -2

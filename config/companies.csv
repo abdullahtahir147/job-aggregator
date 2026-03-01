@@ -1,6 +1,6 @@
 company,sector,uk_base,ats_hint,careers_url,notes,ats_type_override,ats_slug_override
 Monzo,Fintech (bank),London/UK,Careers site (Greenhouse/Workday varies),https://monzo.com/careers/,Target: Product DS / Growth / Marketing science,,
-Wise,Fintech (payments),London/UK,Workday (often),https://www.wise.jobs/,"Target: Marketing analytics/science, product analytics",,
+Wise,Fintech (payments),London/UK,SmartRecruiters,https://www.wise.jobs/,"Target: Marketing analytics/science, product analytics",smartrecruiters,wise
 Revolut,Fintech (super-app),London/UK,Custom (not on public GH/Lever),https://www.revolut.com/careers/,"Growth, experimentation, analytics",,
 Starling Bank,Fintech (bank),London/UK,Workday/Custom,https://www.starlingbank.com/careers/,Product analytics / DS,,
 Checkout.com,Fintech (payments),London/UK,Custom (not on public GH/Lever),https://www.checkout.com/careers,Data science / analytics,,
@@ -8,26 +8,26 @@ Stripe,Fintech (payments),London/UK/Remote,Greenhouse,https://stripe.com/jobs,"D
 Klarna,Fintech (payments),London/Remote,SmartRecruiters (not GH/Lever),https://careers.klarna.com/,Growth/product DS,,
 GoCardless,Fintech (payments),London/UK,Greenhouse (often),https://gocardless.com/about/careers/,Product/growth analytics,,
 Zopa,Fintech (lending),London/UK,Lever,https://zopa.com/careers,Credit + marketing analytics,lever,zopa
-Lendable,Fintech (lending),London/UK,Custom (not on public GH/Lever),https://lendable.co.uk/careers,Marketing analyst / growth,,
+Lendable,Fintech (lending),London/UK,Ashby,https://lendable.co.uk/careers,Marketing analyst / growth,ashby,lendable
 Cleo,Fintech (consumer app),London/Hybrid,Greenhouse,https://web.meetcleo.com/careers,Product DS / growth,greenhouse,cleo
-Moneybox,Fintech (wealth),London/UK,Workable/Greenhouse (varies),https://www.moneyboxapp.com/careers/,Product analytics / DS,,
+Moneybox,Fintech (wealth),London/UK,Lever,https://www.moneyboxapp.com/careers/,Product analytics / DS,lever,moneyboxapp
 Plum,Fintech (savings),London/Hybrid,Workable (often),https://withplum.com/careers/,Growth analytics,,
 Tide,Fintech (SMB banking),London/UK,Greenhouse/Lever (varies),https://www.tide.co/careers/,Growth/product analytics,,
 Freetrade,Fintech (investing),London/UK,Custom (not on public GH/Lever),https://freetrade.io/careers,Product analytics,,
 Coinbase,Crypto/Fintech,London/Remote,Greenhouse,https://www.coinbase.com/careers,Product DS,greenhouse,coinbase
-Deliveroo,Marketplace/Delivery,London/Hybrid,Custom (not on public GH/Lever),https://careers.deliveroo.co.uk/,Growth/product analytics,,
+Deliveroo,Marketplace/Delivery,London/Hybrid,Ashby,https://careers.deliveroo.co.uk/,Growth/product analytics,ashby,deliveroo
 Just Eat Takeaway,Marketplace/Delivery,London/UK,Workday/SmartRecruiters (varies),https://careers.justeattakeaway.com/,Analytics roles,,
-Ocado Technology,Ecommerce/Logistics,London/UK,Workday (often),https://careers.ocadogroup.com/,DS/analytics,,
-ASOS,Ecommerce/Retail,London/UK,Workday (often),https://www.asoscareers.com/,Marketing analytics,,
-Farfetch,Ecommerce/Fashion,London/Hybrid,Greenhouse/Workday (varies),https://www.farfetch.com/careers,Data science,,
+Ocado Technology,Ecommerce/Logistics,London/UK,Greenhouse,https://careers.ocadogroup.com/,DS/analytics,greenhouse,ocadogroup
+ASOS,Ecommerce/Retail,London/UK,SmartRecruiters,https://www.asoscareers.com/,Marketing analytics,smartrecruiters,asos
+Farfetch,Ecommerce/Fashion,London/Hybrid,Lever,https://www.farfetch.com/careers,Data science,lever,farfetch
 Depop,Marketplace,London/Hybrid,Custom (not on public GH/Lever),https://depop.com/careers/,Product analytics,,
 Vinted,Marketplace,London/Hybrid,Custom (not on public GH/Lever),https://careers.vinted.com/,Growth analytics,,
-Trainline,Travel/Tech,London/Hybrid,Workday/Greenhouse (varies),https://www.thetrainline.com/careers,Product analytics,,
+Trainline,Travel/Tech,London/Hybrid,Ashby,https://www.thetrainline.com/careers,Product analytics,ashby,trainline
 Skyscanner,Travel/Tech,London/Hybrid,Greenhouse,https://www.skyscanner.net/jobs,Product DS,greenhouse,skyscanner
 Booking.com,Travel/Tech,London/Remote,Greenhouse/Workday (varies),https://jobs.booking.com/,Product analytics,,
 Expedia Group,Travel/Tech,London/Hybrid,Workday (often),https://careers.expediagroup.com/,Analytics/DS,,
 Citymapper,Mobility/Tech,London,Custom,https://citymapper.com/jobs,Product analytics (selective),,
-Canva,SaaS/Design,London/Remote,Custom (not on public GH/Lever),https://www.canva.com/careers/,Growth/product analytics,,
+Canva,SaaS/Design,London/Remote,SmartRecruiters,https://www.canva.com/careers/,Growth/product analytics,smartrecruiters,canva
 Shopify,SaaS/Ecommerce,London/Remote,Custom (not on public GH/Lever),https://www.shopify.com/careers,Data science,,
 Notion,SaaS/Prod,London/Remote,Custom (not on public GH/Lever),https://www.notion.so/careers,Product analytics,,
 Figma,SaaS/Design,London/Remote,Greenhouse (often),https://www.figma.com/careers/,Product analytics,,
@@ -48,3 +48,5 @@ Amazon,Big Tech,London/Hybrid,Amazon jobs (custom),https://www.amazon.jobs/,DS/a
 Microsoft,Big Tech,London/Hybrid,Microsoft careers (custom),https://jobs.careers.microsoft.com/,Data science,,
 DeepMind,AI research/product,London,Greenhouse/Custom (varies),https://www.deepmind.com/careers,Applied DS/analytics roles (selective),,
 Palantir,Data/Defense,London,Greenhouse (often),https://www.palantir.com/careers/,Forward Deployed / analytics,,
+Linear,Developer tools,London/Remote,Ashby,https://jobs.ashbyhq.com/linear,Product analytics / DS,ashby,linear
+Ramp,Fintech (corporate cards),London/Remote,Ashby,https://jobs.ashbyhq.com/ramp,Data science / analytics,ashby,ramp

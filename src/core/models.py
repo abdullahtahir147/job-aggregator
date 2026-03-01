@@ -14,7 +14,7 @@ class Job:
     """A single job posting, normalised across ATS sources."""
 
     company: str
-    source: str  # "greenhouse" | "lever"
+    source: str  # "greenhouse" | "lever" | "ashby" | "smartrecruiters"
     job_id: str
     title: str
     location: str
@@ -27,6 +27,14 @@ class Job:
     # ---- populated after scoring ----
     score: int = 0
     score_reasons: list[str] = field(default_factory=list)
+
+    # ---- populated by intent layer (in-memory only) ----
+    intent_delta: int = 0
+    intent_reasons: list[str] = field(default_factory=list)
+    final_score: int = 0  # score + intent_delta
+
+    # ---- populated by taxonomy layer (in-memory only) ----
+    tag: str = "OTHER"
 
     # ---- populated by DB layer ----
     first_seen: Optional[str] = None

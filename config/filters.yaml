@@ -20,6 +20,29 @@ include_titles:
   - "data scientist"
   - "data analyst"
   - "analytics engineer"
+  # Forward-deployed / Applied AI
+  - "forward deployed"
+  - "forward-deployed"
+  - "applied ai"
+  - "applied scientist"
+  - "applied machine learning"
+  # Solutions / Implementation
+  - "solutions engineer"
+  - "ai solutions"
+  - "solutions architect"
+  - "ai architect"
+  - "implementation engineer"
+  - "deployment engineer"
+  # DevRel
+  - "developer advocate"
+  - "devrel"
+  - "developer relations"
+  - "technical evangelist"
+  - "technology evangelist"
+  # Product / Growth analytics
+  - "product analytics"
+  - "growth data scientist"
+  - "experimentation"
 
 exclude_titles:
   - "ml engineer"
@@ -30,6 +53,28 @@ exclude_titles:
   - "quant"
   - "staff engineer"
   - "principal engineer"
+  # Non-target functions
+  - "sales"
+  - "account executive"
+  - "business development"
+  - "customer success"
+  - "support"
+  - "recruiter"
+  - "talent"
+  - "legal"
+  - "hr"
+  - "finance"
+  - "security engineer"
+  - "devops"
+  - "site reliability"
+  - "sre"
+  - "backend"
+  - "frontend"
+  - "full stack"
+  - "full-stack"
+  - "mobile engineer"
+  - "ios"
+  - "android"
 
 include_keywords:
   - "attribution"

@@ -36,3 +36,6 @@ output/unknown_companies.csv
 .env.*
 *.pem
 secrets/
+
+# Local outputs
+output/

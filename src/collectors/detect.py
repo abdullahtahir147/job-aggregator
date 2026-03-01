@@ -7,8 +7,9 @@ extract the board slug needed by the collector.
 Priority:
   1. Manual override columns  (ats_type_override / ats_slug_override)
   2. Cached result from data/ats_cache.json
-  3. URL pattern matching     (boards.greenhouse.io/<slug>, jobs.lever.co/<slug>)
-  4. HTML scraping fallback   (fetch careers page, scan for greenhouse/lever links)
+  3. URL pattern matching     (boards.greenhouse.io/<slug>, jobs.lever.co/<slug>,
+                               jobs.ashbyhq.com/<slug>, jobs.smartrecruiters.com/<id>)
+  4. HTML scraping fallback   (fetch careers page, scan for ATS links)
 
 Returns a 3-tuple: (ats_type, slug, detected_links)
 """
@@ -35,6 +36,12 @@ _GH_BOARD_ALT_RE = re.compile(
 )
 _LV_BOARD_RE = re.compile(
     r"jobs\.lever\.co/([a-zA-Z0-9_-]+)", re.IGNORECASE
+)
+_ASHBY_BOARD_RE = re.compile(
+    r"jobs\.ashbyhq\.com/([a-zA-Z0-9_.-]+)", re.IGNORECASE
+)
+_SR_BOARD_RE = re.compile(
+    r"jobs\.smartrecruiters\.com/([a-zA-Z0-9_.-]+)", re.IGNORECASE
 )
 
 _ATS_LINK_RE = re.compile(
@@ -171,6 +178,15 @@ def _match_url(url: str) -> tuple[str, Optional[str]]:
     m = _LV_BOARD_RE.search(url)
     if m:
         return ("lever", m.group(1))
+    m = _ASHBY_BOARD_RE.search(url)
+    if m:
+        # Strip trailing path segments (e.g. /job-id) — slug is the first part
+        slug = m.group(1).split("/")[0]
+        return ("ashby", slug)
+    m = _SR_BOARD_RE.search(url)
+    if m:
+        ident = m.group(1).split("/")[0]
+        return ("smartrecruiters", ident)
     return ("unknown", None)
 
 
@@ -201,6 +217,7 @@ def _scrape_for_ats_links(
 
         detected_links = list(set(_ATS_LINK_RE.findall(html)))
 
+        # Check each ATS pattern against the page HTML
         m = _GH_BOARD_RE.search(html)
         if m:
             return ("greenhouse", m.group(1), detected_links)
@@ -210,6 +227,14 @@ def _scrape_for_ats_links(
         m = _LV_BOARD_RE.search(html)
         if m:
             return ("lever", m.group(1), detected_links)
+        m = _ASHBY_BOARD_RE.search(html)
+        if m:
+            slug = m.group(1).split("/")[0]
+            return ("ashby", slug, detected_links)
+        m = _SR_BOARD_RE.search(html)
+        if m:
+            ident = m.group(1).split("/")[0]
+            return ("smartrecruiters", ident, detected_links)
 
     except requests.RequestException as exc:
         logger.debug("[%s] Failed to fetch %s: %s", company, url, exc)

@@ -1,0 +1,101 @@
+company,sector,uk_base,ats_hint,careers_url,notes,ats_type_override,ats_slug_override
+Visa,Fintech (payments),London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/Visa,Data science / analytics,smartrecruiters,Visa
+BoschGroup,Engineering/IoT,London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/BoschGroup,Engineering / DS,smartrecruiters,BoschGroup
+Sanofi,Healthtech/Pharma,London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/Sanofi,Data science,smartrecruiters,Sanofi
+ING,Fintech (banking),London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/ING,Analytics / DS,smartrecruiters,ING
+Zalando,Ecommerce/Fashion,London/Remote,SmartRecruiters,https://jobs.smartrecruiters.com/Zalando,Product analytics,smartrecruiters,Zalando
+HelloFresh,Ecommerce/Food,London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/HelloFresh,Growth / marketing analytics,smartrecruiters,HelloFresh
+Criteo,Adtech,London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/Criteo,Marketing science / DS,smartrecruiters,Criteo
+Adevinta,Marketplace,London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/Adevinta,Product analytics,smartrecruiters,Adevinta
+Contentful,SaaS/CMS,London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/Contentful,Product / growth analytics,smartrecruiters,Contentful
+FlixBus,Travel/Mobility,London/Remote,SmartRecruiters,https://jobs.smartrecruiters.com/FlixBus,Analytics / DS,smartrecruiters,FlixBus
+N26,Fintech (bank),London/Remote,SmartRecruiters,https://jobs.smartrecruiters.com/N26,Product analytics,smartrecruiters,N26
+Pleo,Fintech (expenses),London/Hybrid,SmartRecruiters,https://jobs.smartrecruiters.com/Pleo1,Product analytics,smartrecruiters,Pleo1
+Beamery,HR Tech/AI,London/Hybrid,Greenhouse,https://boards.greenhouse.io/beamery,Engineering / DS,greenhouse,beamery
+Snyk,Cybersecurity,London/Hybrid,Greenhouse,https://boards.greenhouse.io/snyk,Product analytics / DS,greenhouse,snyk
+Improbable,Gaming/Metaverse,London,Greenhouse,https://boards.greenhouse.io/improbable,Engineering / DS,greenhouse,improbable
+Paddle,SaaS/Payments,London/Hybrid,Greenhouse,https://boards.greenhouse.io/paddle,Product analytics,greenhouse,paddle
+Eigen Technologies,AI/ML,London,Greenhouse,https://boards.greenhouse.io/eigentechnologies,ML engineering / DS,greenhouse,eigentechnologies
+Thought Machine,Fintech (banking infra),London,Greenhouse,https://boards.greenhouse.io/thoughtmachine,Engineering / DS,greenhouse,thoughtmachine
+Form3,Fintech (payments),London/Remote,Greenhouse,https://boards.greenhouse.io/form3,Engineering,greenhouse,form3
+Tessian,Cybersecurity/AI,London,Greenhouse,https://boards.greenhouse.io/tessian,ML / DS,greenhouse,tessian
+Faculty,AI/ML,London,Greenhouse,https://boards.greenhouse.io/faculty,Data science,greenhouse,faculty
+Onfido,Identity/AI,London/Hybrid,Greenhouse,https://boards.greenhouse.io/onfido,ML / computer vision,greenhouse,onfido
+Alan,Healthtech,London/Remote,Greenhouse,https://boards.greenhouse.io/alan,Product analytics,greenhouse,alan
+Multiverse,Edtech,London/Hybrid,Greenhouse,https://boards.greenhouse.io/multiverse,Product analytics / DS,greenhouse,multiverse
+Tractable,AI/ML,London,Greenhouse,https://boards.greenhouse.io/tractable,ML engineering / DS,greenhouse,tractable
+Wayflyer,Fintech (lending),London/Remote,Greenhouse,https://boards.greenhouse.io/wayflyer,Product analytics / DS,greenhouse,wayflyer
+Bumble,Consumer/Dating,London/Hybrid,Greenhouse,https://boards.greenhouse.io/bumble,Product analytics / DS,greenhouse,bumble
+Block (Square),Fintech (payments),London/Hybrid,Greenhouse,https://boards.greenhouse.io/block,Data science / analytics,greenhouse,block
+Intercom,SaaS/CX,London/Hybrid,Greenhouse,https://boards.greenhouse.io/intercom,Product analytics / DS,greenhouse,intercom
+Miro,SaaS/Collaboration,London/Remote,Greenhouse,https://boards.greenhouse.io/miro,Product analytics / growth,greenhouse,miro
+Pendo,SaaS/Product analytics,London/Remote,Greenhouse,https://boards.greenhouse.io/pendo,Product analytics,greenhouse,pendo
+Typeform,SaaS/Forms,London/Remote,Greenhouse,https://boards.greenhouse.io/typeform,Product analytics / growth,greenhouse,typeform
+Braze,SaaS/MarTech,London/Hybrid,Greenhouse,https://boards.greenhouse.io/braze,Marketing data / analytics,greenhouse,braze
+Motorway,Marketplace/Auto,London/Hybrid,Greenhouse,https://boards.greenhouse.io/motorway,Product analytics / DS,greenhouse,motorway
+Monograph,SaaS,London/Remote,Lever,https://jobs.lever.co/monograph,Product analytics,lever,monograph
+Vercel,Developer tools,London/Remote,Lever,https://jobs.lever.co/vercel,Product analytics,lever,vercel
+Dbt Labs,Data platform,London/Remote,Lever,https://jobs.lever.co/dbtlabs,Analytics engineering,lever,dbtlabs
+CircleCI,DevOps,London/Remote,Lever,https://jobs.lever.co/circleci,Product analytics,lever,circleci
+Grafana Labs,Observability,London/Remote,Lever,https://jobs.lever.co/grafana,Product analytics / DS,lever,grafana
+Reddit,Consumer/Social,London/Remote,Lever,https://jobs.lever.co/reddit,Data science,lever,reddit
+Grammarly,AI/Consumer,London/Remote,Lever,https://jobs.lever.co/grammarly,ML / product analytics,lever,grammarly
+Weights & Biases,AI/ML platform,London/Remote,Lever,https://jobs.lever.co/wandb,ML engineering,lever,wandb
+Navan,Travel/SaaS,London/Hybrid,Lever,https://jobs.lever.co/navan,Product analytics,lever,navan
+Scale AI,AI/Data,London/Remote,Lever,https://jobs.lever.co/scaleai,ML / DS,lever,scaleai
+PostHog,Product analytics,London/Remote,Ashby,https://jobs.ashbyhq.com/posthog,Product analytics / engineering,ashby,posthog
+Tailscale,Networking/VPN,London/Remote,Ashby,https://jobs.ashbyhq.com/tailscale,Engineering,ashby,tailscale
+Supabase,Developer tools,London/Remote,Ashby,https://jobs.ashbyhq.com/supabase,Engineering / DS,ashby,supabase
+Retool,Developer tools,London/Remote,Ashby,https://jobs.ashbyhq.com/retool,Product analytics / engineering,ashby,retool
+Resend,Developer tools,London/Remote,Ashby,https://jobs.ashbyhq.com/resend,Engineering,ashby,resend
+Vanta,Cybersecurity,London/Remote,Ashby,https://jobs.ashbyhq.com/vanta,Engineering / product analytics,ashby,vanta
+Clay,SaaS/GTM,London/Remote,Ashby,https://jobs.ashbyhq.com/clay,Growth / product analytics,ashby,clay
+Cohere,AI/ML,London/Remote,Ashby,https://jobs.ashbyhq.com/cohere,ML engineering / research,ashby,cohere
+Perplexity AI,AI/Search,London/Remote,Ashby,https://jobs.ashbyhq.com/perplexityai,ML / engineering,ashby,perplexityai
+Mistral AI,AI/ML,London/Remote,Ashby,https://jobs.ashbyhq.com/mistralai,ML research / engineering,ashby,mistralai
+Replit,Developer tools,London/Remote,Ashby,https://jobs.ashbyhq.com/replit,ML / engineering,ashby,replit
+Wiz,Cybersecurity,London/Remote,Ashby,https://jobs.ashbyhq.com/wiz,Engineering / security,ashby,wiz
+Anthropic,AI/ML,London/Remote,Ashby,https://jobs.ashbyhq.com/anthropic,ML research / engineering,ashby,anthropic
+OpenAI,AI/ML,London/Remote,Ashby,https://jobs.ashbyhq.com/openai,ML research / engineering,ashby,openai
+Rippling,HR Tech/SaaS,London/Remote,Ashby,https://jobs.ashbyhq.com/rippling,Product analytics / engineering,ashby,rippling
+Rasa,AI/ML,London/Hybrid,Lever,https://jobs.lever.co/rasa,ML engineering,lever,rasa
+Elastic,Search/Data,London/Remote,Greenhouse,https://boards.greenhouse.io/elastic,Data engineering / analytics,greenhouse,elastic
+Datadog,Observability,London/Hybrid,Greenhouse,https://boards.greenhouse.io/datadog,Product analytics / engineering,greenhouse,datadog
+JetBrains,Developer tools,London/Remote,Greenhouse,https://boards.greenhouse.io/jetbrains,Engineering,greenhouse,jetbrains
+Unity Technologies,Gaming,London/Hybrid,Greenhouse,https://boards.greenhouse.io/unitytechnologies,ML / DS,greenhouse,unitytechnologies
+HashiCorp,DevOps/Infra,London/Remote,Greenhouse,https://boards.greenhouse.io/hashicorp,Product analytics,greenhouse,hashicorp
+Airtable,SaaS/Data,London/Remote,Greenhouse,https://boards.greenhouse.io/airtable,Product analytics / DS,greenhouse,airtable
+LaunchDarkly,Developer tools,London/Remote,Greenhouse,https://boards.greenhouse.io/launchdarkly,Product analytics,greenhouse,launchdarkly
+Gusto,HR Tech/SaaS,London/Remote,Greenhouse,https://boards.greenhouse.io/gusto,Product analytics / DS,greenhouse,gusto
+Plaid,Fintech (data),London/Remote,Greenhouse,https://boards.greenhouse.io/plaid,Data science / analytics,greenhouse,plaid
+Bolt,Mobility,London/Hybrid,Greenhouse,https://boards.greenhouse.io/bolt,Product analytics / DS,greenhouse,bolt
+Wise (TransferWise),Fintech (payments),London/Hybrid,Greenhouse,https://boards.greenhouse.io/transferwise,Data science,greenhouse,transferwise
+Cazoo,Ecommerce/Auto,London/Hybrid,Greenhouse,https://boards.greenhouse.io/cazoo,Product analytics,greenhouse,cazoo
+Darktrace,Cybersecurity/AI,Cambridge/London,Greenhouse,https://boards.greenhouse.io/darktrace,ML / DS,greenhouse,darktrace
+Deliverect,Foodtech/SaaS,London/Hybrid,Greenhouse,https://boards.greenhouse.io/deliverect,Product analytics,greenhouse,deliverect
+Yext,SaaS/Search,London/Hybrid,Greenhouse,https://boards.greenhouse.io/yext,Product analytics / DS,greenhouse,yext
+Babylon Health,Healthtech/AI,London,Greenhouse,https://boards.greenhouse.io/babylonhealth,ML / DS,greenhouse,babylonhealth
+Benevolent AI,AI/Pharma,London,Greenhouse,https://boards.greenhouse.io/benevolentai,ML research / DS,greenhouse,benevolentai
+OakNorth,Fintech (lending),London,Greenhouse,https://boards.greenhouse.io/oaknorth,Data science / analytics,greenhouse,oaknorth
+Unmind,Healthtech,London/Hybrid,Greenhouse,https://boards.greenhouse.io/unmind,Product analytics,greenhouse,unmind
+ZOE,Healthtech/AI,London,Greenhouse,https://boards.greenhouse.io/zoe,Data science / ML,greenhouse,zoe
+Primer AI,AI/NLP,London/Remote,Greenhouse,https://boards.greenhouse.io/primerai,ML / NLP engineering,greenhouse,primerai
+Zappi,MarTech/Research,London/Hybrid,Greenhouse,https://boards.greenhouse.io/zappi,Product analytics / DS,greenhouse,zappi
+FiveAI,Autonomous vehicles,London,Greenhouse,https://boards.greenhouse.io/fiveai,ML / computer vision,greenhouse,fiveai
+Zego,Insurtech,London,Greenhouse,https://boards.greenhouse.io/zego,Product analytics / DS,greenhouse,zego
+Signal AI,AI/Media,London,Greenhouse,https://boards.greenhouse.io/signalai,ML / NLP,greenhouse,signalai
+Habito,Fintech (mortgages),London,Greenhouse,https://boards.greenhouse.io/habito,Product analytics / DS,greenhouse,habito
+Bulb Energy,Energy/Climate,London,Greenhouse,https://boards.greenhouse.io/bulb,Data science / analytics,greenhouse,bulb
+Hopin,Events/SaaS,London/Remote,Greenhouse,https://boards.greenhouse.io/hopin,Product analytics / growth,greenhouse,hopin
+Privitar,Data privacy,London,Greenhouse,https://boards.greenhouse.io/privitar,Data engineering / DS,greenhouse,privitar
+Peak AI,AI/ML platform,Manchester,Greenhouse,https://boards.greenhouse.io/peakai,ML engineering / DS,greenhouse,peakai
+Ravelin,Fintech (fraud),London,Greenhouse,https://boards.greenhouse.io/ravelin,ML / DS,greenhouse,ravelin
+SaltPay,Fintech (payments),London,Greenhouse,https://boards.greenhouse.io/saltpay,Data science / analytics,greenhouse,saltpay
+Bink,Fintech (loyalty),London,Greenhouse,https://boards.greenhouse.io/bink,Product analytics,greenhouse,bink
+Cookpad,Consumer/Food,London/Remote,Greenhouse,https://boards.greenhouse.io/cookpad,Product analytics,greenhouse,cookpad
+WorldRemit,Fintech (remittance),London,Greenhouse,https://boards.greenhouse.io/worldremit,Product analytics / DS,greenhouse,worldremit
+Paysend,Fintech (payments),London,Greenhouse,https://boards.greenhouse.io/paysend,Data analytics,greenhouse,paysend
+receipt bank (Dext),Fintech/SaaS,London,Greenhouse,https://boards.greenhouse.io/dext,Product analytics / DS,greenhouse,dext
+Leapwork,Test automation,London/Remote,Lever,https://jobs.lever.co/leapwork,Engineering,lever,leapwork
+Citadel Securities,Finance/Trading,London,Lever,https://jobs.lever.co/citadelsecurities,Quant / DS,lever,citadelsecurities
+Chainalysis,Crypto/Analytics,London/Hybrid,Lever,https://jobs.lever.co/chainalysis,Data science / analytics,lever,chainalysis

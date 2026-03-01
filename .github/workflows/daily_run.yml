@@ -1,0 +1,65 @@
+name: Daily Job Aggregator Run
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 09:00 UTC ≈ 10:00 UK (BST) / 09:00 (GMT)
+  workflow_dispatch:       # manual trigger
+
+concurrency:
+  group: daily-job-aggregator
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r job-aggregator/requirements.txt
+
+      - name: Run pipeline
+        working-directory: job-aggregator
+        run: |
+          python -m src.main run \
+            --diff \
+            --shortlist 25 \
+            --intent \
+            --exclude-tags OTHER,RISK_FRAUD \
+            --brief \
+            --llm-pack
+
+      - name: Commit updated outputs
+        working-directory: job-aggregator
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f \
+            output/brief.md \
+            output/diff_report.md \
+            output/shortlist.md \
+            output/shortlist.csv \
+            output/llm_prompt.md \
+            output/llm_payload.json \
+            output/report.md \
+            output/unknown_companies.csv \
+            data/jobs.db \
+            data/ats_cache.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily run: $(date -u +%Y-%m-%d)"
+            git push
+          fi
