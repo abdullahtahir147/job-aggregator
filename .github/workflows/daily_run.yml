@@ -28,7 +28,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r job-aggregator/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run pipeline
         working-directory: job-aggregator
