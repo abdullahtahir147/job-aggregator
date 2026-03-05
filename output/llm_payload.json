@@ -30,21 +30,6 @@
   },
   {
     "rank": 3,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Intercom",
-    "title": "Staff Data Scientist",
-    "location": "London, England",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/7522458",
-    "final_score": 11,
-    "base_score": 3,
-    "intent_delta": 5,
-    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity? 12 month FTC&lt;/h2&gt;\n&lt;p&gt;The Research, Analytics &amp;amp; Data Science (RAD) team at Intercom uses data and insights to drive evidence-based decision-making. We&#39;re a team of data scientists and product researchers who use data to unlock actionable insights about our customers, our products and our business. We generate insights that build customer empathy, drive product strategy and shape products that deliver real value to our customers.&lt;/p&gt;\n&lt;p&gt;Data Scientists embedded with GTM bring a blen",
-    "posted_at": "2026-03-02T09:01:20Z"
-  },
-  {
-    "rank": 4,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Data & AI Solutions Architect (Professional Services)",
@@ -58,50 +43,22 @@
     "posted_at": "2026-02-25T13:42:28Z"
   },
   {
+    "rank": 4,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Intercom",
+    "title": "Staff Data Scientist",
+    "location": "London, England",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7522458",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 5,
+    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity? 12 month FTC&lt;/h2&gt;\n&lt;p&gt;The Research, Analytics &amp;amp; Data Science (RAD) team at Intercom uses data and insights to drive evidence-based decision-making. We&#39;re a team of data scientists and product researchers who use data to unlock actionable insights about our customers, our products and our business. We generate insights that build customer empathy, drive product strategy and shape products that deliver real value to our customers.&lt;/p&gt;\n&lt;p&gt;Data Scientists embedded with GTM bring a blen",
+    "posted_at": "2026-03-02T09:01:20Z"
+  },
+  {
     "rank": 5,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Monzo",
-    "title": "Lead Data Scientist",
-    "location": "Cardiff, London or Remote (UK)",
-    "url": "https://job-boards.greenhouse.io/monzo/jobs/6369658",
-    "final_score": 10,
-    "base_score": 5,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'",
-    "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1); penalty: fincrime (-3)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt;\n&lt;p&gt;After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&amp;nbsp;&lt;a href=&quot;https://monzo.com/current-account/personal&quot;&gt;personal&lt;/a&gt; and &lt;a href=&quot;https://monzo.com/business-banking&quot;&gt;business&lt;/a&gt; bank accounts, we offer &lt;a href=&quot;https://monzo.com/current-account/joint-account&quot;&gt;joint accounts&lt;/a&gt;, &lt;a href=&quot;https://monzo.com/current-account/16-17&quot;&gt;accounts for 16-17 year olds&lt;/a&gt;, a &lt;a href=&quot;https://monzo.com/current-account/under-16s&quot;&gt;free kids account&lt;/a&gt; and &lt;a href=&quot;https://monzo.com/flex&quot;&gt;credit cards&lt;/a&gt; in the UK, with more exciting things to come beyond. Our UK customers can also &lt;a href=&quot;https://monzo.com/savings&quot;&gt;save&lt;/a&gt;, &lt;a href=&quot;https://monzo.com/investments&quot;&gt;invest &lt;/a&gt;and&amp;nbsp;&lt;a href=&quot;https://monzo.com/pensions&quot;&gt;combine their pensions&lt;/a&gt; with us.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history",
-    "posted_at": "2026-03-02T07:48:00Z"
-  },
-  {
-    "rank": 6,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Zopa",
-    "title": "Senior Product Analyst (Payments)",
-    "location": "London",
-    "url": "https://jobs.lever.co/zopa/87690efc-d14e-43c9-b7d2-1a910725abd2",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-03-01T11:18:58Z"
-  },
-  {
-    "rank": 7,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Zopa",
-    "title": "Senior Product Analyst (UPL)",
-    "location": "London",
-    "url": "https://jobs.lever.co/zopa/067b71b2-f335-43f9-89c5-2c58dd125d98",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-03-01T11:26:02Z"
-  },
-  {
-    "rank": 8,
     "tag": "MARKETING_SCIENCE",
     "company": "Wise",
     "title": "Senior Marketing Data Analyst - Marketing Science",
@@ -115,7 +72,7 @@
     "posted_at": "2026-02-01T18:32:45.067Z"
   },
   {
-    "rank": 9,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
     "title": "Senior Manager, Forward-Deployed Data Science",
@@ -130,7 +87,7 @@
     "posted_at": "2025-12-17T01:33:00Z"
   },
   {
-    "rank": 10,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Vanta",
     "title": "Solutions Engineer - Expansion",
@@ -144,7 +101,7 @@
     "posted_at": "2026-03-03T16:49:06Z"
   },
   {
-    "rank": 11,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Lead Solutions Architect - AI/BI",
@@ -158,7 +115,7 @@
     "posted_at": "2026-03-02T12:41:52Z"
   },
   {
-    "rank": 12,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Lead Solutions Architect - Lakebase",
@@ -172,7 +129,7 @@
     "posted_at": "2026-03-02T12:41:50Z"
   },
   {
-    "rank": 13,
+    "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "Stripe",
     "title": "Specialist Solutions Architect, Money Management",
@@ -186,7 +143,22 @@
     "posted_at": "2026-03-02T11:09:45Z"
   },
   {
-    "rank": 14,
+    "rank": 11,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Monzo",
+    "title": "Lead Data Scientist",
+    "location": "Cardiff, London or Remote (UK)",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/6369658",
+    "final_score": 8,
+    "base_score": 5,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'",
+    "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1); penalty: fincrime (-3)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt;\n&lt;p&gt;After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&amp;nbsp;&lt;a href=&quot;https://monzo.com/current-account/personal&quot;&gt;personal&lt;/a&gt; and &lt;a href=&quot;https://monzo.com/business-banking&quot;&gt;business&lt;/a&gt; bank accounts, we offer &lt;a href=&quot;https://monzo.com/current-account/joint-account&quot;&gt;joint accounts&lt;/a&gt;, &lt;a href=&quot;https://monzo.com/current-account/16-17&quot;&gt;accounts for 16-17 year olds&lt;/a&gt;, a &lt;a href=&quot;https://monzo.com/current-account/under-16s&quot;&gt;free kids account&lt;/a&gt; and &lt;a href=&quot;https://monzo.com/flex&quot;&gt;credit cards&lt;/a&gt; in the UK, with more exciting things to come beyond. Our UK customers can also &lt;a href=&quot;https://monzo.com/savings&quot;&gt;save&lt;/a&gt;, &lt;a href=&quot;https://monzo.com/investments&quot;&gt;invest &lt;/a&gt;and&amp;nbsp;&lt;a href=&quot;https://monzo.com/pensions&quot;&gt;combine their pensions&lt;/a&gt; with us.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history",
+    "posted_at": "2026-03-02T07:48:00Z"
+  },
+  {
+    "rank": 12,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
@@ -200,7 +172,7 @@
     "posted_at": "2026-02-25T12:23:36Z"
   },
   {
-    "rank": 15,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Forward Deployed Engineer (FDE)",
@@ -214,7 +186,7 @@
     "posted_at": "2026-02-25T13:53:39Z"
   },
   {
-    "rank": 16,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Marketing Experimentation Analyst",
@@ -228,7 +200,7 @@
     "posted_at": "2026-01-28T10:57:21.729Z"
   },
   {
-    "rank": 17,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Analytics Manager - Marketing Experimentation",
@@ -242,7 +214,22 @@
     "posted_at": "2026-01-21T17:26:43.448Z"
   },
   {
-    "rank": 18,
+    "rank": 16,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Twilio",
+    "title": "Partner Solutions Architect",
+    "location": "Remote - United Kingdom",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7659776",
+    "final_score": 7,
+    "base_score": 1,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: solutions architect (+2); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;br&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&",
+    "posted_at": "2026-03-03T11:19:13Z"
+  },
+  {
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "Braze",
     "title": "Forward-Deployed Data Scientist II",
@@ -257,19 +244,32 @@
     "posted_at": "2026-03-03T09:52:42Z"
   },
   {
-    "rank": 19,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Twilio",
-    "title": "Partner Solutions Architect",
-    "location": "Remote - United Kingdom",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7659776",
+    "rank": 18,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Zopa",
+    "title": "Senior Product Analyst (Payments)",
+    "location": "London",
+    "url": "https://jobs.lever.co/zopa/87690efc-d14e-43c9-b7d2-1a910725abd2",
     "final_score": 7,
-    "base_score": 1,
+    "base_score": 3,
     "intent_delta": 3,
-    "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: solutions architect (+2); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;br&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&",
-    "posted_at": "2026-03-03T11:19:13Z"
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-01T11:18:58Z"
+  },
+  {
+    "rank": 19,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Zopa",
+    "title": "Senior Product Analyst (UPL)",
+    "location": "London",
+    "url": "https://jobs.lever.co/zopa/067b71b2-f335-43f9-89c5-2c58dd125d98",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-01T11:26:02Z"
   },
   {
     "rank": 20,
