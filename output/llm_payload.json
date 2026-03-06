@@ -1,6 +1,21 @@
 [
   {
     "rank": 1,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Intercom",
+    "title": "Senior Growth Data Scientist",
+    "location": "London, England",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7437796",
+    "final_score": 17,
+    "base_score": 7,
+    "intent_delta": 7,
+    "match_reason": "+3 title match: 'data scientist'; +3 title match: 'growth data scientist'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; +1 keyword: 'ab test'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: product analytics (+2); boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;Senior Data Scientist - Growth&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;What&#39;s the opportunity?&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Research, Analytics &amp;amp; Data Science (RAD) team at Intercom is a group of data scientists and researchers who partner with our product teams to measure and understand the impact of what we ship and to identify and size opportunities to make our product better. If you get really excited about asking the right questions, exploring patterns in data and fighting for decisi",
+    "posted_at": "2026-03-05T09:59:46Z"
+  },
+  {
+    "rank": 2,
     "tag": "MARKETING_SCIENCE",
     "company": "Monzo",
     "title": "Senior Data Scientist",
@@ -15,7 +30,7 @@
     "posted_at": "2026-02-27T07:18:42Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Coinbase",
     "title": "Data Scientist II - Product Analytics",
@@ -26,16 +41,30 @@
     "intent_delta": 3,
     "match_reason": "+3 title match: 'data scientist'; +3 title match: 'product analytics'",
     "intent_reasons": "boost: product analytics (+2); boost: product (+1)",
-    "posted_at": "2026-03-03T01:59:08Z"
+    "posted_at": "2026-03-06T00:54:58Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-03-05T09:17:22Z"
+  },
+  {
+    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Data & AI Solutions Architect (Professional Services)",
     "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8187465002",
-    "final_score": 11,
+    "final_score": 10,
     "base_score": 6,
     "intent_delta": 4,
     "match_reason": "+3 title match: 'ai solutions'; +3 title match: 'solutions architect'",
@@ -43,22 +72,21 @@
     "posted_at": "2026-02-25T13:42:28Z"
   },
   {
-    "rank": 4,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Intercom",
-    "title": "Staff Data Scientist",
-    "location": "London, England",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/7522458",
+    "rank": 6,
+    "tag": "APPLIED_AI_FDE",
+    "company": "ASOS",
+    "title": "Applied Scientist (Marketing & Customer)",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000112930504",
     "final_score": 9,
     "base_score": 3,
-    "intent_delta": 5,
-    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity? 12 month FTC&lt;/h2&gt;\n&lt;p&gt;The Research, Analytics &amp;amp; Data Science (RAD) team at Intercom uses data and insights to drive evidence-based decision-making. We&#39;re a team of data scientists and product researchers who use data to unlock actionable insights about our customers, our products and our business. We generate insights that build customer empathy, drive product strategy and shape products that deliver real value to our customers.&lt;/p&gt;\n&lt;p&gt;Data Scientists embedded with GTM bring a blen",
-    "posted_at": "2026-03-02T09:01:20Z"
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'applied scientist'",
+    "intent_reasons": "boost: applied scientist (+3)",
+    "posted_at": "2026-03-05T13:35:46.382Z"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "tag": "MARKETING_SCIENCE",
     "company": "Wise",
     "title": "Senior Marketing Data Analyst - Marketing Science",
@@ -72,7 +100,7 @@
     "posted_at": "2026-02-01T18:32:45.067Z"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
     "title": "Senior Manager, Forward-Deployed Data Science",
@@ -87,46 +115,18 @@
     "posted_at": "2025-12-17T01:33:00Z"
   },
   {
-    "rank": 7,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Vanta",
-    "title": "Solutions Engineer - Expansion",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/vanta/bdde3892-1a5e-49f5-adf7-a887b19da801",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions engineer'",
-    "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-03-03T16:49:06Z"
-  },
-  {
-    "rank": 8,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Lead Solutions Architect - AI/BI",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407183002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-02T12:41:52Z"
-  },
-  {
     "rank": 9,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Lead Solutions Architect - Lakebase",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407181002",
+    "tag": "CORE_DS",
+    "company": "OpenAI",
+    "title": "Data Scientist, Integrity Measurement",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/a7a326e7-6718-42ab-a4d8-b16d5021c99b",
     "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-02T12:41:50Z"
+    "base_score": 4,
+    "intent_delta": 1,
+    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'measurement'",
+    "intent_reasons": "boost: measurement (+1)",
+    "posted_at": "2026-03-05T21:59:14Z"
   },
   {
     "rank": 10,
@@ -140,10 +140,24 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-02T11:09:45Z"
+    "posted_at": "2026-03-05T19:03:48Z"
   },
   {
     "rank": 11,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Vanta",
+    "title": "Solutions Engineer - Expansion",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/vanta/bdde3892-1a5e-49f5-adf7-a887b19da801",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions engineer'",
+    "intent_reasons": "boost: solutions engineer (+2)",
+    "posted_at": "2026-03-03T16:49:06Z"
+  },
+  {
+    "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Monzo",
     "title": "Lead Data Scientist",
@@ -158,35 +172,7 @@
     "posted_at": "2026-03-02T07:48:00Z"
   },
   {
-    "rank": 12,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-02-25T12:23:36Z"
-  },
-  {
     "rank": 13,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Forward Deployed Engineer (FDE)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8251122002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-02-25T13:53:39Z"
-  },
-  {
-    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Marketing Experimentation Analyst",
@@ -200,7 +186,7 @@
     "posted_at": "2026-01-28T10:57:21.729Z"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Analytics Manager - Marketing Experimentation",
@@ -214,22 +200,21 @@
     "posted_at": "2026-01-21T17:26:43.448Z"
   },
   {
-    "rank": 16,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Twilio",
-    "title": "Partner Solutions Architect",
-    "location": "Remote - United Kingdom",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7659776",
+    "rank": 15,
+    "tag": "CORE_DS",
+    "company": "ASOS",
+    "title": "Senior Data Scientist (Product)",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000112932167",
     "final_score": 7,
-    "base_score": 1,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: solutions architect (+2); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;br&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&",
-    "posted_at": "2026-03-03T11:19:13Z"
+    "base_score": 3,
+    "intent_delta": 1,
+    "match_reason": "+3 title match: 'data scientist'",
+    "intent_reasons": "boost: product (+1)",
+    "posted_at": "2026-03-05T13:36:55.995Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "Braze",
     "title": "Forward-Deployed Data Scientist II",
@@ -242,6 +227,21 @@
     "intent_reasons": "boost: forward-deployed (+4); boost: growth (+1); boost: product (+1); penalty: risk (-2)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew.&lt;/p&gt;\n&lt;p&gt;We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our organization.&lt;/p&gt;\n&lt;p&gt;To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to contribute: Acting with autonomy, having accountability and being open to new perspectives are essential to our continued success.&lt;/p&gt;\n&lt;p&gt;Our deep curiosity to learn and our eagerness to share diverse passions with others gives us balance and injects a one-of-a-kind vibrancy into our culture.&lt;/p&gt;\n&lt;p&gt;If you are driven to solve exhilarating challenges and have a bias toward action in the face of change, you will be empowered to make a real impact here, with a sharp and passionate team at your back. If Braze sounds like a place where you can thrive, we can’t wait to meet you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU&#39;LL DO&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As our customer base continues to grow with the excitement around BrazeAI, we’re expanding our team! Join our Forward-Deployed Data Scientist group of creative technical experts who partner with customers to ensure",
     "posted_at": "2026-03-03T09:52:42Z"
+  },
+  {
+    "rank": 17,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Twilio",
+    "title": "Partner Solutions Architect",
+    "location": "Remote - United Kingdom",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7659776",
+    "final_score": 7,
+    "base_score": 1,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: solutions architect (+2); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;br&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&",
+    "posted_at": "2026-03-03T11:19:13Z"
   },
   {
     "rank": 18,
@@ -302,6 +302,20 @@
   {
     "rank": 22,
     "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-02-25T12:23:36Z"
+  },
+  {
+    "rank": 23,
+    "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
     "location": "London, UK",
@@ -314,7 +328,7 @@
     "posted_at": "2026-02-03T00:51:15Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
     "title": "Forward Deployed Software Engineer",
@@ -326,21 +340,6 @@
     "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'platform'",
     "intent_reasons": "boost: forward deployed (+4); boost: applied ai (+4); boost: product (+1); penalty: aml (-3)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;Over the past twelve months, we’ve seen rapidly growing demand for Software Engineers who thrive at the intersection of deep technical work, customer impact, and product strategy. As Intercom’s AI Agent for Customer Service, Fin, becomes mission-critical for our most strategic customers, we’re building a team of Forward Deployed Software Engineers to help bridge the gap between customer needs and product innovation.&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Software Engineer, you’ll work",
-    "posted_at": "2026-01-28T17:37:06Z"
-  },
-  {
-    "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Intercom",
-    "title": "Senior Web Data Scientist",
-    "location": "London, England",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/7437796",
-    "final_score": 7,
-    "base_score": 2,
-    "intent_delta": 5,
-    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; +1 keyword: 'ab test'; -2 exclude kw: 'platform'; -2 exclude kw: 'infrastructure'",
-    "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;The Research, Analytics &amp;amp; Data Science (RAD) team at Intercom use data and insights to advise our product teams and drive evidence-based decision-making. We&#39;re a team of data scientists and product researchers who use data — both big and small — to build customer empathy, drive product strategy and shape products that deliver real value to our customers. If you get really excited about asking the right questions, exploring patterns in data and taking ownership of outcomes (n",
     "posted_at": "2026-01-28T17:37:06Z"
   },
   {
