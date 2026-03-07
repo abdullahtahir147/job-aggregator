@@ -45,6 +45,7 @@ from src.collectors.lever import LeverCollector
 from src.collectors.ashby import AshbyCollector
 from src.collectors.smartrecruiters import SmartRecruitersCollector
 from src.collectors.probe import probe_unknown_batch, write_suggestions_csv
+from src.integrations.notion_sync import sync_shortlist_to_notion
 
 logger: logging.Logger = None  # type: ignore[assignment]
 
@@ -413,6 +414,11 @@ def run_pipeline(
     if shortlist > 0 and llm_pack and shortlisted:
         _write_llm_pack(shortlisted, llm_payload_path, llm_prompt_path, intent)
 
+    # ── Optional: Notion sync ────────────────────────────────────────
+    notion_synced = 0
+    if shortlist > 0 and shortlisted:
+        notion_synced = sync_shortlist_to_notion(shortlisted, limit=15)
+
     # ── Optional: probe unknowns for ATS suggestions ─────────────────
     suggestions_count = 0
     suggestions_path = report_out.parent / "suggested_overrides.csv"
@@ -454,6 +460,8 @@ def run_pipeline(
         if llm_pack and shortlist_count > 0:
             print(f"  LLM payload         : {llm_payload_path}")
             print(f"  LLM prompt          : {llm_prompt_path}")
+    if notion_synced:
+        print(f"  Notion pages synced : {notion_synced}")
     print(f"  Unknown CSV         : {unknown_csv_path}")
     print("=" * 60)
     print()
