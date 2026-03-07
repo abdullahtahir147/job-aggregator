@@ -16,21 +16,6 @@
   },
   {
     "rank": 2,
-    "tag": "MARKETING_SCIENCE",
-    "company": "Monzo",
-    "title": "Senior Data Scientist",
-    "location": "Cardiff, London or Remote (UK)",
-    "url": "https://job-boards.greenhouse.io/monzo/jobs/6930501",
-    "final_score": 13,
-    "base_score": 7,
-    "intent_delta": 5,
-    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'experiment'; +1 keyword: 'causal'; +1 keyword: 'measurement'; +1 keyword: 'a/b'",
-    "intent_reasons": "boost: marketing science (+3); boost: causal (+2); boost: measurement (+1); boost: growth (+1); boost: product (+1); penalty: fincrime (-3)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt;\n&lt;p&gt;After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&amp;nbsp;&lt;a href=&quot;https://monzo.com/current-account/personal&quot;&gt;personal&lt;/a&gt; and &lt;a href=&quot;https://monzo.com/business-banking&quot;&gt;business&lt;/a&gt; bank accounts, we offer &lt;a href=&quot;https://monzo.com/current-account/joint-account&quot;&gt;joint accounts&lt;/a&gt;, &lt;a href=&quot;https://monzo.com/current-account/16-17&quot;&gt;accounts for 16-17 year olds&lt;/a&gt;, a &lt;a href=&quot;https://monzo.com/current-account/under-16s&quot;&gt;free kids account&lt;/a&gt; and &lt;a href=&quot;https://monzo.com/flex&quot;&gt;credit cards&lt;/a&gt; in the UK, with more exciting things to come beyond. Our UK customers can also &lt;a href=&quot;https://monzo.com/savings&quot;&gt;save&lt;/a&gt;, &lt;a href=&quot;https://monzo.com/investments&quot;&gt;invest &lt;/a&gt;and&amp;nbsp;&lt;a href=&quot;https://monzo.com/pensions&quot;&gt;combine their pensions&lt;/a&gt; with us.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history",
-    "posted_at": "2026-02-27T07:18:42Z"
-  },
-  {
-    "rank": 3,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Coinbase",
     "title": "Data Scientist II - Product Analytics",
@@ -44,7 +29,36 @@
     "posted_at": "2026-03-06T00:54:58Z"
   },
   {
+    "rank": 3,
+    "tag": "MARKETING_SCIENCE",
+    "company": "Monzo",
+    "title": "Senior Data Scientist",
+    "location": "Cardiff, London or Remote (UK)",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/6930501",
+    "final_score": 12,
+    "base_score": 7,
+    "intent_delta": 5,
+    "match_reason": "+3 title match: 'data scientist'; +1 keyword: 'experiment'; +1 keyword: 'causal'; +1 keyword: 'measurement'; +1 keyword: 'a/b'",
+    "intent_reasons": "boost: marketing science (+3); boost: causal (+2); boost: measurement (+1); boost: growth (+1); boost: product (+1); penalty: fincrime (-3)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt;\n&lt;p&gt;After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&amp;nbsp;&lt;a href=&quot;https://monzo.com/current-account/personal&quot;&gt;personal&lt;/a&gt; and &lt;a href=&quot;https://monzo.com/business-banking&quot;&gt;business&lt;/a&gt; bank accounts, we offer &lt;a href=&quot;https://monzo.com/current-account/joint-account&quot;&gt;joint accounts&lt;/a&gt;, &lt;a href=&quot;https://monzo.com/current-account/16-17&quot;&gt;accounts for 16-17 year olds&lt;/a&gt;, a &lt;a href=&quot;https://monzo.com/current-account/under-16s&quot;&gt;free kids account&lt;/a&gt; and &lt;a href=&quot;https://monzo.com/flex&quot;&gt;credit cards&lt;/a&gt; in the UK, with more exciting things to come beyond. Our UK customers can also &lt;a href=&quot;https://monzo.com/savings&quot;&gt;save&lt;/a&gt;, &lt;a href=&quot;https://monzo.com/investments&quot;&gt;invest &lt;/a&gt;and&amp;nbsp;&lt;a href=&quot;https://monzo.com/pensions&quot;&gt;combine their pensions&lt;/a&gt; with us.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history",
+    "posted_at": "2026-02-27T07:18:42Z"
+  },
+  {
     "rank": 4,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-03-06T06:58:21Z"
+  },
+  {
+    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Sr. Forward Deployed Engineer",
@@ -58,7 +72,7 @@
     "posted_at": "2026-03-05T09:17:22Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Data & AI Solutions Architect (Professional Services)",
@@ -72,7 +86,7 @@
     "posted_at": "2026-02-25T13:42:28Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist (Marketing & Customer)",
@@ -86,7 +100,7 @@
     "posted_at": "2026-03-05T13:35:46.382Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "tag": "MARKETING_SCIENCE",
     "company": "Wise",
     "title": "Senior Marketing Data Analyst - Marketing Science",
@@ -100,7 +114,7 @@
     "posted_at": "2026-02-01T18:32:45.067Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
     "title": "Senior Manager, Forward-Deployed Data Science",
@@ -115,7 +129,77 @@
     "posted_at": "2025-12-17T01:33:00Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Lead Solutions Architect - AI/BI",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407183002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-03-06T14:12:18Z"
+  },
+  {
+    "rank": 11,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Lead Solutions Architect - Lakebase",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407181002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-03-06T14:12:13Z"
+  },
+  {
+    "rank": 12,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Specialist Solutions Architect - DE/DWH",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8321575002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-03-06T09:48:23Z"
+  },
+  {
+    "rank": 13,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Stripe",
+    "title": "Specialist Solutions Architect, Money Management",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7601705",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-03-06T18:52:06Z"
+  },
+  {
+    "rank": 14,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Delivery Solutions Architect",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452394002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-03-06T08:20:33Z"
+  },
+  {
+    "rank": 15,
     "tag": "CORE_DS",
     "company": "OpenAI",
     "title": "Data Scientist, Integrity Measurement",
@@ -129,35 +213,7 @@
     "posted_at": "2026-03-05T21:59:14Z"
   },
   {
-    "rank": 10,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Stripe",
-    "title": "Specialist Solutions Architect, Money Management",
-    "location": "London",
-    "url": "https://stripe.com/jobs/search?gh_jid=7601705",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-05T19:03:48Z"
-  },
-  {
-    "rank": 11,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Vanta",
-    "title": "Solutions Engineer - Expansion",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/vanta/bdde3892-1a5e-49f5-adf7-a887b19da801",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions engineer'",
-    "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-03-03T16:49:06Z"
-  },
-  {
-    "rank": 12,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Monzo",
     "title": "Lead Data Scientist",
@@ -172,7 +228,7 @@
     "posted_at": "2026-03-02T07:48:00Z"
   },
   {
-    "rank": 13,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Marketing Experimentation Analyst",
@@ -186,7 +242,7 @@
     "posted_at": "2026-01-28T10:57:21.729Z"
   },
   {
-    "rank": 14,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Analytics Manager - Marketing Experimentation",
@@ -200,7 +256,7 @@
     "posted_at": "2026-01-21T17:26:43.448Z"
   },
   {
-    "rank": 15,
+    "rank": 19,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Senior Data Scientist (Product)",
@@ -214,22 +270,7 @@
     "posted_at": "2026-03-05T13:36:55.995Z"
   },
   {
-    "rank": 16,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Braze",
-    "title": "Forward-Deployed Data Scientist II",
-    "location": "London",
-    "url": "https://boards.greenhouse.io/braze/jobs/7653344?gh_jid=7653344",
-    "final_score": 7,
-    "base_score": 0,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'data scientist'; +3 title match: 'forward-deployed'; -2 exclude kw: 'phd'; -2 exclude kw: 'reinforcement learning'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: forward-deployed (+4); boost: growth (+1); boost: product (+1); penalty: risk (-2)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew.&lt;/p&gt;\n&lt;p&gt;We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our organization.&lt;/p&gt;\n&lt;p&gt;To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to contribute: Acting with autonomy, having accountability and being open to new perspectives are essential to our continued success.&lt;/p&gt;\n&lt;p&gt;Our deep curiosity to learn and our eagerness to share diverse passions with others gives us balance and injects a one-of-a-kind vibrancy into our culture.&lt;/p&gt;\n&lt;p&gt;If you are driven to solve exhilarating challenges and have a bias toward action in the face of change, you will be empowered to make a real impact here, with a sharp and passionate team at your back. If Braze sounds like a place where you can thrive, we can’t wait to meet you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU&#39;LL DO&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As our customer base continues to grow with the excitement around BrazeAI, we’re expanding our team! Join our Forward-Deployed Data Scientist group of creative technical experts who partner with customers to ensure",
-    "posted_at": "2026-03-03T09:52:42Z"
-  },
-  {
-    "rank": 17,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Twilio",
     "title": "Partner Solutions Architect",
@@ -241,10 +282,10 @@
     "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
     "intent_reasons": "boost: solutions architect (+2); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;br&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&",
-    "posted_at": "2026-03-03T11:19:13Z"
+    "posted_at": "2026-03-06T09:03:58Z"
   },
   {
-    "rank": 18,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (Payments)",
@@ -258,7 +299,7 @@
     "posted_at": "2026-03-01T11:18:58Z"
   },
   {
-    "rank": 19,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (UPL)",
@@ -272,7 +313,7 @@
     "posted_at": "2026-03-01T11:26:02Z"
   },
   {
-    "rank": 20,
+    "rank": 23,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
@@ -286,7 +327,7 @@
     "posted_at": "2026-02-28T13:12:25Z"
   },
   {
-    "rank": 21,
+    "rank": 24,
     "tag": "DEVREL_EVANGELISM",
     "company": "Elastic",
     "title": "Senior Developer Advocate (Video Content Creator)",
@@ -300,21 +341,7 @@
     "posted_at": "2026-02-27T17:12:49Z"
   },
   {
-    "rank": 22,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002",
-    "final_score": 7,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-02-25T12:23:36Z"
-  },
-  {
-    "rank": 23,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
@@ -326,34 +353,5 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2026-02-03T00:51:15Z"
-  },
-  {
-    "rank": 24,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Intercom",
-    "title": "Forward Deployed Software Engineer",
-    "location": "London, England",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/7556413",
-    "final_score": 7,
-    "base_score": 1,
-    "intent_delta": 6,
-    "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: forward deployed (+4); boost: applied ai (+4); boost: product (+1); penalty: aml (-3)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;Over the past twelve months, we’ve seen rapidly growing demand for Software Engineers who thrive at the intersection of deep technical work, customer impact, and product strategy. As Intercom’s AI Agent for Customer Service, Fin, becomes mission-critical for our most strategic customers, we’re building a team of Forward Deployed Software Engineers to help bridge the gap between customer needs and product innovation.&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Software Engineer, you’ll work",
-    "posted_at": "2026-01-28T17:37:06Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "OpenAI",
-    "title": "Forward Deployed Engineer - London",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283",
-    "final_score": 7,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2025-11-13T16:45:32Z"
   }
 ]
