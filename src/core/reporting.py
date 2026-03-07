@@ -342,6 +342,7 @@ def write_shortlist_md(
     uk_only: bool,
     exclude_seniority: list[str],
     intent_enabled: bool = False,
+    freshness_label: str = "OFF",
 ) -> None:
     """Write a Markdown shortlist of the top *limit* jobs."""
     output_path = Path(output_path)
@@ -357,6 +358,7 @@ def write_shortlist_md(
     if exclude_seniority:
         lines.append(f"**Excluded seniority:** {', '.join(exclude_seniority)}")
     lines.append(f"**Intent scoring:** {'enabled' if intent_enabled else 'off'}")
+    lines.append(f"**Freshness filter:** {freshness_label}")
     lines.append(f"**Results:** {len(jobs)}")
     lines.append("")
 
@@ -486,6 +488,8 @@ def write_brief_md(
     intent_enabled: bool = False,
     new_uk_count: int = 0,
     unknown_ats_count: int = 0,
+    freshness_label: str = "OFF",
+    age_filtered_out: int = 0,
 ) -> None:
     """Write a human-readable brief with compact bullet-style job listings."""
     output_path = Path(output_path)
@@ -500,6 +504,8 @@ def write_brief_md(
                  f"**New:** {run.jobs_new} | "
                  f"**New UK:** {new_uk_count} | "
                  f"**Unknown ATS:** {unknown_ats_count}")
+    lines.append(f"**Freshness filter:** {freshness_label} | "
+                 f"**Filtered out by age:** {age_filtered_out}")
     lines.append("")
 
     apply_now = shortlist_jobs[:8]

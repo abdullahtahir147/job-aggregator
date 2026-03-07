@@ -190,6 +190,8 @@ def run_pipeline(
     llm_pack: bool = True,
     recency: bool = True,
     recency_config: str = "config/recency.yaml",
+    max_age_days: int = 7,
+    no_age_filter: bool = False,
 ) -> None:
     """Execute the full aggregation pipeline."""
     t0 = time.monotonic()
@@ -352,6 +354,7 @@ def run_pipeline(
     shortlist_csv_path = report_out.parent / "shortlist.csv"
     shortlist_count = 0
     shortlisted: list[Job] = []
+    age_filtered_out = 0
     if shortlist > 0:
         seniority_terms = [t.strip().lower() for t in exclude_seniority.split(",") if t.strip()]
         pool = list(all_jobs)
@@ -366,14 +369,26 @@ def run_pipeline(
         if exclude_tags:
             drop = {t.strip().upper() for t in exclude_tags.split(",") if t.strip()}
             pool = [j for j in pool if j.tag not in drop]
-        pool.sort(key=lambda j: (-j.final_score, j.age_days if j.age_days is not None else 9999, j.company))
+        # Freshness gate — exclude old jobs from shortlist/brief/llm
+        if not no_age_filter:
+            before = len(pool)
+            pool = [j for j in pool if j.age_days is None or j.age_days <= max_age_days]
+            age_filtered_out = before - len(pool)
+        pool.sort(key=lambda j: (
+            -j.final_score,
+            1 if j.age_days is None else 0,
+            j.age_days if j.age_days is not None else 9999,
+            j.company,
+        ))
         shortlisted = pool[:shortlist]
         shortlist_count = len(shortlisted)
+        age_filter_label = "OFF" if no_age_filter else f"<= {max_age_days}d"
         write_shortlist_md(
             jobs=shortlisted, output_path=shortlist_md_path,
             run_id=run_id, generated_at=run_time, limit=shortlist,
             uk_only=shortlist_uk_only, exclude_seniority=seniority_terms,
             intent_enabled=intent,
+            freshness_label=age_filter_label,
         )
         write_shortlist_csv(jobs=shortlisted, output_path=shortlist_csv_path,
                             intent_enabled=intent)
@@ -388,6 +403,8 @@ def run_pipeline(
             intent_enabled=intent,
             new_uk_count=new_uk_count,
             unknown_ats_count=len(unknown_companies),
+            freshness_label=age_filter_label if shortlist > 0 else "OFF",
+            age_filtered_out=age_filtered_out,
         )
 
     # ── Optional: LLM pack ───────────────────────────────────────────
@@ -428,6 +445,8 @@ def run_pipeline(
     if diff:
         print(f"  Diff report         : {diff_path}")
     if shortlist > 0:
+        print(f"  Filtered by age     : {age_filtered_out}")
+        print(f"  Max age days        : {'OFF' if no_age_filter else max_age_days}")
         print(f"  Shortlist ({shortlist_count:>3} jobs) : {shortlist_md_path}")
         print(f"  Shortlist CSV       : {shortlist_csv_path}")
         if brief and shortlist_count > 0:
@@ -602,6 +621,14 @@ def build_parser() -> argparse.ArgumentParser:
         "--recency-config", type=str, default="config/recency.yaml",
         help="Path to recency rules YAML (default: config/recency.yaml)",
     )
+    run_parser.add_argument(
+        "--max-age-days", type=int, default=7,
+        help="Max job age in days for shortlist/brief/llm outputs (default: 7)",
+    )
+    run_parser.add_argument(
+        "--no-age-filter", action="store_true", default=False,
+        help="Disable age filtering — include all jobs regardless of age",
+    )
 
     return parser
 
@@ -642,6 +669,8 @@ def main() -> None:
         llm_pack=args.llm_pack,
         recency=args.recency,
         recency_config=args.recency_config,
+        max_age_days=args.max_age_days,
+        no_age_filter=args.no_age_filter,
     )
 
 
