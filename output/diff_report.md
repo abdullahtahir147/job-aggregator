@@ -1,8 +1,8 @@
 # Diff Report
 
-**Run ID:** `65cfca758f78`
-**Timestamp:** 2026-03-08T12:10:13Z
-**Previous run:** 2026-03-07T18:38:11Z
+**Run ID:** `aae36bed7ac7`
+**Timestamp:** 2026-03-08T17:41:49Z
+**Previous run:** 2026-03-08T12:10:13Z
 **New jobs this run:** 5
 
 ---
@@ -13,11 +13,11 @@ Found **5** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
-| 1 | Canva | Enterprise Sales Strategy Lead | San Francisco, , United States | -5 | [Apply](https://jobs.smartrecruiters.com/Canva/6000000000916673) |
-| 2 | Pendo | Account Director Enterprise Sales - Midwest | St. Louis, MO / Kansas City, MO / Des Moines, IA / Omaha, NE / Denver, CO | -5 | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8433606002) |
-| 3 | Visa |  Senior Manager, Business Development | Sydney, NSW, Australia | -5 | [Apply](https://jobs.smartrecruiters.com/Visa/744000113357567) |
-| 4 | Visa | Manager, Data Science | Sydney, NSW, Australia | 0 | [Apply](https://jobs.smartrecruiters.com/Visa/744000113357763) |
-| 5 | Visa | Senior Manager, Business Development | Melbourne, VIC, Australia | -5 | [Apply](https://jobs.smartrecruiters.com/Visa/744000113357657) |
+| 1 | BoschGroup | MFE Engineer_DCCC | Changzhou, Jiangsu, China | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000113362977) |
+| 2 | BoschGroup | New Product Launch Engineer_MA | Nanjing, Jiangsu, China | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000113362607) |
+| 3 | OpenAI | Order Management & Billing | San Francisco | 0 | [Apply](https://jobs.ashbyhq.com/openai/d44bec7c-30ee-4db8-8d08-63a78c947484) |
+| 4 | OpenAI | Revenue Accounting Manager | San Francisco | 0 | [Apply](https://jobs.ashbyhq.com/openai/b2c29043-cbd7-440a-b70b-2de3676776ef) |
+| 5 | Visa | Director, Global Data Office | Foster City, CA, United States | 0 | [Apply](https://jobs.smartrecruiters.com/Visa/744000113365997) |
 
 ---
 
