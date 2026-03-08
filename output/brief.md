@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `e94375110998` | 2026-03-07T19:35:18Z
-**Companies:** 133 | **Jobs:** 13482 | **New:** 2 | **New UK:** 0 | **Unknown ATS:** 18
+**Run:** `a9da137db8e3` | 2026-03-08T09:36:21Z
+**Companies:** 133 | **Jobs:** 13481 | **New:** 5 | **New UK:** 0 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 90
 
 ## Apply Now
@@ -11,30 +11,20 @@
   Why: title match: 'data scientist'; title match: 'growth data scientist'; keyword: 'experiment' (+3 more) | boost: product analytics (+2); boost: experimentation (+3); boost: growth (+1... | very recent (2d)
   [Apply](https://job-boards.greenhouse.io/intercom/jobs/7437796)
 
-- **Coinbase — Data Scientist II - Product Analytics** [PRODUCT_GROWTH_DATA]  Score: 12 (base 6, Δ+6) | 1d old
+- **Coinbase — Data Scientist II - Product Analytics** [PRODUCT_GROWTH_DATA]  Score: 12 (base 6, Δ+6) | 2d old
   Remote - UK
-  Why: title match: 'data scientist'; title match: 'product analytics' | boost: product analytics (+2); boost: product (+1) | very recent (1d)
+  Why: title match: 'data scientist'; title match: 'product analytics' | boost: product analytics (+2); boost: product (+1) | very recent (2d)
   [Apply](https://www.coinbase.com/careers/positions/7644362?gh_jid=7644362)
 
-- **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 1d old
-  London, United Kingdom
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (1d)
-  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002)
-
-- **Databricks — Sr. Forward Deployed Engineer** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 2d old
+- **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 2d old
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (2d)
-  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002)
+  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002)
 
 - **ASOS — Applied Scientist (Marketing & Customer)** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 2d old
   London, England, United Kingdom
   Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (2d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000112930504)
-
-- **Databricks — Delivery Solutions Architect** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 1d old
-  London, United Kingdom
-  Why: title match: 'solutions architect' | boost: solutions architect (+2) | very recent (1d)
-  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8452394002)
 
 - **Databricks — Lead Solutions Architect - AI/BI** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 1d old
   London, United Kingdom
@@ -46,37 +36,47 @@
   Why: title match: 'solutions architect' | boost: solutions architect (+2) | very recent (1d)
   [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8407181002)
 
-## Worth a Look
-
 - **Databricks — Specialist Solutions Architect - DE/DWH** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 1d old
   London, United Kingdom
   Why: title match: 'solutions architect' | boost: solutions architect (+2) | very recent (1d)
   [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8321575002)
-
-- **OpenAI — Data Scientist, Integrity Measurement** [CORE_DS]  Score: 8 (base 4, Δ+4) | 1d old
-  London, UK
-  Why: title match: 'data scientist'; keyword: 'measurement' | boost: measurement (+1) | very recent (1d)
-  [Apply](https://jobs.ashbyhq.com/openai/a7a326e7-6718-42ab-a4d8-b16d5021c99b)
 
 - **Stripe — Specialist Solutions Architect, Money Management** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 1d old
   London
   Why: title match: 'solutions architect' | boost: solutions architect (+2) | very recent (1d)
   [Apply](https://stripe.com/jobs/search?gh_jid=7601705)
 
-- **Monzo — Lead Data Scientist** [PRODUCT_GROWTH_DATA]  Score: 8 (base 5, Δ+3) | 5d old
-  Cardiff, London or Remote (UK)
-  Why: title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' | boost: experimentation (+3); boost: growth (+1); boost: product (+1); penalty... | recent (5d)
-  [Apply](https://job-boards.greenhouse.io/monzo/jobs/6369658)
+## Worth a Look
 
-- **Twilio — Partner Solutions Architect** [APPLIED_AI_FDE]  Score: 7 (base 1, Δ+6) | 1d old
-  Remote - United Kingdom
-  Why: title match: 'solutions architect'; exclude kw: 'platform' | boost: solutions architect (+2); boost: product (+1) | very recent (1d)
-  [Apply](https://job-boards.greenhouse.io/twilio/jobs/7659776)
+- **Databricks — Delivery Solutions Architect** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 2d old
+  London, United Kingdom
+  Why: title match: 'solutions architect' | boost: solutions architect (+2) | very recent (2d)
+  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8452394002)
+
+- **OpenAI — Data Scientist, Integrity Measurement** [CORE_DS]  Score: 8 (base 4, Δ+4) | 2d old
+  London, UK
+  Why: title match: 'data scientist'; keyword: 'measurement' | boost: measurement (+1) | very recent (2d)
+  [Apply](https://jobs.ashbyhq.com/openai/a7a326e7-6718-42ab-a4d8-b16d5021c99b)
+
+- **Databricks — Sr. Forward Deployed Engineer** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 3d old
+  London, United Kingdom
+  Why: title match: 'forward deployed' | boost: forward deployed (+4) | recent (3d)
+  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002)
+
+- **Monzo — Lead Data Scientist** [PRODUCT_GROWTH_DATA]  Score: 8 (base 5, Δ+3) | 6d old
+  Cardiff, London or Remote (UK)
+  Why: title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' | boost: experimentation (+3); boost: growth (+1); boost: product (+1); penalty... | recent (6d)
+  [Apply](https://job-boards.greenhouse.io/monzo/jobs/6369658)
 
 - **ASOS — Senior Data Scientist (Product)** [CORE_DS]  Score: 7 (base 3, Δ+4) | 2d old
   London, England, United Kingdom
   Why: title match: 'data scientist' | boost: product (+1) | very recent (2d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000112932167)
+
+- **Twilio — Partner Solutions Architect** [APPLIED_AI_FDE]  Score: 7 (base 1, Δ+6) | 2d old
+  Remote - United Kingdom
+  Why: title match: 'solutions architect'; exclude kw: 'platform' | boost: solutions architect (+2); boost: product (+1) | very recent (2d)
+  [Apply](https://job-boards.greenhouse.io/twilio/jobs/7659776)
 
 - **Zopa — Senior Product Analyst (Payments)** [PRODUCT_GROWTH_DATA]  Score: 7 (base 3, Δ+4) | 6d old
   London

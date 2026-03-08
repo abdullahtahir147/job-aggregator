@@ -45,20 +45,6 @@
   {
     "rank": 4,
     "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Sr. Forward Deployed Engineer",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-03-05T09:17:22Z"
-  },
-  {
-    "rank": 5,
-    "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist (Marketing & Customer)",
     "location": "London, England, United Kingdom",
@@ -71,21 +57,7 @@
     "posted_at": "2026-03-05T13:35:46.382Z"
   },
   {
-    "rank": 6,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Delivery Solutions Architect",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452394002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-06T08:20:33Z"
-  },
-  {
-    "rank": 7,
+    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Lead Solutions Architect - AI/BI",
@@ -99,7 +71,7 @@
     "posted_at": "2026-03-06T14:12:18Z"
   },
   {
-    "rank": 8,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Lead Solutions Architect - Lakebase",
@@ -113,7 +85,7 @@
     "posted_at": "2026-03-06T14:12:13Z"
   },
   {
-    "rank": 9,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Specialist Solutions Architect - DE/DWH",
@@ -125,6 +97,34 @@
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
     "posted_at": "2026-03-06T09:48:23Z"
+  },
+  {
+    "rank": 8,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Stripe",
+    "title": "Specialist Solutions Architect, Money Management",
+    "location": "London",
+    "url": "https://stripe.com/jobs/search?gh_jid=7601705",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-03-06T18:52:06Z"
+  },
+  {
+    "rank": 9,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Delivery Solutions Architect",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452394002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-03-06T08:20:33Z"
   },
   {
     "rank": 10,
@@ -143,16 +143,16 @@
   {
     "rank": 11,
     "tag": "APPLIED_AI_FDE",
-    "company": "Stripe",
-    "title": "Specialist Solutions Architect, Money Management",
-    "location": "London",
-    "url": "https://stripe.com/jobs/search?gh_jid=7601705",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002",
     "final_score": 8,
     "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-06T18:52:06Z"
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-03-05T09:17:22Z"
   },
   {
     "rank": 12,
@@ -171,6 +171,20 @@
   },
   {
     "rank": 13,
+    "tag": "CORE_DS",
+    "company": "ASOS",
+    "title": "Senior Data Scientist (Product)",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000112932167",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 1,
+    "match_reason": "+3 title match: 'data scientist'",
+    "intent_reasons": "boost: product (+1)",
+    "posted_at": "2026-03-05T13:36:55.995Z"
+  },
+  {
+    "rank": 14,
     "tag": "APPLIED_AI_FDE",
     "company": "Twilio",
     "title": "Partner Solutions Architect",
@@ -183,20 +197,6 @@
     "intent_reasons": "boost: solutions architect (+2); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experiences.&lt;/p&gt;\n&lt;p&gt;Our dedication to &lt;a class=&quot;c-link&quot; href=&quot;https://www.twilio.com/en-us/blog/open-work&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.twilio.com/en-us/blog/open-work&quot; data-sk=&quot;tooltip_parent&quot;&gt;remote-first work&lt;/a&gt;, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.&lt;br&gt;&lt;br&gt;We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&",
     "posted_at": "2026-03-06T09:03:58Z"
-  },
-  {
-    "rank": 14,
-    "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Senior Data Scientist (Product)",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000112932167",
-    "final_score": 7,
-    "base_score": 3,
-    "intent_delta": 1,
-    "match_reason": "+3 title match: 'data scientist'",
-    "intent_reasons": "boost: product (+1)",
-    "posted_at": "2026-03-05T13:36:55.995Z"
   },
   {
     "rank": 15,
@@ -313,20 +313,6 @@
   },
   {
     "rank": 23,
-    "tag": "ANALYTICS_BI",
-    "company": "Visa",
-    "title": "Staff Analytics Engineer",
-    "location": "London, UNITED KINGDOM, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Visa/744000112508992",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'analytics engineer'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-03T19:44:39.647Z"
-  },
-  {
-    "rank": 24,
     "tag": "CORE_DS",
     "company": "Wise",
     "title": "Lead AI Data Scientist - Servicing",
@@ -338,6 +324,20 @@
     "match_reason": "+3 title match: 'data scientist'",
     "intent_reasons": "",
     "posted_at": "2026-03-04T14:48:45.816Z"
+  },
+  {
+    "rank": 24,
+    "tag": "ANALYTICS_BI",
+    "company": "Visa",
+    "title": "Staff Analytics Engineer",
+    "location": "London, UNITED KINGDOM, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Visa/744000112508992",
+    "final_score": 4,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'analytics engineer'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-03T19:44:39.647Z"
   },
   {
     "rank": 25,
