@@ -40,6 +40,8 @@ jobs:
             --shortlist 25 \
             --intent \
             --exclude-tags OTHER,RISK_FRAUD \
+            --max-age-days 7 \
+            --max-years-required 5 \
             --brief \
             --llm-pack
 

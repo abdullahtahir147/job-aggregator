@@ -55,18 +55,12 @@ def now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
-def compute_job_age_days(posted_at: str | None) -> int | None:
-    """
-    Return integer days since the job was posted.
-
-    *posted_at* is an ISO-8601 string (as stored on Job).
-    Returns None when the date is missing or unparseable.
-    """
-    if not posted_at:
+def _parse_iso_days(iso_str: str | None) -> int | None:
+    """Parse an ISO-8601 string and return days since that date, or None."""
+    if not iso_str:
         return None
     try:
-        # Handle both "2026-02-28T12:00:00Z" and "2026-02-28" formats
-        clean = posted_at.replace("Z", "+00:00")
+        clean = iso_str.replace("Z", "+00:00")
         dt = datetime.fromisoformat(clean)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
@@ -74,6 +68,54 @@ def compute_job_age_days(posted_at: str | None) -> int | None:
         return max(delta.days, 0)
     except (ValueError, TypeError):
         return None
+
+
+def compute_job_age_days(posted_at: str | None, first_seen: str | None = None) -> int | None:
+    """
+    Return integer days since the job was posted.
+
+    Prefers *first_seen* (our own DB timestamp) when available, because
+    some ATS systems refresh posted_at on edits, making stale jobs look
+    fresh.  Falls back to *posted_at* if first_seen is not set.
+
+    Returns None when neither date is usable.
+    """
+    # Prefer first_seen — our own reliable timestamp
+    fs_days = _parse_iso_days(first_seen)
+    if fs_days is not None:
+        return fs_days
+    return _parse_iso_days(posted_at)
+
+
+import re as _re
+
+# ── Experience / seniority filter ─────────────────────────────────────────
+
+_YEARS_RE = _re.compile(
+    r"(?:minimum\s+of\s+|at\s+least\s+)?(\d{1,2})\s*[\+\-]?\s*(?:to\s+\d{1,2}\s+)?years?",
+    _re.IGNORECASE,
+)
+
+_SENIOR_TITLE_EXCLUDE = {"director", "vp", "vice president", "head of", "principal"}
+
+
+def extract_years_required(title: str, description: str | None) -> int | None:
+    """
+    Return the lower-bound years of experience required, or None.
+
+    Scans title first, then the first 1500 chars of description.
+    """
+    for text in (title, (description or "")[:1500]):
+        m = _YEARS_RE.search(text)
+        if m:
+            return int(m.group(1))
+    return None
+
+
+def is_too_senior_title(title: str) -> bool:
+    """Return True if the title contains director/vp/head-of/principal."""
+    t = title.lower()
+    return any(term in t for term in _SENIOR_TITLE_EXCLUDE)
 
 
 def load_companies(path: str | Path) -> list[dict[str, str]]:

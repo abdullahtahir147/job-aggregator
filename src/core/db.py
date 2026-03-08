@@ -202,6 +202,12 @@ class JobDB:
         cur.execute("SELECT * FROM jobs WHERE is_active = 1 ORDER BY company, title")
         return [dict(row) for row in cur.fetchall()]
 
+    def get_first_seen_map(self) -> dict[str, str]:
+        """Return a {url: first_seen} map for all jobs."""
+        cur = self.conn.cursor()
+        cur.execute("SELECT url, first_seen FROM jobs")
+        return {row["url"]: row["first_seen"] for row in cur.fetchall()}
+
     def get_last_run_time(self) -> Optional[str]:
         """Return the run_time of the most recent completed run, or None."""
         cur = self.conn.cursor()

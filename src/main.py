@@ -29,6 +29,7 @@ from typing import Any
 from src.core.utils import (
     setup_logging, now_iso, load_companies, load_all_companies,
     load_filters, is_uk_role, get_thread_session, compute_job_age_days,
+    extract_years_required, is_too_senior_title,
 )
 from src.core.models import Job, RunRecord
 from src.core.db import JobDB
@@ -193,6 +194,7 @@ def run_pipeline(
     recency_config: str = "config/recency.yaml",
     max_age_days: int = 7,
     no_age_filter: bool = False,
+    max_years_required: int = 5,
 ) -> None:
     """Execute the full aggregation pipeline."""
     t0 = time.monotonic()
@@ -326,6 +328,9 @@ def run_pipeline(
             j.final_score = j.score
 
     # ── Optional: recency scoring ─────────────────────────────────
+    # Load first_seen map from DB so we can prefer it over posted_at
+    first_seen_map = db.get_first_seen_map()
+
     recency_rules: dict = {}
     if recency:
         recency_cfg_path = Path(recency_config)
@@ -334,14 +339,16 @@ def run_pipeline(
             with open(recency_cfg_path, encoding="utf-8") as fh:
                 recency_rules = yaml.safe_load(fh) or {}
         for j in all_jobs:
-            j.age_days = compute_job_age_days(j.posted_at)
+            fs = first_seen_map.get(j.url)
+            j.age_days = compute_job_age_days(j.posted_at, first_seen=fs)
             delta, reason = compute_recency_delta(j.age_days, recency_rules)
             j.recency_delta = delta
             j.recency_reason = reason
             j.final_score = j.score + j.intent_delta + j.recency_delta
     else:
         for j in all_jobs:
-            j.age_days = compute_job_age_days(j.posted_at)
+            fs = first_seen_map.get(j.url)
+            j.age_days = compute_job_age_days(j.posted_at, first_seen=fs)
 
     # ── Optional: taxonomy tagging ───────────────────────────────────
     taxonomy_rules: dict = {}
@@ -356,6 +363,7 @@ def run_pipeline(
     shortlist_count = 0
     shortlisted: list[Job] = []
     age_filtered_out = 0
+    exp_filtered_out = 0
     if shortlist > 0:
         seniority_terms = [t.strip().lower() for t in exclude_seniority.split(",") if t.strip()]
         pool = list(all_jobs)
@@ -375,6 +383,17 @@ def run_pipeline(
             before = len(pool)
             pool = [j for j in pool if j.age_days is None or j.age_days <= max_age_days]
             age_filtered_out = before - len(pool)
+        # Experience gate — exclude roles requiring too many years or too-senior titles
+        exp_before = len(pool)
+        def _passes_experience(j: Job) -> bool:
+            if is_too_senior_title(j.title):
+                return False
+            yrs = extract_years_required(j.title, j.description)
+            if yrs is not None and yrs > max_years_required:
+                return False
+            return True
+        pool = [j for j in pool if _passes_experience(j)]
+        exp_filtered_out = exp_before - len(pool)
         pool.sort(key=lambda j: (
             -j.final_score,
             1 if j.age_days is None else 0,
@@ -415,9 +434,9 @@ def run_pipeline(
         _write_llm_pack(shortlisted, llm_payload_path, llm_prompt_path, intent)
 
     # ── Optional: Notion sync ────────────────────────────────────────
-    notion_synced = 0
+    notion_result: dict = {}
     if shortlist > 0 and shortlisted:
-        notion_synced = sync_shortlist_to_notion(shortlisted, limit=15)
+        notion_result = sync_shortlist_to_notion(shortlisted, limit=15)
 
     # ── Optional: probe unknowns for ATS suggestions ─────────────────
     suggestions_count = 0
@@ -453,6 +472,8 @@ def run_pipeline(
     if shortlist > 0:
         print(f"  Filtered by age     : {age_filtered_out}")
         print(f"  Max age days        : {'OFF' if no_age_filter else max_age_days}")
+        print(f"  Filtered by exp     : {exp_filtered_out}")
+        print(f"  Max years required  : {max_years_required}")
         print(f"  Shortlist ({shortlist_count:>3} jobs) : {shortlist_md_path}")
         print(f"  Shortlist CSV       : {shortlist_csv_path}")
         if brief and shortlist_count > 0:
@@ -460,8 +481,9 @@ def run_pipeline(
         if llm_pack and shortlist_count > 0:
             print(f"  LLM payload         : {llm_payload_path}")
             print(f"  LLM prompt          : {llm_prompt_path}")
-    if notion_synced:
-        print(f"  Notion pages synced : {notion_synced}")
+    if notion_result.get("created") or notion_result.get("archived"):
+        print(f"  Notion created      : {notion_result.get('created', 0)}")
+        print(f"  Notion archived     : {notion_result.get('archived', 0)}")
     print(f"  Unknown CSV         : {unknown_csv_path}")
     print("=" * 60)
     print()
@@ -637,6 +659,10 @@ def build_parser() -> argparse.ArgumentParser:
         "--no-age-filter", action="store_true", default=False,
         help="Disable age filtering — include all jobs regardless of age",
     )
+    run_parser.add_argument(
+        "--max-years-required", type=int, default=5,
+        help="Exclude jobs requiring more than N years experience (default: 5)",
+    )
 
     return parser
 
@@ -679,6 +705,7 @@ def main() -> None:
         recency_config=args.recency_config,
         max_age_days=args.max_age_days,
         no_age_filter=args.no_age_filter,
+        max_years_required=args.max_years_required,
     )
 
 

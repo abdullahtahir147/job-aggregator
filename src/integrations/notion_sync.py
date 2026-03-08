@@ -1,16 +1,22 @@
 """
-Push shortlisted jobs to a Notion database.
+Push shortlisted jobs to a Notion database (rolling 4-day window).
 
 Env vars:
     NOTION_TOKEN        – Notion integration token
     NOTION_DATABASE_ID  – Target database ID
+
+Behaviour:
+    1. Query all existing pages in the database.
+    2. Archive pages whose Run Date is older than 4 days.
+    3. Collect Link URLs from remaining (live) pages for dedup.
+    4. Insert new jobs from today's shortlist if the link doesn't exist.
 """
 
 from __future__ import annotations
 
 import logging
 import os
-from datetime import date
+from datetime import date, timedelta
 from typing import Any
 
 import requests
@@ -21,6 +27,7 @@ logger = logging.getLogger(__name__)
 
 NOTION_API = "https://api.notion.com/v1"
 NOTION_VERSION = "2022-06-28"
+ROLLING_WINDOW_DAYS = 4
 
 
 def _headers() -> dict[str, str]:
@@ -32,9 +39,11 @@ def _headers() -> dict[str, str]:
     }
 
 
-def _existing_urls(database_id: str) -> set[str]:
-    """Query the Notion DB and return all Link URLs already present."""
-    urls: set[str] = set()
+# ── Page: {id, link_url, run_date_str} ──────────────────────────────────
+
+def _fetch_all_pages(database_id: str) -> list[dict[str, Any]]:
+    """Return all pages in the database with id, link URL, and run_date."""
+    pages: list[dict[str, Any]] = []
     payload: dict[str, Any] = {"page_size": 100}
     has_more = True
     while has_more:
@@ -45,16 +54,32 @@ def _existing_urls(database_id: str) -> set[str]:
         )
         if resp.status_code != 200:
             logger.warning("Notion query failed (%d): %s", resp.status_code, resp.text[:200])
-            return urls
+            return pages
         data = resp.json()
         for page in data.get("results", []):
-            link_prop = page.get("properties", {}).get("Link", {})
-            if link_prop.get("url"):
-                urls.add(link_prop["url"])
+            props = page.get("properties", {})
+            link_url = (props.get("Link") or {}).get("url", "")
+            run_date_prop = (props.get("Run Date") or {}).get("date") or {}
+            run_date_str = run_date_prop.get("start", "")
+            pages.append({
+                "id": page["id"],
+                "link_url": link_url or "",
+                "run_date": run_date_str,
+            })
         has_more = data.get("has_more", False)
         if has_more:
             payload["start_cursor"] = data["next_cursor"]
-    return urls
+    return pages
+
+
+def _archive_page(page_id: str) -> bool:
+    """Archive (soft-delete) a Notion page. Returns True on success."""
+    resp = requests.patch(
+        f"{NOTION_API}/pages/{page_id}",
+        headers=_headers(),
+        json={"archived": True},
+    )
+    return resp.status_code == 200
 
 
 def _build_page(database_id: str, job: Job, run_date: str) -> dict[str, Any]:
@@ -73,26 +98,43 @@ def _build_page(database_id: str, job: Job, run_date: str) -> dict[str, Any]:
     }
 
 
-def sync_shortlist_to_notion(jobs: list[Job], limit: int = 15) -> int:
+def sync_shortlist_to_notion(jobs: list[Job], limit: int = 15) -> dict[str, int]:
     """
-    Push top *limit* jobs to the Notion database.
+    Push top *limit* jobs to the Notion database with a rolling window.
 
-    Returns count of pages created.  Silently skips if env vars are missing.
+    Returns dict with keys: archived, kept, created.
+    Silently skips if env vars are missing (returns all zeros).
     """
+    result = {"archived": 0, "kept": 0, "created": 0}
+
     token = os.environ.get("NOTION_TOKEN", "")
     db_id = os.environ.get("NOTION_DATABASE_ID", "")
     if not token or not db_id:
         logger.info("Notion sync skipped — NOTION_TOKEN or NOTION_DATABASE_ID not set")
-        return 0
+        return result
 
     run_date = date.today().isoformat()
-    existing = _existing_urls(db_id)
-    logger.info("Notion DB has %d existing links", len(existing))
+    cutoff = (date.today() - timedelta(days=ROLLING_WINDOW_DAYS)).isoformat()
 
-    created = 0
+    # 1. Fetch all existing pages
+    all_pages = _fetch_all_pages(db_id)
+
+    # 2. Archive pages older than the rolling window
+    live_urls: set[str] = set()
+    for page in all_pages:
+        if page["run_date"] and page["run_date"] < cutoff:
+            if _archive_page(page["id"]):
+                result["archived"] += 1
+            else:
+                logger.warning("Failed to archive page %s", page["id"])
+        else:
+            if page["link_url"]:
+                live_urls.add(page["link_url"])
+            result["kept"] += 1
+
+    # 3. Insert new jobs (dedup against live pages)
     for job in jobs[:limit]:
-        if job.url in existing:
-            logger.debug("Skipping duplicate: %s", job.url)
+        if job.url in live_urls:
             continue
         payload = _build_page(db_id, job, run_date)
         resp = requests.post(
@@ -101,10 +143,17 @@ def sync_shortlist_to_notion(jobs: list[Job], limit: int = 15) -> int:
             json=payload,
         )
         if resp.status_code == 200:
-            created += 1
+            result["created"] += 1
         else:
             logger.warning("Notion create failed (%d): %s", resp.status_code, resp.text[:200])
 
-    logger.info("Notion sync: %d pages created, %d duplicates skipped",
-                created, len(jobs[:limit]) - created)
-    return created
+    # 4. Log summary
+    print()
+    print("  Notion sync summary:")
+    print(f"    Archived pages  : {result['archived']}")
+    print(f"    Existing kept   : {result['kept']}")
+    print(f"    New jobs added  : {result['created']}")
+
+    logger.info("Notion sync: archived=%d, kept=%d, created=%d",
+                result["archived"], result["kept"], result["created"])
+    return result
