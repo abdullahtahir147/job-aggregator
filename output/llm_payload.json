@@ -2,6 +2,20 @@
   {
     "rank": 1,
     "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Visa",
+    "title": "Network Product Analyst – Value Added Services",
+    "location": "London, UNITED KINGDOM, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Visa/744000114093523",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-11T15:48:39.974Z"
+  },
+  {
+    "rank": 2,
+    "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
     "location": "London, , United Kingdom",
@@ -14,7 +28,7 @@
     "posted_at": "2026-03-10T09:13:11.185Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -28,7 +42,7 @@
     "posted_at": "2026-03-10T09:11:27.989Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -42,7 +56,7 @@
     "posted_at": "2026-03-10T09:11:05.016Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Product Analytics Manager - Liquidity (Investments)",
@@ -56,7 +70,7 @@
     "posted_at": "2026-03-09T10:58:09.934Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (Current Account)",
@@ -70,7 +84,7 @@
     "posted_at": "2026-03-09T10:13:27Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Solutions Architect (Retail/CPG)",
@@ -84,7 +98,7 @@
     "posted_at": "2026-03-10T14:27:53Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Sr. Forward Deployed Engineer",
@@ -98,7 +112,7 @@
     "posted_at": "2026-03-11T05:07:23Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist (Marketing & Customer)",
@@ -112,7 +126,35 @@
     "posted_at": "2026-03-05T13:35:46.382Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
+    "tag": "ANALYTICS_BI",
+    "company": "Coinbase",
+    "title": "Analytics Engineer",
+    "location": "Remote - UK",
+    "url": "https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'analytics engineer'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-11T11:40:57Z"
+  },
+  {
+    "rank": 11,
+    "tag": "CORE_DS",
+    "company": "Spotify",
+    "title": "Data Scientist - Company Planning and Execution (CPE)",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data scientist'",
+    "intent_reasons": "",
+    "posted_at": "2025-12-01T16:38:39Z"
+  },
+  {
+    "rank": 12,
     "tag": "ANALYTICS_BI",
     "company": "Lendable",
     "title": "Operations Data Analyst (Special Projects)",
@@ -126,7 +168,7 @@
     "posted_at": "2026-03-11T08:12:16Z"
   },
   {
-    "rank": 10,
+    "rank": 13,
     "tag": "ANALYTICS_BI",
     "company": "Lendable",
     "title": "Analytics Engineer (Operations Analytics & Insights)",
@@ -140,7 +182,7 @@
     "posted_at": "2026-03-10T10:44:16Z"
   },
   {
-    "rank": 11,
+    "rank": 14,
     "tag": "ANALYTICS_BI",
     "company": "Zopa",
     "title": "Data Analyst (BI & Operations)",
@@ -154,7 +196,7 @@
     "posted_at": "2026-03-09T10:36:19Z"
   },
   {
-    "rank": 12,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -168,7 +210,7 @@
     "posted_at": "2026-03-06T08:20:33Z"
   },
   {
-    "rank": 13,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "Vanta",
     "title": "Solutions Engineer - Expansion",
@@ -182,7 +224,7 @@
     "posted_at": "2026-03-03T16:49:06Z"
   },
   {
-    "rank": 14,
+    "rank": 17,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Senior Data Scientist (Product)",
@@ -196,7 +238,7 @@
     "posted_at": "2026-03-05T13:36:55.995Z"
   },
   {
-    "rank": 15,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "Braze",
     "title": "Forward-Deployed Data Scientist II",
@@ -211,7 +253,7 @@
     "posted_at": "2026-03-03T09:52:42Z"
   },
   {
-    "rank": 16,
+    "rank": 19,
     "tag": "CORE_DS",
     "company": "Skyscanner",
     "title": "Data Scientist",
@@ -225,7 +267,7 @@
     "posted_at": "2026-03-05T11:54:19Z"
   },
   {
-    "rank": 17,
+    "rank": 20,
     "tag": "CORE_DS",
     "company": "Spotify",
     "title": "Data Scientist - Content Understanding",
@@ -239,7 +281,7 @@
     "posted_at": "2025-12-15T13:58:28Z"
   },
   {
-    "rank": 18,
+    "rank": 21,
     "tag": "CORE_DS",
     "company": "Visa",
     "title": "Senior Data Scientist, Payments Foundation Models",
@@ -253,7 +295,7 @@
     "posted_at": "2026-03-06T09:58:54.963Z"
   },
   {
-    "rank": 19,
+    "rank": 22,
     "tag": "ANALYTICS_BI",
     "company": "Visa",
     "title": "Staff Analytics Engineer",
@@ -267,7 +309,7 @@
     "posted_at": "2026-03-03T19:44:39.647Z"
   },
   {
-    "rank": 20,
+    "rank": 23,
     "tag": "CORE_DS",
     "company": "Wise",
     "title": "Lead AI Data Scientist - Servicing",
@@ -281,21 +323,7 @@
     "posted_at": "2026-03-04T14:48:45.816Z"
   },
   {
-    "rank": 21,
-    "tag": "ANALYTICS_BI",
-    "company": "Wise",
-    "title": "Lead Analytics Engineer ",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000112125577",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'analytics engineer'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-02T10:00:18.348Z"
-  },
-  {
-    "rank": 22,
+    "rank": 24,
     "tag": "ANALYTICS_BI",
     "company": "Zopa",
     "title": "Senior Analytics Engineer",
@@ -309,7 +337,7 @@
     "posted_at": "2026-03-03T16:22:41Z"
   },
   {
-    "rank": 23,
+    "rank": 25,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Senior Machine Learning Engineer (Recommendations)",
@@ -321,33 +349,5 @@
     "match_reason": "",
     "intent_reasons": "",
     "posted_at": "2026-03-10T15:36:02.737Z"
-  },
-  {
-    "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Product Analytics Manager - Scalable Platform",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000113453778",
-    "final_score": 2,
-    "base_score": -4,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analytics'; -5 title exclude: 'platform'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: product analytics (+2); boost: product (+1)",
-    "posted_at": "2026-03-09T10:57:43.756Z"
-  },
-  {
-    "rank": 25,
-    "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Machine Learning Engineer ",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000112929947",
-    "final_score": 1,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-03-05T13:26:40.115Z"
   }
 ]
