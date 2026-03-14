@@ -15,76 +15,6 @@
   },
   {
     "rank": 2,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Wise Business",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000113661945",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-03-10T09:13:11.185Z"
-  },
-  {
-    "rank": 3,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Business Account Management",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000113662548",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-03-10T09:11:27.989Z"
-  },
-  {
-    "rank": 4,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Onboarding",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000113661852",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-03-10T09:11:05.016Z"
-  },
-  {
-    "rank": 5,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Product Analytics Manager - Liquidity (Investments)",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000113454827",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analytics'",
-    "intent_reasons": "boost: product analytics (+2); boost: product (+1)",
-    "posted_at": "2026-03-09T10:58:09.934Z"
-  },
-  {
-    "rank": 6,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Zopa",
-    "title": "Senior Product Analyst (Current Account)",
-    "location": "London",
-    "url": "https://jobs.lever.co/zopa/b81727d8-759c-4efc-a9e6-f125883253ca",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-03-09T10:13:27Z"
-  },
-  {
-    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Partner Solutions Architect",
@@ -98,7 +28,7 @@
     "posted_at": "2026-03-12T07:27:25Z"
   },
   {
-    "rank": 8,
+    "rank": 3,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Solutions Architect (Retail/CPG)",
@@ -112,7 +42,7 @@
     "posted_at": "2026-03-10T14:27:53Z"
   },
   {
-    "rank": 9,
+    "rank": 4,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Sr. Forward Deployed Engineer",
@@ -124,6 +54,76 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2026-03-11T05:07:23Z"
+  },
+  {
+    "rank": 5,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst - Wise Business",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000113661945",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-10T09:13:11.185Z"
+  },
+  {
+    "rank": 6,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Lead Product Analyst - Business Account Management",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000113662548",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-10T09:11:27.989Z"
+  },
+  {
+    "rank": 7,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Lead Product Analyst - Onboarding",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000113661852",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-10T09:11:05.016Z"
+  },
+  {
+    "rank": 8,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Product Analytics Manager - Liquidity (Investments)",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000113454827",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analytics'",
+    "intent_reasons": "boost: product analytics (+2); boost: product (+1)",
+    "posted_at": "2026-03-09T10:58:09.934Z"
+  },
+  {
+    "rank": 9,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Zopa",
+    "title": "Senior Product Analyst (Current Account)",
+    "location": "London",
+    "url": "https://jobs.lever.co/zopa/b81727d8-759c-4efc-a9e6-f125883253ca",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-09T10:13:27Z"
   },
   {
     "rank": 10,
@@ -141,31 +141,31 @@
   },
   {
     "rank": 11,
-    "tag": "ANALYTICS_BI",
-    "company": "Coinbase",
-    "title": "Analytics Engineer",
-    "location": "Remote - UK",
-    "url": "https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638",
-    "final_score": 6,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'analytics engineer'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-12T18:50:32Z"
-  },
-  {
-    "rank": 12,
     "tag": "CORE_DS",
-    "company": "Spotify",
-    "title": "Data Scientist - Company Planning and Execution (CPE)",
+    "company": "Trainline",
+    "title": "Data Scientist",
     "location": "London",
-    "url": "https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f",
+    "url": "https://jobs.ashbyhq.com/trainline/e9740ad6-d82d-434b-8441-545031641e8b",
     "final_score": 6,
     "base_score": 3,
     "intent_delta": 0,
     "match_reason": "+3 title match: 'data scientist'",
     "intent_reasons": "",
-    "posted_at": "2025-12-01T16:38:39Z"
+    "posted_at": "2026-03-13T10:57:20Z"
+  },
+  {
+    "rank": 12,
+    "tag": "ANALYTICS_BI",
+    "company": "Wise",
+    "title": "Lead Data Analyst - Operations",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000114678373",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-13T14:41:52.058Z"
   },
   {
     "rank": 13,
@@ -226,6 +226,34 @@
   {
     "rank": 17,
     "tag": "ANALYTICS_BI",
+    "company": "Coinbase",
+    "title": "Analytics Engineer",
+    "location": "Remote - UK",
+    "url": "https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'analytics engineer'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-12T18:50:32Z"
+  },
+  {
+    "rank": 18,
+    "tag": "CORE_DS",
+    "company": "Spotify",
+    "title": "Data Scientist - Company Planning and Execution (CPE)",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data scientist'",
+    "intent_reasons": "",
+    "posted_at": "2025-12-01T16:38:39Z"
+  },
+  {
+    "rank": 19,
+    "tag": "ANALYTICS_BI",
     "company": "Lendable",
     "title": "Operations Data Analyst (Special Projects)",
     "location": "London",
@@ -238,21 +266,7 @@
     "posted_at": "2026-03-11T08:12:16Z"
   },
   {
-    "rank": 18,
-    "tag": "ANALYTICS_BI",
-    "company": "Zopa",
-    "title": "Data Analyst (BI & Operations)",
-    "location": "London",
-    "url": "https://jobs.lever.co/zopa/50c439b1-33c7-44fd-a2b7-bfc882acfc9f",
-    "final_score": 6,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data analyst'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-09T10:36:19Z"
-  },
-  {
-    "rank": 19,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -266,7 +280,7 @@
     "posted_at": "2026-03-06T08:20:33Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Vanta",
     "title": "Solutions Engineer - Expansion",
@@ -280,7 +294,7 @@
     "posted_at": "2026-03-03T16:49:06Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Senior Data Scientist (Product)",
@@ -294,7 +308,7 @@
     "posted_at": "2026-03-05T13:36:55.995Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Braze",
     "title": "Forward-Deployed Data Scientist II",
@@ -309,7 +323,21 @@
     "posted_at": "2026-03-03T09:52:42Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
+    "tag": "ANALYTICS_BI",
+    "company": "Zopa",
+    "title": "Data Analyst (BI & Operations)",
+    "location": "London",
+    "url": "https://jobs.lever.co/zopa/50c439b1-33c7-44fd-a2b7-bfc882acfc9f",
+    "final_score": 4,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-09T10:36:19Z"
+  },
+  {
+    "rank": 25,
     "tag": "CORE_DS",
     "company": "Skyscanner",
     "title": "Data Scientist",
@@ -321,33 +349,5 @@
     "match_reason": "+3 title match: 'data scientist'",
     "intent_reasons": "",
     "posted_at": "2026-03-05T11:54:19Z"
-  },
-  {
-    "rank": 24,
-    "tag": "CORE_DS",
-    "company": "Spotify",
-    "title": "Data Scientist - Content Understanding",
-    "location": "London",
-    "url": "https://jobs.lever.co/spotify/cc60212e-e20b-407e-a877-32b3d8dfe11a",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data scientist'",
-    "intent_reasons": "",
-    "posted_at": "2025-12-15T13:58:28Z"
-  },
-  {
-    "rank": 25,
-    "tag": "CORE_DS",
-    "company": "Visa",
-    "title": "Senior Data Scientist, Payments Foundation Models",
-    "location": "Cambridge, UNITED KINGDOM, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Visa/744000113128959",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data scientist'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-06T09:58:54.963Z"
   }
 ]
