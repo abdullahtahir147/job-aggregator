@@ -31,20 +31,6 @@
     "rank": 3,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "Solutions Architect (Retail/CPG)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452396002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-10T14:27:53Z"
-  },
-  {
-    "rank": 4,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
     "title": "Sr. Forward Deployed Engineer",
     "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002",
@@ -56,7 +42,7 @@
     "posted_at": "2026-03-11T05:07:23Z"
   },
   {
-    "rank": 5,
+    "rank": 4,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -70,7 +56,7 @@
     "posted_at": "2026-03-10T09:13:11.185Z"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -84,7 +70,7 @@
     "posted_at": "2026-03-10T09:11:27.989Z"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -98,7 +84,7 @@
     "posted_at": "2026-03-10T09:11:05.016Z"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Product Analytics Manager - Liquidity (Investments)",
@@ -112,7 +98,7 @@
     "posted_at": "2026-03-09T10:58:09.934Z"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (Current Account)",
@@ -126,7 +112,7 @@
     "posted_at": "2026-03-09T10:13:27Z"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist (Marketing & Customer)",
@@ -140,7 +126,7 @@
     "posted_at": "2026-03-05T13:35:46.382Z"
   },
   {
-    "rank": 11,
+    "rank": 10,
     "tag": "CORE_DS",
     "company": "Trainline",
     "title": "Data Scientist",
@@ -154,7 +140,7 @@
     "posted_at": "2026-03-13T10:57:20Z"
   },
   {
-    "rank": 12,
+    "rank": 11,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Operations",
@@ -168,7 +154,7 @@
     "posted_at": "2026-03-13T14:41:52.058Z"
   },
   {
-    "rank": 13,
+    "rank": 12,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Treasury (FX Markets)",
@@ -182,7 +168,7 @@
     "posted_at": "2026-03-13T08:41:25.560Z"
   },
   {
-    "rank": 14,
+    "rank": 13,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Treasury Ledger and Safeguarding",
@@ -196,7 +182,7 @@
     "posted_at": "2026-03-13T08:41:07.443Z"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury (Liquidity)",
@@ -210,7 +196,7 @@
     "posted_at": "2026-03-13T08:39:25.613Z"
   },
   {
-    "rank": 16,
+    "rank": 15,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury Ledger and Safeguarding",
@@ -224,7 +210,7 @@
     "posted_at": "2026-03-13T08:27:57.896Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "ANALYTICS_BI",
     "company": "Coinbase",
     "title": "Analytics Engineer",
@@ -238,7 +224,7 @@
     "posted_at": "2026-03-12T18:50:32Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "CORE_DS",
     "company": "Spotify",
     "title": "Data Scientist - Company Planning and Execution (CPE)",
@@ -252,21 +238,21 @@
     "posted_at": "2025-12-01T16:38:39Z"
   },
   {
-    "rank": 19,
-    "tag": "ANALYTICS_BI",
-    "company": "Lendable",
-    "title": "Operations Data Analyst (Special Projects)",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/lendable/77e2a14b-f8c2-4b7c-b889-f98c20334e92",
+    "rank": 18,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Solutions Architect (Retail/CPG)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452396002",
     "final_score": 6,
     "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data analyst'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-11T08:12:16Z"
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-03-10T14:27:53Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -280,7 +266,7 @@
     "posted_at": "2026-03-06T08:20:33Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Vanta",
     "title": "Solutions Engineer - Expansion",
@@ -294,7 +280,7 @@
     "posted_at": "2026-03-03T16:49:06Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Senior Data Scientist (Product)",
@@ -308,7 +294,7 @@
     "posted_at": "2026-03-05T13:36:55.995Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Braze",
     "title": "Forward-Deployed Data Scientist II",
@@ -321,6 +307,20 @@
     "intent_reasons": "boost: forward-deployed (+4); boost: growth (+1); boost: product (+1); penalty: risk (-2)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew.&lt;/p&gt;\n&lt;p&gt;We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our organization.&lt;/p&gt;\n&lt;p&gt;To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to contribute: Acting with autonomy, having accountability and being open to new perspectives are essential to our continued success.&lt;/p&gt;\n&lt;p&gt;Our deep curiosity to learn and our eagerness to share diverse passions with others gives us balance and injects a one-of-a-kind vibrancy into our culture.&lt;/p&gt;\n&lt;p&gt;If you are driven to solve exhilarating challenges and have a bias toward action in the face of change, you will be empowered to make a real impact here, with a sharp and passionate team at your back. If Braze sounds like a place where you can thrive, we can’t wait to meet you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;WHAT YOU&#39;LL DO&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As our customer base continues to grow with the excitement around BrazeAI, we’re expanding our team! Join our Forward-Deployed Data Scientist group of creative technical experts who partner with customers to ensure",
     "posted_at": "2026-03-03T09:52:42Z"
+  },
+  {
+    "rank": 23,
+    "tag": "ANALYTICS_BI",
+    "company": "Lendable",
+    "title": "Operations Data Analyst (Special Projects)",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/lendable/77e2a14b-f8c2-4b7c-b889-f98c20334e92",
+    "final_score": 4,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-11T08:12:16Z"
   },
   {
     "rank": 24,
