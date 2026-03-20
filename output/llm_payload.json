@@ -86,6 +86,34 @@
   {
     "rank": 7,
     "tag": "ANALYTICS_BI",
+    "company": "Coinbase",
+    "title": "Analytics Engineer",
+    "location": "Remote - UK",
+    "url": "https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638",
+    "final_score": 4,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'analytics engineer'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-16T01:29:16Z"
+  },
+  {
+    "rank": 8,
+    "tag": "CORE_DS",
+    "company": "Spotify",
+    "title": "Data Scientist - Company Planning and Execution (CPE)",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f",
+    "final_score": 4,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data scientist'",
+    "intent_reasons": "",
+    "posted_at": "2025-12-01T16:38:39Z"
+  },
+  {
+    "rank": 9,
+    "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Treasury (FX Markets)",
     "location": "London, , United Kingdom",
@@ -98,7 +126,7 @@
     "posted_at": "2026-03-13T08:41:25.560Z"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Treasury Ledger and Safeguarding",
@@ -112,7 +140,7 @@
     "posted_at": "2026-03-13T08:41:07.443Z"
   },
   {
-    "rank": 9,
+    "rank": 11,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury (Liquidity)",
@@ -126,7 +154,7 @@
     "posted_at": "2026-03-13T08:39:25.613Z"
   },
   {
-    "rank": 10,
+    "rank": 12,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury Ledger and Safeguarding",
@@ -138,34 +166,6 @@
     "match_reason": "+3 title match: 'data analyst'",
     "intent_reasons": "",
     "posted_at": "2026-03-13T08:27:57.896Z"
-  },
-  {
-    "rank": 11,
-    "tag": "ANALYTICS_BI",
-    "company": "Coinbase",
-    "title": "Analytics Engineer",
-    "location": "Remote - UK",
-    "url": "https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'analytics engineer'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-16T01:29:16Z"
-  },
-  {
-    "rank": 12,
-    "tag": "CORE_DS",
-    "company": "Spotify",
-    "title": "Data Scientist - Company Planning and Execution (CPE)",
-    "location": "London",
-    "url": "https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data scientist'",
-    "intent_reasons": "",
-    "posted_at": "2025-12-01T16:38:39Z"
   },
   {
     "rank": 13,
@@ -213,7 +213,7 @@
     "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "Vanta",
-    "title": "Solutions Engineer, Upmarket (Pre-Sales) - EMEA [French]",
+    "title": "Solutions Engineer, Upmarket (Pre-Sales) - EMEA ",
     "location": "London, UK",
     "url": "https://jobs.ashbyhq.com/vanta/e16d0ea8-f05a-4939-92c9-475c59d5bc11",
     "final_score": 1,
@@ -225,20 +225,6 @@
   },
   {
     "rank": 17,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Vanta",
-    "title": "Solutions Engineer, Upmarket (Pre-Sales) - EMEA",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/vanta/d7885b43-4b3f-4a5c-a30c-f54f70cc2a30",
-    "final_score": 1,
-    "base_score": -2,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions engineer'; -5 title exclude: 'sales'",
-    "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-03-13T09:24:45Z"
-  },
-  {
-    "rank": 18,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Growth & Strategic Finance ",
@@ -252,7 +238,7 @@
     "posted_at": "2026-03-13T08:42:24.499Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Finance & Treasury",
@@ -266,7 +252,7 @@
     "posted_at": "2026-03-13T08:27:41.301Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "CORE_DS",
     "company": "DeepMind",
     "title": "Research Scientist, Multisensor Robotics & Dexterity",
@@ -280,7 +266,7 @@
     "posted_at": "2026-03-17T08:13:29Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "CORE_DS",
     "company": "DeepMind",
     "title": "Research Scientist, Gemini Diffusion",
@@ -294,7 +280,7 @@
     "posted_at": "2026-03-12T10:13:34Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "CORE_DS",
     "company": "DeepMind",
     "title": "Research Scientist, Reinforcement Learning",
