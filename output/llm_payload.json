@@ -6,7 +6,7 @@
     "title": "Senior Product Analyst - Wise Business",
     "location": "London, , United Kingdom",
     "url": "https://jobs.smartrecruiters.com/Wise/744000115157187",
-    "final_score": 9,
+    "final_score": 7,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
@@ -15,6 +15,20 @@
   },
   {
     "rank": 2,
+    "tag": "ANALYTICS_BI",
+    "company": "Wise",
+    "title": "Senior Data Analyst - Payment Operations",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000115856841",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-20T11:48:30.151Z"
+  },
+  {
+    "rank": 3,
     "tag": "CORE_DS",
     "company": "Deliveroo",
     "title": "Senior Data Scientist (Economist)",
@@ -26,20 +40,6 @@
     "match_reason": "+3 title match: 'data scientist'",
     "intent_reasons": "",
     "posted_at": "2026-03-17T15:17:43Z"
-  },
-  {
-    "rank": 3,
-    "tag": "ANALYTICS_BI",
-    "company": "Trainline",
-    "title": "Data Analyst",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63",
-    "final_score": 6,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data analyst'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-16T17:37:52Z"
   },
   {
     "rank": 4,
@@ -57,6 +57,20 @@
   },
   {
     "rank": 5,
+    "tag": "ANALYTICS_BI",
+    "company": "Trainline",
+    "title": "Data Analyst",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63",
+    "final_score": 4,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-16T17:37:52Z"
+  },
+  {
+    "rank": 6,
     "tag": "CORE_DS",
     "company": "Trainline",
     "title": "Data Scientist",
@@ -70,7 +84,7 @@
     "posted_at": "2026-03-13T10:57:20Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Operations",
@@ -84,35 +98,7 @@
     "posted_at": "2026-03-13T14:41:52.058Z"
   },
   {
-    "rank": 7,
-    "tag": "ANALYTICS_BI",
-    "company": "Coinbase",
-    "title": "Analytics Engineer",
-    "location": "Remote - UK",
-    "url": "https://www.coinbase.com/careers/positions/7701638?gh_jid=7701638",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'analytics engineer'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-16T01:29:16Z"
-  },
-  {
     "rank": 8,
-    "tag": "CORE_DS",
-    "company": "Spotify",
-    "title": "Data Scientist - Company Planning and Execution (CPE)",
-    "location": "London",
-    "url": "https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data scientist'",
-    "intent_reasons": "",
-    "posted_at": "2025-12-01T16:38:39Z"
-  },
-  {
-    "rank": 9,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Treasury (FX Markets)",
@@ -126,7 +112,7 @@
     "posted_at": "2026-03-13T08:41:25.560Z"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Treasury Ledger and Safeguarding",
@@ -140,7 +126,7 @@
     "posted_at": "2026-03-13T08:41:07.443Z"
   },
   {
-    "rank": 11,
+    "rank": 10,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury (Liquidity)",
@@ -154,7 +140,7 @@
     "posted_at": "2026-03-13T08:39:25.613Z"
   },
   {
-    "rank": 12,
+    "rank": 11,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury Ledger and Safeguarding",
@@ -168,7 +154,7 @@
     "posted_at": "2026-03-13T08:27:57.896Z"
   },
   {
-    "rank": 13,
+    "rank": 12,
     "tag": "CORE_DS",
     "company": "Spotify",
     "title": "Senior Machine Learning Engineer - Personalization",
@@ -182,13 +168,13 @@
     "posted_at": "2026-03-18T15:35:09Z"
   },
   {
-    "rank": 14,
+    "rank": 13,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Machine Learning Engineer",
     "location": "London, England, United Kingdom",
     "url": "https://jobs.smartrecruiters.com/ASOS/744000115155272",
-    "final_score": 3,
+    "final_score": 1,
     "base_score": 0,
     "intent_delta": 0,
     "match_reason": "",
@@ -196,13 +182,13 @@
     "posted_at": "2026-03-17T09:02:04.913Z"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "tag": "CORE_DS",
     "company": "Monzo",
     "title": "Senior Staff Machine Learning Scientist, Operations",
     "location": "Cardiff, London or Remote (UK)",
     "url": "https://job-boards.greenhouse.io/monzo/jobs/7571050",
-    "final_score": 3,
+    "final_score": 1,
     "base_score": 0,
     "intent_delta": 0,
     "match_reason": "",
@@ -210,7 +196,7 @@
     "posted_at": "2026-03-16T07:38:47Z"
   },
   {
-    "rank": 16,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "Vanta",
     "title": "Solutions Engineer, Upmarket (Pre-Sales) - EMEA ",
@@ -224,7 +210,7 @@
     "posted_at": "2026-03-13T13:36:54Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Growth & Strategic Finance ",
@@ -238,7 +224,7 @@
     "posted_at": "2026-03-13T08:42:24.499Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Finance & Treasury",
@@ -252,13 +238,13 @@
     "posted_at": "2026-03-13T08:27:41.301Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "CORE_DS",
     "company": "DeepMind",
     "title": "Research Scientist, Multisensor Robotics & Dexterity",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/deepmind/jobs/7672178",
-    "final_score": -2,
+    "final_score": -4,
     "base_score": -5,
     "intent_delta": 0,
     "match_reason": "-5 title exclude: 'research scientist'",
@@ -266,7 +252,7 @@
     "posted_at": "2026-03-17T08:13:29Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "CORE_DS",
     "company": "DeepMind",
     "title": "Research Scientist, Gemini Diffusion",
@@ -280,7 +266,7 @@
     "posted_at": "2026-03-12T10:13:34Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "CORE_DS",
     "company": "DeepMind",
     "title": "Research Scientist, Reinforcement Learning",
