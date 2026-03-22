@@ -1,53 +1,45 @@
 # Shortlist
 
-**Run ID:** `0d9947c359d6`
-**Generated:** 2026-03-21T09:38:44Z
+**Run ID:** `060527dda001`
+**Generated:** 2026-03-22T09:39:44Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
 **Intent scoring:** enabled
 **Freshness filter:** <= 7d
-**Results:** 20
+**Results:** 12
 
-### APPLIED_AI_FDE (2)
+### APPLIED_AI_FDE (1)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 4 | Databricks | Partner Solutions Architect | London, United Kingdom | 7d | 6 | 3 | +3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8439178002) | title match: 'solutions architect'; recent (7d) |
-| 15 | Vanta | Solutions Engineer, Upmarket (Pre-Sales) - EMEA  | London, UK | 6d | 1 | -2 | +3 | [Apply](https://jobs.ashbyhq.com/vanta/e16d0ea8-f05a-4939-92c9-475c59d5bc11) | title match: 'solutions engineer'; title exclude: 'sales'; recent (6d) |
+| 10 | Vanta | Solutions Engineer, Upmarket (Pre-Sales) - EMEA  | London, UK | 7d | 1 | -2 | +3 | [Apply](https://jobs.ashbyhq.com/vanta/e16d0ea8-f05a-4939-92c9-475c59d5bc11) | title match: 'solutions engineer'; title exclude: 'sales'; recent (7d) |
 
 ### PRODUCT_GROWTH_DATA (1)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 1 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 3d | 7 | 3 | +4 | [Apply](https://jobs.smartrecruiters.com/Wise/744000115157187) | title match: 'product analyst'; recent (3d) |
+| 1 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 4d | 7 | 3 | +4 | [Apply](https://jobs.smartrecruiters.com/Wise/744000115157187) | title match: 'product analyst'; recent (4d) |
 
-### CORE_DS (8)
-
-| # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
-|---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 3 | Deliveroo | Senior Data Scientist (Economist) | London - The River Building HQ | 2d | 6 | 3 | +3 | [Apply](https://jobs.ashbyhq.com/deliveroo/69b18306-5975-49bd-8282-a5a243faf839) | title match: 'data scientist'; very recent (2d) |
-| 6 | Trainline | Data Scientist | London | 6d | 4 | 3 | +1 | [Apply](https://jobs.ashbyhq.com/trainline/e9740ad6-d82d-434b-8441-545031641e8b) | title match: 'data scientist'; recent (6d) |
-| 12 | Spotify | Senior Machine Learning Engineer - Personalization | London | 1d | 3 | 0 | +3 | [Apply](https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5) | —; very recent (1d) |
-| 13 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 3d | 1 | 0 | +1 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000115155272) | —; recent (3d) |
-| 14 | Monzo | Senior Staff Machine Learning Scientist, Operations | Cardiff, London or Remote (UK) | 3d | 1 | 0 | +1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7571050) | —; recent (3d) |
-| 18 | DeepMind | Research Scientist, Multisensor Robotics & Dexterity | London, UK | 3d | -4 | -5 | +1 | [Apply](https://job-boards.greenhouse.io/deepmind/jobs/7672178) | title exclude: 'research scientist'; recent (3d) |
-| 19 | DeepMind | Research Scientist, Gemini Diffusion | London, UK | 7d | -4 | -5 | +1 | [Apply](https://job-boards.greenhouse.io/deepmind/jobs/7700399) | title exclude: 'research scientist'; recent (7d) |
-| 20 | DeepMind | Research Scientist, Reinforcement Learning | London, UK | 5d | -6 | -7 | +1 | [Apply](https://job-boards.greenhouse.io/deepmind/jobs/7716037) | title exclude: 'research scientist'; exclude kw: 'reinforcement learning'; recent (5d) |
-
-### ANALYTICS_BI (9)
+### CORE_DS (7)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 2 | Wise | Senior Data Analyst - Payment Operations | London, , United Kingdom | 0d | 6 | 3 | +3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000115856841) | title match: 'data analyst'; very recent (0d) |
-| 5 | Trainline | Data Analyst | London | 3d | 4 | 3 | +1 | [Apply](https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63) | title match: 'data analyst'; recent (3d) |
-| 7 | Wise | Lead Data Analyst - Operations | London, , United Kingdom | 6d | 4 | 3 | +1 | [Apply](https://jobs.smartrecruiters.com/Wise/744000114678373) | title match: 'data analyst'; recent (6d) |
-| 8 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom | 7d | 4 | 3 | +1 | [Apply](https://jobs.smartrecruiters.com/Wise/744000114558267) | title match: 'data analyst'; recent (7d) |
-| 9 | Wise | Lead Data Analyst - Treasury Ledger and Safeguarding | London, , United Kingdom | 7d | 4 | 3 | +1 | [Apply](https://jobs.smartrecruiters.com/Wise/744000114558196) | title match: 'data analyst'; recent (7d) |
-| 10 | Wise | Senior Data Analyst - Treasury (Liquidity) | London, , United Kingdom | 7d | 4 | 3 | +1 | [Apply](https://jobs.smartrecruiters.com/Wise/744000114555522) | title match: 'data analyst'; recent (7d) |
-| 11 | Wise | Senior Data Analyst - Treasury Ledger and Safeguarding | London, , United Kingdom | 7d | 4 | 3 | +1 | [Apply](https://jobs.smartrecruiters.com/Wise/744000114554552) | title match: 'data analyst'; recent (7d) |
-| 16 | Wise | Lead Data Analyst - Growth & Strategic Finance  | London, , United Kingdom | 7d | 0 | -2 | +2 | [Apply](https://jobs.smartrecruiters.com/Wise/744000114555428) | title match: 'data analyst'; title exclude: 'finance'; recent (7d) |
-| 17 | Wise | Senior Data Analyst - Finance & Treasury | London, , United Kingdom | 7d | -1 | -2 | +1 | [Apply](https://jobs.smartrecruiters.com/Wise/744000114555368) | title match: 'data analyst'; title exclude: 'finance'; recent (7d) |
+| 3 | Deliveroo | Senior Data Scientist (Economist) | London - The River Building HQ | 3d | 4 | 3 | +1 | [Apply](https://jobs.ashbyhq.com/deliveroo/69b18306-5975-49bd-8282-a5a243faf839) | title match: 'data scientist'; recent (3d) |
+| 5 | Trainline | Data Scientist | London | 7d | 4 | 3 | +1 | [Apply](https://jobs.ashbyhq.com/trainline/e9740ad6-d82d-434b-8441-545031641e8b) | title match: 'data scientist'; recent (7d) |
+| 7 | Spotify | Senior Machine Learning Engineer - Personalization | London | 2d | 3 | 0 | +3 | [Apply](https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5) | —; very recent (2d) |
+| 8 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 4d | 1 | 0 | +1 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000115155272) | —; recent (4d) |
+| 9 | Monzo | Senior Staff Machine Learning Scientist, Operations | Cardiff, London or Remote (UK) | 4d | 1 | 0 | +1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7571050) | —; recent (4d) |
+| 11 | DeepMind | Research Scientist, Multisensor Robotics & Dexterity | London, UK | 4d | -4 | -5 | +1 | [Apply](https://job-boards.greenhouse.io/deepmind/jobs/7672178) | title exclude: 'research scientist'; recent (4d) |
+| 12 | DeepMind | Research Scientist, Reinforcement Learning | London, UK | 6d | -6 | -7 | +1 | [Apply](https://job-boards.greenhouse.io/deepmind/jobs/7716037) | title exclude: 'research scientist'; exclude kw: 'reinforcement learning'; recent (6d) |
+
+### ANALYTICS_BI (3)
+
+| # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
+|---|---------|-------|----------|-----|-------|------|---|------|--------|
+| 2 | Wise | Senior Data Analyst - Payment Operations | London, , United Kingdom | 1d | 6 | 3 | +3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000115856841) | title match: 'data analyst'; very recent (1d) |
+| 4 | Trainline | Data Analyst | London | 4d | 4 | 3 | +1 | [Apply](https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63) | title match: 'data analyst'; recent (4d) |
+| 6 | Wise | Lead Data Analyst - Operations | London, , United Kingdom | 7d | 4 | 3 | +1 | [Apply](https://jobs.smartrecruiters.com/Wise/744000114678373) | title match: 'data analyst'; recent (7d) |
 
 ---
 _Generated by job-aggregator shortlist_
