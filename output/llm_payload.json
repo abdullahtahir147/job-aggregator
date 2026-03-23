@@ -58,39 +58,11 @@
   {
     "rank": 5,
     "tag": "CORE_DS",
-    "company": "Trainline",
-    "title": "Data Scientist",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/trainline/e9740ad6-d82d-434b-8441-545031641e8b",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data scientist'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-13T10:57:20Z"
-  },
-  {
-    "rank": 6,
-    "tag": "ANALYTICS_BI",
-    "company": "Wise",
-    "title": "Lead Data Analyst - Operations",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000114678373",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data analyst'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-13T14:41:52.058Z"
-  },
-  {
-    "rank": 7,
-    "tag": "CORE_DS",
     "company": "Spotify",
     "title": "Senior Machine Learning Engineer - Personalization",
     "location": "London",
     "url": "https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5",
-    "final_score": 3,
+    "final_score": 1,
     "base_score": 0,
     "intent_delta": 0,
     "match_reason": "",
@@ -98,7 +70,7 @@
     "posted_at": "2026-03-18T15:35:09Z"
   },
   {
-    "rank": 8,
+    "rank": 6,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Machine Learning Engineer",
@@ -112,7 +84,7 @@
     "posted_at": "2026-03-17T09:02:04.913Z"
   },
   {
-    "rank": 9,
+    "rank": 7,
     "tag": "CORE_DS",
     "company": "Monzo",
     "title": "Senior Staff Machine Learning Scientist, Operations",
@@ -126,21 +98,7 @@
     "posted_at": "2026-03-16T07:38:47Z"
   },
   {
-    "rank": 10,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Vanta",
-    "title": "Solutions Engineer, Upmarket (Pre-Sales) - EMEA ",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/vanta/e16d0ea8-f05a-4939-92c9-475c59d5bc11",
-    "final_score": 1,
-    "base_score": -2,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions engineer'; -5 title exclude: 'sales'",
-    "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-03-13T13:36:54Z"
-  },
-  {
-    "rank": 11,
+    "rank": 8,
     "tag": "CORE_DS",
     "company": "DeepMind",
     "title": "Research Scientist, Multisensor Robotics & Dexterity",
@@ -152,19 +110,5 @@
     "match_reason": "-5 title exclude: 'research scientist'",
     "intent_reasons": "",
     "posted_at": "2026-03-17T08:13:29Z"
-  },
-  {
-    "rank": 12,
-    "tag": "CORE_DS",
-    "company": "DeepMind",
-    "title": "Research Scientist, Reinforcement Learning",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/deepmind/jobs/7716037",
-    "final_score": -6,
-    "base_score": -7,
-    "intent_delta": 0,
-    "match_reason": "-5 title exclude: 'research scientist'; -2 exclude kw: 'reinforcement learning'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-14T09:24:47Z"
   }
 ]
