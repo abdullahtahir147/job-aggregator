@@ -1,10 +1,20 @@
 # Job Brief
 
-**Run:** `c924bcd6615b` | 2026-03-24T10:00:46Z
-**Companies:** 133 | **Jobs:** 13331 | **New:** 315 | **New UK:** 32 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 123
+**Run:** `a983debde5af` | 2026-03-25T09:59:34Z
+**Companies:** 133 | **Jobs:** 13296 | **New:** 312 | **New UK:** 35 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 118
 
 ## Apply Now
+
+- **ASOS — Applied Scientist (Marketing & Customer)** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
+  London, England, United Kingdom
+  Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000116455147)
+
+- **Lendable — Senior Product Analyst** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.ashbyhq.com/lendable/0ee3abae-d7cb-4f3d-a7fd-2eeb859bbb22)
 
 - **Wise — Lead Growth Analyst - Marketing Analytics** [PRODUCT_GROWTH_DATA]  Score: 7 (base 3, Δ+4) | 0d old
   London, , United Kingdom
@@ -16,14 +26,14 @@
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | recent (7d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000115157187)
 
-- **Wise — Senior Data Analyst - Payment Operations** [ANALYTICS_BI]  Score: 4 (base 3, Δ+1) | 3d old
-  London, , United Kingdom
-  Why: title match: 'data analyst' | recent (3d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000115856841)
+- **Zopa — Data Analyst (BI & Operations)** [ANALYTICS_BI]  Score: 6 (base 3, Δ+3) | 0d old
+  London
+  Why: title match: 'data analyst' | very recent (0d)
+  [Apply](https://jobs.lever.co/zopa/03369205-3d1d-4402-bdc9-f90cdbaec372)
 
-- **Deliveroo — Senior Data Scientist (Economist)** [CORE_DS]  Score: 4 (base 3, Δ+1) | 5d old
+- **Deliveroo — Senior Data Scientist (Economist)** [CORE_DS]  Score: 4 (base 3, Δ+1) | 6d old
   London - The River Building HQ
-  Why: title match: 'data scientist' | recent (5d)
+  Why: title match: 'data scientist' | recent (6d)
   [Apply](https://jobs.ashbyhq.com/deliveroo/69b18306-5975-49bd-8282-a5a243faf839)
 
 - **Trainline — Data Analyst** [ANALYTICS_BI]  Score: 4 (base 3, Δ+1) | 7d old
@@ -31,15 +41,17 @@
   Why: title match: 'data analyst' | recent (7d)
   [Apply](https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63)
 
-- **Spotify — Senior Machine Learning Engineer - Personalization** [CORE_DS]  Score: 1 (base 0, Δ+1) | 5d old
-  London
-  Why: — | recent (5d)
-  [Apply](https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5)
-
-- **ASOS — Machine Learning Engineer** [CORE_DS]  Score: 1 (base 0, Δ+1) | 7d old
+- **ASOS — Machine Learning Engineer (Recommenders)** [CORE_DS]  Score: 3 (base 0, Δ+3) | 0d old
   London, England, United Kingdom
-  Why: — | recent (7d)
-  [Apply](https://jobs.smartrecruiters.com/ASOS/744000115155272)
+  Why: — | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000116455344)
+
+## Worth a Look
+
+- **Spotify — Senior Machine Learning Engineer - Personalization** [CORE_DS]  Score: 1 (base 0, Δ+1) | 6d old
+  London
+  Why: — | recent (6d)
+  [Apply](https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5)
 
 - **Monzo — Senior Staff Machine Learning Scientist, Operations** [CORE_DS]  Score: 1 (base 0, Δ+1) | 7d old
   Cardiff, London or Remote (UK)

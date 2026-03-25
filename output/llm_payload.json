@@ -1,6 +1,34 @@
 [
   {
     "rank": 1,
+    "tag": "APPLIED_AI_FDE",
+    "company": "ASOS",
+    "title": "Applied Scientist (Marketing & Customer)",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000116455147",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'applied scientist'",
+    "intent_reasons": "boost: applied scientist (+3)",
+    "posted_at": "2026-03-24T16:42:41.511Z"
+  },
+  {
+    "rank": 2,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Lendable",
+    "title": "Senior Product Analyst",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/lendable/0ee3abae-d7cb-4f3d-a7fd-2eeb859bbb22",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-24T16:48:19Z"
+  },
+  {
+    "rank": 3,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Growth Analyst - Marketing Analytics",
@@ -14,7 +42,7 @@
     "posted_at": "2026-03-24T09:00:35.198Z"
   },
   {
-    "rank": 2,
+    "rank": 4,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -28,21 +56,21 @@
     "posted_at": "2026-03-17T09:10:30.135Z"
   },
   {
-    "rank": 3,
+    "rank": 5,
     "tag": "ANALYTICS_BI",
-    "company": "Wise",
-    "title": "Senior Data Analyst - Payment Operations",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000115856841",
-    "final_score": 4,
+    "company": "Zopa",
+    "title": "Data Analyst (BI & Operations)",
+    "location": "London",
+    "url": "https://jobs.lever.co/zopa/03369205-3d1d-4402-bdc9-f90cdbaec372",
+    "final_score": 6,
     "base_score": 3,
     "intent_delta": 0,
     "match_reason": "+3 title match: 'data analyst'",
     "intent_reasons": "",
-    "posted_at": "2026-03-20T11:48:30.151Z"
+    "posted_at": "2026-03-25T09:23:10Z"
   },
   {
-    "rank": 4,
+    "rank": 6,
     "tag": "CORE_DS",
     "company": "Deliveroo",
     "title": "Senior Data Scientist (Economist)",
@@ -56,7 +84,7 @@
     "posted_at": "2026-03-17T15:17:43Z"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "tag": "ANALYTICS_BI",
     "company": "Trainline",
     "title": "Data Analyst",
@@ -70,7 +98,21 @@
     "posted_at": "2026-03-16T17:37:52Z"
   },
   {
-    "rank": 6,
+    "rank": 8,
+    "tag": "CORE_DS",
+    "company": "ASOS",
+    "title": "Machine Learning Engineer (Recommenders)",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000116455344",
+    "final_score": 3,
+    "base_score": 0,
+    "intent_delta": 0,
+    "match_reason": "",
+    "intent_reasons": "",
+    "posted_at": "2026-03-24T16:44:37.604Z"
+  },
+  {
+    "rank": 9,
     "tag": "CORE_DS",
     "company": "Spotify",
     "title": "Senior Machine Learning Engineer - Personalization",
@@ -84,21 +126,7 @@
     "posted_at": "2026-03-18T15:35:09Z"
   },
   {
-    "rank": 7,
-    "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Machine Learning Engineer",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000115155272",
-    "final_score": 1,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-03-17T09:02:04.913Z"
-  },
-  {
-    "rank": 8,
+    "rank": 10,
     "tag": "CORE_DS",
     "company": "Monzo",
     "title": "Senior Staff Machine Learning Scientist, Operations",
@@ -109,6 +137,6 @@
     "intent_delta": 0,
     "match_reason": "",
     "intent_reasons": "",
-    "posted_at": "2026-03-16T07:38:47Z"
+    "posted_at": "2026-03-25T01:03:37Z"
   }
 ]
