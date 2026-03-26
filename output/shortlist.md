@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `a983debde5af`
-**Generated:** 2026-03-25T09:59:34Z
+**Run ID:** `898f06048981`
+**Generated:** 2026-03-26T10:05:35Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -9,35 +9,40 @@
 **Freshness filter:** <= 7d
 **Results:** 10
 
+### DEVREL_EVANGELISM (1)
+
+| # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
+|---|---------|-------|----------|-----|-------|------|---|------|--------|
+| 1 | GitLab | Senior Data Analyst, Marketing Analytics | Remote, Ireland; Remote, North America; Remote, United Kingdom | 0d | 14 | 5 | +9 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8472178002) | title match: 'data analyst'; keyword: 'attribution'; keyword: 'experiment' (+3 more); very recent (0d) |
+
 ### APPLIED_AI_FDE (1)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 1 | ASOS | Applied Scientist (Marketing & Customer) | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000116455147) | title match: 'applied scientist'; very recent (0d) |
+| 3 | ASOS | Applied Scientist (Marketing & Customer) | London, England, United Kingdom | 1d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000116455147) | title match: 'applied scientist'; very recent (1d) |
 
-### PRODUCT_GROWTH_DATA (3)
+### PRODUCT_GROWTH_DATA (2)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 2 | Lendable | Senior Product Analyst | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/0ee3abae-d7cb-4f3d-a7fd-2eeb859bbb22) | title match: 'product analyst'; very recent (0d) |
-| 3 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | 0d | 7 | 3 | +4 | [Apply](https://jobs.smartrecruiters.com/Wise/744000116345339) | title match: 'growth analyst'; very recent (0d) |
-| 4 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 7d | 7 | 3 | +4 | [Apply](https://jobs.smartrecruiters.com/Wise/744000115157187) | title match: 'product analyst'; recent (7d) |
+| 2 | Lendable | Senior Product Analyst | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/eb723531-8948-4f13-8e96-1bc9edf7128d) | title match: 'product analyst'; very recent (0d) |
+| 4 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | 0d | 7 | 3 | +4 | [Apply](https://jobs.smartrecruiters.com/Wise/744000116581397) | title match: 'growth analyst'; very recent (0d) |
 
 ### CORE_DS (4)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 6 | Deliveroo | Senior Data Scientist (Economist) | London - The River Building HQ | 6d | 4 | 3 | +1 | [Apply](https://jobs.ashbyhq.com/deliveroo/69b18306-5975-49bd-8282-a5a243faf839) | title match: 'data scientist'; recent (6d) |
-| 8 | ASOS | Machine Learning Engineer (Recommenders) | London, England, United Kingdom | 0d | 3 | 0 | +3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000116455344) | —; very recent (0d) |
-| 9 | Spotify | Senior Machine Learning Engineer - Personalization | London | 6d | 1 | 0 | +1 | [Apply](https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5) | —; recent (6d) |
-| 10 | Monzo | Senior Staff Machine Learning Scientist, Operations | Cardiff, London or Remote (UK) | 7d | 1 | 0 | +1 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7571050) | —; recent (7d) |
+| 7 | Deliveroo | Machine Learning Engineer | London - The River Building HQ | 0d | 3 | 0 | +3 | [Apply](https://jobs.ashbyhq.com/deliveroo/ab5e1561-0763-4b2a-b0e8-2b7aa51f19aa) | —; very recent (0d) |
+| 8 | Deliveroo | Senior Machine Learning Engineer | London - The River Building HQ | 0d | 3 | 0 | +3 | [Apply](https://jobs.ashbyhq.com/deliveroo/33917165-caf7-493a-8adb-d93b5175222e) | —; very recent (0d) |
+| 9 | ASOS | Machine Learning Engineer (Recommenders) | London, England, United Kingdom | 1d | 3 | 0 | +3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000116455344) | —; very recent (1d) |
+| 10 | Spotify | Senior Machine Learning Engineer - Personalization | London | 7d | 1 | 0 | +1 | [Apply](https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5) | —; recent (7d) |
 
 ### ANALYTICS_BI (2)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 5 | Zopa | Data Analyst (BI & Operations) | London | 0d | 6 | 3 | +3 | [Apply](https://jobs.lever.co/zopa/03369205-3d1d-4402-bdc9-f90cdbaec372) | title match: 'data analyst'; very recent (0d) |
-| 7 | Trainline | Data Analyst | London | 7d | 4 | 3 | +1 | [Apply](https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63) | title match: 'data analyst'; recent (7d) |
+| 5 | Deliveroo | Senior Analytics Engineer | London - The River Building HQ | 0d | 6 | 3 | +3 | [Apply](https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e) | title match: 'analytics engineer'; very recent (0d) |
+| 6 | Wise | Lead Data Analyst - CRM Analytics | London, , United Kingdom | 0d | 6 | 3 | +3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000116585757) | title match: 'data analyst'; very recent (0d) |
 
 ---
 _Generated by job-aggregator shortlist_
