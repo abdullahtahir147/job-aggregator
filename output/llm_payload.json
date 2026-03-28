@@ -12,7 +12,7 @@
     "match_reason": "+3 title match: 'data scientist'; +3 title match: 'product analytics'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'",
     "intent_reasons": "boost: product analytics (+2); boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;The Research, Analytics &amp;amp; Data Science (RAD) team at Intercom use data and insights to drive evidence based decision-making. We&#39;re a team of data scientists and product researchers who use data — both big and small — to unlock actionable insights about our customers, our products and our business. We generate insights that build customer empathy, drive product strategy and shape products that deliver real value to our customers. If you get really excited about as",
-    "posted_at": "2026-03-26T11:17:06Z"
+    "posted_at": "2026-03-27T08:06:31Z"
   },
   {
     "rank": 2,
@@ -60,20 +60,6 @@
   {
     "rank": 5,
     "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Lendable",
-    "title": "Senior Product Analyst",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/lendable/eb723531-8948-4f13-8e96-1bc9edf7128d",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-03-25T17:42:25Z"
-  },
-  {
-    "rank": 6,
-    "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst",
     "location": "London",
@@ -84,6 +70,20 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2025-11-27T14:39:55Z"
+  },
+  {
+    "rank": 6,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Lendable",
+    "title": "Senior Product Analyst",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/lendable/eb723531-8948-4f13-8e96-1bc9edf7128d",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-03-25T17:42:25Z"
   },
   {
     "rank": 7,
@@ -129,20 +129,6 @@
   },
   {
     "rank": 10,
-    "tag": "ANALYTICS_BI",
-    "company": "Deliveroo",
-    "title": "Senior Analytics Engineer",
-    "location": "London - The River Building HQ",
-    "url": "https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e",
-    "final_score": 6,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'analytics engineer'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-25T15:00:53Z"
-  },
-  {
-    "rank": 11,
     "tag": "CORE_DS",
     "company": "Intercom",
     "title": "Senior Data Scientist",
@@ -155,6 +141,20 @@
     "intent_reasons": "boost: growth (+1); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;What&#39;s the opportunity?&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;The Research, Analytics &amp;amp; Data Science (RAD) team at Intercom use data and insights to drive evidence based decision-making. We&#39;re a team of data scientists and product researchers who use data - both big and small -&amp;nbsp; to unlock actionable insights about our customers, our products and our business. We generate insights that build customer empathy, drive product strategy and shape products that deliver real value. If you get e",
     "posted_at": "2026-03-26T12:34:29Z"
+  },
+  {
+    "rank": 11,
+    "tag": "CORE_DS",
+    "company": "Spotify",
+    "title": "Data Scientist, Subscriptions",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data scientist'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-27T13:19:21Z"
   },
   {
     "rank": 12,
@@ -173,6 +173,20 @@
   {
     "rank": 13,
     "tag": "ANALYTICS_BI",
+    "company": "Deliveroo",
+    "title": "Senior Analytics Engineer",
+    "location": "London - The River Building HQ",
+    "url": "https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'analytics engineer'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-25T15:00:53Z"
+  },
+  {
+    "rank": 14,
+    "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - CRM Analytics",
     "location": "London, , United Kingdom",
@@ -185,21 +199,21 @@
     "posted_at": "2026-03-25T10:27:33.227Z"
   },
   {
-    "rank": 14,
-    "tag": "ANALYTICS_BI",
-    "company": "Zopa",
-    "title": "Data Analyst (BI & Operations)",
-    "location": "London",
-    "url": "https://jobs.lever.co/zopa/03369205-3d1d-4402-bdc9-f90cdbaec372",
-    "final_score": 6,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data analyst'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-25T09:23:10Z"
+    "rank": 15,
+    "tag": "APPLIED_AI_FDE",
+    "company": "OpenAI",
+    "title": "Recruiter, Forward Deployed Engineering",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/3593839b-bce8-4de7-862c-4807fd6e40c3",
+    "final_score": 5,
+    "base_score": -2,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'; -5 title exclude: 'recruiter'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-03-27T23:29:42Z"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Fraud Risk",
@@ -213,35 +227,7 @@
     "posted_at": "2026-03-26T17:39:57.457Z"
   },
   {
-    "rank": 16,
-    "tag": "CORE_DS",
-    "company": "Deliveroo",
-    "title": "Machine Learning Engineer",
-    "location": "London - The River Building HQ",
-    "url": "https://jobs.ashbyhq.com/deliveroo/ab5e1561-0763-4b2a-b0e8-2b7aa51f19aa",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-03-25T11:23:17Z"
-  },
-  {
     "rank": 17,
-    "tag": "CORE_DS",
-    "company": "Deliveroo",
-    "title": "Senior Machine Learning Engineer",
-    "location": "London - The River Building HQ",
-    "url": "https://jobs.ashbyhq.com/deliveroo/33917165-caf7-493a-8adb-d93b5175222e",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-03-25T11:18:10Z"
-  },
-  {
-    "rank": 18,
     "tag": "CORE_DS",
     "company": "Trainline",
     "title": "Machine Learning Engineer - Travel Experience",
@@ -255,7 +241,49 @@
     "posted_at": "2026-03-26T13:59:48Z"
   },
   {
+    "rank": 18,
+    "tag": "CORE_DS",
+    "company": "Trainline",
+    "title": "Machine Learning Engineering Manager - Supply",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/trainline/d04664ab-90ea-4ed5-9581-3b655a142f3d",
+    "final_score": 3,
+    "base_score": 0,
+    "intent_delta": 0,
+    "match_reason": "",
+    "intent_reasons": "",
+    "posted_at": "2026-03-27T11:15:33Z"
+  },
+  {
     "rank": 19,
+    "tag": "CORE_DS",
+    "company": "Deliveroo",
+    "title": "Machine Learning Engineer",
+    "location": "London - The River Building HQ",
+    "url": "https://jobs.ashbyhq.com/deliveroo/ab5e1561-0763-4b2a-b0e8-2b7aa51f19aa",
+    "final_score": 3,
+    "base_score": 0,
+    "intent_delta": 0,
+    "match_reason": "",
+    "intent_reasons": "",
+    "posted_at": "2026-03-25T11:23:17Z"
+  },
+  {
+    "rank": 20,
+    "tag": "CORE_DS",
+    "company": "Deliveroo",
+    "title": "Senior Machine Learning Engineer",
+    "location": "London - The River Building HQ",
+    "url": "https://jobs.ashbyhq.com/deliveroo/33917165-caf7-493a-8adb-d93b5175222e",
+    "final_score": 3,
+    "base_score": 0,
+    "intent_delta": 0,
+    "match_reason": "",
+    "intent_reasons": "",
+    "posted_at": "2026-03-25T11:18:10Z"
+  },
+  {
+    "rank": 21,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Machine Learning Engineer (Recommenders)",

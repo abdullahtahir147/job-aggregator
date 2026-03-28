@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `db57b1947b51` | 2026-03-27T09:59:10Z
-**Companies:** 133 | **Jobs:** 13339 | **New:** 304 | **New UK:** 41 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 116
+**Run:** `874b884f3dde` | 2026-03-28T09:44:42Z
+**Companies:** 133 | **Jobs:** 13369 | **New:** 249 | **New UK:** 28 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 115
 
 ## Apply Now
 
@@ -26,19 +26,19 @@
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000117244666)
 
-- **Lendable — Senior Product Analyst** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.ashbyhq.com/lendable/eb723531-8948-4f13-8e96-1bc9edf7128d)
-
 - **Zopa — Senior Product Analyst** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.lever.co/zopa/78aca808-e048-4017-9e40-b6effa94bf4b)
 
-- **ASOS — Applied Scientist (Marketing & Customer)** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 1d old
+- **Lendable — Senior Product Analyst** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 1d old
+  London
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (1d)
+  [Apply](https://jobs.ashbyhq.com/lendable/eb723531-8948-4f13-8e96-1bc9edf7128d)
+
+- **ASOS — Applied Scientist (Marketing & Customer)** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 2d old
   London, England, United Kingdom
-  Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (1d)
+  Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (2d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000116455147)
 
 - **MongoDB — Senior Solutions Architect** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 0d old
@@ -48,60 +48,65 @@
 
 ## Worth a Look
 
-- **Wise — Lead Growth Analyst - Marketing Analytics** [PRODUCT_GROWTH_DATA]  Score: 7 (base 3, Δ+4) | 0d old
+- **Wise — Lead Growth Analyst - Marketing Analytics** [PRODUCT_GROWTH_DATA]  Score: 7 (base 3, Δ+4) | 1d old
   London, , United Kingdom
-  Why: title match: 'growth analyst' | boost: growth (+1) | very recent (0d)
+  Why: title match: 'growth analyst' | boost: growth (+1) | very recent (1d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000116581397)
-
-- **Deliveroo — Senior Analytics Engineer** [ANALYTICS_BI]  Score: 6 (base 3, Δ+3) | 0d old
-  London - The River Building HQ
-  Why: title match: 'analytics engineer' | very recent (0d)
-  [Apply](https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e)
 
 - **Intercom — Senior Data Scientist** [CORE_DS]  Score: 6 (base 1, Δ+5) | 0d old
   London, England
   Why: title match: 'data scientist'; exclude kw: 'platform' | boost: growth (+1); boost: product (+1) | very recent (0d)
   [Apply](https://job-boards.greenhouse.io/intercom/jobs/7749323)
 
+- **Spotify — Data Scientist, Subscriptions** [CORE_DS]  Score: 6 (base 3, Δ+3) | 0d old
+  London
+  Why: title match: 'data scientist' | very recent (0d)
+  [Apply](https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3)
+
 - **Wise — Lead Analytics Engineer ** [ANALYTICS_BI]  Score: 6 (base 3, Δ+3) | 0d old
   London, , United Kingdom
   Why: title match: 'analytics engineer' | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000116951473)
 
-- **Wise — Lead Data Analyst - CRM Analytics** [ANALYTICS_BI]  Score: 6 (base 3, Δ+3) | 0d old
+- **Deliveroo — Senior Analytics Engineer** [ANALYTICS_BI]  Score: 6 (base 3, Δ+3) | 1d old
+  London - The River Building HQ
+  Why: title match: 'analytics engineer' | very recent (1d)
+  [Apply](https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e)
+
+- **Wise — Lead Data Analyst - CRM Analytics** [ANALYTICS_BI]  Score: 6 (base 3, Δ+3) | 1d old
   London, , United Kingdom
-  Why: title match: 'data analyst' | very recent (0d)
+  Why: title match: 'data analyst' | very recent (1d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000116585757)
 
-- **Zopa — Data Analyst (BI & Operations)** [ANALYTICS_BI]  Score: 6 (base 3, Δ+3) | 1d old
-  London
-  Why: title match: 'data analyst' | very recent (1d)
-  [Apply](https://jobs.lever.co/zopa/03369205-3d1d-4402-bdc9-f90cdbaec372)
+- **OpenAI — Recruiter, Forward Deployed Engineering** [APPLIED_AI_FDE]  Score: 5 (base -2, Δ+7) | 0d old
+  London, UK
+  Why: title match: 'forward deployed'; title exclude: 'recruiter' | boost: forward deployed (+4) | very recent (0d)
+  [Apply](https://jobs.ashbyhq.com/openai/3593839b-bce8-4de7-862c-4807fd6e40c3)
 
 - **Wise — Senior Product Analyst - Fraud Risk** [PRODUCT_GROWTH_DATA]  Score: 4 (base 3, Δ+1) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1); penalty: fraud (-3); penalt... | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000117033378)
 
-- **Deliveroo — Machine Learning Engineer** [CORE_DS]  Score: 3 (base 0, Δ+3) | 0d old
-  London - The River Building HQ
-  Why: — | very recent (0d)
-  [Apply](https://jobs.ashbyhq.com/deliveroo/ab5e1561-0763-4b2a-b0e8-2b7aa51f19aa)
-
-- **Deliveroo — Senior Machine Learning Engineer** [CORE_DS]  Score: 3 (base 0, Δ+3) | 0d old
-  London - The River Building HQ
-  Why: — | very recent (0d)
-  [Apply](https://jobs.ashbyhq.com/deliveroo/33917165-caf7-493a-8adb-d93b5175222e)
-
 - **Trainline — Machine Learning Engineer - Travel Experience** [CORE_DS]  Score: 3 (base 0, Δ+3) | 0d old
   London
   Why: — | very recent (0d)
   [Apply](https://jobs.ashbyhq.com/trainline/f267b3ea-fae1-4ebf-bf3e-348d3cecbeeb)
 
-- **ASOS — Machine Learning Engineer (Recommenders)** [CORE_DS]  Score: 3 (base 0, Δ+3) | 1d old
-  London, England, United Kingdom
+- **Trainline — Machine Learning Engineering Manager - Supply** [CORE_DS]  Score: 3 (base 0, Δ+3) | 0d old
+  London
+  Why: — | very recent (0d)
+  [Apply](https://jobs.ashbyhq.com/trainline/d04664ab-90ea-4ed5-9581-3b655a142f3d)
+
+- **Deliveroo — Machine Learning Engineer** [CORE_DS]  Score: 3 (base 0, Δ+3) | 1d old
+  London - The River Building HQ
   Why: — | very recent (1d)
-  [Apply](https://jobs.smartrecruiters.com/ASOS/744000116455344)
+  [Apply](https://jobs.ashbyhq.com/deliveroo/ab5e1561-0763-4b2a-b0e8-2b7aa51f19aa)
+
+- **Deliveroo — Senior Machine Learning Engineer** [CORE_DS]  Score: 3 (base 0, Δ+3) | 1d old
+  London - The River Building HQ
+  Why: — | very recent (1d)
+  [Apply](https://jobs.ashbyhq.com/deliveroo/33917165-caf7-493a-8adb-d93b5175222e)
 
 ---
 _Generated by job-aggregator brief_

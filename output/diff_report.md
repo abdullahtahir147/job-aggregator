@@ -1,123 +1,114 @@
 # Diff Report
 
-**Run ID:** `db57b1947b51`
-**Timestamp:** 2026-03-27T09:59:10Z
-**Previous run:** 2026-03-26T10:05:35Z
-**New jobs this run:** 304
+**Run ID:** `874b884f3dde`
+**Timestamp:** 2026-03-28T09:44:42Z
+**Previous run:** 2026-03-27T09:59:10Z
+**New jobs this run:** 249
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **16** new high-scoring job(s).
+Found **15** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
-| 1 | Gusto | Senior Data Scientist, Risk  | San Francisco, CA;New York, NY | 7 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7656216) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
-| 2 | Intercom | Senior Data Scientist - Product Analytics | London, England 🇬🇧 | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/6317929) | title match: 'data scientist'; title match: 'product analytics'; keyword: 'experiment' (+2 more) |
-| 3 | DeepMind | Data Scientist, Responsible Development and Innovation | New York City, New York, US | 5 | [Apply](https://job-boards.greenhouse.io/deepmind/jobs/7336872) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' |
-| 4 | Stripe | Forward Deployed AI Accelerator, Marketing | United States | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7747638) | title match: 'forward deployed' |
-| 5 | Stripe | Forward Deployed AI Accelerator, Marketing | United States | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7747640) | title match: 'forward deployed' |
-| 6 | Zopa | Senior Product Analyst | London 🇬🇧 | 3 | [Apply](https://jobs.lever.co/zopa/78aca808-e048-4017-9e40-b6effa94bf4b) | title match: 'product analyst' |
-| 7 | ASOS | Product Analyst  | London, England, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000117244666) | title match: 'product analyst' |
-| 8 | Databricks | Delivery Solutions Architect | Seoul, South Korea | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8482406002) | title match: 'solutions architect' |
-| 9 | Databricks | Lead Solutions Architect | Munich, Germany | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480815002) | title match: 'solutions architect' |
-| 10 | MongoDB | Senior Solutions Architect | London 🇬🇧 | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7759201) | title match: 'solutions architect' |
-| 11 | Wise | Senior Product Analyst - Fraud Risk | London, , United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117033378) | title match: 'product analyst' |
-| 12 | Wise | Lead Analytics Engineer  | London, , United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000116951473) | title match: 'analytics engineer' |
-| 13 | OpenAI | Technical Deployment Lead, Forward Deployed Engineering - London | London, UK 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/openai/2c16575f-1a04-43af-bd0a-8e8f72e3255f) | title match: 'forward deployed' |
-| 14 | OpenAI | Applied AI Engineer, Codex Core Agent | San Francisco | 3 | [Apply](https://jobs.ashbyhq.com/openai/577e6673-0a4a-491b-9a0d-facbdd3bdf3c) | title match: 'applied ai' |
-| 15 | Datadog | Senior Developer Advocate - Data Observability | California, USA, Remote; Colorado, USA, Remote; Illinois, USA, Remote; New York, USA, Remote; Washington, USA, Remote | 3 | [Apply](https://careers.datadoghq.com/detail/7555520/?gh_jid=7555520) | title match: 'developer advocate' |
-| 16 | BoschGroup | Master Data Analyst | Lincolnshire, IL, United States | 3 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117022112) | title match: 'data analyst' |
+| 1 | Stripe | Risk & Control Health Data Analyst | Canada | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7577621) | title match: 'data analyst' |
+| 2 | Databricks | Solutions Engineer | Zürich, Switzerland | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8454972002) | title match: 'solutions engineer' |
+| 3 | Databricks | Solutions Engineer | Munich, Germany | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8454966002) | title match: 'solutions engineer' |
+| 4 | Databricks | Solutions Engineer  | Stockholm, Sweden | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8454970002) | title match: 'solutions engineer' |
+| 5 | Databricks | Solutions Engineer (Data and AI) | Paris, France | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8454968002) | title match: 'solutions engineer' |
+| 6 | Databricks | Specialist Solutions Architect - AI & ML (Communications, Media, Entertainment & Games) | United States | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480547002) | title match: 'solutions architect' |
+| 7 | Databricks | Sr Analytics Engineer - GTM Strategy and Operations | New York; San Francisco, California | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8479036002) | title match: 'analytics engineer' |
+| 8 | Wise | Senior Data Analyst - Internal Audit  | London, , United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117368668) | title match: 'data analyst' |
+| 9 | Spotify | Data Scientist, Subscriptions | London 🇬🇧 | 3 | [Apply](https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3) | title match: 'data scientist' |
+| 10 | Vanta | Strategic Solutions Engineer | Remote U.S. | 3 | [Apply](https://jobs.ashbyhq.com/vanta/7e549f7e-c9c0-4bf0-a38b-3676b7de977b) | title match: 'solutions engineer' |
+| 11 | OpenAI | Sourcer, Forward Deployment Engineering | San Francisco | 3 | [Apply](https://jobs.ashbyhq.com/openai/c5a62426-169a-46a9-9dc9-1c6a2a7c2762) | title match: 'deployment engineer' |
+| 12 | OpenAI | Sourcer, Forward Deployment Engineering | New York City | 3 | [Apply](https://jobs.ashbyhq.com/openai/410fd00e-6bde-42d5-9bb8-c6504f6b3bbd) | title match: 'deployment engineer' |
+| 13 | OpenAI | Sourcer, Forward Deployment Engineering | Seattle | 3 | [Apply](https://jobs.ashbyhq.com/openai/1c3f1e61-755c-4b48-b943-b1b08ebbae8b) | title match: 'deployment engineer' |
+| 14 | OpenAI | Sourcer, Forward Deployment Engineering | Remote - US | 3 | [Apply](https://jobs.ashbyhq.com/openai/766e8c85-af56-4e6b-9097-8ac6c9eb10a5) | title match: 'deployment engineer' |
+| 15 | Visa | Data Scientist, Predictive Fraud Intelligence  | Atlanta, GA, United States | 3 | [Apply](https://jobs.smartrecruiters.com/Visa/744000117342711) | title match: 'data scientist' |
 
 ---
 
 ## New UK Jobs
 
-Found **34** new UK posting(s) not in top matches.
+Found **26** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
-| 1 | ASOS | Accounts Receivable Analyst | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000117024507) |
-| 2 | ASOS | Financial Accounting Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000117250268) |
-| 3 | ASOS | Senior Assistant Buyer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000116938197) |
-| 4 | ASOS | Senior Customer Escalations Specialist | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000117245938) |
-| 5 | Block (Square) | Manager, Strategic Account Management | London, United Kingdom | 0 | [Apply](http://block.xyz/careers/jobs/5118407008?gh_jid=5118407008) |
-| 6 | Canva | EMEA Content Strategist / Lead | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Canva/6000000000960227) |
-| 7 | Canva | Enterprise Customer Support Specialist (French speaking) | London, , United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/Canva/6000000000960216) |
-| 8 | Canva | Enterprise Customer Support Specialist (German speaking) | London, , United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/Canva/6000000000960221) |
-| 9 | Canva | Enterprise Customer Support Team Lead | London, , United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/Canva/6000000000960232) |
-| 10 | Canva | Localization Program Manager - Pro Design | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Canva/6000000000960163) |
-| 11 | Canva | Localization Strategist – AI & Product expansion | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Canva/6000000000960158) |
-| 12 | DeepMind | People Experience & Delivery Partner  - 12 Months - FTC - London, UK | London, UK | 0 | [Apply](https://job-boards.greenhouse.io/deepmind/jobs/7759481) |
-| 13 | Deliveroo | Commercial City Manager - Milton Keynes & Northampton | London - The River Building HQ | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/f8aa28ef-c33a-4e62-ad8b-7281b9cdab33) |
-| 14 | Deliveroo | Commercial City Manager - Oxford/Swindon/Newbury | London - The River Building HQ | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/70f1b197-81cb-41f5-b613-d74918349922) |
-| 15 | Deliveroo | Finance Assistant  | London - The River Building HQ | -5 | [Apply](https://jobs.ashbyhq.com/deliveroo/3586d3ef-9cd4-4d1a-a310-8b33f793e6a4) |
-| 16 | Deliveroo | Head of Strategic Partnerships, Drive | London - The River Building HQ | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/7d4d625c-da64-4c98-a48b-5c1e2bb0ec2a) |
-| 17 | Deliveroo | Merchant Support Team Leader | Manchester - Main Office | -5 | [Apply](https://jobs.ashbyhq.com/deliveroo/6122ee76-1363-4422-b1b5-9c6dbf6ca205) |
-| 18 | Deliveroo | Strategic Partnerships, Drive | London - The River Building HQ | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/17b48fc6-1395-45c9-aa20-9c3e637f9fba) |
-| 19 | GitLab | Customer Success Engineer, EMEA | Remote, Germany; Remote, Ireland; Remote, United Kingdom | -5 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8476852002) |
-| 20 | Intercom | Engineering Manager, Forward Deployed Engineering | Dublin, Ireland; London, England | 1 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7749413) |
-| 21 | Intercom | Senior Data Scientist | London, England | 1 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7749323) |
-| 22 | Lendable | Director of Second Charge Mortgages | London | 0 | [Apply](https://jobs.ashbyhq.com/lendable/2a2b0d84-c857-41d0-86dd-c18559eafef3) |
-| 23 | Moneybox | Web Developer | London Office | 0 | [Apply](https://jobs.lever.co/moneyboxapp/9d65a50a-eb5c-4af8-97d4-6e591680d286) |
-| 24 | Spotify | Backend Engineer - Personalization | London | -5 | [Apply](https://jobs.lever.co/spotify/f542541d-3427-41fd-b7da-bf272bd8b755) |
-| 25 | Trainline | Machine Learning Engineer - Travel Experience | London | 0 | [Apply](https://jobs.ashbyhq.com/trainline/f267b3ea-fae1-4ebf-bf3e-348d3cecbeeb) |
-| 26 | Wise | Analytics Director - Regional Platform | London, , United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117242282) |
-| 27 | Wise | Growth Marketing Lead - DACH | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117248067) |
-| 28 | Wise | Growth Marketing Lead - Spain | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117246168) |
-| 29 | Wise | Head of Creative | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000116946309) |
-| 30 | Wise | Senior Data Science Manager - Marketing | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117243367) |
-| 31 | Wise | Senior Finance Business Partner - Core Functions | London, , United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/Wise/744000116940197) |
-| 32 | Wise | Senior Revenue Operations Manager | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117022008) |
-| 33 | Zopa | Distributor Risk Lead | London | 0 | [Apply](https://jobs.lever.co/zopa/3cc55902-4524-475b-ada7-43af0daaf180) |
-| 34 | Zopa | Senior Software Engineer - London | London | 0 | [Apply](https://jobs.lever.co/zopa/915ff34b-bc51-48db-be14-7947a39162d0) |
+| 1 | ASOS | Accounts Receivable Analyst | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000117295497) |
+| 2 | Deliveroo | City Manager - Colchester & Chelmsford | London - The River Building HQ | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/aa536317-d1a3-48c0-ac39-3cc363eca8a6) |
+| 3 | Deliveroo | Commercial Account Manager | Manchester - Main Office | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/067701f4-250f-4982-bfe0-6c62a6498de0) |
+| 4 | Deliveroo | Commercial City Manager | Manchester - Main Office | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/e366f890-160b-4fb5-bf1d-d9f529d44c53) |
+| 5 | Deliveroo | Corporate Service Centre Agent (French Speaking) - Deliveroo For Work (DfW) | Manchester - Main Office | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/5e19df78-3291-42d1-9ae9-6be624bc5ca3) |
+| 6 | Deliveroo | Corporate Service Centre Agent - Deliveroo for Work (DfW) | Manchester - Main Office | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/7918061c-eac9-41cc-9be2-4d1e8afe98a0) |
+| 7 | Deliveroo | Junior Corporate Account Manager | London - The River Building HQ | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/bf5880e3-541b-4a05-bf41-254a77dd096d) |
+| 8 | Deliveroo | Senior Account Manager | Manchester - Main Office | 0 | [Apply](https://jobs.ashbyhq.com/deliveroo/d6713faa-5d86-4a45-a8e1-0eed6d15a731) |
+| 9 | Farfetch | Floor Supervisor | UK London, United Kingdom, Browns Retail | 0 | [Apply](https://jobs.lever.co/farfetch/619378be-628a-4474-8159-ce40e639f1b6) |
+| 10 | Farfetch | Stock Assistant | UK London, United Kingdom, Browns Retail | 0 | [Apply](https://jobs.lever.co/farfetch/bac7cf2c-0cd3-46d9-ab4d-56b28aa14543) |
+| 11 | Figma | Software Engineer, AI Product (London, United Kingdom) | London, England | 0 | [Apply](https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004) |
+| 12 | LaunchDarkly | Enterprise Account Executive - UK  | London, England, United Kingdom | -5 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7682639003) |
+| 13 | OpenAI | Recruiter, Forward Deployed Engineering | London, UK | -2 | [Apply](https://jobs.ashbyhq.com/openai/3593839b-bce8-4de7-862c-4807fd6e40c3) |
+| 14 | Spotify | Product Designer - Core Experience (Core Value & Engagement) | London | 0 | [Apply](https://jobs.lever.co/spotify/1045d233-1896-4876-a2b2-86c7510575aa) |
+| 15 | Stripe | Data Writer and Editor  | London | 0 | [Apply](https://stripe.com/jobs/search?gh_jid=7743311) |
+| 16 | Tide | Account Executive | United Kingdom | -5 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7681876003) |
+| 17 | Trainline | Customer Relations Advisor | Edinburgh | 0 | [Apply](https://jobs.ashbyhq.com/trainline/95257968-ce15-465e-9131-392d6e6d44fa) |
+| 18 | Trainline | Machine Learning Engineering Manager - Supply | London | 0 | [Apply](https://jobs.ashbyhq.com/trainline/d04664ab-90ea-4ed5-9581-3b655a142f3d) |
+| 19 | Vanta | Enterprise Solution Architect | London, UK | 0 | [Apply](https://jobs.ashbyhq.com/vanta/465fd2f7-a101-4da0-a1f3-8bc8ea6a26cb) |
+| 20 | Visa | Events Planning Associate  | Kyiv, UKRAINE, Ukraine | 0 | [Apply](https://jobs.smartrecruiters.com/Visa/744000117254278) |
+| 21 | Wise | Engineering Lead | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117328394) |
+| 22 | Wise | Engineering Manager - Treasury Global Liquidity  | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117262567) |
+| 23 | Wise | Head of Compliance - UK | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117251145) |
+| 24 | Wise | Senior Software Engineer I - Wise for Enterprise - Java | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117330737) |
+| 25 | Wise | Senior Software Engineer II - Wise for Enterprise - Java | London, , United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117327642) |
+| 26 | Yext | Field Marketing Manager  | London, UK | 0 | [Apply](https://job-boards.greenhouse.io/yext/jobs/7749176) |
 
 ---
 
 ## Other New Jobs
 
-Found **254** other new posting(s).
+Found **208** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
-| 1 | Airtable | Demo Engineer | Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8423374002) |
-| 2 | BoschGroup |  CNC Machinist | Pineville, NC, United States | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117046164) |
-| 3 | BoschGroup | .Net Full stack Developer | bangalore, , India | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117248196) |
-| 4 | BoschGroup | ADAS研发降本项目管理_XC | Suzhou, Jiangsu, China | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117156894) |
-| 5 | BoschGroup | AI Platform & Business AI Solutions Lead – Mobility Aftermarket | Shanghai, Shanghai, China | -4 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117215377) |
-| 6 | BoschGroup | ANALISTA DE PROCESSOS EM DESENVOLVIMENTO DE FORNECEDORES PL (33441) | Joinville, SC, Brazil | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000116970456) |
-| 7 | BoschGroup | ASSISTENTE TÉCNICO MECÂNICO (SERVIÇO DE CAMPO - HIDRÁULICA | Itatiba, SP, Brazil | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117055382) |
-| 8 | BoschGroup | AUXILIAR DE SERVICE (Interno) | Itatiba, SP, Brazil | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000116997564) |
-| 9 | BoschGroup | Apprenti(e) Assistant(e) Consultant(e) Logistique Service Client H/F/N | Saint-Ouen-sur-Seine, IDF, France | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117023618) |
-| 10 | BoschGroup | Apprenti(e) assistant(e) gestionnaire commercial(e) business opérations H/F/N | Saint-Ouen-sur-Seine, IDF, France | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000116967498) |
-| 11 | BoschGroup | Apprenti(e) assistant(e) gestionnaire commercial(e) et automatisation H/F/N | Saint-Ouen-sur-Seine, IDF, France | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000116972339) |
-| 12 | BoschGroup | Apprenti(e) assistant(e) responsable logistique H/F/N | Saint-Ouen-sur-Seine, IDF, France | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000116978160) |
-| 13 | BoschGroup | Apprenti(e) opérateur(trice) logistique H/F/N | Bobigny, IDF, France | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117016877) |
-| 14 | BoschGroup | Apprenti(e) simulation et développement ADAS H/F/N | Bobigny, IDF, France | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117017313) |
-| 15 | BoschGroup | Auditor de procesos  | Parque Industrial El Marqués, Qro., Mexico | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117048937) |
-| 16 | BoschGroup | Außendienstmitarbeiter - Heizungstechnik Buderus Tirol (w/m/div.) | Innsbruck, , Austria | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117216112) |
-| 17 | BoschGroup | Azure DevOps Specialist | bangalore, , India | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000116917607) |
-| 18 | BoschGroup | Beszerzési Minőségbiztosítási Mérnök - autóipari terület | Purchasing Quality Engineer - automotive area | Miskolc, , Hungary | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000116982927) |
-| 19 | BoschGroup | Business Development Manager – New South Wales  | Kings Park, NSW, Australia | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117077747) |
-| 20 | BoschGroup | Business Development Manager – Victoria / South Australia | Clayton, VIC, Australia | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117077867) |
-| 21 | BoschGroup | CONSULTOR COMERCIAL JR (ABRASIVOS) - CURITIBA - 33985 | Curitiba, PR, Brazil | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117077917) |
-| 22 | BoschGroup | Commercial Functions Director | Queretaro, , Mexico | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117070027) |
-| 23 | BoschGroup | Controls Engineer | Lincolnshire, IL, United States | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117022597) |
-| 24 | BoschGroup | Digitalization Internship Quality Area  | Torino, Piemonte, Italy | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000116997495) |
-| 25 | BoschGroup | Dock Operator - Shipping (1st Shift) | West Memphis, AR, United States | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117038537) |
+| 1 | BoschGroup | ADAS Hardware Electronics Intern/Co-Op | Plymouth, MI, United States | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117326617) |
+| 2 | BoschGroup | ADAS Hardware Optics Development Intern/Co-Op | Plymouth, MI, United States | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117325527) |
+| 3 | BoschGroup | AGENTE DE ATENDIMENTO I - VAGA AFIRMATIVA PARA PCD (32068, 33958) | Joinville, SANTA CATARINA, Brazil | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117399227) |
+| 4 | BoschGroup | ANALISTA DE NOVOS NEGÓCIOS JR (9790238) | Campinas, SP, Brazil | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117361748) |
+| 5 | BoschGroup | ASSISTENTE DE BACKOFFICE E PÓS VENDAS SR (33937) | Joinville, SC, Brazil | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117383307) |
+| 6 | BoschGroup | Account Payable Responsible-ANAPEC f/m | Casablanca, , Morocco | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117347723) |
+| 7 | BoschGroup | Administrative Assistant | Farmington Hills, Michigan, United States | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117375057) |
+| 8 | BoschGroup | Agente controles Administrativos - Sector Herramientas | Alcobendas, MD, Spain | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117295725) |
+| 9 | BoschGroup | Apprenti(e) Assistant(e) Commercial(e) Sédentaire H/F/N | Saint-Ouen-sur-Seine, IDF, France | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117349692) |
+| 10 | BoschGroup | BMG7_Analista de Costos de Proyectos  (Temporal) | Toluca de Lerdo, Méx., Mexico | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117345448) |
+| 11 | BoschGroup | Backend Developer (Java – Spring Boot) (f/m/div.)  | Cacia/Aveiro, , Portugal | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117369927) |
+| 12 | BoschGroup | Backend Engineer for Cloud-based Solution (f/m/div.) | Ovar, , Portugal | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117351369) |
+| 13 | BoschGroup | Channel Management Lead | Mount Prospect, IL, United States | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117362077) |
+| 14 | BoschGroup | ESTAGIÁRIO ADMINISTRATIVO | Itatiba, SP, Brazil | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117265173) |
+| 15 | BoschGroup | Field Sales/Marketing Representative – 4 Month Summer Student | Toronto, ON, Canada (Remote) | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117309947) |
+| 16 | BoschGroup | Formateur et support technique- ANAPEC | Casablanca, , Morocco | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117347737) |
+| 17 | BoschGroup | Full Stack Developer | bengaluru, , India | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117274647) |
+| 18 | BoschGroup | Gyakornok minőségbiztosítási területre/ Kéziszerszámgyár - McP / | Miskolc, , Hungary | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117300768) |
+| 19 | BoschGroup | Gyakornok tesztberendezés fejlesztési területre/ McP - Kéziszerszámgyár / | Miskolc, , Hungary | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117301448) |
+| 20 | BoschGroup | Gyártástámogató mérnök gyakornok / Kéziszerszámgyár - McP / | Miskolc, , Hungary | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117298738) |
+| 21 | BoschGroup | HR Automation Project Manager (m/f/div.) | Lisboa, Lisboa, Portugal | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117286497) |
+| 22 | BoschGroup | HR Generalist - Internship | Beograd, , Serbia | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117304237) |
+| 23 | BoschGroup | HR Solutions Low-Code & AI Developer (f/m/div.) | Lisboa, Lisboa, Portugal | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117286237) |
+| 24 | BoschGroup | HW Maintenance Engineer  | Budapest, , Hungary | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117321588) |
+| 25 | BoschGroup | IN_RBAI_Assistant manager / Deputy manager_Quality Management ( EM/QMC-IN ) | Bengaluru, KA, India | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000117274910) |
 
-... and 229 more not shown
+... and 183 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 304
-- **Top matches (score ≥ 3):** 16
-  - of which UK: 7
-- **New UK jobs (other):** 34
-- **Other new jobs:** 254
+- **Total new jobs:** 249
+- **Top matches (score ≥ 3):** 15
+  - of which UK: 2
+- **New UK jobs (other):** 26
+- **Other new jobs:** 208
 
 ---
 _Generated by job-aggregator diff mode_
