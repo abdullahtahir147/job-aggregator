@@ -88,20 +88,6 @@
   {
     "rank": 7,
     "tag": "APPLIED_AI_FDE",
-    "company": "ASOS",
-    "title": "Applied Scientist (Marketing & Customer)",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000116455147",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'applied scientist'",
-    "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-03-24T16:42:41.511Z"
-  },
-  {
-    "rank": 8,
-    "tag": "APPLIED_AI_FDE",
     "company": "MongoDB",
     "title": "Senior Solutions Architect",
     "location": "London",
@@ -114,7 +100,7 @@
     "posted_at": "2026-03-26T13:39:24Z"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Growth Analyst - Marketing Analytics",
@@ -126,6 +112,20 @@
     "match_reason": "+3 title match: 'growth analyst'",
     "intent_reasons": "boost: growth (+1)",
     "posted_at": "2026-03-25T10:06:31.100Z"
+  },
+  {
+    "rank": 9,
+    "tag": "APPLIED_AI_FDE",
+    "company": "ASOS",
+    "title": "Applied Scientist (Marketing & Customer)",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000116455147",
+    "final_score": 7,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'applied scientist'",
+    "intent_reasons": "boost: applied scientist (+3)",
+    "posted_at": "2026-03-24T16:42:41.511Z"
   },
   {
     "rank": 10,
@@ -289,7 +289,7 @@
     "title": "Machine Learning Engineer (Recommenders)",
     "location": "London, England, United Kingdom",
     "url": "https://jobs.smartrecruiters.com/ASOS/744000116455344",
-    "final_score": 3,
+    "final_score": 1,
     "base_score": 0,
     "intent_delta": 0,
     "match_reason": "",
