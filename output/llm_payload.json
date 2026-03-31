@@ -32,6 +32,34 @@
   {
     "rank": 3,
     "tag": "APPLIED_AI_FDE",
+    "company": "ASOS",
+    "title": "Applied Scientist (Marketing & Customer)",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000117656733",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'applied scientist'",
+    "intent_reasons": "boost: applied scientist (+3)",
+    "posted_at": "2026-03-30T13:50:57.751Z"
+  },
+  {
+    "rank": 4,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Engineer (Data and AI)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7836035002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions engineer'",
+    "intent_reasons": "boost: solutions engineer (+2)",
+    "posted_at": "2026-03-31T04:24:22Z"
+  },
+  {
+    "rank": 5,
+    "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Technical Deployment Lead, Forward Deployed Engineering - London",
     "location": "London, UK",
@@ -44,21 +72,7 @@
     "posted_at": "2026-03-26T18:40:31Z"
   },
   {
-    "rank": 4,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Zopa",
-    "title": "Senior Product Analyst",
-    "location": "London",
-    "url": "https://jobs.lever.co/zopa/78aca808-e048-4017-9e40-b6effa94bf4b",
-    "final_score": 7,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2025-11-27T14:39:55Z"
-  },
-  {
-    "rank": 5,
+    "rank": 6,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Lendable",
     "title": "Senior Product Analyst",
@@ -72,35 +86,50 @@
     "posted_at": "2026-03-25T17:42:25Z"
   },
   {
-    "rank": 6,
-    "tag": "APPLIED_AI_FDE",
-    "company": "ASOS",
-    "title": "Applied Scientist (Marketing & Customer)",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000116455147",
-    "final_score": 7,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'applied scientist'",
-    "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-03-24T16:42:41.511Z"
-  },
-  {
     "rank": 7,
-    "tag": "CORE_DS",
-    "company": "Spotify",
-    "title": "Data Scientist, Subscriptions",
-    "location": "London",
-    "url": "https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3",
+    "tag": "APPLIED_AI_FDE",
+    "company": "Airtable",
+    "title": "Forward Deployed Engineer, EMEA",
+    "location": "London, United Kingdom ",
+    "url": "https://job-boards.greenhouse.io/airtable/jobs/8477376002",
     "final_score": 6,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data scientist'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-27T13:19:21Z"
+    "base_score": -1,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'cv'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: forward deployed (+4); boost: growth (+1); boost: product (+1); penalty: risk (-2)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;\n&lt;p&gt;Join Airtable as a Forward Deployed Engineer and become a trusted advisor to our most strategic customers. In this high-impact, customer-facing role, you’ll embed yourself within leading organizations to drive digital transformation, deliver innovative technical solutions, and champion the adoption of Airtable’s platform. You’ll work directly with senior executives, influence product direction, and help shape the future of how businesses operate—all while leveraging your technical expertise, business acumen, and passion for storytelling.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Please note, this is a hybrid position based in London with the expectation of 3 days a week in office.&lt;/strong&gt;&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;Embed within strategic customer organizations to understand their business processes, operations, and goa",
+    "posted_at": "2026-03-31T05:26:18Z"
   },
   {
     "rank": 8,
+    "tag": "APPLIED_AI_FDE",
+    "company": "OpenAI",
+    "title": "Sourcer, Forward Deployment Engineering",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/f48fcb07-d742-45c0-b692-70d5ee3e8c4f",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'deployment engineer'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-30T18:09:41Z"
+  },
+  {
+    "rank": 9,
+    "tag": "ANALYTICS_BI",
+    "company": "Wise",
+    "title": "Senior Data Analyst - Treasury Ledger and Safeguarding",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000117804738",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-31T07:24:28.309Z"
+  },
+  {
+    "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "MongoDB",
     "title": "Senior Solutions Architect",
@@ -111,24 +140,10 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-26T13:39:24Z"
+    "posted_at": "2026-03-30T11:12:12Z"
   },
   {
-    "rank": 9,
-    "tag": "APPLIED_AI_FDE",
-    "company": "OpenAI",
-    "title": "Recruiter, Forward Deployed Engineering",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/openai/3593839b-bce8-4de7-862c-4807fd6e40c3",
-    "final_score": 5,
-    "base_score": -2,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'; -5 title exclude: 'recruiter'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-03-27T23:29:42Z"
-  },
-  {
-    "rank": 10,
+    "rank": 11,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Growth Analyst - Marketing Analytics",
@@ -142,7 +157,21 @@
     "posted_at": "2026-03-25T10:06:31.100Z"
   },
   {
-    "rank": 11,
+    "rank": 12,
+    "tag": "CORE_DS",
+    "company": "Spotify",
+    "title": "Data Scientist, Subscriptions",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3",
+    "final_score": 4,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data scientist'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-27T13:19:21Z"
+  },
+  {
+    "rank": 13,
     "tag": "CORE_DS",
     "company": "Intercom",
     "title": "Senior Data Scientist",
@@ -157,7 +186,7 @@
     "posted_at": "2026-03-26T12:34:29Z"
   },
   {
-    "rank": 12,
+    "rank": 14,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Analytics Engineer ",
@@ -171,7 +200,7 @@
     "posted_at": "2026-03-26T13:11:00.073Z"
   },
   {
-    "rank": 13,
+    "rank": 15,
     "tag": "ANALYTICS_BI",
     "company": "Deliveroo",
     "title": "Senior Analytics Engineer",
@@ -185,7 +214,7 @@
     "posted_at": "2026-03-25T15:00:53Z"
   },
   {
-    "rank": 14,
+    "rank": 16,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - CRM Analytics",
@@ -199,21 +228,35 @@
     "posted_at": "2026-03-25T10:27:33.227Z"
   },
   {
-    "rank": 15,
+    "rank": 17,
     "tag": "CORE_DS",
-    "company": "Trainline",
-    "title": "Machine Learning Engineering Manager - Supply",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/trainline/d04664ab-90ea-4ed5-9581-3b655a142f3d",
+    "company": "ASOS",
+    "title": "Machine Learning Engineer (Recommenders)",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000117657282",
     "final_score": 3,
     "base_score": 0,
     "intent_delta": 0,
     "match_reason": "",
     "intent_reasons": "",
-    "posted_at": "2026-03-27T11:15:33Z"
+    "posted_at": "2026-03-30T13:50:15.926Z"
   },
   {
-    "rank": 16,
+    "rank": 18,
+    "tag": "APPLIED_AI_FDE",
+    "company": "OpenAI",
+    "title": "Recruiter, Forward Deployed Engineering",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/3593839b-bce8-4de7-862c-4807fd6e40c3",
+    "final_score": 3,
+    "base_score": -2,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'; -5 title exclude: 'recruiter'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-03-27T23:29:42Z"
+  },
+  {
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Fraud Risk",
@@ -227,7 +270,21 @@
     "posted_at": "2026-03-26T17:39:57.457Z"
   },
   {
-    "rank": 17,
+    "rank": 20,
+    "tag": "CORE_DS",
+    "company": "Trainline",
+    "title": "Machine Learning Engineering Manager - Supply",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/trainline/d04664ab-90ea-4ed5-9581-3b655a142f3d",
+    "final_score": 1,
+    "base_score": 0,
+    "intent_delta": 0,
+    "match_reason": "",
+    "intent_reasons": "",
+    "posted_at": "2026-03-27T11:15:33Z"
+  },
+  {
+    "rank": 21,
     "tag": "CORE_DS",
     "company": "Trainline",
     "title": "Machine Learning Engineer - Travel Experience",
@@ -241,7 +298,7 @@
     "posted_at": "2026-03-26T13:59:48Z"
   },
   {
-    "rank": 18,
+    "rank": 22,
     "tag": "CORE_DS",
     "company": "Deliveroo",
     "title": "Machine Learning Engineer",
@@ -255,7 +312,7 @@
     "posted_at": "2026-03-25T11:23:17Z"
   },
   {
-    "rank": 19,
+    "rank": 23,
     "tag": "CORE_DS",
     "company": "Deliveroo",
     "title": "Senior Machine Learning Engineer",
@@ -267,19 +324,5 @@
     "match_reason": "",
     "intent_reasons": "",
     "posted_at": "2026-03-25T11:18:10Z"
-  },
-  {
-    "rank": 20,
-    "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Machine Learning Engineer (Recommenders)",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000116455344",
-    "final_score": 1,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-03-24T16:44:37.604Z"
   }
 ]
