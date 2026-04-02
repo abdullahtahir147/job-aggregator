@@ -47,6 +47,34 @@
     "rank": 4,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
+    "title": "Lead Solutions Architect  (CTO level-CPG/Retail, DS/DE background)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7803166002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-04-01T13:13:19Z"
+  },
+  {
+    "rank": 5,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Lead Solutions Architect  (CTO level-FSI, DS/DE background)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7642125002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-04-01T13:09:21Z"
+  },
+  {
+    "rank": 6,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
     "title": "Senior Solutions Engineer (Data and AI)",
     "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7836035002",
@@ -55,10 +83,10 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions engineer'",
     "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-03-31T04:24:22Z"
+    "posted_at": "2026-04-01T13:53:46Z"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Technical Deployment Lead, Forward Deployed Engineering - London",
@@ -72,7 +100,7 @@
     "posted_at": "2026-03-26T18:40:31Z"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst",
@@ -86,7 +114,7 @@
     "posted_at": "2025-11-27T14:39:55Z"
   },
   {
-    "rank": 7,
+    "rank": 9,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Lendable",
     "title": "Senior Product Analyst",
@@ -100,7 +128,7 @@
     "posted_at": "2026-03-25T17:42:25Z"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Senior Partner Solutions Architect",
@@ -115,7 +143,7 @@
     "posted_at": "2026-03-31T11:39:23Z"
   },
   {
-    "rank": 9,
+    "rank": 11,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Fraud Product Analyst",
@@ -129,7 +157,7 @@
     "posted_at": "2026-04-01T10:09:51.778Z"
   },
   {
-    "rank": 10,
+    "rank": 12,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury (Liquidity)",
@@ -143,7 +171,7 @@
     "posted_at": "2026-03-31T12:51:59.467Z"
   },
   {
-    "rank": 11,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Forward Deployed Engineer, EMEA",
@@ -158,7 +186,7 @@
     "posted_at": "2026-03-31T05:26:18Z"
   },
   {
-    "rank": 12,
+    "rank": 14,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury Ledger and Safeguarding",
@@ -172,7 +200,7 @@
     "posted_at": "2026-03-31T07:24:28.309Z"
   },
   {
-    "rank": 13,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "MongoDB",
     "title": "Senior Solutions Architect",
@@ -183,10 +211,10 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-30T11:12:12Z"
+    "posted_at": "2026-04-01T10:21:32Z"
   },
   {
-    "rank": 14,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Growth Analyst - Marketing Analytics",
@@ -200,7 +228,22 @@
     "posted_at": "2026-03-25T10:06:31.100Z"
   },
   {
-    "rank": 15,
+    "rank": 17,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Airtable",
+    "title": "Senior Solutions Architect",
+    "location": "London, United Kingdom ",
+    "url": "https://job-boards.greenhouse.io/airtable/jobs/8341413002",
+    "final_score": 4,
+    "base_score": 0,
+    "intent_delta": 1,
+    "match_reason": "+3 title match: 'solutions architect'; +1 keyword: 'experiment'; -2 exclude kw: 'cv'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: solutions architect (+2); boost: product (+1); penalty: risk (-2)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a member of our Professional Services organisation, you’ll partner closely with our clients, Services team and Account teams to design and deliver transformative solutions. You’ll advise on and visually map complex business processes, shape data governance models, and create implementation plans that allow our customers to realise value from Airtable’s platform quickly and efficiently. As a member of our Solutions Architecture Team, you’ll also play a crucial role in shaping key processes and organisational structure as we scale.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Please note, this is a hybrid position based in London with the expectation of 2/3 days a week in office. Open to considering remote options including some travel (customer, office, HQ etc) on a case by case basis.&amp;nbsp;&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Deeply understand clients&#39; business processes, requirements, and pain points; advise on best practices for integrating Airtable into their workflow.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Advise customers on the creati",
+    "posted_at": "2026-04-01T17:10:32Z"
+  },
+  {
+    "rank": 18,
     "tag": "CORE_DS",
     "company": "Spotify",
     "title": "Data Scientist, Subscriptions",
@@ -214,7 +257,7 @@
     "posted_at": "2026-03-27T13:19:21Z"
   },
   {
-    "rank": 16,
+    "rank": 19,
     "tag": "CORE_DS",
     "company": "Intercom",
     "title": "Senior Data Scientist",
@@ -229,7 +272,7 @@
     "posted_at": "2026-03-26T12:34:29Z"
   },
   {
-    "rank": 17,
+    "rank": 20,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Analytics Engineer ",
@@ -243,7 +286,7 @@
     "posted_at": "2026-03-26T13:11:00.073Z"
   },
   {
-    "rank": 18,
+    "rank": 21,
     "tag": "ANALYTICS_BI",
     "company": "Deliveroo",
     "title": "Senior Analytics Engineer",
@@ -257,7 +300,7 @@
     "posted_at": "2026-03-25T15:00:53Z"
   },
   {
-    "rank": 19,
+    "rank": 22,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - CRM Analytics",
@@ -271,87 +314,45 @@
     "posted_at": "2026-03-25T10:27:33.227Z"
   },
   {
-    "rank": 20,
+    "rank": 23,
     "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Machine Learning Engineer (Recommenders)",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000117657282",
+    "company": "Canva",
+    "title": "Senior Machine Learning Engineer - Multimodal Data",
+    "location": "London, ENGLAND, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Canva/6000000000975855",
     "final_score": 3,
     "base_score": 0,
     "intent_delta": 0,
     "match_reason": "",
     "intent_reasons": "",
-    "posted_at": "2026-03-30T13:50:15.926Z"
-  },
-  {
-    "rank": 21,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Data Platform Solutions Architect (Professional Services)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8486738002",
-    "final_score": 1,
-    "base_score": -4,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'; -5 title exclude: 'platform'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-03-31T13:03:05Z"
-  },
-  {
-    "rank": 22,
-    "tag": "CORE_DS",
-    "company": "Trainline",
-    "title": "Machine Learning Engineering Manager - Supply",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/trainline/d04664ab-90ea-4ed5-9581-3b655a142f3d",
-    "final_score": 1,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-03-27T11:15:33Z"
-  },
-  {
-    "rank": 23,
-    "tag": "CORE_DS",
-    "company": "Trainline",
-    "title": "Machine Learning Engineer - Travel Experience",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/trainline/f267b3ea-fae1-4ebf-bf3e-348d3cecbeeb",
-    "final_score": 1,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-03-26T13:59:48Z"
+    "posted_at": "2026-04-02T07:36:39.951Z"
   },
   {
     "rank": 24,
     "tag": "CORE_DS",
-    "company": "Deliveroo",
-    "title": "Machine Learning Engineer",
-    "location": "London - The River Building HQ",
-    "url": "https://jobs.ashbyhq.com/deliveroo/ab5e1561-0763-4b2a-b0e8-2b7aa51f19aa",
-    "final_score": 1,
+    "company": "Monzo",
+    "title": "Machine Learning Manager, Borrowing",
+    "location": "Cardiff, London or Remote (UK)",
+    "url": "https://job-boards.greenhouse.io/monzo/jobs/7766052",
+    "final_score": 3,
     "base_score": 0,
     "intent_delta": 0,
     "match_reason": "",
     "intent_reasons": "",
-    "posted_at": "2026-03-25T11:23:17Z"
+    "posted_at": "2026-04-02T05:53:40Z"
   },
   {
     "rank": 25,
     "tag": "CORE_DS",
-    "company": "Deliveroo",
-    "title": "Senior Machine Learning Engineer",
-    "location": "London - The River Building HQ",
-    "url": "https://jobs.ashbyhq.com/deliveroo/33917165-caf7-493a-8adb-d93b5175222e",
-    "final_score": 1,
+    "company": "Spotify",
+    "title": "Staff Machine Learning Engineer",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/f3616bfc-a2bb-4847-90e1-0437b8a1c054",
+    "final_score": 3,
     "base_score": 0,
     "intent_delta": 0,
     "match_reason": "",
     "intent_reasons": "",
-    "posted_at": "2026-03-25T11:18:10Z"
+    "posted_at": "2026-04-01T16:45:35Z"
   }
 ]
