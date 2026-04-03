@@ -1,21 +1,6 @@
 [
   {
     "rank": 1,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Intercom",
-    "title": "Engineering Manager, Forward Deployed Engineering",
-    "location": "London, England",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/7765466",
-    "final_score": 15,
-    "base_score": 1,
-    "intent_delta": 11,
-    "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: forward deployed (+4); boost: applied ai (+4); boost: solutions architect (+2); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences. Our AI agent Fin is the most advanced customer service AI on the market, allowing businesses to deliver always-on, perfect customer support.&lt;/p&gt;\n&lt;p&gt;We are seeking a commercially-minded engineering leader to lead our Forward Deployed Engineering (FDE) New Business team in EMEA. This role is pivotal in helping Intercom scale its AI-first platform to the world’s ",
-    "posted_at": "2026-03-30T04:31:04Z"
-  },
-  {
-    "rank": 2,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Intercom",
     "title": "Senior Data Scientist - Product Analytics",
@@ -30,21 +15,50 @@
     "posted_at": "2026-03-27T08:06:31Z"
   },
   {
+    "rank": 2,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Intercom",
+    "title": "Engineering Manager, Forward Deployed Engineering",
+    "location": "London, England",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7765466",
+    "final_score": 13,
+    "base_score": 1,
+    "intent_delta": 11,
+    "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: forward deployed (+4); boost: applied ai (+4); boost: solutions architect (+2); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What&#39;s the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences. Our AI agent Fin is the most advanced customer service AI on the market, allowing businesses to deliver always-on, perfect customer support.&lt;/p&gt;\n&lt;p&gt;We are seeking a commercially-minded engineering leader to lead our Forward Deployed Engineering (FDE) New Business team in EMEA. This role is pivotal in helping Intercom scale its AI-first platform to the world’s ",
+    "posted_at": "2026-03-30T04:31:04Z"
+  },
+  {
     "rank": 3,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "ASOS",
+    "title": "Product Analyst ",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000118431588",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-02T14:27:25.410Z"
+  },
+  {
+    "rank": 4,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist (Marketing & Customer)",
     "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000117656733",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000118431087",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'applied scientist'",
     "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-03-30T13:50:57.751Z"
+    "posted_at": "2026-04-02T14:23:20.741Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Lead Solutions Architect  (CTO level-CPG/Retail, DS/DE background)",
@@ -58,7 +72,7 @@
     "posted_at": "2026-04-01T13:13:19Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Lead Solutions Architect  (CTO level-FSI, DS/DE background)",
@@ -72,7 +86,35 @@
     "posted_at": "2026-04-01T13:09:21Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect (Utilities)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8480817002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-04-02T13:27:29Z"
+  },
+  {
+    "rank": 8,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer - UK Government",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846",
+    "final_score": 8,
+    "base_score": 1,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'infrastructure'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2025-08-07T07:32:41Z"
+  },
+  {
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Engineer (Data and AI)",
@@ -83,10 +125,10 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions engineer'",
     "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-04-01T13:53:46Z"
+    "posted_at": "2026-04-02T13:27:24Z"
   },
   {
-    "rank": 7,
+    "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Technical Deployment Lead, Forward Deployed Engineering - London",
@@ -100,7 +142,7 @@
     "posted_at": "2026-03-26T18:40:31Z"
   },
   {
-    "rank": 8,
+    "rank": 11,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst",
@@ -114,7 +156,7 @@
     "posted_at": "2025-11-27T14:39:55Z"
   },
   {
-    "rank": 9,
+    "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Lendable",
     "title": "Senior Product Analyst",
@@ -128,7 +170,35 @@
     "posted_at": "2026-03-25T17:42:25Z"
   },
   {
-    "rank": 10,
+    "rank": 13,
+    "tag": "ANALYTICS_BI",
+    "company": "Deliveroo",
+    "title": "Commercial Excellence - Data Analyst (SMB Hub)",
+    "location": "Manchester - Main Office",
+    "url": "https://jobs.ashbyhq.com/deliveroo/584aeb7c-9ec4-4023-89df-2e31898b72ca",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-04-02T12:23:59Z"
+  },
+  {
+    "rank": 14,
+    "tag": "ANALYTICS_BI",
+    "company": "Wise",
+    "title": "Senior Data Analyst - Payment Operations",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000118428116",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-04-02T14:13:11.338Z"
+  },
+  {
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Senior Partner Solutions Architect",
@@ -143,7 +213,7 @@
     "posted_at": "2026-03-31T11:39:23Z"
   },
   {
-    "rank": 11,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Fraud Product Analyst",
@@ -157,7 +227,7 @@
     "posted_at": "2026-04-01T10:09:51.778Z"
   },
   {
-    "rank": 12,
+    "rank": 17,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury (Liquidity)",
@@ -171,7 +241,7 @@
     "posted_at": "2026-03-31T12:51:59.467Z"
   },
   {
-    "rank": 13,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Forward Deployed Engineer, EMEA",
@@ -186,7 +256,7 @@
     "posted_at": "2026-03-31T05:26:18Z"
   },
   {
-    "rank": 14,
+    "rank": 19,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Data Analyst - Treasury Ledger and Safeguarding",
@@ -200,7 +270,7 @@
     "posted_at": "2026-03-31T07:24:28.309Z"
   },
   {
-    "rank": 15,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "MongoDB",
     "title": "Senior Solutions Architect",
@@ -214,7 +284,7 @@
     "posted_at": "2026-04-01T10:21:32Z"
   },
   {
-    "rank": 16,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Growth Analyst - Marketing Analytics",
@@ -228,7 +298,7 @@
     "posted_at": "2026-03-25T10:06:31.100Z"
   },
   {
-    "rank": 17,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Senior Solutions Architect",
@@ -243,21 +313,7 @@
     "posted_at": "2026-04-01T17:10:32Z"
   },
   {
-    "rank": 18,
-    "tag": "CORE_DS",
-    "company": "Spotify",
-    "title": "Data Scientist, Subscriptions",
-    "location": "London",
-    "url": "https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data scientist'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-27T13:19:21Z"
-  },
-  {
-    "rank": 19,
+    "rank": 23,
     "tag": "CORE_DS",
     "company": "Intercom",
     "title": "Senior Data Scientist",
@@ -272,7 +328,21 @@
     "posted_at": "2026-03-26T12:34:29Z"
   },
   {
-    "rank": 20,
+    "rank": 24,
+    "tag": "CORE_DS",
+    "company": "Spotify",
+    "title": "Data Scientist, Subscriptions",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3",
+    "final_score": 4,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data scientist'",
+    "intent_reasons": "",
+    "posted_at": "2026-03-27T13:19:21Z"
+  },
+  {
+    "rank": 25,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Analytics Engineer ",
@@ -284,75 +354,5 @@
     "match_reason": "+3 title match: 'analytics engineer'",
     "intent_reasons": "",
     "posted_at": "2026-03-26T13:11:00.073Z"
-  },
-  {
-    "rank": 21,
-    "tag": "ANALYTICS_BI",
-    "company": "Deliveroo",
-    "title": "Senior Analytics Engineer",
-    "location": "London - The River Building HQ",
-    "url": "https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'analytics engineer'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-25T15:00:53Z"
-  },
-  {
-    "rank": 22,
-    "tag": "ANALYTICS_BI",
-    "company": "Wise",
-    "title": "Lead Data Analyst - CRM Analytics",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000116585757",
-    "final_score": 4,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data analyst'",
-    "intent_reasons": "",
-    "posted_at": "2026-03-25T10:27:33.227Z"
-  },
-  {
-    "rank": 23,
-    "tag": "CORE_DS",
-    "company": "Canva",
-    "title": "Senior Machine Learning Engineer - Multimodal Data",
-    "location": "London, ENGLAND, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Canva/6000000000975855",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-04-02T07:36:39.951Z"
-  },
-  {
-    "rank": 24,
-    "tag": "CORE_DS",
-    "company": "Monzo",
-    "title": "Machine Learning Manager, Borrowing",
-    "location": "Cardiff, London or Remote (UK)",
-    "url": "https://job-boards.greenhouse.io/monzo/jobs/7766052",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-04-02T05:53:40Z"
-  },
-  {
-    "rank": 25,
-    "tag": "CORE_DS",
-    "company": "Spotify",
-    "title": "Staff Machine Learning Engineer",
-    "location": "London",
-    "url": "https://jobs.lever.co/spotify/f3616bfc-a2bb-4847-90e1-0437b8a1c054",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-04-01T16:45:35Z"
   }
 ]
