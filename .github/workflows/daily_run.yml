@@ -30,6 +30,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Restore cached database
+        uses: actions/cache@v4
+        with:
+          path: data/jobs.db
+          key: jobs-db
+
       - name: Run pipeline
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
@@ -58,7 +64,6 @@ jobs:
             output/llm_payload.json \
             output/report.md \
             output/unknown_companies.csv \
-            data/jobs.db \
             data/ats_cache.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
