@@ -74,6 +74,62 @@
   {
     "rank": 6,
     "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed AI Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2024-05-09T14:33:01Z"
+  },
+  {
+    "rank": 7,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2009-12-05T00:00:00Z"
+  },
+  {
+    "rank": 8,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - UK Government",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2023-01-11T17:48:32Z"
+  },
+  {
+    "rank": 9,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - UK Government",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2021-07-01T17:35:48Z"
+  },
+  {
+    "rank": 10,
+    "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "location": "London, United Kingdom",
@@ -86,7 +142,7 @@
     "posted_at": "2026-04-09T16:51:14Z"
   },
   {
-    "rank": 7,
+    "rank": 11,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Sr. Forward Deployed Engineer",
@@ -100,7 +156,7 @@
     "posted_at": "2026-04-09T16:51:30Z"
   },
   {
-    "rank": 8,
+    "rank": 12,
     "tag": "CORE_DS",
     "company": "Deliveroo",
     "title": "Senior Product Data Scientist ",
@@ -114,7 +170,7 @@
     "posted_at": "2026-03-31T14:55:27Z"
   },
   {
-    "rank": 9,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
     "title": "Forward Deployed Software Engineer",
@@ -129,7 +185,7 @@
     "posted_at": "2026-01-28T17:37:06Z"
   },
   {
-    "rank": 10,
+    "rank": 14,
     "tag": "CORE_DS",
     "company": "Lendable",
     "title": "Lead Product Data Scientist",
@@ -143,7 +199,7 @@
     "posted_at": "2026-04-10T12:14:29Z"
   },
   {
-    "rank": 11,
+    "rank": 15,
     "tag": "CORE_DS",
     "company": "Lendable",
     "title": "Senior Product Data Scientist",
@@ -157,7 +213,7 @@
     "posted_at": "2026-04-10T13:03:53Z"
   },
   {
-    "rank": 12,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Technical Deployment Lead, Forward Deployed Engineering - London",
@@ -171,7 +227,7 @@
     "posted_at": "2026-03-26T18:40:31Z"
   },
   {
-    "rank": 13,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London",
@@ -185,7 +241,7 @@
     "posted_at": "2025-11-13T16:45:32Z"
   },
   {
-    "rank": 14,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Software Engineer - London",
@@ -199,7 +255,7 @@
     "posted_at": "2025-11-13T16:46:33Z"
   },
   {
-    "rank": 15,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
@@ -213,7 +269,7 @@
     "posted_at": "2026-03-26T20:38:33Z"
   },
   {
-    "rank": 16,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Sourcer, Forward Deployed Engineering - London",
@@ -227,63 +283,35 @@
     "posted_at": "2026-04-06T21:05:21Z"
   },
   {
-    "rank": 17,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Palantir",
-    "title": "Forward Deployed AI Engineer",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2024-05-09T14:33:01Z"
-  },
-  {
-    "rank": 18,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2009-12-05T00:00:00Z"
-  },
-  {
-    "rank": 19,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer - UK Government",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2023-01-11T17:48:32Z"
-  },
-  {
-    "rank": 20,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, New Grad - UK Government",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2021-07-01T17:35:48Z"
-  },
-  {
     "rank": 21,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Lendable",
+    "title": "Lead Product Analyst",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-13T12:51:18Z"
+  },
+  {
+    "rank": 22,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Lendable",
+    "title": "Senior Product Analyst",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-13T12:51:21Z"
+  },
+  {
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist (Marketing & Customer)",
@@ -297,7 +325,7 @@
     "posted_at": "2026-04-02T14:23:20.741Z"
   },
   {
-    "rank": 22,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Datadog",
     "title": "Senior Product Solutions Architect - Logs",
@@ -311,7 +339,7 @@
     "posted_at": "2026-04-01T14:20:47Z"
   },
   {
-    "rank": 23,
+    "rank": 25,
     "tag": "DEVREL_EVANGELISM",
     "company": "Elastic",
     "title": "Senior Developer Advocate (Video Content Creator)",
@@ -322,34 +350,6 @@
     "intent_delta": 3,
     "match_reason": "+3 title match: 'developer advocate'",
     "intent_reasons": "boost: developer advocate (+3)",
-    "posted_at": "2026-03-16T15:57:26Z"
-  },
-  {
-    "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Lendable",
-    "title": "Senior Product Analyst",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/lendable/eb723531-8948-4f13-8e96-1bc9edf7128d",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-03-25T17:42:25Z"
-  },
-  {
-    "rank": 25,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Screening",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000119602987",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-04-09T13:22:34.427Z"
+    "posted_at": "2026-04-13T17:12:04Z"
   }
 ]
