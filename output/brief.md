@@ -1,40 +1,30 @@
 # Job Brief
 
-**Run:** `d1d12151686c` | 2026-04-15T10:21:00Z
-**Companies:** 133 | **Jobs:** 13267 | **New:** 1053 | **New UK:** 133 | **Unknown ATS:** 18
+**Run:** `68267c1a5cd6` | 2026-04-16T10:20:38Z
+**Companies:** 133 | **Jobs:** 13203 | **New:** 1405 | **New UK:** 158 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 0
 
 ## Apply Now
 
-- **Intercom — Senior Data Scientist - Product Analytics** [PRODUCT_GROWTH_DATA]  Score: 16 (base 6, Δ+10) | 2d old
+- **Intercom — Senior Data Scientist - Product Analytics** [PRODUCT_GROWTH_DATA]  Score: 14 (base 6, Δ+8) | 3d old
   London, England
-  Why: title match: 'data scientist'; title match: 'product analytics'; keyword: 'experiment' (+2 more) | boost: product analytics (+2); boost: experimentation (+3); boost: growth (+1... | very recent (2d)
+  Why: title match: 'data scientist'; title match: 'product analytics'; keyword: 'experiment' (+2 more) | boost: product analytics (+2); boost: experimentation (+3); boost: growth (+1... | recent (3d)
   [Apply](https://job-boards.greenhouse.io/intercom/jobs/6317929)
 
-- **Intercom — Engineering Manager, Forward Deployed Engineering** [APPLIED_AI_FDE]  Score: 15 (base 1, Δ+14) | 2d old
+- **Intercom — Engineering Manager, Forward Deployed Engineering** [APPLIED_AI_FDE]  Score: 13 (base 1, Δ+12) | 3d old
   London, England
-  Why: title match: 'forward deployed'; exclude kw: 'platform' | boost: forward deployed (+4); boost: applied ai (+4); boost: solutions archit... | very recent (2d)
+  Why: title match: 'forward deployed'; exclude kw: 'platform' | boost: forward deployed (+4); boost: applied ai (+4); boost: solutions archit... | recent (3d)
   [Apply](https://job-boards.greenhouse.io/intercom/jobs/7765466)
 
-- **Deliveroo — Senior Data Scientist - Experimentation** [PRODUCT_GROWTH_DATA]  Score: 14 (base 8, Δ+6) | 2d old
+- **Deliveroo — Senior Data Scientist - Experimentation** [PRODUCT_GROWTH_DATA]  Score: 12 (base 8, Δ+4) | 3d old
   London - The River Building HQ
-  Why: title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) | boost: experimentation (+3) | very recent (2d)
+  Why: title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) | boost: experimentation (+3) | recent (3d)
   [Apply](https://jobs.ashbyhq.com/deliveroo/e2a26e27-5d65-4add-8732-6a92675145de)
-
-- **Wise — Senior Marketing Data Analyst - Marketing Science** [MARKETING_SCIENCE]  Score: 12 (base 6, Δ+6) | 2d old
-  London, , United Kingdom
-  Why: title match: 'marketing data'; title match: 'data analyst' | boost: marketing science (+3) | very recent (2d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000106702915)
 
 - **Datadog — Senior Customer Data Science - Solutions / Experimentation** [PRODUCT_GROWTH_DATA]  Score: 11 (base 5, Δ+6) | 0d old
   London, United Kingdom; Paris, France
   Why: title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' | boost: experimentation (+3) | very recent (0d)
   [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544)
-
-- **Databricks — Sr. Forward Deployed Engineer** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
-  London, United Kingdom
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
-  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8450578002)
 
 - **Palantir — Forward Deployed AI Engineer** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
@@ -46,8 +36,6 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850)
 
-## Worth a Look
-
 - **Palantir — Forward Deployed Software Engineer - UK Government** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
@@ -58,55 +46,67 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a)
 
-- **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 2d old
+## Worth a Look
+
+- **Wise — Senior Marketing Data Analyst - Marketing Science** [MARKETING_SCIENCE]  Score: 10 (base 6, Δ+4) | 3d old
+  London, , United Kingdom
+  Why: title match: 'marketing data'; title match: 'data analyst' | boost: marketing science (+3) | recent (3d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000106702915)
+
+- **Lendable — Lead Product Analyst** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, United Kingdom
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (2d)
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193)
+
+- **Lendable — Senior Product Analyst** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7)
+
+- **Airtable — Senior Partner Solutions Architect** [APPLIED_AI_FDE]  Score: 8 (base 1, Δ+7) | 0d old
+  London, England, United Kingdom
+  Why: title match: 'solutions architect'; exclude kw: 'platform' | boost: solutions architect (+2); boost: growth (+1); boost: product (+1) | very recent (0d)
+  [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002)
+
+- **Block (Square) — Solutions Engineer** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 0d old
+  London, United Kingdom
+  Why: title match: 'solutions engineer' | boost: solutions engineer (+2) | very recent (0d)
+  [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008)
+
+- **Palantir — Forward Deployed Infrastructure Engineer - UK Government** [APPLIED_AI_FDE]  Score: 8 (base 1, Δ+7) | 0d old
+  London, United Kingdom
+  Why: title match: 'forward deployed'; exclude kw: 'infrastructure' | boost: forward deployed (+4) | very recent (0d)
+  [Apply](https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846)
+
+- **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 3d old
+  London, United Kingdom
+  Why: title match: 'forward deployed' | boost: forward deployed (+4) | recent (3d)
   [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002)
 
-- **Databricks — Sr. Forward Deployed Engineer** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 2d old
+- **Databricks — Sr. Forward Deployed Engineer** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 3d old
   London, United Kingdom
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (2d)
+  Why: title match: 'forward deployed' | boost: forward deployed (+4) | recent (3d)
   [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002)
 
-- **Deliveroo — Senior Product Data Scientist ** [CORE_DS]  Score: 10 (base 6, Δ+4) | 2d old
+- **Deliveroo — Senior Product Data Scientist ** [CORE_DS]  Score: 8 (base 6, Δ+2) | 3d old
   London - The River Building HQ
-  Why: title match: 'product data scientist'; title match: 'data scientist' | boost: product (+1) | very recent (2d)
+  Why: title match: 'product data scientist'; title match: 'data scientist' | boost: product (+1) | recent (3d)
   [Apply](https://jobs.ashbyhq.com/deliveroo/8074e2e7-f9b6-4f6c-9b9c-5576e526002a)
 
-- **Intercom — Forward Deployed Software Engineer** [APPLIED_AI_FDE]  Score: 10 (base 1, Δ+9) | 2d old
+- **Intercom — Forward Deployed Software Engineer** [APPLIED_AI_FDE]  Score: 8 (base 1, Δ+7) | 3d old
   London, England
-  Why: title match: 'forward deployed'; exclude kw: 'platform' | boost: forward deployed (+4); boost: applied ai (+4); boost: product (+1); pe... | very recent (2d)
+  Why: title match: 'forward deployed'; exclude kw: 'platform' | boost: forward deployed (+4); boost: applied ai (+4); boost: product (+1); pe... | recent (3d)
   [Apply](https://job-boards.greenhouse.io/intercom/jobs/7556413)
 
-- **Lendable — Lead Product Data Scientist** [CORE_DS]  Score: 10 (base 6, Δ+4) | 2d old
+- **Lendable — Lead Product Data Scientist** [CORE_DS]  Score: 8 (base 6, Δ+2) | 3d old
   London
-  Why: title match: 'product data scientist'; title match: 'data scientist' | boost: product (+1) | very recent (2d)
+  Why: title match: 'product data scientist'; title match: 'data scientist' | boost: product (+1) | recent (3d)
   [Apply](https://jobs.ashbyhq.com/lendable/acf4456d-f054-4966-b04d-768c245b3fde)
 
-- **Lendable — Senior Product Data Scientist** [CORE_DS]  Score: 10 (base 6, Δ+4) | 2d old
+- **Lendable — Senior Product Data Scientist** [CORE_DS]  Score: 8 (base 6, Δ+2) | 3d old
   London
-  Why: title match: 'product data scientist'; title match: 'data scientist' | boost: product (+1) | very recent (2d)
+  Why: title match: 'product data scientist'; title match: 'data scientist' | boost: product (+1) | recent (3d)
   [Apply](https://jobs.ashbyhq.com/lendable/09eedc0b-88c0-4b3c-8d51-65e0f05b721a)
-
-- **OpenAI — Technical Deployment Lead, Forward Deployed Engineering - London** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 2d old
-  London, UK
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (2d)
-  [Apply](https://jobs.ashbyhq.com/openai/2c16575f-1a04-43af-bd0a-8e8f72e3255f)
-
-- **OpenAI — Forward Deployed Engineer - London** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 2d old
-  London, UK
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (2d)
-  [Apply](https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283)
-
-- **OpenAI — Forward Deployed Software Engineer - London** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 2d old
-  London, UK
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (2d)
-  [Apply](https://jobs.ashbyhq.com/openai/54b2072e-4c1c-40e4-b2dc-ec51d9d0ab60)
-
-- **OpenAI — Forward Deployed Engineer (FDE), Life Sciences - London** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 2d old
-  London, UK
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (2d)
-  [Apply](https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023)
 
 ---
 _Generated by job-aggregator brief_
