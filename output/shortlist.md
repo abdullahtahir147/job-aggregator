@@ -1,58 +1,52 @@
 # Shortlist
 
-**Run ID:** `c44d17653449`
-**Generated:** 2026-04-20T10:53:34Z
+**Run ID:** `cdd568ec37b0`
+**Generated:** 2026-04-21T10:22:16Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
 **Intent scoring:** enabled
 **Freshness filter:** <= 7d
-**Results:** 25
+**Results:** 19
 
-### APPLIED_AI_FDE (14)
-
-| # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
-|---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 2 | Intercom | Engineering Manager, Forward Deployed Engineering | London, England | 7d | 13 | 1 | +12 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7765466) | title match: 'forward deployed'; exclude kw: 'platform'; recent (7d) |
-| 5 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
-| 6 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed'; very recent (0d) |
-| 7 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
-| 8 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
-| 10 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121694427) | title match: 'applied scientist'; very recent (0d) |
-| 15 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) | title match: 'solutions architect'; exclude kw: 'platform'; very recent (0d) |
-| 16 | Block (Square) | Solutions Engineer | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer'; very recent (0d) |
-| 17 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect'; very recent (0d) |
-| 18 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846) | title match: 'forward deployed'; exclude kw: 'infrastructure'; very recent (0d) |
-| 19 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | London, United Kingdom | 7d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002) | title match: 'forward deployed'; recent (7d) |
-| 20 | Databricks | Sr. Forward Deployed Engineer | London, United Kingdom | 7d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002) | title match: 'forward deployed'; recent (7d) |
-| 22 | Intercom | Forward Deployed Software Engineer | London, England | 7d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7556413) | title match: 'forward deployed'; exclude kw: 'platform'; recent (7d) |
-| 25 | OpenAI | Technical Deployment Lead, Forward Deployed Engineering - London | London, UK | 7d | 8 | 3 | +5 | [Apply](https://jobs.ashbyhq.com/openai/2c16575f-1a04-43af-bd0a-8e8f72e3255f) | title match: 'forward deployed'; recent (7d) |
-
-### MARKETING_SCIENCE (1)
+### APPLIED_AI_FDE (8)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 9 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom | 7d | 10 | 6 | +4 | [Apply](https://jobs.smartrecruiters.com/Wise/744000106702915) | title match: 'marketing data'; title match: 'data analyst'; recent (7d) |
+| 1 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
+| 2 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed'; very recent (0d) |
+| 3 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
+| 4 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
+| 5 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121694427) | title match: 'applied scientist'; very recent (0d) |
+| 10 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846) | title match: 'forward deployed'; exclude kw: 'infrastructure'; very recent (0d) |
+| 14 | OpenAI | Partner AI Deployment Engineer - AWS | London, UK | 0d | 6 | 3 | +3 | [Apply](https://jobs.ashbyhq.com/openai/4071e415-36d6-4bc2-95e9-6196102f0ad5) | title match: 'deployment engineer'; very recent (0d) |
+| 17 | Palantir | Forward Deployed Enablement Engineer - Customer Success | London, United Kingdom | 0d | 5 | -2 | +7 | [Apply](https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd) | title match: 'forward deployed'; title exclude: 'customer success'; very recent (0d) |
 
-### PRODUCT_GROWTH_DATA (7)
+### PRODUCT_GROWTH_DATA (4)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 1 | Intercom | Senior Data Scientist - Product Analytics | London, England | 7d | 14 | 6 | +8 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/6317929) | title match: 'data scientist'; title match: 'product analytics'; keyword: 'experiment' (+2 more); recent (7d) |
-| 3 | Deliveroo | Senior Data Scientist - Experimentation | London - The River Building HQ | 7d | 12 | 8 | +4 | [Apply](https://jobs.ashbyhq.com/deliveroo/e2a26e27-5d65-4add-8732-6a92675145de) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more); recent (7d) |
-| 4 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France | 0d | 11 | 5 | +6 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation'; very recent (0d) |
-| 11 | Lendable | Lead Product Analyst | London, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) | title match: 'product analyst'; very recent (0d) |
-| 12 | Lendable | Senior Product Analyst | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7) | title match: 'product analyst'; very recent (0d) |
-| 13 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000121374212) | title match: 'product analyst'; very recent (0d) |
-| 14 | Intercom | Senior Data Scientist | London, England | 7d | 9 | 3 | +6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7749323) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+1 more); recent (7d) |
+| 6 | Lendable | Lead Product Analyst | London, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) | title match: 'product analyst'; very recent (0d) |
+| 7 | Lendable | Senior Product Analyst | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7) | title match: 'product analyst'; very recent (0d) |
+| 8 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000121980152) | title match: 'product analyst'; very recent (0d) |
+| 9 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000121374212) | title match: 'product analyst'; very recent (0d) |
 
 ### CORE_DS (3)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 21 | Deliveroo | Senior Product Data Scientist  | London - The River Building HQ | 7d | 8 | 6 | +2 | [Apply](https://jobs.ashbyhq.com/deliveroo/8074e2e7-f9b6-4f6c-9b9c-5576e526002a) | title match: 'product data scientist'; title match: 'data scientist'; recent (7d) |
-| 23 | Lendable | Lead Product Data Scientist | London | 7d | 8 | 6 | +2 | [Apply](https://jobs.ashbyhq.com/lendable/acf4456d-f054-4966-b04d-768c245b3fde) | title match: 'product data scientist'; title match: 'data scientist'; recent (7d) |
-| 24 | Lendable | Senior Product Data Scientist | London | 7d | 8 | 6 | +2 | [Apply](https://jobs.ashbyhq.com/lendable/09eedc0b-88c0-4b3c-8d51-65e0f05b721a) | title match: 'product data scientist'; title match: 'data scientist'; recent (7d) |
+| 12 | Deliveroo | Senior Data Scientist  | London - The River Building HQ | 0d | 6 | 3 | +3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist'; very recent (0d) |
+| 18 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0d | 3 | 0 | +3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121697004) | —; very recent (0d) |
+| 19 | Spotify | Machine Learning Engineer, Personalization | London | 0d | 3 | 0 | +3 | [Apply](https://jobs.lever.co/spotify/4972fad1-f3d8-49ef-9d41-d132b5281942) | —; very recent (0d) |
+
+### ANALYTICS_BI (4)
+
+| # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
+|---|---------|-------|----------|-----|-------|------|---|------|--------|
+| 11 | Monzo | Data Analyst, Growth & Marketing  | Cardiff, London or Remote (UK) | 0d | 7 | 3 | +4 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7831635) | title match: 'data analyst'; very recent (0d) |
+| 13 | Moneybox | Senior Analytics Engineer | London | 0d | 6 | 3 | +3 | [Apply](https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f) | title match: 'analytics engineer'; very recent (0d) |
+| 15 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom | 0d | 6 | 3 | +3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000121013737) | title match: 'data analyst'; very recent (0d) |
+| 16 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | 0d | 6 | 3 | +3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000120980812) | title match: 'data analyst'; very recent (0d) |
 
 ---
 _Generated by job-aggregator shortlist_
