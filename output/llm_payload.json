@@ -1,6 +1,20 @@
 [
   {
     "rank": 1,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Datadog",
+    "title": "Senior Customer Data Science - Solutions / Experimentation",
+    "location": "London, United Kingdom; Paris, France",
+    "url": "https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544",
+    "final_score": 11,
+    "base_score": 5,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'experimentation'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'",
+    "intent_reasons": "boost: experimentation (+3)",
+    "posted_at": "2026-04-20T08:06:21Z"
+  },
+  {
+    "rank": 2,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -14,7 +28,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -28,7 +42,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -42,7 +56,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - UK Government",
@@ -56,7 +70,7 @@
     "posted_at": "2021-07-01T17:35:48Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
@@ -70,7 +84,7 @@
     "posted_at": "2026-04-20T07:31:58.224Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Lendable",
     "title": "Lead Product Analyst",
@@ -84,7 +98,7 @@
     "posted_at": "2026-04-13T12:51:18Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Lendable",
     "title": "Senior Product Analyst",
@@ -98,7 +112,7 @@
     "posted_at": "2026-04-13T12:51:21Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -112,7 +126,7 @@
     "posted_at": "2026-04-21T09:20:28.013Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst, Accounting Integrations & Reporting",
@@ -126,7 +140,50 @@
     "posted_at": "2026-04-17T09:02:31.488Z"
   },
   {
-    "rank": 10,
+    "rank": 11,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Airtable",
+    "title": "Senior Partner Solutions Architect",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/airtable/jobs/8462421002",
+    "final_score": 8,
+    "base_score": 1,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: solutions architect (+2); boost: growth (+1); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;em&gt;Solution Architecture &amp;amp; Design&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate with Engagement Managers, Partner Success Managers and partner teams to validate scope and design for complex solutions&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Advise customers and partners on data governance models, API architecture, security frameworks, and enterprise deployment best practices&lt;/li&gt;\n&lt;li&gt;Develop solution architecture designs, technical specifications, and implementation roadmaps that support Airtable’s partner ecosystem&lt;/li&gt;\n&lt;li&gt;Create compelling technical narratives and demonstrations that showcase the power of Airtable + Partner solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Customer &amp;amp; Partner Collaboration&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as the technical advisor on strategic partner-led engagements with Enterprise clients&lt;/li&gt;\n&lt;li&gt;Support partners as needed in conducting deep discovery sessions to understand clients&#39; technical environments, business requirements, and integration needs&lt;/li&gt;\n&lt;li&gt;",
+    "posted_at": "2026-04-13T12:36:13Z"
+  },
+  {
+    "rank": 12,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Block (Square)",
+    "title": "Solutions Engineer",
+    "location": "London, United Kingdom",
+    "url": "http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions engineer'",
+    "intent_reasons": "boost: solutions engineer (+2)",
+    "posted_at": "2026-04-16T19:22:18Z"
+  },
+  {
+    "rank": 13,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect - Lakewatch",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-04-17T09:37:27Z"
+  },
+  {
+    "rank": 14,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Infrastructure Engineer - UK Government",
@@ -140,21 +197,36 @@
     "posted_at": "2025-08-07T07:32:41Z"
   },
   {
-    "rank": 11,
+    "rank": 15,
     "tag": "ANALYTICS_BI",
-    "company": "Monzo",
-    "title": "Data Analyst, Growth & Marketing ",
-    "location": "Cardiff, London or Remote (UK)",
-    "url": "https://job-boards.greenhouse.io/monzo/jobs/7831635",
+    "company": "Wise",
+    "title": "Senior Data Analyst - Product Reliability ",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000122018045",
     "final_score": 7,
     "base_score": 3,
     "intent_delta": 1,
     "match_reason": "+3 title match: 'data analyst'",
-    "intent_reasons": "boost: growth (+1)",
-    "posted_at": "2026-04-20T10:38:42Z"
+    "intent_reasons": "boost: product (+1)",
+    "posted_at": "2026-04-21T12:43:32.019Z"
   },
   {
-    "rank": 12,
+    "rank": 16,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Braze",
+    "title": "Senior Lead AI Solutions Consultant",
+    "location": "London",
+    "url": "https://boards.greenhouse.io/braze/jobs/7797704?gh_jid=7797704",
+    "final_score": 6,
+    "base_score": -1,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'ai solutions'; -2 exclude kw: 'reinforcement learning'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: ai solutions (+2); boost: growth (+1); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew.&lt;/p&gt;\n&lt;p&gt;We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our organization.&lt;/p&gt;\n&lt;p&gt;To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to contribute: Acting with autonomy, having accountability and being open to new perspectives are essential to our continued success.&lt;/p&gt;\n&lt;p&gt;Our deep curiosity to learn and our eagerness to share diverse passions with others gives us balance and injects a one-of-a-kind vibrancy into our culture.&lt;/p&gt;\n&lt;p&gt;If you are driven to solve exhilarating challenges and have a bias toward action in the face of change, you will be empowered to make a real impact here, with a sharp and passionate team at your back. If Braze sounds like a place where you can thrive, we can’t wait to meet you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Senior Lead AI Solutions Consultant, you will drive new and expansion revenue by increasing understanding and adoption of the BrazeAI portfolio of tools and services.&amp;nbsp; We serve as the pre-sales data scientists to scope use cases, establish credibility with enterprise",
+    "posted_at": "2026-04-20T11:34:06Z"
+  },
+  {
+    "rank": 17,
     "tag": "CORE_DS",
     "company": "Deliveroo",
     "title": "Senior Data Scientist ",
@@ -168,7 +240,7 @@
     "posted_at": "2026-04-16T14:56:27Z"
   },
   {
-    "rank": 13,
+    "rank": 18,
     "tag": "ANALYTICS_BI",
     "company": "Moneybox",
     "title": "Senior Analytics Engineer",
@@ -182,7 +254,7 @@
     "posted_at": "2025-10-17T15:56:00Z"
   },
   {
-    "rank": 14,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Partner AI Deployment Engineer - AWS",
@@ -196,21 +268,35 @@
     "posted_at": "2026-04-20T16:21:54Z"
   },
   {
-    "rank": 15,
+    "rank": 20,
+    "tag": "APPLIED_AI_FDE",
+    "company": "OpenAI",
+    "title": "AI Deployment Engineer | Codex",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'deployment engineer'",
+    "intent_reasons": "",
+    "posted_at": "2026-04-22T07:57:27Z"
+  },
+  {
+    "rank": 21,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Treasury (FX Markets)",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000121013737",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000122065830",
     "final_score": 6,
     "base_score": 3,
     "intent_delta": 0,
     "match_reason": "+3 title match: 'data analyst'",
     "intent_reasons": "",
-    "posted_at": "2026-04-15T16:08:00.825Z"
+    "posted_at": "2026-04-21T15:47:30.346Z"
   },
   {
-    "rank": 16,
+    "rank": 22,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Staff Data Analyst, Operations ",
@@ -224,7 +310,22 @@
     "posted_at": "2026-04-15T14:15:17.769Z"
   },
   {
-    "rank": 17,
+    "rank": 23,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Intercom",
+    "title": "Senior Analytics Engineer",
+    "location": "London, England",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/7808050",
+    "final_score": 5,
+    "base_score": 2,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'analytics engineer'; +1 keyword: 'experiment'; +1 keyword: 'bayesian'; +1 keyword: 'measurement'; -2 exclude kw: 'platform'; -2 exclude kw: 'infrastructure'",
+    "intent_reasons": "boost: measurement (+1); boost: growth (+1); boost: product (+1); penalty: aml (-3)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Senior Analytics Engineer&amp;nbsp;&lt;/h2&gt;\n&lt;h4&gt;Communication has changed for people. It’s changed for businesses, too.&lt;/h4&gt;\n&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a c",
+    "posted_at": "2026-04-17T13:44:12Z"
+  },
+  {
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Enablement Engineer - Customer Success",
@@ -238,7 +339,7 @@
     "posted_at": "2024-11-12T16:51:46Z"
   },
   {
-    "rank": 18,
+    "rank": 25,
     "tag": "CORE_DS",
     "company": "ASOS",
     "title": "Machine Learning Engineer",
@@ -250,19 +351,5 @@
     "match_reason": "",
     "intent_reasons": "",
     "posted_at": "2026-04-20T07:49:19.588Z"
-  },
-  {
-    "rank": 19,
-    "tag": "CORE_DS",
-    "company": "Spotify",
-    "title": "Machine Learning Engineer, Personalization",
-    "location": "London",
-    "url": "https://jobs.lever.co/spotify/4972fad1-f3d8-49ef-9d41-d132b5281942",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-04-15T14:36:53Z"
   }
 ]
