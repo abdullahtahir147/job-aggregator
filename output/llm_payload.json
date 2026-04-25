@@ -16,6 +16,76 @@
   {
     "rank": 2,
     "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed AI Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2024-05-09T14:33:01Z"
+  },
+  {
+    "rank": 3,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Reliability Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-04-22T19:15:03Z"
+  },
+  {
+    "rank": 4,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2009-12-05T00:00:00Z"
+  },
+  {
+    "rank": 5,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - UK Government",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2023-01-11T17:48:32Z"
+  },
+  {
+    "rank": 6,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - UK Government",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2021-07-01T17:35:48Z"
+  },
+  {
+    "rank": 7,
+    "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
     "location": "London, England, United Kingdom",
@@ -28,7 +98,7 @@
     "posted_at": "2026-04-23T10:17:58.533Z"
   },
   {
-    "rank": 3,
+    "rank": 8,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Lendable",
     "title": "Lead Product Analyst",
@@ -42,7 +112,7 @@
     "posted_at": "2026-04-13T12:51:18Z"
   },
   {
-    "rank": 4,
+    "rank": 9,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Lendable",
     "title": "Senior Product Analyst",
@@ -56,7 +126,77 @@
     "posted_at": "2026-04-13T12:51:21Z"
   },
   {
-    "rank": 5,
+    "rank": 10,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst - Wise Business",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000122727535",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-24T16:28:36.893Z"
+  },
+  {
+    "rank": 11,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst, Accounting Integrations & Reporting",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000122727639",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-24T16:17:59.875Z"
+  },
+  {
+    "rank": 12,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst - Screening",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000122713235",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-24T15:21:47.793Z"
+  },
+  {
+    "rank": 13,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Lead Product Analyst - Onboarding",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000122704459",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-24T14:41:33.250Z"
+  },
+  {
+    "rank": 14,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Lead Product Analyst - Business Account Management",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000122699961",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-24T14:30:27.689Z"
+  },
+  {
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -70,21 +210,7 @@
     "posted_at": "2026-04-21T09:20:28.013Z"
   },
   {
-    "rank": 6,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst, Accounting Integrations & Reporting",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000121374212",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-04-17T09:02:31.488Z"
-  },
-  {
-    "rank": 7,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Senior Partner Solutions Architect",
@@ -99,7 +225,7 @@
     "posted_at": "2026-04-13T12:36:13Z"
   },
   {
-    "rank": 8,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -113,7 +239,7 @@
     "posted_at": "2026-04-16T19:22:18Z"
   },
   {
-    "rank": 9,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect - Lakewatch",
@@ -127,7 +253,21 @@
     "posted_at": "2026-04-17T09:37:27Z"
   },
   {
-    "rank": 10,
+    "rank": 19,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer - UK Government",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846",
+    "final_score": 8,
+    "base_score": 1,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'infrastructure'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2025-08-07T07:32:41Z"
+  },
+  {
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Braze",
     "title": "Senior Lead AI Solutions Consultant",
@@ -142,7 +282,7 @@
     "posted_at": "2026-04-20T11:34:06Z"
   },
   {
-    "rank": 11,
+    "rank": 21,
     "tag": "ANALYTICS_BI",
     "company": "Coinbase",
     "title": "Analytics Engineer",
@@ -153,10 +293,10 @@
     "intent_delta": 0,
     "match_reason": "+3 title match: 'analytics engineer'",
     "intent_reasons": "",
-    "posted_at": "2026-04-23T15:46:11Z"
+    "posted_at": "2026-04-24T20:12:31Z"
   },
   {
-    "rank": 12,
+    "rank": 22,
     "tag": "CORE_DS",
     "company": "Deliveroo",
     "title": "Senior Data Scientist ",
@@ -170,7 +310,35 @@
     "posted_at": "2026-04-16T14:56:27Z"
   },
   {
-    "rank": 13,
+    "rank": 23,
+    "tag": "ANALYTICS_BI",
+    "company": "Moneybox",
+    "title": "Senior Analytics Engineer",
+    "location": "London",
+    "url": "https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'analytics engineer'",
+    "intent_reasons": "",
+    "posted_at": "2025-10-17T15:56:00Z"
+  },
+  {
+    "rank": 24,
+    "tag": "ANALYTICS_BI",
+    "company": "Wise",
+    "title": "Senior Data Analyst - Payment Operations",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000122714204",
+    "final_score": 6,
+    "base_score": 3,
+    "intent_delta": 0,
+    "match_reason": "+3 title match: 'data analyst'",
+    "intent_reasons": "",
+    "posted_at": "2026-04-24T15:21:09.838Z"
+  },
+  {
+    "rank": 25,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Lead Data Analyst - Treasury (FX Markets)",
@@ -182,90 +350,5 @@
     "match_reason": "+3 title match: 'data analyst'",
     "intent_reasons": "",
     "posted_at": "2026-04-21T15:47:30.346Z"
-  },
-  {
-    "rank": 14,
-    "tag": "ANALYTICS_BI",
-    "company": "Wise",
-    "title": "Staff Data Analyst, Operations ",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000120980812",
-    "final_score": 6,
-    "base_score": 3,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'data analyst'",
-    "intent_reasons": "",
-    "posted_at": "2026-04-15T14:15:17.769Z"
-  },
-  {
-    "rank": 15,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Intercom",
-    "title": "Senior Analytics Engineer",
-    "location": "London, England",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/7808050",
-    "final_score": 5,
-    "base_score": 2,
-    "intent_delta": 0,
-    "match_reason": "+3 title match: 'analytics engineer'; +1 keyword: 'experiment'; +1 keyword: 'bayesian'; +1 keyword: 'measurement'; -2 exclude kw: 'platform'; -2 exclude kw: 'infrastructure'",
-    "intent_reasons": "boost: measurement (+1); boost: growth (+1); boost: product (+1); penalty: aml (-3)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a complete solution called the Intercom Customer Service Suite, which provides AI enhanced support for the more complex or high touch queries that require a human agent.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Founded in 2011 and trusted by nearly 30,000 global businesses, Intercom is setting the new standard for customer service. Driven by our core values, we push boundaries, build with speed and intensity, and consistently deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Senior Analytics Engineer&amp;nbsp;&lt;/h2&gt;\n&lt;h4&gt;Communication has changed for people. It’s changed for businesses, too.&lt;/h4&gt;\n&lt;p&gt;Intercom is the AI Customer Service company on a mission to help businesses provide incredible customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI agent Fin, the most advanced customer service AI agent on the market, lets businesses deliver always-on, impeccable customer service and ultimately transform their customer experiences for the better. Fin can also be combined with our Helpdesk to become a c",
-    "posted_at": "2026-04-17T13:44:12Z"
-  },
-  {
-    "rank": 16,
-    "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Senior Machine Learning Engineer (Recommendations)",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000122631269",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-04-24T08:59:03.199Z"
-  },
-  {
-    "rank": 17,
-    "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Senior Machine Learning Scientist (Personalisation)",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000122630445",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-04-24T08:57:32.116Z"
-  },
-  {
-    "rank": 18,
-    "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Machine Learning Engineer",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000122526989",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-04-23T18:58:56.321Z"
-  },
-  {
-    "rank": 19,
-    "tag": "CORE_DS",
-    "company": "ASOS",
-    "title": "Machine Learning Engineer",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000121697004",
-    "final_score": 3,
-    "base_score": 0,
-    "intent_delta": 0,
-    "match_reason": "",
-    "intent_reasons": "",
-    "posted_at": "2026-04-20T07:49:19.588Z"
   }
 ]

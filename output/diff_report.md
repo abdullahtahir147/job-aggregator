@@ -1,51 +1,51 @@
 # Diff Report
 
-**Run ID:** `9aaea0bdc274`
-**Timestamp:** 2026-04-24T10:26:34Z
+**Run ID:** `17794952a024`
+**Timestamp:** 2026-04-25T09:57:00Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 2439
+**New jobs this run:** 2731
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **63** new high-scoring job(s).
+Found **116** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France 🇬🇧 | 5 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 | 2 | Figma | Data Scientist, Core Data -  PhD (2026) | New York, NY • United States; San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 3 | Stripe | Billing Solutions Architect | London, Dublin, Berlin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7115730) | title match: 'solutions architect' |
-| 4 | Stripe | Data Analyst | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7610132) | title match: 'data analyst' |
-| 5 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
-| 6 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
-| 7 | Stripe | Solutions Architect (Australia) | Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
-| 8 | Stripe | Solutions Architect, Italy | LOCATION | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
-| 9 | Coinbase | Analytics Engineer | Remote - UK 🇬🇧 | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
+| 3 | Moneybox | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f) | title match: 'analytics engineer' |
+| 4 | Stripe | Billing Solutions Architect | London, Dublin, Berlin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7115730) | title match: 'solutions architect' |
+| 5 | Stripe | Data Analyst | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7610132) | title match: 'data analyst' |
+| 6 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
+| 7 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
+| 8 | Stripe | Solutions Architect (Australia) | Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
+| 9 | Stripe | Solutions Architect, Italy | LOCATION | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
 | 10 | Coinbase | Analytics Engineer | Remote - Ireland | 3 | [Apply](https://www.coinbase.com/careers/positions/7843710?gh_jid=7843710) | title match: 'analytics engineer' |
-| 11 | ASOS | Applied Scientist | London, England, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist' |
-| 12 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122065830) | title match: 'data analyst' |
-| 13 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000121980152) | title match: 'product analyst' |
-| 14 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000121374212) | title match: 'product analyst' |
-| 15 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000120980812) | title match: 'data analyst' |
-| 16 | Lendable | Lead Product Analyst | London, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) | title match: 'product analyst' |
-| 17 | Lendable | Senior Product Analyst | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7) | title match: 'product analyst' |
-| 18 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Singapore | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002) | title match: 'forward deployed' |
-| 19 | Databricks | Delivery Solutions Architect - Healthcare & Life Sciences | United States | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476399002) | title match: 'solutions architect' |
-| 20 | Databricks | Industry Lead Solutions Architect - Financial Services | Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480642002) | title match: 'solutions architect' |
-| 21 | Databricks | Resident Solutions Architect | Western Australia, Australia | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002) | title match: 'solutions architect' |
-| 22 | Databricks | Resident Solutions Architect | Tokyo, Japan | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) | title match: 'solutions architect' |
-| 23 | Databricks | Senior Solutions Architect | Remote - Denmark; Stockholm, Sweden | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8509683002) | title match: 'solutions architect' |
-| 24 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom 🇬🇧 | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect' |
-| 25 | Databricks | Solutions Architect | Ottawa, Canada | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6679259002) | title match: 'solutions architect' |
+| 11 | Coinbase | Analytics Engineer | Remote - UK 🇬🇧 | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
+| 12 | Deliveroo | Senior Data Scientist  | London - The River Building HQ 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
+| 13 | ASOS | Applied Scientist | London, England, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist' |
+| 14 | Cloudflare | Solutions Engineer Manager, Associate Programs | Distributed | 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916) | title match: 'solutions engineer' |
+| 15 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Singapore | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002) | title match: 'forward deployed' |
+| 16 | Databricks | Delivery Solutions Architect - Healthcare & Life Sciences | United States | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476399002) | title match: 'solutions architect' |
+| 17 | Databricks | Industry Lead Solutions Architect - Financial Services | Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480642002) | title match: 'solutions architect' |
+| 18 | Databricks | Manager, Field Engineering France  - Specialist Solutions Architects | Paris, France | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002) | title match: 'solutions architect' |
+| 19 | Databricks | Resident Solutions Architect | Tokyo, Japan | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) | title match: 'solutions architect' |
+| 20 | Databricks | Resident Solutions Architect | Western Australia, Australia | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002) | title match: 'solutions architect' |
+| 21 | Databricks | Senior Solutions Architect | Remote - Denmark; Stockholm, Sweden | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8509683002) | title match: 'solutions architect' |
+| 22 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom 🇬🇧 | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect' |
+| 23 | Databricks | Solutions Architect | Munich, Germany | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8500326002) | title match: 'solutions architect' |
+| 24 | Databricks | Solutions Architect | Ottawa, Canada | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6679259002) | title match: 'solutions architect' |
+| 25 | Databricks | Solutions Architect - Financial Services (Insurance) | Georgia; Massachusetts; New Jersey; New York; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8502987002) | title match: 'solutions architect' |
 
-... and 38 more not shown
+... and 91 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **227** new UK posting(s) not in top matches.
+Found **305** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -82,61 +82,61 @@ Found **227** new UK posting(s) not in top matches.
 | 31 | BoschGroup | Executive Project Manager | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121967507) |
 | 32 | BoschGroup | Export Control Officer | Denham, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122640968) |
 | 33 | BoschGroup | French Speaking Customer Service Advisor | Liverpool, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121968298) |
-| 34 | BoschGroup | Graduate Specialist - Technical Engineering Sales | South Cerney, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713285) |
-| 35 | BoschGroup | Graduate Specialist Program - Technical Engineering Business Development | South Cerney, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713788) |
-| 36 | BoschGroup | Maintenance Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122404681) |
-| 37 | BoschGroup | Production Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121697827) |
-| 38 | BoschGroup | Service Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122464379) |
-| 39 | BoschGroup | Supply Chain Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121698124) |
-| 40 | BoschGroup | Training Engineer | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121763186) |
+| 34 | BoschGroup | Graduate Placement – Manufacturing Coordination (12-24 Months)  | Birmingham, West Midlands, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122719343) |
+| 35 | BoschGroup | Graduate Specialist - Technical Engineering Sales | South Cerney, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713285) |
+| 36 | BoschGroup | Graduate Specialist Program - Technical Engineering Business Development | South Cerney, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713788) |
+| 37 | BoschGroup | Maintenance Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122404681) |
+| 38 | BoschGroup | Production Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121697827) |
+| 39 | BoschGroup | Service Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122464379) |
+| 40 | BoschGroup | Supply Chain Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121698124) |
 
-... and 187 more not shown
+... and 265 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **2149** other new posting(s).
+Found **2310** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
-| 1 | Airtable |  Account Executive, Strategic Accounts | DACH  | Munich | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8509851002) |
-| 2 | Airtable | Product Designer | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8474256002) |
-| 3 | Airtable | Senior Accounting Manager | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8460788002) |
-| 4 | Airtable | Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397515002) |
-| 5 | Block (Square) |  Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191688008?gh_jid=5191688008) |
+| 1 | ASOS | Trade Manager – US  | New York, New York, United States | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122716149) |
+| 2 | Airtable |  Account Executive, Strategic Accounts | DACH  | Munich | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8509851002) |
+| 3 | Airtable | Product Designer | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8474256002) |
+| 4 | Airtable | Senior Accounting Manager | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8460788002) |
+| 5 | Airtable | Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397515002) |
 | 6 | Block (Square) |  Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191704008?gh_jid=5191704008) |
-| 7 | Block (Square) |  Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191557008?gh_jid=5191557008) |
-| 8 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
-| 9 | Block (Square) | Account Services Manager - Franchise Growth | Chicago, IL, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5183859008?gh_jid=5183859008) |
-| 10 | Block (Square) | Business Development Rep - AfterPay | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5175618008?gh_jid=5175618008) |
-| 11 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191576008?gh_jid=5191576008) |
-| 12 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191675008?gh_jid=5191675008) |
-| 13 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191716008?gh_jid=5191716008) |
+| 7 | Block (Square) |  Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191688008?gh_jid=5191688008) |
+| 8 | Block (Square) |  Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191557008?gh_jid=5191557008) |
+| 9 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
+| 10 | Block (Square) | Account Services Manager - Franchise Growth | Chicago, IL, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5183859008?gh_jid=5183859008) |
+| 11 | Block (Square) | Business Development Rep - AfterPay | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5175618008?gh_jid=5175618008) |
+| 12 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191728008?gh_jid=5191728008) |
+| 13 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191576008?gh_jid=5191576008) |
 | 14 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191657008?gh_jid=5191657008) |
-| 15 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191728008?gh_jid=5191728008) |
-| 16 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5123801008?gh_jid=5123801008) |
-| 17 | Block (Square) | Channel Sales Support Agent (Reseller) | Bay Area, CA, United States of America | -10 | [Apply](http://block.xyz/careers/jobs/5183725008?gh_jid=5183725008) |
+| 15 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191675008?gh_jid=5191675008) |
+| 16 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191716008?gh_jid=5191716008) |
+| 17 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5123801008?gh_jid=5123801008) |
 | 18 | Block (Square) | Channel Sales Support Agent (Reseller) | New York, NY, United States of America | -10 | [Apply](http://block.xyz/careers/jobs/5183536008?gh_jid=5183536008) |
-| 19 | Block (Square) | Compliance Technology Oversight Lead | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/4749660008?gh_jid=4749660008) |
-| 20 | Block (Square) | Engineering Program Coordinator | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5178222008?gh_jid=5178222008) |
-| 21 | Block (Square) | Enterprise Account Executive | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/4746707008?gh_jid=4746707008) |
+| 19 | Block (Square) | Channel Sales Support Agent (Reseller) | Bay Area, CA, United States of America | -10 | [Apply](http://block.xyz/careers/jobs/5183725008?gh_jid=5183725008) |
+| 20 | Block (Square) | Compliance Technology Oversight Lead | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/4749660008?gh_jid=4749660008) |
+| 21 | Block (Square) | Engineering Program Coordinator | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5178222008?gh_jid=5178222008) |
 | 22 | Block (Square) | Enterprise Account Executive | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5123515008?gh_jid=5123515008) |
-| 23 | Block (Square) | Executive Business Partner | New York, NY, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5191458008?gh_jid=5191458008) |
-| 24 | Block (Square) | Field Sales Account Executive, Adelaide | Adelaide, Australia | -10 | [Apply](http://block.xyz/careers/jobs/5183214008?gh_jid=5183214008) |
-| 25 | Block (Square) | Field Sales Account Executive: Vancouver Island, Victoria, BC | Vancouver, British Columbia, Canada | -10 | [Apply](http://block.xyz/careers/jobs/5198573008?gh_jid=5198573008) |
+| 23 | Block (Square) | Enterprise Account Executive | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/4746707008?gh_jid=4746707008) |
+| 24 | Block (Square) | Executive Business Partner | New York, NY, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5191458008?gh_jid=5191458008) |
+| 25 | Block (Square) | Field Sales Account Executive, Adelaide | Adelaide, Australia | -10 | [Apply](http://block.xyz/careers/jobs/5183214008?gh_jid=5183214008) |
 
-... and 2124 more not shown
+... and 2285 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 2439
-- **Top matches (score ≥ 3):** 63
-  - of which UK: 12
-- **New UK jobs (other):** 227
-- **Other new jobs:** 2149
+- **Total new jobs:** 2731
+- **Top matches (score ≥ 3):** 116
+  - of which UK: 23
+- **New UK jobs (other):** 305
+- **Other new jobs:** 2310
 
 ---
 _Generated by job-aggregator diff mode_
