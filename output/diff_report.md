@@ -1,51 +1,51 @@
 # Diff Report
 
-**Run ID:** `17794952a024`
-**Timestamp:** 2026-04-25T09:57:00Z
+**Run ID:** `be313cb65181`
+**Timestamp:** 2026-04-26T09:58:43Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 2731
+**New jobs this run:** 2830
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **116** new high-scoring job(s).
+Found **127** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France 🇬🇧 | 5 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 | 2 | Figma | Data Scientist, Core Data -  PhD (2026) | New York, NY • United States; San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 3 | Moneybox | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f) | title match: 'analytics engineer' |
-| 4 | Stripe | Billing Solutions Architect | London, Dublin, Berlin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7115730) | title match: 'solutions architect' |
-| 5 | Stripe | Data Analyst | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7610132) | title match: 'data analyst' |
-| 6 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
-| 7 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
-| 8 | Stripe | Solutions Architect (Australia) | Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
-| 9 | Stripe | Solutions Architect, Italy | LOCATION | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
-| 10 | Coinbase | Analytics Engineer | Remote - Ireland | 3 | [Apply](https://www.coinbase.com/careers/positions/7843710?gh_jid=7843710) | title match: 'analytics engineer' |
-| 11 | Coinbase | Analytics Engineer | Remote - UK 🇬🇧 | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
-| 12 | Deliveroo | Senior Data Scientist  | London - The River Building HQ 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
-| 13 | ASOS | Applied Scientist | London, England, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist' |
-| 14 | Cloudflare | Solutions Engineer Manager, Associate Programs | Distributed | 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916) | title match: 'solutions engineer' |
-| 15 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Singapore | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002) | title match: 'forward deployed' |
-| 16 | Databricks | Delivery Solutions Architect - Healthcare & Life Sciences | United States | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476399002) | title match: 'solutions architect' |
-| 17 | Databricks | Industry Lead Solutions Architect - Financial Services | Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480642002) | title match: 'solutions architect' |
-| 18 | Databricks | Manager, Field Engineering France  - Specialist Solutions Architects | Paris, France | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002) | title match: 'solutions architect' |
+| 3 | Stripe | Billing Solutions Architect | London, Dublin, Berlin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7115730) | title match: 'solutions architect' |
+| 4 | Stripe | Data Analyst | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7610132) | title match: 'data analyst' |
+| 5 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
+| 6 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
+| 7 | Stripe | Solutions Architect (Australia) | Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
+| 8 | Stripe | Solutions Architect, Italy | LOCATION | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
+| 9 | Coinbase | Analytics Engineer | Remote - Ireland | 3 | [Apply](https://www.coinbase.com/careers/positions/7843710?gh_jid=7843710) | title match: 'analytics engineer' |
+| 10 | Coinbase | Analytics Engineer | Remote - UK 🇬🇧 | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
+| 11 | ASOS | Applied Scientist | London, England, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist' |
+| 12 | Moneybox | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f) | title match: 'analytics engineer' |
+| 13 | Cloudflare | Solutions Engineer Manager, Associate Programs | Distributed | 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916) | title match: 'solutions engineer' |
+| 14 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Singapore | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002) | title match: 'forward deployed' |
+| 15 | Databricks | Delivery Solutions Architect - Healthcare & Life Sciences | United States | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476399002) | title match: 'solutions architect' |
+| 16 | Databricks | Industry Lead Solutions Architect - Financial Services | Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480642002) | title match: 'solutions architect' |
+| 17 | Databricks | Manager, Field Engineering France  - Specialist Solutions Architects | Paris, France | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002) | title match: 'solutions architect' |
+| 18 | Databricks | Resident Solutions Architect | Western Australia, Australia | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002) | title match: 'solutions architect' |
 | 19 | Databricks | Resident Solutions Architect | Tokyo, Japan | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) | title match: 'solutions architect' |
-| 20 | Databricks | Resident Solutions Architect | Western Australia, Australia | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002) | title match: 'solutions architect' |
-| 21 | Databricks | Senior Solutions Architect | Remote - Denmark; Stockholm, Sweden | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8509683002) | title match: 'solutions architect' |
-| 22 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom 🇬🇧 | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect' |
-| 23 | Databricks | Solutions Architect | Munich, Germany | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8500326002) | title match: 'solutions architect' |
-| 24 | Databricks | Solutions Architect | Ottawa, Canada | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6679259002) | title match: 'solutions architect' |
-| 25 | Databricks | Solutions Architect - Financial Services (Insurance) | Georgia; Massachusetts; New Jersey; New York; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8502987002) | title match: 'solutions architect' |
+| 20 | Databricks | Senior Solutions Architect | Remote - Denmark; Stockholm, Sweden | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8509683002) | title match: 'solutions architect' |
+| 21 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom 🇬🇧 | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect' |
+| 22 | Databricks | Solutions Architect | Munich, Germany | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8500326002) | title match: 'solutions architect' |
+| 23 | Databricks | Solutions Architect | Ottawa, Canada | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6679259002) | title match: 'solutions architect' |
+| 24 | Databricks | Solutions Architect - Financial Services (Insurance) | Georgia; Massachusetts; New Jersey; New York; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8502987002) | title match: 'solutions architect' |
+| 25 | Databricks | Solutions Architect (Greater China Region)  | Singapore | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8499584002) | title match: 'solutions architect' |
 
-... and 91 more not shown
+... and 102 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **305** new UK posting(s) not in top matches.
+Found **309** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -90,13 +90,13 @@ Found **305** new UK posting(s) not in top matches.
 | 39 | BoschGroup | Service Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122464379) |
 | 40 | BoschGroup | Supply Chain Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121698124) |
 
-... and 265 more not shown
+... and 269 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **2310** other new posting(s).
+Found **2394** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **2310** other new posting(s).
 | 24 | Block (Square) | Executive Business Partner | New York, NY, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5191458008?gh_jid=5191458008) |
 | 25 | Block (Square) | Field Sales Account Executive, Adelaide | Adelaide, Australia | -10 | [Apply](http://block.xyz/careers/jobs/5183214008?gh_jid=5183214008) |
 
-... and 2285 more not shown
+... and 2369 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 2731
-- **Top matches (score ≥ 3):** 116
-  - of which UK: 23
-- **New UK jobs (other):** 305
-- **Other new jobs:** 2310
+- **Total new jobs:** 2830
+- **Top matches (score ≥ 3):** 127
+  - of which UK: 26
+- **New UK jobs (other):** 309
+- **Other new jobs:** 2394
 
 ---
 _Generated by job-aggregator diff mode_
