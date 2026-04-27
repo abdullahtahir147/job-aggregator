@@ -1,51 +1,51 @@
 # Diff Report
 
-**Run ID:** `be313cb65181`
-**Timestamp:** 2026-04-26T09:58:43Z
+**Run ID:** `ebf5e9e4c815`
+**Timestamp:** 2026-04-27T11:09:16Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 2830
+**New jobs this run:** 2801
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **127** new high-scoring job(s).
+Found **116** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
-| 1 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France 🇬🇧 | 5 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
-| 2 | Figma | Data Scientist, Core Data -  PhD (2026) | New York, NY • United States; San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 3 | Stripe | Billing Solutions Architect | London, Dublin, Berlin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7115730) | title match: 'solutions architect' |
-| 4 | Stripe | Data Analyst | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7610132) | title match: 'data analyst' |
-| 5 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
-| 6 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
-| 7 | Stripe | Solutions Architect (Australia) | Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
-| 8 | Stripe | Solutions Architect, Italy | LOCATION | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
-| 9 | Coinbase | Analytics Engineer | Remote - Ireland | 3 | [Apply](https://www.coinbase.com/careers/positions/7843710?gh_jid=7843710) | title match: 'analytics engineer' |
-| 10 | Coinbase | Analytics Engineer | Remote - UK 🇬🇧 | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
-| 11 | ASOS | Applied Scientist | London, England, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist' |
-| 12 | Moneybox | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f) | title match: 'analytics engineer' |
-| 13 | Cloudflare | Solutions Engineer Manager, Associate Programs | Distributed | 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916) | title match: 'solutions engineer' |
-| 14 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Singapore | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002) | title match: 'forward deployed' |
-| 15 | Databricks | Delivery Solutions Architect - Healthcare & Life Sciences | United States | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476399002) | title match: 'solutions architect' |
-| 16 | Databricks | Industry Lead Solutions Architect - Financial Services | Georgia; Illinois; Massachusetts; New York; North Carolina; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480642002) | title match: 'solutions architect' |
-| 17 | Databricks | Manager, Field Engineering France  - Specialist Solutions Architects | Paris, France | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002) | title match: 'solutions architect' |
-| 18 | Databricks | Resident Solutions Architect | Western Australia, Australia | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002) | title match: 'solutions architect' |
-| 19 | Databricks | Resident Solutions Architect | Tokyo, Japan | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002) | title match: 'solutions architect' |
-| 20 | Databricks | Senior Solutions Architect | Remote - Denmark; Stockholm, Sweden | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8509683002) | title match: 'solutions architect' |
-| 21 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom 🇬🇧 | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect' |
-| 22 | Databricks | Solutions Architect | Munich, Germany | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8500326002) | title match: 'solutions architect' |
-| 23 | Databricks | Solutions Architect | Ottawa, Canada | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6679259002) | title match: 'solutions architect' |
-| 24 | Databricks | Solutions Architect - Financial Services (Insurance) | Georgia; Massachusetts; New Jersey; New York; Washington, D.C. | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8502987002) | title match: 'solutions architect' |
-| 25 | Databricks | Solutions Architect (Greater China Region)  | Singapore | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8499584002) | title match: 'solutions architect' |
+| 1 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123152259) | title match: 'marketing data'; title match: 'data analyst' |
+| 2 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France 🇬🇧 | 5 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
+| 3 | Figma | Data Scientist, Core Data -  PhD (2026) | New York, NY • United States; San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
+| 4 | Stripe | Billing Solutions Architect | London, Dublin, Berlin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7115730) | title match: 'solutions architect' |
+| 5 | Stripe | Data Analyst | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7610132) | title match: 'data analyst' |
+| 6 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
+| 7 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
+| 8 | Stripe | Solutions Architect (Australia) | Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
+| 9 | Stripe | Solutions Architect, Italy | LOCATION | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
+| 10 | Coinbase | Analytics Engineer | Remote - Ireland | 3 | [Apply](https://www.coinbase.com/careers/positions/7843710?gh_jid=7843710) | title match: 'analytics engineer' |
+| 11 | Coinbase | Analytics Engineer | Remote - UK 🇬🇧 | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
+| 12 | Deliveroo | Senior Data Scientist  | London - The River Building HQ 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
+| 13 | Moneybox | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f) | title match: 'analytics engineer' |
+| 14 | ASOS | Applied Scientist | London, England, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist' |
+| 15 | Cloudflare | Solutions Engineer Manager, Associate Programs | Distributed | 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916) | title match: 'solutions engineer' |
+| 16 | MongoDB | Manager, Solutions Architecture | Mexico City | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7728309) | title match: 'solutions architect' |
+| 17 | MongoDB | Senior Data Analyst | Gurugram | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7616983) | title match: 'data analyst' |
+| 18 | MongoDB | Senior Data Analyst II, Product | Austin | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7846877) | title match: 'data analyst' |
+| 19 | MongoDB | Senior Developer Advocate | Austin | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7571308) | title match: 'developer advocate' |
+| 20 | MongoDB | Solutions Architect | Stuttgart | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815447) | title match: 'solutions architect' |
+| 21 | MongoDB | Solutions Architect | Munich | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815444) | title match: 'solutions architect' |
+| 22 | MongoDB | Solutions Architect | Hamburg | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815443) | title match: 'solutions architect' |
+| 23 | MongoDB | Solutions Architect | Frankfurt | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815442) | title match: 'solutions architect' |
+| 24 | MongoDB | Solutions Architect | Düsseldorf | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7815441) | title match: 'solutions architect' |
+| 25 | MongoDB | Solutions Architect | Berlin | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7721912) | title match: 'solutions architect' |
 
-... and 102 more not shown
+... and 91 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **309** new UK posting(s) not in top matches.
+Found **305** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -54,49 +54,49 @@ Found **309** new UK posting(s) not in top matches.
 | 3 | ASOS | Commercial Finance Manager | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121450487) |
 | 4 | ASOS | Data Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122524245) |
 | 5 | ASOS | Editorial Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121451007) |
-| 6 | ASOS | Go to Market Lead | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121953248) |
-| 7 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122526989) |
-| 8 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121697004) |
-| 9 | ASOS | Manager, Special Projects  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120621922) |
-| 10 | ASOS | Model Booker (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120889631) |
-| 11 | ASOS | Payroll Admin | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122426400) |
-| 12 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629085) |
-| 13 | ASOS | Senior AI Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
-| 14 | ASOS | Senior Account Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122205667) |
-| 15 | ASOS | Senior Assistant Buyer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121444473) |
-| 16 | ASOS | Senior Creative Producer Manager (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120887142) |
-| 17 | ASOS | Senior Insight Analyst (Customer & Marketing) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120656497) |
-| 18 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122631269) |
-| 19 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122630445) |
-| 20 | ASOS | Senior Privacy Advisor | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120898487) |
-| 21 | ASOS | Senior Solution Specialist | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122527179) |
-| 22 | ASOS | Sourcing Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122408949) |
-| 23 | ASOS | Sourcing Partner | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120669747) |
-| 24 | ASOS | Sourcing Reporting Administrator | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122406469) |
-| 25 | ASOS | iOS Engineer  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122630549) |
-| 26 | Airtable | Base Optimization Specialist | London, United Kingdom | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
-| 27 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) |
-| 28 | Block (Square) | Channel Sales Learning and Experience Designer | London, United Kingdom | -5 | [Apply](http://block.xyz/careers/jobs/5146321008?gh_jid=5146321008) |
-| 29 | Block (Square) | Onboarding Project Manager | London, United Kingdom | 0 | [Apply](http://block.xyz/careers/jobs/5183823008?gh_jid=5183823008) |
-| 30 | BoschGroup | Customer Supply Chain Apprentice | Denham, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122001140) |
-| 31 | BoschGroup | Executive Project Manager | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121967507) |
-| 32 | BoschGroup | Export Control Officer | Denham, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122640968) |
-| 33 | BoschGroup | French Speaking Customer Service Advisor | Liverpool, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121968298) |
-| 34 | BoschGroup | Graduate Placement – Manufacturing Coordination (12-24 Months)  | Birmingham, West Midlands, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122719343) |
-| 35 | BoschGroup | Graduate Specialist - Technical Engineering Sales | South Cerney, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713285) |
-| 36 | BoschGroup | Graduate Specialist Program - Technical Engineering Business Development | South Cerney, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713788) |
-| 37 | BoschGroup | Maintenance Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122404681) |
-| 38 | BoschGroup | Production Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121697827) |
-| 39 | BoschGroup | Service Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122464379) |
-| 40 | BoschGroup | Supply Chain Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121698124) |
+| 6 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122526989) |
+| 7 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121697004) |
+| 8 | ASOS | Manager, Special Projects  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120621922) |
+| 9 | ASOS | Model Booker (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120889631) |
+| 10 | ASOS | Payroll Admin | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122426400) |
+| 11 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629085) |
+| 12 | ASOS | Senior AI Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
+| 13 | ASOS | Senior Account Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122205667) |
+| 14 | ASOS | Senior Assistant Buyer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000121444473) |
+| 15 | ASOS | Senior Creative Producer Manager (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120887142) |
+| 16 | ASOS | Senior Insight Analyst (Customer & Marketing) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120656497) |
+| 17 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122631269) |
+| 18 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122630445) |
+| 19 | ASOS | Senior Partnership Manager - ASOS Media Group - 12 months FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123171839) |
+| 20 | ASOS | Senior Solution Specialist | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122527179) |
+| 21 | ASOS | Sourcing Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122408949) |
+| 22 | ASOS | Sourcing Partner | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120669747) |
+| 23 | ASOS | Sourcing Reporting Administrator | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122406469) |
+| 24 | ASOS | iOS Engineer  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122630549) |
+| 25 | Airtable | Base Optimization Specialist | London, United Kingdom | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
+| 26 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) |
+| 27 | Block (Square) | Channel Sales Learning and Experience Designer | London, United Kingdom | -5 | [Apply](http://block.xyz/careers/jobs/5146321008?gh_jid=5146321008) |
+| 28 | Block (Square) | Onboarding Project Manager | London, United Kingdom | 0 | [Apply](http://block.xyz/careers/jobs/5183823008?gh_jid=5183823008) |
+| 29 | BoschGroup | Customer Supply Chain Apprentice | Denham, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122001140) |
+| 30 | BoschGroup | Executive Project Manager | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121967507) |
+| 31 | BoschGroup | Export Control Officer | Denham, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122640968) |
+| 32 | BoschGroup | French Speaking Customer Service Advisor | Liverpool, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121968298) |
+| 33 | BoschGroup | Graduate Placement – Manufacturing Coordination (12-24 Months)  | Birmingham, West Midlands, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122719343) |
+| 34 | BoschGroup | Graduate Specialist - Technical Engineering Sales | South Cerney, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713285) |
+| 35 | BoschGroup | Graduate Specialist Program - Technical Engineering Business Development | South Cerney, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713788) |
+| 36 | BoschGroup | Maintenance Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122404681) |
+| 37 | BoschGroup | Production Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121697827) |
+| 38 | BoschGroup | Service Technician | Glenrothes, FIFE, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122464379) |
+| 39 | BoschGroup | Supply Chain Engineering Graduate | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121698124) |
+| 40 | BoschGroup | Training Engineer | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121763186) |
 
-... and 269 more not shown
+... and 265 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **2394** other new posting(s).
+Found **2380** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **2394** other new posting(s).
 | 24 | Block (Square) | Executive Business Partner | New York, NY, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5191458008?gh_jid=5191458008) |
 | 25 | Block (Square) | Field Sales Account Executive, Adelaide | Adelaide, Australia | -10 | [Apply](http://block.xyz/careers/jobs/5183214008?gh_jid=5183214008) |
 
-... and 2369 more not shown
+... and 2355 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 2830
-- **Top matches (score ≥ 3):** 127
-  - of which UK: 26
-- **New UK jobs (other):** 309
-- **Other new jobs:** 2394
+- **Total new jobs:** 2801
+- **Top matches (score ≥ 3):** 116
+  - of which UK: 24
+- **New UK jobs (other):** 305
+- **Other new jobs:** 2380
 
 ---
 _Generated by job-aggregator diff mode_

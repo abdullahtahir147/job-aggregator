@@ -1,20 +1,20 @@
 # Job Brief
 
-**Run:** `be313cb65181` | 2026-04-26T09:58:43Z
-**Companies:** 133 | **Jobs:** 12473 | **New:** 2830 | **New UK:** 335 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 104
+**Run:** `ebf5e9e4c815` | 2026-04-27T11:09:16Z
+**Companies:** 133 | **Jobs:** 11813 | **New:** 2801 | **New UK:** 329 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 96
 
 ## Apply Now
+
+- **Wise — Senior Marketing Data Analyst - Marketing Science** [MARKETING_SCIENCE]  Score: 12 (base 6, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'marketing data'; title match: 'data analyst' | boost: marketing science (+3) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000123152259)
 
 - **Datadog — Senior Customer Data Science - Solutions / Experimentation** [PRODUCT_GROWTH_DATA]  Score: 11 (base 5, Δ+6) | 0d old
   London, United Kingdom; Paris, France
   Why: title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' | boost: experimentation (+3) | very recent (0d)
   [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544)
-
-- **OpenAI — Manager, Forward Deployed Engineering - London** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
-  London, UK
-  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
-  [Apply](https://jobs.ashbyhq.com/openai/68f1345b-313f-4917-88ce-b281b01a4864)
 
 - **Palantir — Forward Deployed AI Engineer** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
