@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `be11e1976052` | 2026-04-28T11:08:24Z
-**Companies:** 133 | **Jobs:** 12422 | **New:** 3109 | **New UK:** 352 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 101
+**Run:** `a6ebd0e6149c` | 2026-04-29T11:00:06Z
+**Companies:** 133 | **Jobs:** 12447 | **New:** 3328 | **New UK:** 383 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 96
 
 ## Apply Now
 
@@ -63,6 +63,36 @@
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7)
 
+- **Wise — Lead Product Analyst - Recommend** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000123651449)
+
+- **Wise — Lead Product Analyst - Onboarding** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000123650840)
+
+- **Wise — Lead Product Analyst - Business Account Management** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000123648731)
+
+- **Wise — Lead Product Analyst - Consumer Account** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000123649805)
+
+- **Wise — Senior Product Analyst - Screening** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000123627289)
+
+- **Wise — Lead Product Analyst - Regional Expansion** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000123519479)
+
 - **Wise — Senior Product Analyst - Wise Business** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
@@ -73,40 +103,10 @@
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000122727639)
 
-- **Wise — Senior Product Analyst - Screening** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000122713235)
-
-- **Wise — Lead Product Analyst - Onboarding** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000122704459)
-
-- **Wise — Lead Product Analyst - Business Account Management** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000122699961)
-
-- **Wise — Lead Product Analyst - Consumer Account** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000121980152)
-
 - **Airtable — Senior Partner Solutions Architect** [APPLIED_AI_FDE]  Score: 8 (base 1, Δ+7) | 0d old
   London, England, United Kingdom
   Why: title match: 'solutions architect'; exclude kw: 'platform' | boost: solutions architect (+2); boost: growth (+1); boost: product (+1) | very recent (0d)
   [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002)
-
-- **Block (Square) — Solutions Engineer** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 0d old
-  London, United Kingdom
-  Why: title match: 'solutions engineer' | boost: solutions engineer (+2) | very recent (0d)
-  [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008)
-
-- **Databricks — Senior Solutions Architect - Lakewatch** [APPLIED_AI_FDE]  Score: 8 (base 3, Δ+5) | 0d old
-  London, United Kingdom
-  Why: title match: 'solutions architect' | boost: solutions architect (+2) | very recent (0d)
-  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002)
 
 ---
 _Generated by job-aggregator brief_
