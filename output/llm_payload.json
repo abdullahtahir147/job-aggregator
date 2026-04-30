@@ -157,6 +157,20 @@
     "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
+    "title": "Lead Product Analyst - Send",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000123679839",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-04-29T12:28:49.962Z"
+  },
+  {
+    "rank": 13,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
     "title": "Lead Product Analyst - Recommend",
     "location": "London, , United Kingdom",
     "url": "https://jobs.smartrecruiters.com/Wise/744000123651449",
@@ -168,7 +182,7 @@
     "posted_at": "2026-04-29T09:47:29.657Z"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -182,7 +196,7 @@
     "posted_at": "2026-04-29T09:46:50.256Z"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -196,7 +210,7 @@
     "posted_at": "2026-04-29T09:46:21.512Z"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -210,7 +224,7 @@
     "posted_at": "2026-04-29T09:45:46.581Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Screening",
@@ -224,7 +238,7 @@
     "posted_at": "2026-04-29T07:54:48.520Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -238,7 +252,7 @@
     "posted_at": "2026-04-28T17:51:26.242Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -252,7 +266,7 @@
     "posted_at": "2026-04-24T16:28:36.893Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst, Accounting Integrations & Reporting",
@@ -266,7 +280,7 @@
     "posted_at": "2026-04-24T16:17:59.875Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Senior Partner Solutions Architect",
@@ -281,7 +295,7 @@
     "posted_at": "2026-04-13T12:36:13Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -295,7 +309,7 @@
     "posted_at": "2026-04-16T19:22:18Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect - Lakewatch",
@@ -309,7 +323,22 @@
     "posted_at": "2026-04-17T09:37:27Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
+    "tag": "APPLIED_AI_FDE",
+    "company": "LaunchDarkly",
+    "title": "Senior Solutions Engineer - EMEA",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7720116003",
+    "final_score": 8,
+    "base_score": 1,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'solutions engineer'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'; -2 exclude kw: 'infrastructure'",
+    "intent_reasons": "boost: solutions engineer (+2); boost: experimentation (+3); boost: growth (+1); boost: product (+1); penalty: fraud (-3)",
+    "description": "&lt;h4&gt;&lt;strong&gt;About the Job:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;LaunchDarkly is in the middle of a category shift - from feature management to the AI control plane: the governance layer between AI-generated code and safe production deployment. Every enterprise we talk to has the same problem - their engineers are shipping AI-assisted code faster than their release governance, observability, and experimentation processes can keep up. We&#39;re the answer to that.&lt;/p&gt;\n&lt;p&gt;As a Senior Solutions Engineer in EMEA, you&#39;ll be on the front line of that shift. You&#39;ll partner with Account Executives to win and expand strategic enterprise accounts, lead technical evaluations, and build champions inside customers who genuinely change how they ship software. This isn&#39;t a demo-monkey role - it&#39;s a role for SEs who want to sit across from CTOs, Heads of Platform, and Heads of AI and have a meaningful conversation about where their business is going.&lt;/p&gt;\n&lt;h4&gt;Responsibilities:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Be a Trusted Advisor:&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with AEs to qualify, develop, and close strategic enterprise deals&lt;/li&gt;\n&lt;li&gt;Bring a perspective - challenge customers to think bigger about what&#39;s possible, with insight on where the industry is heading&lt;/li&gt;\n&lt;li&gt;Translate complex technical capability into business outcomes that resonate with both engineers and executives&lt;",
+    "posted_at": "2026-04-29T20:08:03Z"
+  },
+  {
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Infrastructure Engineer - UK Government",
@@ -321,34 +350,5 @@
     "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'infrastructure'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2025-08-07T07:32:41Z"
-  },
-  {
-    "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Growth Analyst - Marketing Analytics",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000123636669",
-    "final_score": 7,
-    "base_score": 3,
-    "intent_delta": 1,
-    "match_reason": "+3 title match: 'growth analyst'",
-    "intent_reasons": "boost: growth (+1)",
-    "posted_at": "2026-04-29T08:39:13.397Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Braze",
-    "title": "Senior Lead AI Solutions Consultant",
-    "location": "London",
-    "url": "https://boards.greenhouse.io/braze/jobs/7797704?gh_jid=7797704",
-    "final_score": 6,
-    "base_score": -1,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'ai solutions'; -2 exclude kw: 'reinforcement learning'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: ai solutions (+2); boost: growth (+1); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew.&lt;/p&gt;\n&lt;p&gt;We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our organization.&lt;/p&gt;\n&lt;p&gt;To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to contribute: Acting with autonomy, having accountability and being open to new perspectives are essential to our continued success.&lt;/p&gt;\n&lt;p&gt;Our deep curiosity to learn and our eagerness to share diverse passions with others gives us balance and injects a one-of-a-kind vibrancy into our culture.&lt;/p&gt;\n&lt;p&gt;If you are driven to solve exhilarating challenges and have a bias toward action in the face of change, you will be empowered to make a real impact here, with a sharp and passionate team at your back. If Braze sounds like a place where you can thrive, we can’t wait to meet you.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Senior Lead AI Solutions Consultant, you will drive new and expansion revenue by increasing understanding and adoption of the BrazeAI portfolio of tools and services.&amp;nbsp; We serve as the pre-sales data scientists to scope use cases, establish credibility with enterprise",
-    "posted_at": "2026-04-20T11:34:06Z"
   }
 ]

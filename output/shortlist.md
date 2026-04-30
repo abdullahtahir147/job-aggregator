@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `a6ebd0e6149c`
-**Generated:** 2026-04-29T11:00:06Z
+**Run ID:** `a8ecd763865e`
+**Generated:** 2026-04-30T10:59:07Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -20,11 +20,11 @@
 | 7 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
 | 8 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
 | 9 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist'; very recent (0d) |
-| 20 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) | title match: 'solutions architect'; exclude kw: 'platform'; very recent (0d) |
-| 21 | Block (Square) | Solutions Engineer | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer'; very recent (0d) |
-| 22 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect'; very recent (0d) |
-| 23 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846) | title match: 'forward deployed'; exclude kw: 'infrastructure'; very recent (0d) |
-| 25 | Braze | Senior Lead AI Solutions Consultant | London | 0d | 6 | -1 | +7 | [Apply](https://boards.greenhouse.io/braze/jobs/7797704?gh_jid=7797704) | title match: 'ai solutions'; exclude kw: 'reinforcement learning'; exclude kw: 'platform'; very recent (0d) |
+| 21 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) | title match: 'solutions architect'; exclude kw: 'platform'; very recent (0d) |
+| 22 | Block (Square) | Solutions Engineer | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer'; very recent (0d) |
+| 23 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect'; very recent (0d) |
+| 24 | LaunchDarkly | Senior Solutions Engineer - EMEA | London, England, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7720116003) | title match: 'solutions engineer'; keyword: 'experiment'; keyword: 'experimentation' (+2 more); very recent (0d) |
+| 25 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846) | title match: 'forward deployed'; exclude kw: 'infrastructure'; very recent (0d) |
 
 ### MARKETING_SCIENCE (1)
 
@@ -39,15 +39,15 @@
 | 2 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France | 0d | 11 | 5 | +6 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation'; very recent (0d) |
 | 10 | Lendable | Lead Product Analyst | London, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) | title match: 'product analyst'; very recent (0d) |
 | 11 | Lendable | Senior Product Analyst | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7) | title match: 'product analyst'; very recent (0d) |
-| 12 | Wise | Lead Product Analyst - Recommend | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123651449) | title match: 'product analyst'; very recent (0d) |
-| 13 | Wise | Lead Product Analyst - Onboarding | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123650840) | title match: 'product analyst'; very recent (0d) |
-| 14 | Wise | Lead Product Analyst - Business Account Management | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123648731) | title match: 'product analyst'; very recent (0d) |
-| 15 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123649805) | title match: 'product analyst'; very recent (0d) |
-| 16 | Wise | Senior Product Analyst - Screening | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123627289) | title match: 'product analyst'; very recent (0d) |
-| 17 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123519479) | title match: 'product analyst'; very recent (0d) |
-| 18 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727535) | title match: 'product analyst'; very recent (0d) |
-| 19 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727639) | title match: 'product analyst'; very recent (0d) |
-| 24 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | 0d | 7 | 3 | +4 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123636669) | title match: 'growth analyst'; very recent (0d) |
+| 12 | Wise | Lead Product Analyst - Send | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123679839) | title match: 'product analyst'; very recent (0d) |
+| 13 | Wise | Lead Product Analyst - Recommend | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123651449) | title match: 'product analyst'; very recent (0d) |
+| 14 | Wise | Lead Product Analyst - Onboarding | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123650840) | title match: 'product analyst'; very recent (0d) |
+| 15 | Wise | Lead Product Analyst - Business Account Management | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123648731) | title match: 'product analyst'; very recent (0d) |
+| 16 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123649805) | title match: 'product analyst'; very recent (0d) |
+| 17 | Wise | Senior Product Analyst - Screening | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123627289) | title match: 'product analyst'; very recent (0d) |
+| 18 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123519479) | title match: 'product analyst'; very recent (0d) |
+| 19 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727535) | title match: 'product analyst'; very recent (0d) |
+| 20 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727639) | title match: 'product analyst'; very recent (0d) |
 
 ---
 _Generated by job-aggregator shortlist_
