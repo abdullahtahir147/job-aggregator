@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `a8ecd763865e` | 2026-04-30T10:59:07Z
-**Companies:** 133 | **Jobs:** 12426 | **New:** 3519 | **New UK:** 405 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 96
+**Run:** `72ab0fd0a4d5` | 2026-05-01T10:26:34Z
+**Companies:** 133 | **Jobs:** 12433 | **New:** 3673 | **New UK:** 425 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 94
 
 ## Apply Now
 
@@ -66,27 +66,27 @@
 - **Wise — Lead Product Analyst - Send** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000123679839)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000124100560)
 
 - **Wise — Lead Product Analyst - Recommend** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000123651449)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000124101159)
 
 - **Wise — Lead Product Analyst - Onboarding** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000123650840)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000124100395)
 
 - **Wise — Lead Product Analyst - Business Account Management** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000123648731)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000124100390)
 
 - **Wise — Lead Product Analyst - Consumer Account** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000123649805)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000124099613)
 
 - **Wise — Senior Product Analyst - Screening** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
