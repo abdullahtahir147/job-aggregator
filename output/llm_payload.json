@@ -5,13 +5,13 @@
     "company": "Wise",
     "title": "Senior Marketing Data Analyst - Marketing Science",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000123152259",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000124132059",
     "final_score": 12,
     "base_score": 6,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'marketing data'; +3 title match: 'data analyst'",
     "intent_reasons": "boost: marketing science (+3)",
-    "posted_at": "2026-04-27T09:09:21.491Z"
+    "posted_at": "2026-05-01T14:08:18.898Z"
   },
   {
     "rank": 2,
@@ -157,6 +157,20 @@
     "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
+    "title": "Lead Product Analyst - Europe & UK",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000124124420",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-05-01T13:22:39.910Z"
+  },
+  {
+    "rank": 13,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
     "title": "Lead Product Analyst - Send",
     "location": "London, , United Kingdom",
     "url": "https://jobs.smartrecruiters.com/Wise/744000124100560",
@@ -168,7 +182,7 @@
     "posted_at": "2026-05-01T08:48:42.271Z"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Recommend",
@@ -182,7 +196,7 @@
     "posted_at": "2026-05-01T08:48:27.022Z"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -196,7 +210,7 @@
     "posted_at": "2026-05-01T08:47:58.243Z"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -210,7 +224,7 @@
     "posted_at": "2026-05-01T08:46:33.904Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -224,7 +238,7 @@
     "posted_at": "2026-05-01T08:45:45.103Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Screening",
@@ -236,20 +250,6 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-04-29T07:54:48.520Z"
-  },
-  {
-    "rank": 18,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Regional Expansion",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000123519479",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-04-28T17:51:26.242Z"
   },
   {
     "rank": 19,
