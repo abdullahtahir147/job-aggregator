@@ -1,10 +1,10 @@
 # Job Aggregation Report
 
-**Run ID:** `82fcdd9cea30`
-**Timestamp:** 2026-05-02T10:02:24Z
+**Run ID:** `06a0577742fd`
+**Timestamp:** 2026-05-03T10:11:03Z
 **Companies processed:** 133
-**Total jobs found:** 12454
-**New jobs this run:** 3762
+**Total jobs found:** 12451
+**New jobs this run:** 3761
 
 ---
 
@@ -480,11 +480,11 @@ Found **89** UK match(es) with score >= 3.
 | 11 | OpenAI | Data Scientist, Integrity Measurement | London, UK | 4 | [Apply](https://jobs.ashbyhq.com/openai/a7a326e7-6718-42ab-a4d8-b16d5021c99b) | title match: 'data scientist'; keyword: 'measurement' |
 | 12 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
 | 13 | Coinbase | Analytics Engineer | Remote - UK | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
-| 14 | Deliveroo | Senior Analytics Engineer | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e) | title match: 'analytics engineer' |
-| 15 | Deliveroo | Commercial Excellence - Data Analyst (SMB Hub) - 12 months FTC | Manchester - Main Office | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/584aeb7c-9ec4-4023-89df-2e31898b72ca) | title match: 'data analyst' |
-| 16 | Deliveroo | Senior Data Scientist  | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
-| 17 | Trainline | Senior Data Analyst - Rail Fraud - 9 month FTC | Edinburgh | 3 | [Apply](https://jobs.ashbyhq.com/trainline/c695aaf2-e83c-464a-8b0e-a82d7b04feaa) | title match: 'data analyst' |
-| 18 | Skyscanner | Data Scientist | London | 3 | [Apply](http://www.skyscanner.net/jobs/job/7682812?gh_jid=7682812) | title match: 'data scientist' |
+| 14 | Trainline | Senior Data Analyst - Rail Fraud - 9 month FTC | Edinburgh | 3 | [Apply](https://jobs.ashbyhq.com/trainline/c695aaf2-e83c-464a-8b0e-a82d7b04feaa) | title match: 'data analyst' |
+| 15 | Skyscanner | Data Scientist | London | 3 | [Apply](http://www.skyscanner.net/jobs/job/7682812?gh_jid=7682812) | title match: 'data scientist' |
+| 16 | Deliveroo | Senior Analytics Engineer | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e) | title match: 'analytics engineer' |
+| 17 | Deliveroo | Commercial Excellence - Data Analyst (SMB Hub) - 12 months FTC | Manchester - Main Office | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/584aeb7c-9ec4-4023-89df-2e31898b72ca) | title match: 'data analyst' |
+| 18 | Deliveroo | Senior Data Scientist  | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
 | 19 | ASOS | Applied Scientist | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist' |
 | 20 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002) | title match: 'forward deployed' |
 | 21 | Databricks | Delivery Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8452394002) | title match: 'solutions architect' |
@@ -500,12 +500,12 @@ Found **89** UK match(es) with score >= 3.
 | 31 | Databricks | Sr. Delivery Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8342273002) | title match: 'solutions architect' |
 | 32 | Databricks | Sr. Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8450580002) | title match: 'forward deployed' |
 | 33 | MongoDB | Senior Solutions Architect | London | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7759201) | title match: 'solutions architect' |
-| 34 | Zopa | Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/zopa/fb333f1c-4bcb-45f6-ba65-3f08f7b81444) | title match: 'analytics engineer' |
-| 35 | Zopa | Data Analyst | London | 3 | [Apply](https://jobs.lever.co/zopa/fce9fe48-9492-4f6c-9fe6-9430f0350af3) | title match: 'data analyst' |
-| 36 | Zopa | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/zopa/acf89e89-e2ec-444c-816a-c1e4527deb0b) | title match: 'analytics engineer' |
-| 37 | Zopa | Senior Data Analyst - Fraud & Financial Crime | London | 3 | [Apply](https://jobs.lever.co/zopa/4d112894-42fe-4ac2-a709-34a5d294bf48) | title match: 'data analyst' |
-| 38 | Zopa | Senior Product Analyst | London | 3 | [Apply](https://jobs.lever.co/zopa/78aca808-e048-4017-9e40-b6effa94bf4b) | title match: 'product analyst' |
-| 39 | Moneybox | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f) | title match: 'analytics engineer' |
+| 34 | Moneybox | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/moneyboxapp/8fe8d10e-727a-40b8-9022-536a2109577f) | title match: 'analytics engineer' |
+| 35 | Zopa | Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/zopa/fb333f1c-4bcb-45f6-ba65-3f08f7b81444) | title match: 'analytics engineer' |
+| 36 | Zopa | Data Analyst | London | 3 | [Apply](https://jobs.lever.co/zopa/fce9fe48-9492-4f6c-9fe6-9430f0350af3) | title match: 'data analyst' |
+| 37 | Zopa | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/zopa/acf89e89-e2ec-444c-816a-c1e4527deb0b) | title match: 'analytics engineer' |
+| 38 | Zopa | Senior Data Analyst - Fraud & Financial Crime | London | 3 | [Apply](https://jobs.lever.co/zopa/4d112894-42fe-4ac2-a709-34a5d294bf48) | title match: 'data analyst' |
+| 39 | Zopa | Senior Product Analyst | London | 3 | [Apply](https://jobs.lever.co/zopa/78aca808-e048-4017-9e40-b6effa94bf4b) | title match: 'product analyst' |
 | 40 | Linear | Solutions Engineer, Europe | London | 3 | [Apply](https://jobs.ashbyhq.com/linear/d37b3d76-3080-47f9-8a19-60505573112c) | title match: 'solutions engineer' |
 | 41 | Lendable | Data Scientist | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/8dfde002-766d-4ed7-b192-292f57deef35) | title match: 'data scientist' |
 | 42 | Lendable | Senior Marketing Analyst | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/230861f9-e8a0-402e-b934-116b62c9762c) | title match: 'marketing analyst' |
@@ -516,39 +516,39 @@ Found **89** UK match(es) with score >= 3.
 | 47 | Lendable | Senior Product Analyst | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7) | title match: 'product analyst' |
 | 48 | Lendable | Senior Product Analyst | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/eb723531-8948-4f13-8e96-1bc9edf7128d) | title match: 'product analyst' |
 | 49 | Spotify | Data Scientist, Subscriptions | London | 3 | [Apply](https://jobs.lever.co/spotify/fee22111-f04f-4ac2-88f0-07a0a5d8f4f3) | title match: 'data scientist' |
-| 50 | Wise | Senior Product Analyst - Fraud Risk | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124146920) | title match: 'product analyst' |
-| 51 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124144555) | title match: 'data analyst' |
-| 52 | Wise | Lead Product Analyst - Europe & UK | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124124420) | title match: 'product analyst' |
-| 53 | Wise | Lead Product Analyst - Send | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124100560) | title match: 'product analyst' |
-| 54 | Wise | Lead Product Analyst - Recommend | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124101159) | title match: 'product analyst' |
-| 55 | Wise | Lead Product Analyst - Onboarding | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124100395) | title match: 'product analyst' |
-| 56 | Wise | Lead Product Analyst - Business Account Management | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124100390) | title match: 'product analyst' |
-| 57 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124099613) | title match: 'product analyst' |
-| 58 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124099149) | title match: 'data analyst' |
-| 59 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123636669) | title match: 'growth analyst' |
-| 60 | Wise | Lead Data Analyst - Pricing | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123633264) | title match: 'data analyst' |
-| 61 | Wise | Lead Data Analyst - CRM Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123632115) | title match: 'data analyst' |
-| 62 | Wise | Lead Data Analyst - Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123626825) | title match: 'data analyst' |
-| 63 | Wise | Senior Product Analyst - Screening | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123627289) | title match: 'product analyst' |
-| 64 | Wise | Staff Data Scientist - Fraud | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123492001) | title match: 'data scientist' |
-| 65 | Wise | Lead Data Scientist - Trust and Safety | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123459318) | title match: 'data scientist' |
-| 66 | Wise | Senior AI Data Scientist - AML Handling | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123452324) | title match: 'data scientist' |
-| 67 | Wise | Lead Data Scientist - Fraud Prevention  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123409759) | title match: 'data scientist' |
-| 68 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727535) | title match: 'product analyst' |
-| 69 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727639) | title match: 'product analyst' |
-| 70 | Wise | Lead Analytics Engineer  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000119322162) | title match: 'analytics engineer' |
-| 71 | Wise | Senior Data Analyst - Internal Audit  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117924898) | title match: 'data analyst' |
-| 72 | Wise | Product Analytics Manager - Liquidity (Investments) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000113454827) | title match: 'product analytics' |
-| 73 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed' |
-| 74 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed' |
-| 75 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed' |
-| 76 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed' |
-| 77 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed' |
-| 78 | Block (Square) | Solutions Engineer | London, United Kingdom | 3 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer' |
-| 79 | Intercom | Senior Data Scientist | London, England | 3 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7749323) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+1 more) |
+| 50 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed' |
+| 51 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed' |
+| 52 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed' |
+| 53 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed' |
+| 54 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed' |
+| 55 | Wise | Senior Product Analyst - Fraud Risk | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124146920) | title match: 'product analyst' |
+| 56 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124144555) | title match: 'data analyst' |
+| 57 | Wise | Lead Product Analyst - Europe & UK | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124124420) | title match: 'product analyst' |
+| 58 | Wise | Lead Product Analyst - Send | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124100560) | title match: 'product analyst' |
+| 59 | Wise | Lead Product Analyst - Recommend | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124101159) | title match: 'product analyst' |
+| 60 | Wise | Lead Product Analyst - Onboarding | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124100395) | title match: 'product analyst' |
+| 61 | Wise | Lead Product Analyst - Business Account Management | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124100390) | title match: 'product analyst' |
+| 62 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124099613) | title match: 'product analyst' |
+| 63 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124099149) | title match: 'data analyst' |
+| 64 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123636669) | title match: 'growth analyst' |
+| 65 | Wise | Lead Data Analyst - Pricing | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123633264) | title match: 'data analyst' |
+| 66 | Wise | Lead Data Analyst - CRM Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123632115) | title match: 'data analyst' |
+| 67 | Wise | Lead Data Analyst - Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123626825) | title match: 'data analyst' |
+| 68 | Wise | Senior Product Analyst - Screening | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123627289) | title match: 'product analyst' |
+| 69 | Wise | Staff Data Scientist - Fraud | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123492001) | title match: 'data scientist' |
+| 70 | Wise | Lead Data Scientist - Trust and Safety | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123459318) | title match: 'data scientist' |
+| 71 | Wise | Senior AI Data Scientist - AML Handling | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123452324) | title match: 'data scientist' |
+| 72 | Wise | Lead Data Scientist - Fraud Prevention  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123409759) | title match: 'data scientist' |
+| 73 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727535) | title match: 'product analyst' |
+| 74 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727639) | title match: 'product analyst' |
+| 75 | Wise | Lead Analytics Engineer  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000119322162) | title match: 'analytics engineer' |
+| 76 | Wise | Senior Data Analyst - Internal Audit  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000117924898) | title match: 'data analyst' |
+| 77 | Wise | Product Analytics Manager - Liquidity (Investments) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000113454827) | title match: 'product analytics' |
+| 78 | Intercom | Senior Data Scientist | London, England | 3 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7749323) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+1 more) |
+| 79 | Block (Square) | Solutions Engineer | London, United Kingdom | 3 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer' |
 | 80 | Vanta | Solutions Engineer - Expansion | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/vanta/bdde3892-1a5e-49f5-adf7-a887b19da801) | title match: 'solutions engineer' |
-| 81 | Elastic | Senior Developer Advocate (Video Content Creator) | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130) | title match: 'developer advocate' |
-| 82 | Datadog | Senior Product Solutions Architect - Logs | Amsterdam, The Netherlands; Dublin, Ireland; London, United Kingdom; Madrid, Spain; Paris, France | 3 | [Apply](https://careers.datadoghq.com/detail/7527768/?gh_jid=7527768) | title match: 'solutions architect' |
+| 81 | Datadog | Senior Product Solutions Architect - Logs | Amsterdam, The Netherlands; Dublin, Ireland; London, United Kingdom; Madrid, Spain; Paris, France | 3 | [Apply](https://careers.datadoghq.com/detail/7527768/?gh_jid=7527768) | title match: 'solutions architect' |
+| 82 | Elastic | Senior Developer Advocate (Video Content Creator) | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130) | title match: 'developer advocate' |
 | 83 | OpenAI | Technical Deployment Lead, Forward Deployed Engineering - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/2c16575f-1a04-43af-bd0a-8e8f72e3255f) | title match: 'forward deployed' |
 | 84 | OpenAI | Forward Deployed Engineer - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283) | title match: 'forward deployed' |
 | 85 | OpenAI | Forward Deployed Software Engineer - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/54b2072e-4c1c-40e4-b2dc-ec51d9d0ab60) | title match: 'forward deployed' |
