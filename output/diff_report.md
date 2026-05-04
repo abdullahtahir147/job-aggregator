@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `06a0577742fd`
-**Timestamp:** 2026-05-03T10:11:03Z
+**Run ID:** `76551855bbc7`
+**Timestamp:** 2026-05-04T11:09:05Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 3761
+**New jobs this run:** 3811
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **175** new high-scoring job(s).
+Found **177** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -22,8 +22,8 @@ Found **175** new high-scoring job(s).
 | 7 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
 | 8 | Stripe | Analytics Engineer | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7863844) | title match: 'analytics engineer' |
 | 9 | Stripe | Billing Solutions Architect | London, Dublin, Berlin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7115730) | title match: 'solutions architect' |
-| 10 | Stripe | Data Analyst | Bengaluru | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7813411) | title match: 'data analyst' |
-| 11 | Stripe | Data Analyst | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7610132) | title match: 'data analyst' |
+| 10 | Stripe | Data Analyst | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7610132) | title match: 'data analyst' |
+| 11 | Stripe | Data Analyst | Bengaluru | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7813411) | title match: 'data analyst' |
 | 12 | Stripe | Data Analyst,  Financial Enablement | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7874654) | title match: 'data analyst' |
 | 13 | Stripe | Data Analyst, Payments Performance | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7440960) | title match: 'data analyst' |
 | 14 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
@@ -31,21 +31,21 @@ Found **175** new high-scoring job(s).
 | 16 | Stripe | Solutions Architect (Australia) | Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
 | 17 | Stripe | Solutions Architect, Enterprise | New York City, South San Francisco, or Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7462261) | title match: 'solutions architect' |
 | 18 | Stripe | Solutions Architect, Italy | Milan, Barcelona, Madrid, Dublin, Amsterdam | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
-| 19 | Coinbase | Analytics Engineer | Remote - Ireland | 3 | [Apply](https://www.coinbase.com/careers/positions/7843710?gh_jid=7843710) | title match: 'analytics engineer' |
-| 20 | Coinbase | Analytics Engineer | Remote - UK 🇬🇧 | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
+| 19 | Coinbase | Analytics Engineer | Remote - UK 🇬🇧 | 3 | [Apply](https://www.coinbase.com/careers/positions/7843707?gh_jid=7843707) | title match: 'analytics engineer' |
+| 20 | Coinbase | Analytics Engineer | Remote - Ireland | 3 | [Apply](https://www.coinbase.com/careers/positions/7843710?gh_jid=7843710) | title match: 'analytics engineer' |
 | 21 | Skyscanner | Data Scientist | London 🇬🇧 | 3 | [Apply](http://www.skyscanner.net/jobs/job/7682812?gh_jid=7682812) | title match: 'data scientist' |
 | 22 | Deliveroo | Senior Data Scientist  | London - The River Building HQ 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
 | 23 | Notion | Manager - Solutions Engineering, APACx | Sydney, Australia | 3 | [Apply](https://jobs.ashbyhq.com/notion/71cea34b-63aa-4b6f-9977-1f755cc4eaf7) | title match: 'solutions engineer' |
 | 24 | ASOS | Applied Scientist | London, England, United Kingdom 🇬🇧 | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist' |
 | 25 | Cloudflare | Solutions Engineer Manager, Associate Programs | Distributed | 3 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916) | title match: 'solutions engineer' |
 
-... and 150 more not shown
+... and 152 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **403** new UK posting(s) not in top matches.
+Found **404** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -90,13 +90,13 @@ Found **403** new UK posting(s) not in top matches.
 | 39 | BoschGroup | Executive Project Manager | Worcester, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000121967507) |
 | 40 | BoschGroup | Export Control Officer | Denham, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122640968) |
 
-... and 363 more not shown
+... and 364 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **3183** other new posting(s).
+Found **3230** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **3183** other new posting(s).
 | 24 | Block (Square) | Executive Business Partner | New York, NY, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5191458008?gh_jid=5191458008) |
 | 25 | Block (Square) | Field Sales Account Executive, Adelaide | Adelaide, Australia | -10 | [Apply](http://block.xyz/careers/jobs/5183214008?gh_jid=5183214008) |
 
-... and 3158 more not shown
+... and 3205 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 3761
-- **Top matches (score ≥ 3):** 175
-  - of which UK: 41
-- **New UK jobs (other):** 403
-- **Other new jobs:** 3183
+- **Total new jobs:** 3811
+- **Top matches (score ≥ 3):** 177
+  - of which UK: 42
+- **New UK jobs (other):** 404
+- **Other new jobs:** 3230
 
 ---
 _Generated by job-aggregator diff mode_

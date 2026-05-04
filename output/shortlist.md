@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `06a0577742fd`
-**Generated:** 2026-05-03T10:11:03Z
+**Run ID:** `76551855bbc7`
+**Generated:** 2026-05-04T11:09:05Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -22,9 +22,9 @@
 | 9 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist'; very recent (0d) |
 | 21 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) | title match: 'solutions architect'; exclude kw: 'platform'; very recent (0d) |
 | 22 | Block (Square) | Solutions Engineer | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer'; very recent (0d) |
-| 23 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect'; very recent (0d) |
-| 24 | LaunchDarkly | Senior Solutions Engineer - EMEA | London, England, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7720116003) | title match: 'solutions engineer'; keyword: 'experiment'; keyword: 'experimentation' (+2 more); very recent (0d) |
-| 25 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846) | title match: 'forward deployed'; exclude kw: 'infrastructure'; very recent (0d) |
+| 23 | Databricks | Manager, Delivery Solutions Architects | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517059002) | title match: 'solutions architect'; very recent (0d) |
+| 24 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect'; very recent (0d) |
+| 25 | LaunchDarkly | Senior Solutions Engineer - EMEA | London, England, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7720116003) | title match: 'solutions engineer'; keyword: 'experiment'; keyword: 'experimentation' (+2 more); very recent (0d) |
 
 ### MARKETING_SCIENCE (1)
 

@@ -312,6 +312,20 @@
     "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
+    "title": "Manager, Delivery Solutions Architects",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517059002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-05-03T06:28:52Z"
+  },
+  {
+    "rank": 24,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
     "title": "Senior Solutions Architect - Lakewatch",
     "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002",
@@ -323,7 +337,7 @@
     "posted_at": "2026-04-17T09:37:27Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "LaunchDarkly",
     "title": "Senior Solutions Engineer - EMEA",
@@ -336,19 +350,5 @@
     "intent_reasons": "boost: solutions engineer (+2); boost: experimentation (+3); boost: growth (+1); boost: product (+1); penalty: fraud (-3)",
     "description": "&lt;h4&gt;&lt;strong&gt;About the Job:&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;LaunchDarkly is in the middle of a category shift - from feature management to the AI control plane: the governance layer between AI-generated code and safe production deployment. Every enterprise we talk to has the same problem - their engineers are shipping AI-assisted code faster than their release governance, observability, and experimentation processes can keep up. We&#39;re the answer to that.&lt;/p&gt;\n&lt;p&gt;As a Senior Solutions Engineer in EMEA, you&#39;ll be on the front line of that shift. You&#39;ll partner with Account Executives to win and expand strategic enterprise accounts, lead technical evaluations, and build champions inside customers who genuinely change how they ship software. This isn&#39;t a demo-monkey role - it&#39;s a role for SEs who want to sit across from CTOs, Heads of Platform, and Heads of AI and have a meaningful conversation about where their business is going.&lt;/p&gt;\n&lt;h4&gt;Responsibilities:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Be a Trusted Advisor:&lt;/strong&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with AEs to qualify, develop, and close strategic enterprise deals&lt;/li&gt;\n&lt;li&gt;Bring a perspective - challenge customers to think bigger about what&#39;s possible, with insight on where the industry is heading&lt;/li&gt;\n&lt;li&gt;Translate complex technical capability into business outcomes that resonate with both engineers and executives&lt;",
     "posted_at": "2026-04-29T20:08:03Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Palantir",
-    "title": "Forward Deployed Infrastructure Engineer - UK Government",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846",
-    "final_score": 8,
-    "base_score": 1,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'infrastructure'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2025-08-07T07:32:41Z"
   }
 ]
