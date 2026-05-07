@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `271c9071a0f1`
-**Generated:** 2026-05-06T11:10:15Z
+**Run ID:** `07e943024c27`
+**Generated:** 2026-05-07T11:12:19Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -19,7 +19,7 @@
 | 6 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed'; very recent (0d) |
 | 7 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
 | 8 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
-| 9 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122425739) | title match: 'applied scientist'; very recent (0d) |
+| 9 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000124952576) | title match: 'applied scientist'; very recent (0d) |
 | 21 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 0d | 8 | 1 | +7 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) | title match: 'solutions architect'; exclude kw: 'platform'; very recent (0d) |
 | 22 | Block (Square) | Solutions Engineer | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer'; very recent (0d) |
 | 23 | Databricks | Manager, Delivery Solutions Architects | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517059002) | title match: 'solutions architect'; very recent (0d) |
@@ -39,7 +39,7 @@
 | 2 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France | 0d | 11 | 5 | +6 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation'; very recent (0d) |
 | 10 | Lendable | Lead Product Analyst | London, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) | title match: 'product analyst'; very recent (0d) |
 | 11 | Lendable | Senior Product Analyst | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7) | title match: 'product analyst'; very recent (0d) |
-| 12 | Wise | Lead Product Analyst - Europe & UK | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124124420) | title match: 'product analyst'; very recent (0d) |
+| 12 | Wise | Lead Product Analyst - Europe & UK | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124991179) | title match: 'product analyst'; very recent (0d) |
 | 13 | Wise | Lead Product Analyst - Send | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124100560) | title match: 'product analyst'; very recent (0d) |
 | 14 | Wise | Lead Product Analyst - Recommend | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124101159) | title match: 'product analyst'; very recent (0d) |
 | 15 | Wise | Lead Product Analyst - Onboarding | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124100395) | title match: 'product analyst'; very recent (0d) |

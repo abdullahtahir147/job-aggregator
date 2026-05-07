@@ -117,13 +117,13 @@
     "company": "ASOS",
     "title": "Applied Scientist",
     "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000122425739",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000124952576",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'applied scientist'",
     "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-04-23T10:17:58.533Z"
+    "posted_at": "2026-05-06T16:35:35.924Z"
   },
   {
     "rank": 10,
@@ -159,13 +159,13 @@
     "company": "Wise",
     "title": "Lead Product Analyst - Europe & UK",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000124124420",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000124991179",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-01T13:22:39.910Z"
+    "posted_at": "2026-05-06T21:23:17.346Z"
   },
   {
     "rank": 13,
