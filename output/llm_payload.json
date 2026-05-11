@@ -157,6 +157,20 @@
     "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
+    "title": "Senior Product Analyst - Competitive Intelligence",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000125768649",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-05-11T07:51:48.376Z"
+  },
+  {
+    "rank": 13,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
     "location": "London, , United Kingdom",
     "url": "https://jobs.smartrecruiters.com/Wise/744000125384909",
@@ -168,7 +182,7 @@
     "posted_at": "2026-05-08T17:37:42.638Z"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Invoicing",
@@ -180,20 +194,6 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-05-08T17:24:30.750Z"
-  },
-  {
-    "rank": 14,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Competitive Intelligence",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000125381525",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-08T17:18:37.237Z"
   },
   {
     "rank": 15,

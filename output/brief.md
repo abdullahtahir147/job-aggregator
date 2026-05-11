@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `bfd38bc9307b` | 2026-05-10T10:19:42Z
-**Companies:** 133 | **Jobs:** 11974 | **New:** 4468 | **New UK:** 524 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 82
+**Run:** `0f2368068e80` | 2026-05-11T12:16:35Z
+**Companies:** 133 | **Jobs:** 11953 | **New:** 4524 | **New UK:** 526 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 80
 
 ## Apply Now
 
@@ -63,6 +63,11 @@
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.ashbyhq.com/lendable/1625eae8-99ae-412e-b9f5-b19896332ce7)
 
+- **Wise — Senior Product Analyst - Competitive Intelligence** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000125768649)
+
 - **Wise — Senior Product Analyst - Wise Business** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
@@ -72,11 +77,6 @@
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000125382610)
-
-- **Wise — Senior Product Analyst - Competitive Intelligence** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000125381525)
 
 - **Wise — Senior Product Analyst, Accounting Integrations & Reporting** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
