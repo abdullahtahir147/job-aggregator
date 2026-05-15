@@ -128,16 +128,16 @@
   {
     "rank": 10,
     "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Lendable",
-    "title": "Lead Product Analyst",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193",
+    "company": "Wise",
+    "title": "Lead Product Analyst - Regional Expansion",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000126512319",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-04-13T12:51:18Z"
+    "posted_at": "2026-05-14T12:49:43.555Z"
   },
   {
     "rank": 11,
@@ -213,20 +213,6 @@
     "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
-    "title": "Lead Product Analyst - Europe & UK",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000124991179",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-06T21:23:17.346Z"
-  },
-  {
-    "rank": 17,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
     "title": "Lead Product Analyst - Send",
     "location": "London, , United Kingdom",
     "url": "https://jobs.smartrecruiters.com/Wise/744000124100560",
@@ -238,7 +224,7 @@
     "posted_at": "2026-05-01T08:48:42.271Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -252,7 +238,7 @@
     "posted_at": "2026-05-01T08:47:58.243Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -266,7 +252,7 @@
     "posted_at": "2026-05-01T08:46:33.904Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -280,7 +266,7 @@
     "posted_at": "2026-05-01T08:45:45.103Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst, Accounting Integrations & Reporting",
@@ -294,7 +280,7 @@
     "posted_at": "2026-04-24T16:17:59.875Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Product Analyst (Mid-level)",
@@ -308,7 +294,7 @@
     "posted_at": "2026-04-30T15:16:16Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Senior Partner Solutions Architect",
@@ -323,7 +309,7 @@
     "posted_at": "2026-04-13T12:36:13Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -337,7 +323,7 @@
     "posted_at": "2026-04-16T19:22:18Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Manager, Delivery Solutions Architects",
@@ -349,5 +335,19 @@
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
     "posted_at": "2026-05-03T06:28:52Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect - Lakewatch",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-04-17T09:37:27Z"
   }
 ]
