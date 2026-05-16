@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `643dde4d0c75` | 2026-05-15T11:24:52Z
-**Companies:** 133 | **Jobs:** 12042 | **New:** 5118 | **New UK:** 603 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 79
+**Run:** `ed5cee6717a1` | 2026-05-16T10:20:26Z
+**Companies:** 133 | **Jobs:** 12013 | **New:** 5163 | **New UK:** 607 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 76
 
 ## Apply Now
 
@@ -15,6 +15,11 @@
   London, United Kingdom; Paris, France
   Why: title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' | boost: experimentation (+3) | very recent (0d)
   [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544)
+
+- **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
+  Remote - United Kingdom
+  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
+  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002)
 
 - **OpenAI — Manager, Forward Deployed Engineering - London** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, UK
@@ -41,17 +46,37 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152)
 
+## Worth a Look
+
 - **Palantir — Forward Deployed Software Engineer, New Grad - UK Government** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a)
 
-## Worth a Look
-
 - **ASOS — Applied Scientist** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
   London, England, United Kingdom
   Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000124952576)
+
+- **Wise — Lead Product Analyst - Send** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000126727742)
+
+- **Wise — Lead Product Analyst - Onboarding** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000126727989)
+
+- **Wise — Lead Product Analyst - Business Account Management** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000126727779)
+
+- **Wise — Lead Product Analyst - Consumer Account** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000126727504)
 
 - **Wise — Lead Product Analyst - Regional Expansion** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
@@ -82,31 +107,6 @@
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000125331498)
-
-- **Wise — Lead Product Analyst - Send** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000124100560)
-
-- **Wise — Lead Product Analyst - Onboarding** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000124100395)
-
-- **Wise — Lead Product Analyst - Business Account Management** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000124100390)
-
-- **Wise — Lead Product Analyst - Consumer Account** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000124099613)
-
-- **Wise — Senior Product Analyst, Accounting Integrations & Reporting** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000122727639)
 
 ---
 _Generated by job-aggregator brief_

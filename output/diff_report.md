@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `643dde4d0c75`
-**Timestamp:** 2026-05-15T11:24:52Z
+**Run ID:** `ed5cee6717a1`
+**Timestamp:** 2026-05-16T10:20:26Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 5118
+**New jobs this run:** 5163
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **253** new high-scoring job(s).
+Found **259** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -39,13 +39,13 @@ Found **253** new high-scoring job(s).
 | 24 | Stripe | Solutions Architect, Italy | Milan, Barcelona, Madrid, Dublin, Amsterdam | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
 | 25 | Stripe | Solutions Architect, Startup & SMB | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7903814) | title match: 'solutions architect' |
 
-... and 228 more not shown
+... and 234 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **552** new UK posting(s) not in top matches.
+Found **553** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -76,67 +76,67 @@ Found **552** new UK posting(s) not in top matches.
 | 25 | ASOS | Senior Creative Producer Manager (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120887142) |
 | 26 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126486839) |
 | 27 | ASOS | Senior Designer - Topshop Softs  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125287209) |
-| 28 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122631269) |
-| 29 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122630445) |
-| 30 | ASOS | Senior Manager, Pricing Analytics & Optimisation  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123905959) |
-| 31 | ASOS | Senior Merchandiser (WB Swimwear & Lingerie) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123897124) |
-| 32 | ASOS | Senior Product Manager (Brand Experiences)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125332499) |
-| 33 | ASOS | Senior Product Manager – SEO (12-month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123933839) |
-| 34 | ASOS | Senior Software Engineer (Azure, C#) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125889800) |
-| 35 | ASOS | Sourcing Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122408949) |
-| 36 | ASOS | Sourcing Partner | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120669747) |
-| 37 | ASOS | iOS Engineer (Customer & Marketing) | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000124904201) |
-| 38 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) |
-| 39 | Block (Square) | Business Development Manager | London, United Kingdom | -5 | [Apply](http://block.xyz/careers/jobs/5146333008?gh_jid=5146333008) |
-| 40 | Block (Square) | Channel Sales Learning and Experience Designer | London, United Kingdom | -5 | [Apply](http://block.xyz/careers/jobs/5146321008?gh_jid=5146321008) |
+| 28 | ASOS | Senior Finance Analyst - Stock | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126718959) |
+| 29 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122631269) |
+| 30 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122630445) |
+| 31 | ASOS | Senior Manager, Pricing Analytics & Optimisation  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123905959) |
+| 32 | ASOS | Senior Merchandiser (WB Swimwear & Lingerie) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123897124) |
+| 33 | ASOS | Senior Product Manager (Brand Experiences)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125332499) |
+| 34 | ASOS | Senior Product Manager – SEO (12-month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123933839) |
+| 35 | ASOS | Senior Software Engineer (Azure, C#) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125889800) |
+| 36 | ASOS | Sourcing Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122408949) |
+| 37 | ASOS | Sourcing Partner | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120669747) |
+| 38 | ASOS | iOS Engineer (Customer & Marketing) | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000124904201) |
+| 39 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) |
+| 40 | Block (Square) | Business Development Manager | London, United Kingdom | -5 | [Apply](http://block.xyz/careers/jobs/5146333008?gh_jid=5146333008) |
 
-... and 512 more not shown
+... and 513 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **4313** other new posting(s).
+Found **4351** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
 | 1 | ASOS | Trade Manager – US  | New York, New York, United States | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122716149) |
-| 2 | Airtable | Global Payroll Manager | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
-| 3 | Airtable | Product Security Engineer | San Francisco, CA; New York, NY; Remote (Seattle, WA only) | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8533547002) |
-| 4 | Airtable | Senior Accounting Manager | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8460788002) |
-| 5 | Block (Square) |  Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191688008?gh_jid=5191688008) |
+| 2 | Airtable | GTM Engineer | San Francisco, CA; New York, NY | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8536588002) |
+| 3 | Airtable | Global Payroll Manager | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
+| 4 | Airtable | Product Security Engineer | San Francisco, CA; New York, NY; Remote (Seattle, WA only) | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8533547002) |
+| 5 | Airtable | Senior Accounting Manager | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8460788002) |
 | 6 | Block (Square) |  Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191704008?gh_jid=5191704008) |
-| 7 | Block (Square) |  Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191557008?gh_jid=5191557008) |
-| 8 | Block (Square) | ASIC Validation Engineer | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5115892008?gh_jid=5115892008) |
-| 9 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
-| 10 | Block (Square) | Account Manager  | Phoenix, AZ, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5199076008?gh_jid=5199076008) |
-| 11 | Block (Square) | Account Services Manager - Franchise Growth | Chicago, IL, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5183859008?gh_jid=5183859008) |
-| 12 | Block (Square) | Business Development Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183587008?gh_jid=5183587008) |
+| 7 | Block (Square) |  Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191688008?gh_jid=5191688008) |
+| 8 | Block (Square) |  Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191557008?gh_jid=5191557008) |
+| 9 | Block (Square) | ASIC Validation Engineer | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5115892008?gh_jid=5115892008) |
+| 10 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
+| 11 | Block (Square) | Account Manager  | Phoenix, AZ, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5199076008?gh_jid=5199076008) |
+| 12 | Block (Square) | Account Services Manager - Franchise Growth | Chicago, IL, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5183859008?gh_jid=5183859008) |
 | 13 | Block (Square) | Business Development Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183584008?gh_jid=5183584008) |
-| 14 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191716008?gh_jid=5191716008) |
+| 14 | Block (Square) | Business Development Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183587008?gh_jid=5183587008) |
 | 15 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191728008?gh_jid=5191728008) |
-| 16 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191576008?gh_jid=5191576008) |
-| 17 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191657008?gh_jid=5191657008) |
+| 16 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191657008?gh_jid=5191657008) |
+| 17 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191576008?gh_jid=5191576008) |
 | 18 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191675008?gh_jid=5191675008) |
-| 19 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5123801008?gh_jid=5123801008) |
-| 20 | Block (Square) | Channel Sales Manager | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183795008?gh_jid=5183795008) |
-| 21 | Block (Square) | Channel Sales Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183792008?gh_jid=5183792008) |
-| 22 | Block (Square) | Channel Sales Support Agent (Reseller) | New York, NY, United States of America | -10 | [Apply](http://block.xyz/careers/jobs/5183536008?gh_jid=5183536008) |
+| 19 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5191716008?gh_jid=5191716008) |
+| 20 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5123801008?gh_jid=5123801008) |
+| 21 | Block (Square) | Channel Sales Manager | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183795008?gh_jid=5183795008) |
+| 22 | Block (Square) | Channel Sales Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183792008?gh_jid=5183792008) |
 | 23 | Block (Square) | Channel Sales Support Agent (Reseller) | Bay Area, CA, United States of America | -10 | [Apply](http://block.xyz/careers/jobs/5183725008?gh_jid=5183725008) |
-| 24 | Block (Square) | Director of Field Sales, Central Region | Chicago, IL, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5199100008?gh_jid=5199100008) |
-| 25 | Block (Square) | Engineering Program Coordinator | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5178222008?gh_jid=5178222008) |
+| 24 | Block (Square) | Channel Sales Support Agent (Reseller) | New York, NY, United States of America | -10 | [Apply](http://block.xyz/careers/jobs/5183536008?gh_jid=5183536008) |
+| 25 | Block (Square) | Director of Field Sales, Central Region | Chicago, IL, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5199100008?gh_jid=5199100008) |
 
-... and 4288 more not shown
+... and 4326 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 5118
-- **Top matches (score ≥ 3):** 253
-  - of which UK: 51
-- **New UK jobs (other):** 552
-- **Other new jobs:** 4313
+- **Total new jobs:** 5163
+- **Top matches (score ≥ 3):** 259
+  - of which UK: 54
+- **New UK jobs (other):** 553
+- **Other new jobs:** 4351
 
 ---
 _Generated by job-aggregator diff mode_
