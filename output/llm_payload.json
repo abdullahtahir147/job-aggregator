@@ -145,13 +145,13 @@
     "company": "ASOS",
     "title": "Applied Scientist",
     "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000124952576",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000127892520",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'applied scientist'",
     "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-05-06T16:35:35.924Z"
+    "posted_at": "2026-05-22T13:18:54.128Z"
   },
   {
     "rank": 12,
@@ -171,46 +171,102 @@
     "rank": 13,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
-    "title": "Senior Product Analyst - Account Details",
+    "title": "Senior Product Analyst - Wise Business",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000127264579",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000127992639",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-19T16:58:32.907Z"
+    "posted_at": "2026-05-23T06:55:35.427Z"
   },
   {
     "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
-    "title": "Senior Product Analyst - Recurring Payins",
+    "title": "Senior Product Analyst, Accounting Integrations & Reporting",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000127025068",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000127992629",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-18T15:06:26.126Z"
+    "posted_at": "2026-05-23T06:53:21.786Z"
   },
   {
     "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
-    "title": "Senior Product Analyst - SEO Product",
+    "title": "Senior Product Analyst - Invoicing",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000127018495",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000127992619",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-18T14:50:30.237Z"
+    "posted_at": "2026-05-23T06:52:22.893Z"
   },
   {
     "rank": 16,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst - Competitive Intelligence",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000127992539",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-05-23T06:50:47.103Z"
+  },
+  {
+    "rank": 17,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst - Recurring Payins",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000127992529",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-05-23T06:50:11.011Z"
+  },
+  {
+    "rank": 18,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst - SEO Product",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000127992519",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-05-23T06:49:39.989Z"
+  },
+  {
+    "rank": 19,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst - Account Details",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000127992509",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-05-23T06:48:41.748Z"
+  },
+  {
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -224,7 +280,7 @@
     "posted_at": "2026-05-15T15:54:14.275Z"
   },
   {
-    "rank": 17,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -238,7 +294,7 @@
     "posted_at": "2026-05-15T15:52:58.949Z"
   },
   {
-    "rank": 18,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -252,7 +308,7 @@
     "posted_at": "2026-05-15T15:52:04.081Z"
   },
   {
-    "rank": 19,
+    "rank": 23,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -266,7 +322,7 @@
     "posted_at": "2026-05-15T15:51:16.517Z"
   },
   {
-    "rank": 20,
+    "rank": 24,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -278,62 +334,6 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-05-14T12:49:43.555Z"
-  },
-  {
-    "rank": 21,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Competitive Intelligence",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000125768649",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-11T07:51:48.376Z"
-  },
-  {
-    "rank": 22,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Wise Business",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000125384909",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-08T17:37:42.638Z"
-  },
-  {
-    "rank": 23,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Invoicing",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000125382610",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-08T17:24:30.750Z"
-  },
-  {
-    "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst, Accounting Integrations & Reporting",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000125381516",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-08T17:14:58.888Z"
   },
   {
     "rank": 25,
