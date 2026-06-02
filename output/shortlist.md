@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `c549ddb559b5`
-**Generated:** 2026-06-01T15:27:22Z
+**Run ID:** `7aced5768f82`
+**Generated:** 2026-06-02T12:46:31Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -35,16 +35,16 @@
 | 2 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France | 0d | 11 | 5 | +6 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation'; very recent (0d) |
 | 10 | Wise | Senior Product Analytics Manager - Scalable Growth | London, , United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127852460) | title match: 'product analytics'; very recent (0d) |
 | 12 | Lendable | Lead Product Analyst | London, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) | title match: 'product analyst'; very recent (0d) |
-| 13 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128973677) | title match: 'product analyst'; very recent (0d) |
-| 14 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128971294) | title match: 'product analyst'; very recent (0d) |
-| 15 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128469058) | title match: 'product analyst'; very recent (0d) |
-| 16 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992629) | title match: 'product analyst'; very recent (0d) |
-| 17 | Wise | Senior Product Analyst - Invoicing | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992619) | title match: 'product analyst'; very recent (0d) |
-| 18 | Wise | Senior Product Analyst - Competitive Intelligence | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992539) | title match: 'product analyst'; very recent (0d) |
-| 19 | Wise | Senior Product Analyst - Recurring Payins | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992529) | title match: 'product analyst'; very recent (0d) |
-| 20 | Wise | Senior Product Analyst - SEO Product | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992519) | title match: 'product analyst'; very recent (0d) |
-| 21 | Wise | Senior Product Analyst - Account Details | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992509) | title match: 'product analyst'; very recent (0d) |
-| 22 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000126512319) | title match: 'product analyst'; very recent (0d) |
+| 13 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129727749) | title match: 'product analyst'; very recent (0d) |
+| 14 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128973677) | title match: 'product analyst'; very recent (0d) |
+| 15 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128971294) | title match: 'product analyst'; very recent (0d) |
+| 16 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128469058) | title match: 'product analyst'; very recent (0d) |
+| 17 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992629) | title match: 'product analyst'; very recent (0d) |
+| 18 | Wise | Senior Product Analyst - Invoicing | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992619) | title match: 'product analyst'; very recent (0d) |
+| 19 | Wise | Senior Product Analyst - Competitive Intelligence | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992539) | title match: 'product analyst'; very recent (0d) |
+| 20 | Wise | Senior Product Analyst - Recurring Payins | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992529) | title match: 'product analyst'; very recent (0d) |
+| 21 | Wise | Senior Product Analyst - SEO Product | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992519) | title match: 'product analyst'; very recent (0d) |
+| 22 | Wise | Senior Product Analyst - Account Details | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992509) | title match: 'product analyst'; very recent (0d) |
 | 23 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000122727639) | title match: 'product analyst'; very recent (0d) |
 | 24 | Zopa | Product Analyst (Mid-level) | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.lever.co/zopa/fce9fe48-9492-4f6c-9fe6-9430f0350af3) | title match: 'product analyst'; very recent (0d) |
 
