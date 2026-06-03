@@ -43,20 +43,6 @@
   },
   {
     "rank": 4,
-    "tag": "CORE_DS",
-    "company": "Lendable",
-    "title": "Senior Product Data Scientist",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/lendable/04aa8a51-e78b-4048-b85e-67b739fa3e54",
-    "final_score": 10,
-    "base_score": 6,
-    "intent_delta": 1,
-    "match_reason": "+3 title match: 'product data scientist'; +3 title match: 'data scientist'",
-    "intent_reasons": "boost: product (+1)",
-    "posted_at": "2026-05-18T08:05:52Z"
-  },
-  {
-    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Manager, Forward Deployed Engineering - London",
@@ -70,7 +56,7 @@
     "posted_at": "2026-04-23T22:13:01Z"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -84,7 +70,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -98,7 +84,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -112,7 +98,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -126,7 +112,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analytics Manager - Scalable Growth",
@@ -140,7 +126,7 @@
     "posted_at": "2026-05-22T10:33:11.015Z"
   },
   {
-    "rank": 11,
+    "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
@@ -154,7 +140,7 @@
     "posted_at": "2026-05-22T13:18:54.128Z"
   },
   {
-    "rank": 12,
+    "rank": 11,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Lendable",
     "title": "Lead Product Analyst",
@@ -168,21 +154,21 @@
     "posted_at": "2026-05-20T08:12:39Z"
   },
   {
-    "rank": 13,
+    "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000129727749",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000129942659",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-06-02T11:18:12.321Z"
+    "posted_at": "2026-06-03T08:44:48.505Z"
   },
   {
-    "rank": 14,
+    "rank": 13,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -196,7 +182,7 @@
     "posted_at": "2026-05-28T14:19:20.957Z"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -210,7 +196,7 @@
     "posted_at": "2026-05-28T14:18:29.170Z"
   },
   {
-    "rank": 16,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -224,7 +210,7 @@
     "posted_at": "2026-05-26T11:41:38.513Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst, Accounting Integrations & Reporting",
@@ -238,7 +224,7 @@
     "posted_at": "2026-05-23T06:53:21.786Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Invoicing",
@@ -252,7 +238,7 @@
     "posted_at": "2026-05-23T06:52:22.893Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Competitive Intelligence",
@@ -266,7 +252,7 @@
     "posted_at": "2026-05-23T06:50:47.103Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Recurring Payins",
@@ -280,7 +266,7 @@
     "posted_at": "2026-05-23T06:50:11.011Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - SEO Product",
@@ -294,7 +280,7 @@
     "posted_at": "2026-05-23T06:49:39.989Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Account Details",
@@ -308,7 +294,7 @@
     "posted_at": "2026-05-23T06:48:41.748Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst, Accounting Integrations & Reporting",
@@ -322,7 +308,7 @@
     "posted_at": "2026-04-24T16:17:59.875Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Product Analyst (Mid-level)",
@@ -336,7 +322,7 @@
     "posted_at": "2026-04-30T15:16:16Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Senior Partner Solutions Architect",
@@ -349,5 +335,19 @@
     "intent_reasons": "boost: solutions architect (+2); boost: growth (+1); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;em&gt;Solution Architecture &amp;amp; Design&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate with Engagement Managers, Partner Success Managers and partner teams to validate scope and design for complex solutions&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Advise customers and partners on data governance models, API architecture, security frameworks, and enterprise deployment best practices&lt;/li&gt;\n&lt;li&gt;Develop solution architecture designs, technical specifications, and implementation roadmaps that support Airtable’s partner ecosystem&lt;/li&gt;\n&lt;li&gt;Create compelling technical narratives and demonstrations that showcase the power of Airtable + Partner solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Customer &amp;amp; Partner Collaboration&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as the technical advisor on strategic partner-led engagements with Enterprise clients&lt;/li&gt;\n&lt;li&gt;Support partners as needed in conducting deep discovery sessions to understand clients&#39; technical environments, business requirements, and integration needs&lt;/li&gt;\n&lt;li&gt;",
     "posted_at": "2026-04-13T12:36:13Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Block (Square)",
+    "title": "Solutions Engineer",
+    "location": "London, United Kingdom",
+    "url": "http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions engineer'",
+    "intent_reasons": "boost: solutions engineer (+2)",
+    "posted_at": "2026-04-16T19:22:18Z"
   }
 ]
