@@ -32,14 +32,14 @@
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "location": "London, United Kingdom",
+    "location": "United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002",
     "final_score": 10,
     "base_score": 3,
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-05-21T12:31:41Z"
+    "posted_at": "2026-06-04T06:31:19Z"
   },
   {
     "rank": 4,
@@ -296,20 +296,6 @@
   {
     "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst, Accounting Integrations & Reporting",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000122727639",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-04-24T16:17:59.875Z"
-  },
-  {
-    "rank": 23,
-    "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Product Analyst (Mid-level)",
     "location": "London",
@@ -322,7 +308,7 @@
     "posted_at": "2026-04-30T15:16:16Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Airtable",
     "title": "Senior Partner Solutions Architect",
@@ -337,7 +323,7 @@
     "posted_at": "2026-04-13T12:36:13Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -348,6 +334,20 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions engineer'",
     "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-04-16T19:22:18Z"
+    "posted_at": "2026-06-04T02:53:33Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Delivery Solutions Architect",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-05-19T07:30:18Z"
   }
 ]

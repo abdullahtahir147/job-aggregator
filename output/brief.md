@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `cd986e346a58` | 2026-06-03T13:20:37Z
-**Companies:** 133 | **Jobs:** 11878 | **New:** 6586 | **New UK:** 704 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 60
+**Run:** `ae04e4b69165` | 2026-06-04T12:05:56Z
+**Companies:** 133 | **Jobs:** 11909 | **New:** 6700 | **New UK:** 708 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 61
 
 ## Apply Now
 
@@ -17,7 +17,7 @@
   [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544)
 
 - **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
-  London, United Kingdom
+  United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002)
 
