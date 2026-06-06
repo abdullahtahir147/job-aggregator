@@ -297,15 +297,15 @@
     "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
-    "title": "Product Analyst (Mid-level)",
+    "title": "Senior Product Analyst (AI)",
     "location": "London",
-    "url": "https://jobs.lever.co/zopa/fce9fe48-9492-4f6c-9fe6-9430f0350af3",
+    "url": "https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-04-30T15:16:16Z"
+    "posted_at": "2026-02-28T13:12:25Z"
   },
   {
     "rank": 23,
@@ -334,7 +334,7 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions engineer'",
     "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-06-05T01:03:28Z"
+    "posted_at": "2026-06-05T16:05:01Z"
   },
   {
     "rank": 25,
