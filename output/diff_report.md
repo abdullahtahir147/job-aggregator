@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `fb36a3675c95`
-**Timestamp:** 2026-06-08T13:11:14Z
+**Run ID:** `6452595e3be2`
+**Timestamp:** 2026-06-09T12:08:49Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 6829
+**New jobs this run:** 6909
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **347** new high-scoring job(s).
+Found **354** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -26,26 +26,26 @@ Found **347** new high-scoring job(s).
 | 11 | JetBrains | .NET Developer Advocate | Amsterdam, Netherlands; Belgrade, Serbia; Berlin, Germany; Limassol, Cyprus; Madrid, Spain; Munich, Germany; Prague, Czech Republic; Remote, Germany; Warsaw, Poland; Yerevan, Armenia | 4 | [Apply](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4865086101) | title match: 'developer advocate'; keyword: 'experiment' |
 | 12 | JetBrains | .NET Developer Advocate | Boston, Massachusetts; Foster City, California; Marlton, New Jersey; Remote, United States | 4 | [Apply](https://job-boards.eu.greenhouse.io/jetbrains/jobs/4839610101) | title match: 'developer advocate'; keyword: 'experiment' |
 | 13 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 14 | Stripe | Data Analyst | Bengaluru | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7794729) | title match: 'data analyst' |
-| 15 | Stripe | Data Analyst,  Financial Enablement | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7874654) | title match: 'data analyst' |
-| 16 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
-| 17 | Stripe | Data Scientist, Economic Insights & Research | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7980402) | title match: 'data scientist' |
-| 18 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
-| 19 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
-| 20 | Stripe | Partner Solutions Architect, Germany | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
-| 21 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
-| 22 | Stripe | Program Manager, Solutions Architecture (GTM Transformation) | Chicago, Atlanta, US-Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7470827) | title match: 'solutions architect' |
+| 14 | Stripe | Data Analyst,  Financial Enablement | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7874654) | title match: 'data analyst' |
+| 15 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
+| 16 | Stripe | Data Scientist, Economic Insights & Research | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7980402) | title match: 'data scientist' |
+| 17 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
+| 18 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
+| 19 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
+| 20 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
+| 21 | Stripe | Program Manager, Solutions Architecture (GTM Transformation) | Chicago, Atlanta, US-Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7470827) | title match: 'solutions architect' |
+| 22 | Stripe | Solutions Architect, AI | US-San Francisco | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7975723) | title match: 'solutions architect' |
 | 23 | Stripe | Solutions Architect (Australia) | Sydney, Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
-| 24 | Stripe | Solutions Architect, Commercial - UK  | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7882492) | title match: 'solutions architect' |
-| 25 | Stripe | Solutions Architect, (Italian fluency)  | Milan, Barcelona, Madrid, Dublin, Amsterdam | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
+| 24 | Stripe | Solutions Architect, Commercial, UK  | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7882492) | title match: 'solutions architect' |
+| 25 | Stripe | Solutions Architect, Enterprise  | Chicago, IL or New York City, NY OR US Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7827184) | title match: 'solutions architect' |
 
-... and 322 more not shown
+... and 329 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **636** new UK posting(s) not in top matches.
+Found **628** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -76,67 +76,67 @@ Found **636** new UK posting(s) not in top matches.
 | 25 | ASOS | Partner Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129773918) |
 | 26 | ASOS | Platform Engineer | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129985917) |
 | 27 | ASOS | Product Manager – Customer Profile & Identity (12‑month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126043549) |
-| 28 | ASOS | Project Manager - Customer Care & Experience | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129200898) |
-| 29 | ASOS | Project Manager - Customer Care & Experience (Mat Cover) | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128492469) |
-| 30 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629085) |
-| 31 | ASOS | Senior AI Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
-| 32 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
-| 33 | ASOS | Senior Creative Producer Manager (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120887142) |
-| 34 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126486839) |
-| 35 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127850730) |
-| 36 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127827561) |
-| 37 | ASOS | Senior Manager, Menswear (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130194379) |
-| 38 | ASOS | Senior Manager, Pricing Analytics & Optimisation  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123905959) |
-| 39 | ASOS | Senior Merchandiser (WB Swimwear & Lingerie) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123897124) |
-| 40 | ASOS | Senior Product Manager (Brand Experiences)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125332499) |
+| 28 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629085) |
+| 29 | ASOS | Senior AI Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
+| 30 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
+| 31 | ASOS | Senior Creative Producer Manager (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120887142) |
+| 32 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126486839) |
+| 33 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127850730) |
+| 34 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127827561) |
+| 35 | ASOS | Senior Manager, Menswear (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130194379) |
+| 36 | ASOS | Senior Manager, Pricing Analytics & Optimisation  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123905959) |
+| 37 | ASOS | Senior Merchandiser (WB Swimwear & Lingerie) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123897124) |
+| 38 | ASOS | Senior Product Manager (Brand Experiences)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125332499) |
+| 39 | ASOS | Senior Product Manager – SEO (12-month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123933839) |
+| 40 | ASOS | Senior Software Engineer (Azure, C#) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125889800) |
 
-... and 596 more not shown
+... and 588 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **5846** other new posting(s).
+Found **5927** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
 | 1 | ASOS | Garment Merchandiser (Turkey) | Istanbul, Istanbul, Turkey | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127863349) |
-| 2 | Airtable | GTM Engineer | San Francisco, CA; New York, NY | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8536588002) |
-| 3 | Airtable | Global Payroll Manager | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
-| 4 | Airtable | Lead Solutions Consultant | Sydney, Australia | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
-| 5 | Airtable | Product Security Engineer | San Francisco, CA; New York, NY; Remote (Seattle, WA only) | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8533547002) |
-| 6 | Airtable | Senior Analyst, People Technology | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8447535002) |
-| 7 | Airtable | Senior Manager, Data Engineering | San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8565121002) |
-| 8 | Airtable | Senior Social Media Manager | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8577941002) |
-| 9 | Airtable | Senior Solutions Architect | Remote - US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
-| 10 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
-| 11 | Block (Square) | ASIC Validation Engineer | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5115892008?gh_jid=5115892008) |
-| 12 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
-| 13 | Block (Square) | Account Services Manager - Franchise Growth | Chicago, IL, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5183859008?gh_jid=5183859008) |
-| 14 | Block (Square) | Business Development Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183584008?gh_jid=5183584008) |
-| 15 | Block (Square) | Business Development Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183587008?gh_jid=5183587008) |
-| 16 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
-| 17 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
-| 18 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
+| 2 | Airtable | Delivery Consultant | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8582568002) |
+| 3 | Airtable | GTM Engineer | San Francisco, CA; New York, NY | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8536588002) |
+| 4 | Airtable | Global Payroll Manager | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
+| 5 | Airtable | Lead Solutions Consultant | Sydney, Australia | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
+| 6 | Airtable | Product Security Engineer | San Francisco, CA; New York, NY; Remote (Seattle, WA only) | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8533547002) |
+| 7 | Airtable | Senior Analyst, People Technology | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8447535002) |
+| 8 | Airtable | Senior Manager, Data Engineering | San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8565121002) |
+| 9 | Airtable | Senior Social Media Manager | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8577941002) |
+| 10 | Airtable | Senior Solutions Architect | Remote - US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
+| 11 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
+| 12 | Block (Square) | ASIC Validation Engineer | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5115892008?gh_jid=5115892008) |
+| 13 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
+| 14 | Block (Square) | Account Services Manager - Franchise Growth | Chicago, IL, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5183859008?gh_jid=5183859008) |
+| 15 | Block (Square) | Business Development Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183584008?gh_jid=5183584008) |
+| 16 | Block (Square) | Business Development Manager  | Paris, France | -5 | [Apply](http://block.xyz/careers/jobs/5183587008?gh_jid=5183587008) |
+| 17 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
+| 18 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
 | 19 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
-| 20 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 20 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
 | 21 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
-| 22 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
-| 23 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5123801008?gh_jid=5123801008) |
-| 24 | Block (Square) | Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008) |
-| 25 | Block (Square) | CRM Product Owner, GTM | New York, NY, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5235961008?gh_jid=5235961008) |
+| 22 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
+| 23 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
+| 24 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5123801008?gh_jid=5123801008) |
+| 25 | Block (Square) | Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008) |
 
-... and 5821 more not shown
+... and 5902 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 6829
-- **Top matches (score ≥ 3):** 347
-  - of which UK: 62
-- **New UK jobs (other):** 636
-- **Other new jobs:** 5846
+- **Total new jobs:** 6909
+- **Top matches (score ≥ 3):** 354
+  - of which UK: 61
+- **New UK jobs (other):** 628
+- **Other new jobs:** 5927
 
 ---
 _Generated by job-aggregator diff mode_

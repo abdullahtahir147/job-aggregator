@@ -320,7 +320,7 @@
     "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
     "intent_reasons": "boost: solutions architect (+2); boost: growth (+1); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;&lt;em&gt;Solution Architecture &amp;amp; Design&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate with Engagement Managers, Partner Success Managers and partner teams to validate scope and design for complex solutions&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Advise customers and partners on data governance models, API architecture, security frameworks, and enterprise deployment best practices&lt;/li&gt;\n&lt;li&gt;Develop solution architecture designs, technical specifications, and implementation roadmaps that support Airtable’s partner ecosystem&lt;/li&gt;\n&lt;li&gt;Create compelling technical narratives and demonstrations that showcase the power of Airtable + Partner solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Customer &amp;amp; Partner Collaboration&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as the technical advisor on strategic partner-led engagements with Enterprise clients&lt;/li&gt;\n&lt;li&gt;Support partners as needed in conducting deep discovery sessions to understand clients&#39; technical environments, business requirements, and integration needs&lt;/li&gt;\n&lt;li&gt;",
-    "posted_at": "2026-04-13T12:36:13Z"
+    "posted_at": "2026-06-08T15:07:38Z"
   },
   {
     "rank": 24,
@@ -334,7 +334,7 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions engineer'",
     "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-06-05T16:05:01Z"
+    "posted_at": "2026-06-08T13:02:04Z"
   },
   {
     "rank": 25,

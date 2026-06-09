@@ -1,16 +1,16 @@
 # Job Aggregation Report
 
-**Run ID:** `fb36a3675c95`
-**Timestamp:** 2026-06-08T13:11:14Z
+**Run ID:** `6452595e3be2`
+**Timestamp:** 2026-06-09T12:08:49Z
 **Companies processed:** 133
-**Total jobs found:** 11849
-**New jobs this run:** 6829
+**Total jobs found:** 11869
+**New jobs this run:** 6909
 
 ---
 
 ## New UK Jobs
 
-Found **698** new UK posting(s) since last run.
+Found **689** new UK posting(s) since last run.
 
 | # | Company | Title | Location | Link |
 |---|---------|-------|----------|------|
@@ -42,42 +42,42 @@ Found **698** new UK posting(s) since last run.
 | 26 | ASOS | Partner Manager | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129773918) |
 | 27 | ASOS | Platform Engineer | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129985917) |
 | 28 | ASOS | Product Manager – Customer Profile & Identity (12‑month FTC) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126043549) |
-| 29 | ASOS | Project Manager - Customer Care & Experience | Watford, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129200898) |
-| 30 | ASOS | Project Manager - Customer Care & Experience (Mat Cover) | Watford, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128492469) |
-| 31 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629085) |
-| 32 | ASOS | Senior AI Engineer  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
-| 33 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
-| 34 | ASOS | Senior Creative Producer Manager (6 month FTC) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120887142) |
-| 35 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126486839) |
-| 36 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127850730) |
-| 37 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127827561) |
-| 38 | ASOS | Senior Manager, Menswear (6 month FTC) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130194379) |
-| 39 | ASOS | Senior Manager, Pricing Analytics & Optimisation  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123905959) |
-| 40 | ASOS | Senior Merchandiser (WB Swimwear & Lingerie) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123897124) |
-| 41 | ASOS | Senior Product Manager (Brand Experiences)  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125332499) |
-| 42 | ASOS | Senior Product Manager – SEO (12-month FTC) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123933839) |
-| 43 | ASOS | Senior Software Engineer (Azure, C#) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125889800) |
-| 44 | ASOS | Senior iOS Engineer | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128677361) |
-| 45 | ASOS | Sourcing Partner | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120669747) |
-| 46 | ASOS | Staff Engineering Lead | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127895091) |
-| 47 | ASOS | Wholesale Merchandising Assistant | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128960440) |
-| 48 | ASOS | iOS Engineer (Customer & Marketing) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000124904201) |
-| 49 | Airtable | Business Development Representative (French speaker) | London, United Kingdom  | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8569695002) |
-| 50 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) |
-| 51 | Airtable | Technical Support Specialist | Remote - London, United Kingdom  | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8573015002) |
-| 52 | Block (Square) | Business Development Manager | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5146333008?gh_jid=5146333008) |
-| 53 | Block (Square) | Business Development Rep Associate | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5095724008?gh_jid=5095724008) |
-| 54 | Block (Square) | Channel Sales Support Agent - Bilingual French | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183808008?gh_jid=5183808008) |
-| 55 | Block (Square) | Enterprise Account Executive | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5116657008?gh_jid=5116657008) |
-| 56 | Block (Square) | Enterprise Seller Onboarding (ESO) Technical Project Manager | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5123252008?gh_jid=5123252008) |
-| 57 | Block (Square) | Manager, Field Sales - Manchester | Manchester, United Kingdom | [Apply](http://block.xyz/careers/jobs/5214208008?gh_jid=5214208008) |
-| 58 | Block (Square) | Onboarding Project Manager | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183832008?gh_jid=5183832008) |
-| 59 | Block (Square) | Principal Designer, TIDAL | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5248778008?gh_jid=5248778008) |
-| 60 | Block (Square) | SMB Account Executive, Clearpay | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5238232008?gh_jid=5238232008) |
-| 61 | Block (Square) | SMB Account Executive, London | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183465008?gh_jid=5183465008) |
-| 62 | Block (Square) | SMB Sales Account Executive | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183301008?gh_jid=5183301008) |
-| 63 | Block (Square) | SMB Sales Account Executive | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183507008?gh_jid=5183507008) |
-| 64 | Block (Square) | Senior Sales Account Executive  | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5250088008?gh_jid=5250088008) |
+| 29 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629085) |
+| 30 | ASOS | Senior AI Engineer  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
+| 31 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
+| 32 | ASOS | Senior Creative Producer Manager (6 month FTC) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120887142) |
+| 33 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126486839) |
+| 34 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127850730) |
+| 35 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127827561) |
+| 36 | ASOS | Senior Manager, Menswear (6 month FTC) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130194379) |
+| 37 | ASOS | Senior Manager, Pricing Analytics & Optimisation  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123905959) |
+| 38 | ASOS | Senior Merchandiser (WB Swimwear & Lingerie) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123897124) |
+| 39 | ASOS | Senior Product Manager (Brand Experiences)  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125332499) |
+| 40 | ASOS | Senior Product Manager – SEO (12-month FTC) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123933839) |
+| 41 | ASOS | Senior Software Engineer (Azure, C#) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000125889800) |
+| 42 | ASOS | Senior iOS Engineer | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128677361) |
+| 43 | ASOS | Sourcing Partner | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000120669747) |
+| 44 | ASOS | Staff Engineering Lead | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127895091) |
+| 45 | ASOS | Wholesale Merchandising Assistant | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128960440) |
+| 46 | ASOS | iOS Engineer (Customer & Marketing) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/ASOS/744000124904201) |
+| 47 | Airtable | Base Optimization Specialist | London, United Kingdom  | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8580787002) |
+| 48 | Airtable | Business Development Representative (French speaker) | London, United Kingdom  | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8569695002) |
+| 49 | Airtable | Senior Partner Solutions Architect | London, England, United Kingdom | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8462421002) |
+| 50 | Airtable | Technical Support Specialist | Remote - London, United Kingdom  | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8573015002) |
+| 51 | Block (Square) | Business Development Manager | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5146333008?gh_jid=5146333008) |
+| 52 | Block (Square) | Business Development Rep Associate | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5095724008?gh_jid=5095724008) |
+| 53 | Block (Square) | Channel Sales Support Agent - Bilingual French | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183808008?gh_jid=5183808008) |
+| 54 | Block (Square) | Enterprise Account Executive | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5116657008?gh_jid=5116657008) |
+| 55 | Block (Square) | Enterprise Seller Onboarding (ESO) Technical Project Manager | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5123252008?gh_jid=5123252008) |
+| 56 | Block (Square) | Manager, Field Sales - Manchester | Manchester, United Kingdom | [Apply](http://block.xyz/careers/jobs/5214208008?gh_jid=5214208008) |
+| 57 | Block (Square) | Principal Designer, TIDAL | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5248778008?gh_jid=5248778008) |
+| 58 | Block (Square) | SMB Account Executive, Clearpay | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5238232008?gh_jid=5238232008) |
+| 59 | Block (Square) | SMB Account Executive, London | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183465008?gh_jid=5183465008) |
+| 60 | Block (Square) | SMB Sales Account Executive | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183507008?gh_jid=5183507008) |
+| 61 | Block (Square) | SMB Sales Account Executive | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183301008?gh_jid=5183301008) |
+| 62 | Block (Square) | Senior Sales Account Executive | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5183240008?gh_jid=5183240008) |
+| 63 | Block (Square) | Senior Sales Account Executive  | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5250088008?gh_jid=5250088008) |
+| 64 | Block (Square) | Senior Strategic Account Manager | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5231583008?gh_jid=5231583008) |
 | 65 | Block (Square) | Solutions Engineer | London, United Kingdom | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) |
 | 66 | Block (Square) | Territory Account Executive, Birmingham | Birmingham, United Kingdom | [Apply](http://block.xyz/careers/jobs/5213053008?gh_jid=5213053008) |
 | 67 | Block (Square) | Territory Account Executive, Leeds | Leeds, United Kingdom | [Apply](http://block.xyz/careers/jobs/5239209008?gh_jid=5239209008) |
@@ -97,68 +97,68 @@ Found **698** new UK posting(s) since last run.
 | 81 | BoschGroup | Graduate Specialist Program - Manufacturing Engineering | Birmingham, West Midands, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128220480) |
 | 82 | BoschGroup | Graduate Specialist Program - Technical Engineering Business Development | South Cerney, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000120713788) |
 | 83 | BoschGroup | Human Resources Advisor | Birmingham, West Midlands, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128224549) |
-| 84 | BoschGroup | Human Resources Business Partner | Birmingham, West Midlands, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126359339) |
-| 85 | BoschGroup | IPM Software Engineer | Cambridgeshire, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126281173) |
-| 86 | BoschGroup | Independent Aftermarket (IAM) Technical Trainer  | Denham, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126535192) |
-| 87 | BoschGroup | Logistics Operator (Temp Contract) | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000124677138) |
-| 88 | BoschGroup | Machine Shop Apprentice – CNC Machining | Glenrothes, Scotland, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128706734) |
-| 89 | BoschGroup | Maintenance Technician | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122404681) |
-| 90 | BoschGroup | Management Accountant | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127376116) |
-| 91 | BoschGroup | Manufacturing Engineer | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000130785379) |
-| 92 | BoschGroup | Product Manager – Combustion Solutions | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128643779) |
-| 93 | BoschGroup | Production Engineering Graduate | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127391689) |
-| 94 | BoschGroup | Project Buyer | Wakefield, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000123725842) |
-| 95 | BoschGroup | Purchasing Manager | Cambridgeshire, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000124877029) |
-| 96 | BoschGroup | Quality Inspector | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126289024) |
-| 97 | BoschGroup | Quality Systems Engineer | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127401589) |
-| 98 | BoschGroup | SIA Country Business Manager | Denham, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128698139) |
-| 99 | BoschGroup | SSM Technical Sales Support (Hydraulics) | Cambridgeshire, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128435535) |
-| 100 | BoschGroup | Service Manager  | Birmingham, West Midlands, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126480399) |
-| 101 | BoschGroup | Social Media Lead | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000129942664) |
-| 102 | BoschGroup | Spares Planning & Procurement Graduate | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000129184434) |
-| 103 | BoschGroup | Technical Area Sales Manager (Scotland postcode areas: G, PA & KA) | Worcester, England, United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000129737638) |
-| 104 | BoschGroup | Technical Engineering Graduate | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000129188929) |
-| 105 | BoschGroup | Technical Support Engineer | Birmingham, West Midlands, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000123636543) |
-| 106 | BoschGroup | [DCJP]産業機械向け油圧事業 事業部長 | Yokohama,Tsuzuki Nakagawa Chuo 1-9 -32,, Kanagawa, Japan | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127581499) |
-| 107 | BoschGroup | Інженер (IC Layout Engineer) групи аналогового дизайну | Kyiv, Kyiv, Ukraine | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000125048245) |
-| 108 | BoschGroup | Фахівець відділу по роботі з персоналом | Краковець, Яворівський район Львівська область, Ukraine | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000124624352) |
-| 109 | Braze | Account Executive - Open Application | London | [Apply](https://boards.greenhouse.io/braze/jobs/7954015?gh_jid=7954015) |
-| 110 | Braze | Account Executive Emerging Enterprise | London | [Apply](https://boards.greenhouse.io/braze/jobs/7800342?gh_jid=7800342) |
-| 111 | Braze | Account Executive, Scale - General Business  | London | [Apply](https://boards.greenhouse.io/braze/jobs/7810513?gh_jid=7810513) |
-| 112 | Braze | Lead Solutions Consultant | London | [Apply](https://boards.greenhouse.io/braze/jobs/7926881?gh_jid=7926881) |
-| 113 | Braze | Partner Technical Advisor | London | [Apply](https://boards.greenhouse.io/braze/jobs/7897090?gh_jid=7897090) |
-| 114 | Braze | People Solutions Coordinator | London | [Apply](https://boards.greenhouse.io/braze/jobs/7851275?gh_jid=7851275) |
-| 115 | Braze | Senior Customer Success Manager | London | [Apply](https://boards.greenhouse.io/braze/jobs/7790559?gh_jid=7790559) |
-| 116 | Braze | Senior Lead AI Solutions Consultant | London | [Apply](https://boards.greenhouse.io/braze/jobs/7797704?gh_jid=7797704) |
-| 117 | Canva | AI Technical Program Manager (Localisation) - 12 month FTC | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001137449) |
-| 118 | Canva | Account Executive, Higher Education (German Speaking) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001066124) |
-| 119 | Canva | Data Science Manager - EMEA Expansion | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001035175) |
-| 120 | Canva | Engineering Manager - Pexels | London, , United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001125369) |
-| 121 | Canva | HR Business Partner Director - International  | London, , United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001071638) |
-| 122 | Canva | Head of Account Expansion & Success, EMEA | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001125902) |
-| 123 | Canva | Machine Learning Engineering Manager - Evaluations | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001098974) |
-| 124 | Canva | Product Manager - EMEA | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001129778) |
-| 125 | Canva | Product Manager - Pexels | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001102641) |
-| 126 | Canva | SMB Account Executive (DACH) - German Speaking | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001121607) |
-| 127 | Canva | Senior Commercial Counsel | London, , United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001077373) |
-| 128 | Canva | Senior Research Engineer - Video | London, , United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001065986) |
-| 129 | Canva | Senior Reward Manager (Relocation to Sydney, Australia) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001072160) |
-| 130 | Canva | Workplace Experience Lead (London Campus) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001077378) |
-| 131 | Citymapper | Ad Sales Manager, Citymapper | London | [Apply](https://job-boards.greenhouse.io/via/jobs/8520821002) |
-| 132 | Citymapper | Commercial Intern | London, UK | [Apply](https://job-boards.greenhouse.io/via/jobs/8526837002) |
-| 133 | Citymapper | Field Operations Manager, Via Student Transit  | Milwaukee, WI  | [Apply](https://job-boards.greenhouse.io/via/jobs/8567860002) |
-| 134 | Citymapper | Payroll Manager | London | [Apply](https://job-boards.greenhouse.io/via/jobs/8576424002) |
-| 135 | Cohere | Engineering Manager, Agentic Platform  (UK) | United Kingdom | [Apply](https://jobs.ashbyhq.com/cohere/7a420921-b7dc-4341-a134-6fe209615e86) |
-| 136 | Cohere | Member of Technical Staff, Multilingual | London | [Apply](https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553) |
-| 137 | Databricks |  Lakebase Sales Specialist  | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8569535002) |
-| 138 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002) |
-| 139 | Databricks | Delivery Solutions Architect | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) |
-| 140 | Databricks | Deployment Strategist | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8548183002) |
-| 141 | Databricks | EMEA Energy Industry Go-To-Market (GTM) Leader | EMEA; Germany; London, United Kingdom; Paris, France; Remote - Netherlands | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8495059002) |
-| 142 | Databricks | Head of EMEA Financial Services GTM | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8501026002) |
-| 143 | Databricks | Hunter Account Executive - Middle East | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8556252002) |
-| 144 | Databricks | Lakewatch Strategic Sales Lead EMEA | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493146002) |
-| 145 | Databricks | Legal Counsel, EMEA Commercial | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8564394002) |
+| 84 | BoschGroup | IPM Software Engineer | Cambridgeshire, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126281173) |
+| 85 | BoschGroup | Independent Aftermarket (IAM) Technical Trainer  | Denham, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126535192) |
+| 86 | BoschGroup | Logistics Operator (Temp Contract) | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000124677138) |
+| 87 | BoschGroup | Machine Shop Apprentice – CNC Machining | Glenrothes, Scotland, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128706734) |
+| 88 | BoschGroup | Maintenance Technician | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000122404681) |
+| 89 | BoschGroup | Management Accountant | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127376116) |
+| 90 | BoschGroup | Manufacturing Engineer | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000130785379) |
+| 91 | BoschGroup | Product Manager – Combustion Solutions | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128643779) |
+| 92 | BoschGroup | Production Engineering Graduate | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127391689) |
+| 93 | BoschGroup | Project Buyer | Wakefield, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000123725842) |
+| 94 | BoschGroup | Purchasing Manager | Cambridgeshire, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000124877029) |
+| 95 | BoschGroup | Quality Inspector | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126289024) |
+| 96 | BoschGroup | Quality Systems Engineer | Glenrothes, FIFE, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127401589) |
+| 97 | BoschGroup | SIA Country Business Manager | Denham, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128698139) |
+| 98 | BoschGroup | SSM Technical Sales Support (Hydraulics) | Cambridgeshire, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128435535) |
+| 99 | BoschGroup | Service Manager  | Birmingham, West Midlands, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000126480399) |
+| 100 | BoschGroup | Social Media Lead | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000131080596) |
+| 101 | BoschGroup | Spares Planning & Procurement Graduate | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000129184434) |
+| 102 | BoschGroup | Technical Area Sales Manager (Scotland postcode areas: G, PA & KA) | Worcester, England, United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000129737638) |
+| 103 | BoschGroup | Technical Engineering Graduate | Worcester, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000129188929) |
+| 104 | BoschGroup | Technical Support Engineer | Birmingham, West Midlands, United Kingdom | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000123636543) |
+| 105 | BoschGroup | [DCJP]産業機械向け油圧事業 事業部長 | Yokohama,Tsuzuki Nakagawa Chuo 1-9 -32,, Kanagawa, Japan | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000127581499) |
+| 106 | BoschGroup | Інженер (IC Layout Engineer) групи аналогового дизайну | Kyiv, Kyiv, Ukraine | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000125048245) |
+| 107 | BoschGroup | Фахівець відділу по роботі з персоналом | Краковець, Яворівський район Львівська область, Ukraine | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000124624352) |
+| 108 | Braze | Account Executive - Open Application | London | [Apply](https://boards.greenhouse.io/braze/jobs/7954015?gh_jid=7954015) |
+| 109 | Braze | Account Executive Emerging Enterprise | London | [Apply](https://boards.greenhouse.io/braze/jobs/7800342?gh_jid=7800342) |
+| 110 | Braze | Account Executive, Scale - General Business  | London | [Apply](https://boards.greenhouse.io/braze/jobs/7810513?gh_jid=7810513) |
+| 111 | Braze | Lead Solutions Consultant | London | [Apply](https://boards.greenhouse.io/braze/jobs/7926881?gh_jid=7926881) |
+| 112 | Braze | Partner Technical Advisor | London | [Apply](https://boards.greenhouse.io/braze/jobs/7897090?gh_jid=7897090) |
+| 113 | Braze | People Solutions Coordinator | London | [Apply](https://boards.greenhouse.io/braze/jobs/7851275?gh_jid=7851275) |
+| 114 | Braze | Senior Customer Success Manager | London | [Apply](https://boards.greenhouse.io/braze/jobs/7790559?gh_jid=7790559) |
+| 115 | Braze | Senior Lead AI Solutions Consultant | London | [Apply](https://boards.greenhouse.io/braze/jobs/7797704?gh_jid=7797704) |
+| 116 | Canva | AI Technical Program Manager (Localisation) - 12 month FTC | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001137449) |
+| 117 | Canva | Account Executive, Higher Education (German Speaking) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001066124) |
+| 118 | Canva | Data Science Manager - EMEA Expansion | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001035175) |
+| 119 | Canva | Engineering Manager - Pexels | London, , United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001125369) |
+| 120 | Canva | HR Business Partner Director - International  | London, , United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001071638) |
+| 121 | Canva | Head of Account Expansion & Success, EMEA | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001125902) |
+| 122 | Canva | Machine Learning Engineering Manager - Evaluations | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001098974) |
+| 123 | Canva | Product Manager - EMEA | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001129778) |
+| 124 | Canva | Product Manager - Pexels | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001102641) |
+| 125 | Canva | SMB Account Executive (DACH) - German Speaking | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001121607) |
+| 126 | Canva | Senior Commercial Counsel | London, , United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001077373) |
+| 127 | Canva | Senior Research Engineer - Video | London, , United Kingdom (Remote) | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001065986) |
+| 128 | Canva | Senior Reward Manager (Relocation to Sydney, Australia) | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001072160) |
+| 129 | Canva | Workplace Experience Lead (London Campus) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Canva/6000000001077378) |
+| 130 | Citymapper | Ad Sales Manager, Citymapper | London | [Apply](https://job-boards.greenhouse.io/via/jobs/8520821002) |
+| 131 | Citymapper | Commercial Intern | London, UK | [Apply](https://job-boards.greenhouse.io/via/jobs/8526837002) |
+| 132 | Citymapper | Field Operations Manager, Via Student Transit  | Milwaukee, WI  | [Apply](https://job-boards.greenhouse.io/via/jobs/8567860002) |
+| 133 | Citymapper | Payroll Manager | London | [Apply](https://job-boards.greenhouse.io/via/jobs/8576424002) |
+| 134 | Cohere | Engineering Manager, Agentic Platform  (UK) | United Kingdom | [Apply](https://jobs.ashbyhq.com/cohere/7a420921-b7dc-4341-a134-6fe209615e86) |
+| 135 | Cohere | Member of Technical Staff, Multilingual | London | [Apply](https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553) |
+| 136 | Databricks |  Lakebase Sales Specialist  | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8569535002) |
+| 137 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002) |
+| 138 | Databricks | Delivery Solutions Architect | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) |
+| 139 | Databricks | Deployment Strategist | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8548183002) |
+| 140 | Databricks | EMEA Energy Industry Go-To-Market (GTM) Leader | EMEA; Germany; London, United Kingdom; Paris, France; Remote - Netherlands | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8495059002) |
+| 141 | Databricks | Head of EMEA Financial Services GTM | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8501026002) |
+| 142 | Databricks | Hunter Account Executive - Middle East | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8556252002) |
+| 143 | Databricks | Lakewatch Strategic Sales Lead EMEA | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493146002) |
+| 144 | Databricks | Legal Counsel, EMEA Commercial | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8564394002) |
+| 145 | Databricks | Sales Director, Digital Natives UKI | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8576866002) |
 | 146 | Databricks | Senior Solutions Architect (Enterprise Accounts) | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002) |
 | 147 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) |
 | 148 | Databricks | Senior Specialist Solutions Engineer (AI/ML) | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8572873002) |
@@ -222,36 +222,36 @@ Found **698** new UK posting(s) since last run.
 | 206 | Deliveroo | Payroll Analyst UK | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/88c52c1b-1425-48f6-b14d-7f3bb0783bff) |
 | 207 | Deliveroo | Restaurant Launch Assistant - Dutch Speaking | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/42c7b19f-1939-4b44-9186-716b531a9c9f) |
 | 208 | Deliveroo | Retentions Account Manager - SMB Belgium (French Speaking)  | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/b9bcbbe3-db5b-4ab8-af19-38bd0669845b) |
-| 209 | Deliveroo | Revenue Assurance Manager  | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/ce90cb27-d3f0-4c6f-bb8f-849751a9fdc6) |
-| 210 | Deliveroo | Rider Support Representative | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/f934d159-6874-4ab9-8933-2c41bf6468f2) |
-| 211 | Deliveroo | Rider Support Representative - Payments | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/2a35dbdf-cef4-4c1a-849b-c69a5afed4dc) |
-| 212 | Deliveroo | Risk & Insurance Manager | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/c15471de-20b5-45cd-83c5-e595a02f8859) |
-| 213 | Deliveroo | Sales Development Representative Team Leader (French Speaking) - 12 months FTC | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/3b15073e-c0f3-4667-83b8-50ec93959dcf) |
-| 214 | Deliveroo | Senior Data Scientist  | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) |
-| 215 | Deliveroo | Senior Finance & Strategy Manager | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/d88b345c-b806-432a-884d-5984547bd729) |
-| 216 | Deliveroo | Senior Finance Manager  - 12 Month FTC | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/c7420d7e-8667-42b8-971f-552f396b40e1) |
-| 217 | Deliveroo | Senior Learning & Development Specialist  | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/969d6a7a-663e-4b5c-a496-345dbf3ffe40) |
-| 218 | Deliveroo | Senior Manager Rider Communications & Partnerships UK&I | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/5f5b53a6-8a6c-4a48-84f6-a7a8212b568f) |
-| 219 | Deliveroo | Senior Manager, Global HR Compliance | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/789b5a82-c682-4067-acec-fc6454857196) |
-| 220 | Deliveroo | Senior Security Engineer | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/5517bb0b-34af-4737-91e2-6e915942d9b8) |
-| 221 | Deliveroo | Senior Software Engineer - Frontend | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/72cb660c-51d6-4337-ad6b-5bdaa95386dc) |
-| 222 | Deliveroo | Senior Software Engineer, Event Streaming Systems | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/ce477391-9f61-48b1-9767-23bef4fb46c4) |
-| 223 | Deliveroo | Staff Product Manager, Ads | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/528b7b55-628f-4748-9726-fe3797be01a8) |
-| 224 | Deliveroo | Taxonomist & Information Strategist – New Verticals Global Catalog | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/f121e36a-55f8-4d75-a5f4-0e579ea58666) |
-| 225 | Deliveroo | Warehouse Associate - Bermondsey | London - Enid (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/fc8486fd-47f2-4c6f-a1d6-587a09d2ad58) |
-| 226 | Deliveroo | Warehouse Associate - Part Time | London - Randall Road (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/8124af23-9853-46a9-aed9-6fa6a8c75237) |
-| 227 | Deliveroo | Warehouse Associate - Part Time | London - Yorkton St (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/b57249ac-4823-417c-80b3-689a6b938d93) |
-| 228 | Deliveroo | Warehouse Supervisor | London - Canning Town (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/c169485d-53ea-4380-9d8b-5fa3be1be1ff) |
-| 229 | Deliveroo | Warehouse Supervisor | London - Randall Road (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/125b4338-5386-4b8a-9963-13d91077fcd5) |
-| 230 | Deliveroo | Warehouse Supervisor | London - Merton (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/c43f0dfb-29e1-4f1e-8ebe-1de36e9de689) |
-| 231 | Deliveroo | Warehouse Supervisor | London - Acton Park Estate (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/425ca839-6a96-43eb-898e-ed73168050cc) |
-| 232 | Elastic | Mid Market Account Executive (Expansion) | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7764834&gh_jid=7764834) |
-| 233 | Elastic | Principal Data Scientist - Agent Builder | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7957356&gh_jid=7957356) |
-| 234 | Elastic | Public Sector Account Executive | London, United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7865012&gh_jid=7865012) |
-| 235 | Elastic | Regional Vice President | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7874677&gh_jid=7874677) |
-| 236 | Elastic | Regional Vice President | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7867553&gh_jid=7867553) |
-| 237 | Elastic | Senior Solutions Architect | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7349982&gh_jid=7349982) |
-| 238 | Elastic | Solutions Architect | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7525999&gh_jid=7525999) |
+| 209 | Deliveroo | Rider Support Representative | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/f934d159-6874-4ab9-8933-2c41bf6468f2) |
+| 210 | Deliveroo | Rider Support Representative - Payments | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/2a35dbdf-cef4-4c1a-849b-c69a5afed4dc) |
+| 211 | Deliveroo | Risk & Insurance Manager | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/c15471de-20b5-45cd-83c5-e595a02f8859) |
+| 212 | Deliveroo | Sales Development Representative Team Leader (French Speaking) - 12 months FTC | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/3b15073e-c0f3-4667-83b8-50ec93959dcf) |
+| 213 | Deliveroo | Senior Data Scientist  | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) |
+| 214 | Deliveroo | Senior Finance & Strategy Manager | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/d88b345c-b806-432a-884d-5984547bd729) |
+| 215 | Deliveroo | Senior Finance Manager  - 12 Month FTC | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/c7420d7e-8667-42b8-971f-552f396b40e1) |
+| 216 | Deliveroo | Senior Learning & Development Specialist  | Manchester - Main Office | [Apply](https://jobs.ashbyhq.com/deliveroo/969d6a7a-663e-4b5c-a496-345dbf3ffe40) |
+| 217 | Deliveroo | Senior Manager Rider Communications & Partnerships UK&I | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/5f5b53a6-8a6c-4a48-84f6-a7a8212b568f) |
+| 218 | Deliveroo | Senior Manager, Global HR Compliance | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/789b5a82-c682-4067-acec-fc6454857196) |
+| 219 | Deliveroo | Senior Security Engineer | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/5517bb0b-34af-4737-91e2-6e915942d9b8) |
+| 220 | Deliveroo | Senior Software Engineer - Frontend | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/72cb660c-51d6-4337-ad6b-5bdaa95386dc) |
+| 221 | Deliveroo | Senior Software Engineer, Event Streaming Systems | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/ce477391-9f61-48b1-9767-23bef4fb46c4) |
+| 222 | Deliveroo | Staff Product Manager, Ads | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/528b7b55-628f-4748-9726-fe3797be01a8) |
+| 223 | Deliveroo | Taxonomist & Information Strategist – New Verticals Global Catalog | London - The River Building HQ | [Apply](https://jobs.ashbyhq.com/deliveroo/f121e36a-55f8-4d75-a5f4-0e579ea58666) |
+| 224 | Deliveroo | Warehouse Associate - Bermondsey | London - Enid (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/fc8486fd-47f2-4c6f-a1d6-587a09d2ad58) |
+| 225 | Deliveroo | Warehouse Associate - Part Time | London - Randall Road (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/8124af23-9853-46a9-aed9-6fa6a8c75237) |
+| 226 | Deliveroo | Warehouse Associate - Part Time | London - Yorkton St (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/b57249ac-4823-417c-80b3-689a6b938d93) |
+| 227 | Deliveroo | Warehouse Supervisor | London - Canning Town (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/c169485d-53ea-4380-9d8b-5fa3be1be1ff) |
+| 228 | Deliveroo | Warehouse Supervisor | London - Randall Road (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/125b4338-5386-4b8a-9963-13d91077fcd5) |
+| 229 | Deliveroo | Warehouse Supervisor | London - Merton (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/c43f0dfb-29e1-4f1e-8ebe-1de36e9de689) |
+| 230 | Deliveroo | Warehouse Supervisor | London - Acton Park Estate (Hop) | [Apply](https://jobs.ashbyhq.com/deliveroo/425ca839-6a96-43eb-898e-ed73168050cc) |
+| 231 | Elastic | Mid Market Account Executive (Expansion) | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7764834&gh_jid=7764834) |
+| 232 | Elastic | Principal Data Scientist - Agent Builder | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7957356&gh_jid=7957356) |
+| 233 | Elastic | Public Sector Account Executive | London, United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7865012&gh_jid=7865012) |
+| 234 | Elastic | Regional Vice President | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7874677&gh_jid=7874677) |
+| 235 | Elastic | Regional Vice President | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7867553&gh_jid=7867553) |
+| 236 | Elastic | Senior Solutions Architect | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7349982&gh_jid=7349982) |
+| 237 | Elastic | Solutions Architect | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7525999&gh_jid=7525999) |
+| 238 | Elastic | Tax Manager (EMEA & APJ)  | United Kingdom | [Apply](https://jobs.elastic.co/jobs?gh_jid=7991552&gh_jid=7991552) |
 | 239 | Farfetch | Commercial Manager - Pricing/Revenue | UK London, United Kingdom | [Apply](https://jobs.lever.co/farfetch/b8eafbbd-70e5-4c40-84e7-c4be21092dc2) |
 | 240 | Farfetch | Compliance & Investigations Principal | UK London, United Kingdom | [Apply](https://jobs.lever.co/farfetch/677816d3-0942-4f95-bfa5-9365afb365af) |
 | 241 | Farfetch | Finance Analyst | UK London, United Kingdom | [Apply](https://jobs.lever.co/farfetch/3b9273e7-ad27-4241-ad86-20a04d0c8914) |
@@ -268,40 +268,40 @@ Found **698** new UK posting(s) since last run.
 | 252 | Figma | Manager, Inside Sales (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/6010992004?gh_jid=6010992004) |
 | 253 | Figma | People Partner (London, United Kingdom)  | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/5985521004?gh_jid=5985521004) |
 | 254 | Figma | Senior Account Executive, UK Government (London, United Kingdom) | London, England | [Apply](https://boards.greenhouse.io/figma/jobs/5988684004?gh_jid=5988684004) |
-| 255 | Form3 | Senior Software Engineer (Go) - Batch Processing | 100% Remote (UK/EU*) | [Apply](https://www.form3.tech/careers/vacancies/8518486002?gh_jid=8518486002) |
-| 256 | Form3 | Technical Writer | 100% Remote (UK) | [Apply](https://www.form3.tech/careers/vacancies/8501293002?gh_jid=8501293002) |
-| 257 | Freetrade | Mobile Engineer / iOS | London  | [Apply](https://jobs.ashbyhq.com/freetrade/5fc63921-1f33-4c94-adcf-4d26e18b952d) |
-| 258 | Freetrade | QA Engineer | London  | [Apply](https://jobs.ashbyhq.com/freetrade/5d2ab284-1ed6-4199-9dc1-c171f9b4f3f8) |
-| 259 | Freetrade | Security Engineer Intern | London  | [Apply](https://jobs.ashbyhq.com/freetrade/f44c9df8-ec02-4fde-a75e-ad0f220147cd) |
-| 260 | Freetrade | Senior Android Engineer | London  | [Apply](https://jobs.ashbyhq.com/freetrade/bdb85565-ee96-4ff5-bcf6-8678ad07c620) |
-| 261 | Freetrade | Staff QA Engineer  | London  | [Apply](https://jobs.ashbyhq.com/freetrade/42cbba70-abf4-44e4-965d-b83ff7b7369f) |
-| 262 | Freetrade | iOS Engineer | London  | [Apply](https://jobs.ashbyhq.com/freetrade/35fca594-d67c-4f2e-b317-167e5972c03e) |
-| 263 | GitLab | Business Development Representative  | Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8532274002) |
-| 264 | GitLab | CX Resource & Staffing Manager, EMEA | Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8558222002) |
-| 265 | GitLab | Public Sector Strategic Account Executive - Central & Strategic Government, UK  | Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8504443002) |
-| 266 | GitLab | Sales Development Representative  | Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8531879002) |
-| 267 | GitLab | Senior Product Manager, AI Platform Management | Remote, Ireland; Remote, Israel; Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8568868002) |
-| 268 | GitLab | Senior Solutions Architect, AI / Core DevOps - EMEA | Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8468159002) |
-| 269 | GitLab | Site Reliability Engineer, Cloud Cost Utilization | Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8515080002) |
-| 270 | GitLab | Staff Technical Program Manager | Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8506618002) |
-| 271 | GoCardless | Customer Success Account Manager, Europe | London, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7984625) |
-| 272 | GoCardless | Customer Success Manager I | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7858028) |
-| 273 | GoCardless | Financial Crime Risk Manager - 12 month FTC | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7841021) |
-| 274 | GoCardless | Product Manager III - 12-month FTC | London, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7810688) |
-| 275 | GoCardless | Regulatory Compliance Associate | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7972997) |
-| 276 | GoCardless | Sales Enablement Manager | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7857607) |
-| 277 | GoCardless | Software Development Engineer II - Frontend | London, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7942125) |
-| 278 | GoCardless | Software Development Engineer III | London, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7627201) |
-| 279 | Intercom | AI Infrastructure Engineer | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7824137) |
-| 280 | Intercom | Account Manager - French Speaking | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7904400) |
-| 281 | Intercom | Account Manager - German Speaking | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7904368) |
-| 282 | Intercom | Engineering Manager, AI Models Infrastructure | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7818586) |
-| 283 | Intercom | Engineering Manager, AI Models Infrastructure | Dublin, Ireland; London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7784684) |
-| 284 | Intercom | IT Systems Engineer | Dublin, Ireland; London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7930382) |
-| 285 | Intercom | Principal Engineer - Go-To-Market | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7811880) |
-| 286 | Intercom | Senior AI Deployment Consultant - Partners  | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7921414) |
-| 287 | Intercom | Senior Analytics Engineer | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7808050) |
-| 288 | Intercom | Senior Engineer, Infrastructure Platform | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7982419) |
+| 255 | Form3 | Senior Software Engineer (Go) | 100% Remote (UK/EU*) | [Apply](https://www.form3.tech/careers/vacancies/8576144002?gh_jid=8576144002) |
+| 256 | Form3 | Senior Software Engineer (Go) - Batch Processing | 100% Remote (UK/EU*) | [Apply](https://www.form3.tech/careers/vacancies/8518486002?gh_jid=8518486002) |
+| 257 | Form3 | Technical Writer | 100% Remote (UK) | [Apply](https://www.form3.tech/careers/vacancies/8501293002?gh_jid=8501293002) |
+| 258 | Freetrade | Mobile Engineer / iOS | London  | [Apply](https://jobs.ashbyhq.com/freetrade/5fc63921-1f33-4c94-adcf-4d26e18b952d) |
+| 259 | Freetrade | QA Engineer | London  | [Apply](https://jobs.ashbyhq.com/freetrade/5d2ab284-1ed6-4199-9dc1-c171f9b4f3f8) |
+| 260 | Freetrade | Security Engineer Intern | London  | [Apply](https://jobs.ashbyhq.com/freetrade/f44c9df8-ec02-4fde-a75e-ad0f220147cd) |
+| 261 | Freetrade | Senior Android Engineer | London  | [Apply](https://jobs.ashbyhq.com/freetrade/bdb85565-ee96-4ff5-bcf6-8678ad07c620) |
+| 262 | Freetrade | Staff QA Engineer  | London  | [Apply](https://jobs.ashbyhq.com/freetrade/42cbba70-abf4-44e4-965d-b83ff7b7369f) |
+| 263 | Freetrade | iOS Engineer | London  | [Apply](https://jobs.ashbyhq.com/freetrade/35fca594-d67c-4f2e-b317-167e5972c03e) |
+| 264 | GitLab | Business Development Representative  | Remote, EMEA; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8532274002) |
+| 265 | GitLab | CX Resource & Staffing Manager, EMEA | Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8558222002) |
+| 266 | GitLab | Public Sector Strategic Account Executive - Central & Strategic Government, UK  | Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8504443002) |
+| 267 | GitLab | Sales Development Representative  | Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8531879002) |
+| 268 | GitLab | Senior Product Manager, AI Platform Management | Remote, Ireland; Remote, Israel; Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8568868002) |
+| 269 | GitLab | Senior Solutions Architect, AI / Core DevOps - EMEA | Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8468159002) |
+| 270 | GitLab | Site Reliability Engineer, Cloud Cost Utilization | Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8515080002) |
+| 271 | GitLab | Staff Technical Program Manager | Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8506618002) |
+| 272 | GoCardless | Customer Success Account Manager, Europe | London, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7984625) |
+| 273 | GoCardless | Customer Success Manager I | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7858028) |
+| 274 | GoCardless | Financial Crime Risk Manager - 12 month FTC | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7841021) |
+| 275 | GoCardless | Product Manager III - 12-month FTC | London, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7810688) |
+| 276 | GoCardless | Regulatory Compliance Associate | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7972997) |
+| 277 | GoCardless | Sales Development Representative  | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7988744) |
+| 278 | GoCardless | Sales Enablement Manager | Leeds, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7857607) |
+| 279 | GoCardless | Software Development Engineer II - Frontend | London, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7942125) |
+| 280 | GoCardless | Software Development Engineer III | London, UK | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7627201) |
+| 281 | Intercom | AI Infrastructure Engineer | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7824137) |
+| 282 | Intercom | Account Manager - French Speaking | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7904400) |
+| 283 | Intercom | Account Manager - German Speaking | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7904368) |
+| 284 | Intercom | Engineering Manager, AI Models Infrastructure | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7818586) |
+| 285 | Intercom | Engineering Manager, AI Models Infrastructure | Dublin, Ireland; London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7784684) |
+| 286 | Intercom | IT Systems Engineer | Dublin, Ireland; London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7930382) |
+| 287 | Intercom | Principal Engineer - Go-To-Market | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7811880) |
+| 288 | Intercom | Senior Analytics Engineer | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7808050) |
 | 289 | Intercom | Senior People Systems Analyst | Dublin, Ireland; London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7912523) |
 | 290 | Intercom | Senior Product Designer | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7861866) |
 | 291 | Intercom | Senior Product Manager  | London, England | [Apply](https://job-boards.greenhouse.io/intercom/jobs/5916272) |
@@ -316,408 +316,399 @@ Found **698** new UK posting(s) since last run.
 | 300 | Lendable | Capital Markets Analyst / Associate | London | [Apply](https://jobs.ashbyhq.com/lendable/9fe4b5ae-440e-4ef4-a363-8b0e46c902b7) |
 | 301 | Lendable | Compliance Business Partner - Second Charge Mortgages | London | [Apply](https://jobs.ashbyhq.com/lendable/38d5707c-e55c-49ab-9ca9-a3cf098347cf) |
 | 302 | Lendable | Data Science Manager   | London | [Apply](https://jobs.ashbyhq.com/lendable/599e0dc2-746c-45b7-b62f-40427c10d5c7) |
-| 303 | Lendable | Data Scientist - UK Cards | London | [Apply](https://jobs.ashbyhq.com/lendable/e18b9159-6dd2-46be-9aac-fb60f13feca1) |
-| 304 | Lendable | Financial Operations Executive | London | [Apply](https://jobs.ashbyhq.com/lendable/e0abc246-3d3e-4268-9416-bb6652410d3f) |
-| 305 | Lendable | Graduate - Operations Transformation Associate | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/lendable/533f1d1c-36a3-40f9-bb30-5c712faf67f3) |
-| 306 | Lendable | Graduate Analyst - £48,000 + Share Options | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/lendable/6aaf5b7f-98d5-4d20-9270-636b99a858fd) |
-| 307 | Lendable | Growth Partnership Executive | London | [Apply](https://jobs.ashbyhq.com/lendable/128651df-c290-47d9-9a5b-1fb18bbe0266) |
-| 308 | Lendable | Head of Complaints | London | [Apply](https://jobs.ashbyhq.com/lendable/04f9875f-c126-44b7-805e-4443b58dc567) |
-| 309 | Lendable | Head of Creative | London | [Apply](https://jobs.ashbyhq.com/lendable/23e3463b-3b19-4242-9e87-4244728483f0) |
-| 310 | Lendable | Head of Financial Crime Operations | London | [Apply](https://jobs.ashbyhq.com/lendable/19ce71cd-3f83-49ad-86ce-71d49e08cc5f) |
-| 311 | Lendable | Head of Growth Partnerships | London | [Apply](https://jobs.ashbyhq.com/lendable/e208300a-90a0-4346-9dd5-fdcc4a9f4a69) |
-| 312 | Lendable | Head of SEO | London | [Apply](https://jobs.ashbyhq.com/lendable/2384a8f6-f54c-40ee-9c50-663f47c388e5) |
-| 313 | Lendable | Lead Data Scientist (Non-Lending) | London | [Apply](https://jobs.ashbyhq.com/lendable/6a4605bf-91c8-4779-8571-ffc2832a6465) |
-| 314 | Lendable | Lead Data Scientist - Recommendation System | London | [Apply](https://jobs.ashbyhq.com/lendable/3bd799cb-b8d0-47f8-bd18-252674a4ce02) |
-| 315 | Lendable | Lead Product Analyst | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) |
-| 316 | Lendable | Lead Python Engineer  | London | [Apply](https://jobs.ashbyhq.com/lendable/4765f58a-c1a8-438a-aa48-93dd9fdb11f1) |
-| 317 | Lendable | Operations & Process Improvement Intern - Financial Crime Ops | London | [Apply](https://jobs.ashbyhq.com/lendable/68e876da-fa27-4b9e-ad09-ca4805efa8a5) |
-| 318 | Lendable | People Operations Specialist | London | [Apply](https://jobs.ashbyhq.com/lendable/1876d009-0ea8-48c4-9a58-8c469d756791) |
-| 319 | Lendable | Performance Creative | London | [Apply](https://jobs.ashbyhq.com/lendable/9d1cdf09-f286-4c78-8274-39e3ce7fc5b1) |
-| 320 | Lendable | Performance Marketer | London | [Apply](https://jobs.ashbyhq.com/lendable/f84c8729-b09f-4432-b723-f5c2c1b88d5b) |
-| 321 | Lendable | Principal Data Scientist  | London | [Apply](https://jobs.ashbyhq.com/lendable/c023f118-f529-4019-9e37-b9847fbbf889) |
-| 322 | Lendable | Product Manager - UK Cards | London | [Apply](https://jobs.ashbyhq.com/lendable/e2de68f4-c6e1-4cad-94f0-7cfc444d16ab) |
-| 323 | Lendable | Python Engineer | London | [Apply](https://jobs.ashbyhq.com/lendable/9c1b6ab5-5582-46b1-ae58-d9720c8b8440) |
-| 324 | Lendable | Senior AI Engineer (AI Engineering)  | London | [Apply](https://jobs.ashbyhq.com/lendable/1ad4072d-09cb-4d8d-9c4a-2100780dbe8d) |
-| 325 | Lendable | Senior AI Engineer (Contract) | London | [Apply](https://jobs.ashbyhq.com/lendable/579df46b-b3cc-4532-a823-8a18f732b0b7) |
-| 326 | Lendable | Senior Data Platform Engineer | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/lendable/c3afa27c-87d6-4e73-9037-3e1353a7c6a3) |
-| 327 | Lendable | Senior Data Scientist - UK Cards | London/Kent | [Apply](https://jobs.ashbyhq.com/lendable/5482b502-f17b-42e3-aac4-d14e93ef6862) |
-| 328 | Lendable | Senior Engineering Manager | London | [Apply](https://jobs.ashbyhq.com/lendable/322cb051-0d32-4431-9ee1-d160db63afcc) |
-| 329 | Lendable | Senior IT Systems Engineer | London | [Apply](https://jobs.ashbyhq.com/lendable/f43a5d36-4e16-4a7b-bf91-42bb3f71e33d) |
-| 330 | Lendable | Senior Product Manager - UK Cards | London | [Apply](https://jobs.ashbyhq.com/lendable/636b90ec-028d-461a-b358-c7b871918dd8) |
-| 331 | Lendable | Senior Software Engineer (Data) | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/lendable/f73fbe9a-d1cd-48a3-b7fc-27fe36b41c7b) |
-| 332 | Lendable | Senior Technical SEO | London | [Apply](https://jobs.ashbyhq.com/lendable/dacae1c4-3af8-4723-94ea-934556807b3e) |
-| 333 | Lendable | Strategy & Operations - Department Owner | London/Kent | [Apply](https://jobs.ashbyhq.com/lendable/a9ae7ae6-c60d-4f6d-9f3f-9bc0a6331492) |
-| 334 | Lendable | Strategy and Operations Manager | London | [Apply](https://jobs.ashbyhq.com/lendable/9c17a3c3-f022-43c5-8416-a700c2f50719) |
-| 335 | Lendable | Video Producer | London | [Apply](https://jobs.ashbyhq.com/lendable/ce000381-02f0-4341-8ae0-27bf2a7e60ba) |
-| 336 | Moneybox | Chief of Staff | London Office | [Apply](https://jobs.lever.co/moneyboxapp/d5151617-0c21-4036-a481-9ced6620fdbc) |
-| 337 | Moneybox | Customer Care Team Lead (FTC - Mat Cover) | London Office | [Apply](https://jobs.lever.co/moneyboxapp/4e38e444-2330-45cc-8164-165772c31ade) |
-| 338 | Moneybox | Finance & Strategy Senior Manager | London | [Apply](https://jobs.lever.co/moneyboxapp/e9f82b8c-5ed9-4d20-81ae-96375b096337) |
-| 339 | Moneybox | Head of Brand & Creative - 12-month FTC | London Office | [Apply](https://jobs.lever.co/moneyboxapp/3b36c00e-2e6a-45e1-9fad-d80385087ae0) |
-| 340 | Moneybox | Legal Counsel | London Office | [Apply](https://jobs.lever.co/moneyboxapp/d1ac9ff3-6745-4a89-9307-5b01cf938202) |
-| 341 | Moneybox | Personal Finance & Public Affairs Manager | London Office | [Apply](https://jobs.lever.co/moneyboxapp/49a57ee7-3682-418d-9796-632720d0842e) |
-| 342 | Moneybox | Product Designer | London Office | [Apply](https://jobs.lever.co/moneyboxapp/3395ad66-3475-42ac-8eca-37d893a23dec) |
-| 343 | Moneybox | Product Manager | London Office | [Apply](https://jobs.lever.co/moneyboxapp/92f5f9a4-25d3-427d-a026-50f4bf57c170) |
-| 344 | Moneybox | Senior Analytics Engineer | London | [Apply](https://jobs.lever.co/moneyboxapp/0835653c-0370-433c-ad23-f2ba3434b25b) |
-| 345 | Moneybox | Senior Brand and Creative Manager | London Office | [Apply](https://jobs.lever.co/moneyboxapp/c71bd0d3-81c8-4a81-8a17-9045d21c6519) |
-| 346 | Moneybox | Senior Product Designer | London Office | [Apply](https://jobs.lever.co/moneyboxapp/c5ce266f-3992-4697-91c9-86e11e0dba13) |
-| 347 | Moneybox | Senior Product Manager | London | [Apply](https://jobs.lever.co/moneyboxapp/05db8f79-2b84-49e7-bf1d-1d8005119564) |
-| 348 | Moneybox | Senior Systems Engineer | London | [Apply](https://jobs.lever.co/moneyboxapp/cecf93f1-97c8-411c-a095-907f3ba780fc) |
-| 349 | Moneybox | Staff AI Engineer | London | [Apply](https://jobs.lever.co/moneyboxapp/d8768322-aaaf-4c84-a16a-d76d3325a1e9) |
-| 350 | Moneybox | Treasury Associate | London | [Apply](https://jobs.lever.co/moneyboxapp/ebb94546-5d58-4e4e-b45c-649338bf01cc) |
-| 351 | MongoDB | Principal Partner Programs Lead | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7942147) |
-| 352 | MongoDB | Senior Solutions Architect | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7942609) |
-| 353 | MongoDB | Sr. Manager, Venture & Startup Marketing | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7898811) |
-| 354 | Monzo | Card Acquiring, Business Banking Customer Operations Advisor  | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7908745) |
-| 355 | Monzo | Chief of Staff | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7962857) |
-| 356 | Monzo | Director of Product Design, Payments | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7825424) |
-| 357 | Monzo | Engineering Director, Security | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7912647) |
-| 358 | Monzo | Enterprise Risk Analyst | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7959730) |
-| 359 | Monzo | Finance Forecasting Modeller | UK | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7904675) |
-| 360 | Monzo | Head of Credit Strategy Oversight | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7962678) |
-| 361 | Monzo | Lead Analytics Engineer, Borrowing | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7873998) |
-| 362 | Monzo | Lead Product Designer | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6758088) |
-| 363 | Monzo | New Bets Lead  | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7613895) |
-| 364 | Monzo | People Governance and Accountability Senior Manager | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7904498) |
-| 365 | Monzo | Product Marketing Lead, Core Banking | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7966820) |
-| 366 | Monzo | Sales Account Executive  | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7946620) |
-| 367 | Monzo | Senior Controls Manager | London; Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7988046) |
-| 368 | Monzo | Senior Finance Business Partner | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7921307) |
-| 369 | Monzo | Senior Forecasting Modeller | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7811962) |
-| 370 | Monzo | Senior Legal Counsel, Commercial, IP & AI | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7836687) |
-| 371 | Monzo | Senior Manager, Control Process Automation & Data | London; Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7988048) |
-| 372 | Monzo | Senior Offensive Security Engineer | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7981938) |
-| 373 | Monzo | Senior Regulatory Reporting Analyst | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7893506) |
-| 374 | Monzo | Staff Product Designer | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6994700) |
-| 375 | Monzo | Technical Accounting & Advisory Senior Manager | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7971941) |
-| 376 | Monzo | Third Party Risk Manager (FTC) | London; Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7893700) |
-| 377 | Ocado Technology | Commercial Partnerships Manager | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4862310101&gh_jid=4862310101) |
-| 378 | Ocado Technology | Data Science Lead - Fulfilment  | Krakow, Poland; London, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4863559101&gh_jid=4863559101) |
-| 379 | Ocado Technology | Data Science Lead - Logistics  | London, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4863555101&gh_jid=4863555101) |
-| 380 | Ocado Technology | Data Science Manager - Fulfilment  | Krakow, Poland; London, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4860728101&gh_jid=4860728101) |
-| 381 | Ocado Technology | Data Science Manager - Logistics  | London, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4860458101&gh_jid=4860458101) |
-| 382 | Ocado Technology | Engineering Technician | Bicester, Oxfordshire, UK | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4863842101&gh_jid=4863842101) |
-| 383 | Ocado Technology | Legal Counsel - Employment  | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4849674101&gh_jid=4849674101) |
-| 384 | Ocado Technology | Maintenance Technician | Bicester, Oxfordshire, UK | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4853254101&gh_jid=4853254101) |
-| 385 | Ocado Technology | Partner Growth Manager | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4862320101&gh_jid=4862320101) |
-| 386 | Ocado Technology | Partner Success Manager | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4862327101&gh_jid=4862327101) |
-| 387 | Ocado Technology | Vice President of Strategy | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4881139101&gh_jid=4881139101) |
-| 388 | OpenAI | AI Deployment Engineer - Startups | London, UK | [Apply](https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f) |
-| 389 | OpenAI | AI Deployment Engineer | Codex | London, UK | [Apply](https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e) |
-| 390 | OpenAI | AI Deployment Manager, Core | London, UK | [Apply](https://jobs.ashbyhq.com/openai/04fcb92f-08d2-491e-b50a-de65c7827e5c) |
-| 391 | OpenAI | Corporate Security Operations Manager, London | London, UK | [Apply](https://jobs.ashbyhq.com/openai/7b9c71ba-fb29-4788-90c4-9b6d6908c108) |
-| 392 | OpenAI | Customer Success Manager, Ads Solutions | London, UK | [Apply](https://jobs.ashbyhq.com/openai/3a2b9078-f4ac-4d97-89b2-2bbf59919796) |
-| 393 | OpenAI | Data Scientist, Safety | London, UK | [Apply](https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633) |
-| 394 | OpenAI | Executive Recruiter, International | London, UK | [Apply](https://jobs.ashbyhq.com/openai/0bab3f42-5290-41ec-b9b5-0de22f2404f6) |
-| 395 | OpenAI | Head of GTM Partnerships, EMEA | London, UK | [Apply](https://jobs.ashbyhq.com/openai/6fa49e2b-6ec1-4bae-a2d9-26a355ec3ba2) |
-| 396 | OpenAI | Manager, AI Deployment Engineering - Codex | London, UK | [Apply](https://jobs.ashbyhq.com/openai/da8dd5fd-1dec-4610-9508-5a156af9ca92) |
-| 397 | OpenAI | Manager, Forward Deployed Engineering - London | London, UK | [Apply](https://jobs.ashbyhq.com/openai/68f1345b-313f-4917-88ce-b281b01a4864) |
-| 398 | OpenAI | Partner AI Deployment Engineer - AWS | London, UK | [Apply](https://jobs.ashbyhq.com/openai/4071e415-36d6-4bc2-95e9-6196102f0ad5) |
-| 399 | OpenAI | Physical Security Systems Engineer | London, UK | [Apply](https://jobs.ashbyhq.com/openai/776b9a6b-8be2-43f7-88bc-2f45f747c44a) |
-| 400 | OpenAI | Regional Sales Manager, Ads Solutions EMEA | London, UK | [Apply](https://jobs.ashbyhq.com/openai/20a7d4fa-36eb-4a1b-aa15-5fb1d71ee187) |
-| 401 | OpenAI | Researcher, Training - London  | London, UK | [Apply](https://jobs.ashbyhq.com/openai/6fdc9e35-c9d9-49fb-a8f7-80d2d7f03968) |
-| 402 | OpenAI | Strategic Delivery Lead, International Public Sector | London, UK | [Apply](https://jobs.ashbyhq.com/openai/ff23e555-b23b-49dc-a56d-94f2d74398b9) |
-| 403 | OpenAI | Technical Threat Investigator, Threat Intel Engineering - UK | London, UK | [Apply](https://jobs.ashbyhq.com/openai/ace9f6ba-0448-47ba-83a0-714a59c0dfa9) |
-| 404 | OpenAI | VC Partnerships Manager | London, UK | [Apply](https://jobs.ashbyhq.com/openai/4024944a-4c0f-403a-98e0-b75bca280329) |
-| 405 | Palantir | Application Security Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/205c3184-4272-41a9-a1e2-5352d4d00910) |
-| 406 | Palantir | Backend Software Engineer - Application Development | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/10dfc8bc-99ad-4ca2-ab76-853cb90a92c2) |
-| 407 | Palantir | Backend Software Engineer - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891) |
-| 408 | Palantir | Deployment Strategist | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/79c3f906-622b-4261-8fc6-8af0028caa27) |
-| 409 | Palantir | Deployment Strategist - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/2f3a0a57-8f77-44d2-99c3-18aef115374f) |
-| 410 | Palantir | Edge Infrastructure Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/fe65ee3c-61e0-4eb6-99e5-c90e38e7043f) |
-| 411 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) |
-| 412 | Palantir | Forward Deployed Enablement Engineer - Customer Success | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd) |
-| 413 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846) |
-| 414 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) |
-| 415 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) |
-| 416 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) |
-| 417 | Palantir | Full Stack Software Engineer - Application Development | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/c44510a1-9537-4c52-ae81-51546979fe47) |
-| 418 | Palantir | Government Contracts Specialist | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/6374282c-0330-4f98-b2a8-1afc4070f8f5) |
-| 419 | Palantir | Hacking for Health - UK Summer Bootcamp | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/54530b3f-7446-4600-aef3-bfeb47101830) |
-| 420 | Palantir | Incident Management Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/0dd51d8f-aa78-49f9-ae39-e3b2daa082d1) |
-| 421 | Palantir | Information Security Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/f110dd36-0df3-4586-96c6-a095b461d3d4) |
-| 422 | Palantir | Mobility Tax Analyst | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/d879b190-b6a1-41e1-9eca-bf94d36037e1) |
-| 423 | Palantir | People Relations Specialist | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/fbdcd64f-651c-4b34-97ef-61419eb7d4e6) |
-| 424 | Palantir | Platform Engineer - Identity and Access Management (IAM) | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/666d13c7-c6f0-43fb-a0ab-091c338085dc) |
-| 425 | Palantir | Product Designer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d) |
-| 426 | Palantir | Production Engineer - Database Operations | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63) |
-| 427 | Palantir | Revenue Accounting Manager | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/14dbdeb9-1537-4ccf-83ac-608287efa00f) |
-| 428 | Palantir | Senior Backend Software Engineer - Application Development | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/a92b55d0-1d36-4884-8e65-f456450b3a74) |
-| 429 | Palantir | Senior Backend Software Engineer - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/2cd25c0b-088d-4a5c-9b96-1165a33fe652) |
-| 430 | Palantir | Senior Front End Software Engineer - Application Development | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/4e7d0732-f477-4c7a-aac9-abd62f8c9987) |
-| 431 | Palantir | Senior Revenue Accountant | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/5b4f55a5-e883-445e-853d-7e0d40eec055) |
-| 432 | Palantir | Senior Software Engineer, Substrate | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/b80d45be-7fe8-4a11-b159-65551320c61f) |
-| 433 | Palantir | Site Reliability Operations Analyst - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/98bbe55b-f591-4272-a486-d82404d2c576) |
-| 434 | Palantir | Software Engineer - Apollo Platform | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/f75cb0d2-6608-450b-848e-0f27937c930d) |
-| 435 | Palantir | Support Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/40d0499b-e2ec-42cc-8a19-c454ed510195) |
-| 436 | Palantir | Systems Engineer - Business Systems | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/1ec0ff9f-3d9d-43bc-8aa0-005a887513d0) |
-| 437 | Palantir | Talent Sourcer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/8192371d-eb54-4b17-85bf-88fb4b1d4073) |
-| 438 | Palantir | Technical Writer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/c9426c38-9c6f-44bc-acad-bb2e6ed315f6) |
-| 439 | Pendo | Account Executive, Enterprise Sales - EMEA | London, UK  | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8531282002) |
-| 440 | Pendo | Business Development Representative - French Markets | London  | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8542606002) |
-| 441 | Pendo | Sr Customer Engineer - Presales & Post Sales | London, UK  | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8547445002) |
-| 442 | Pendo | Sr Presales & Post Sales Customer Engineer II | London, UK | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8547466002) |
-| 443 | Pendo | Sr. Product Designer | Sheffield, UK | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8553651002) |
-| 444 | PostHog | AI Research Engineer | Hybrid (UK) | [Apply](https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3) |
-| 445 | Ramp | Customer Experience Associate - London | London | [Apply](https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240) |
-| 446 | Ramp | GTM Associate - Europe  | London | [Apply](https://jobs.ashbyhq.com/ramp/20331539-c49c-4bf7-a719-a7e1b6e55537) |
-| 447 | Replit | Business Development Representative (London) | Remote - United Kingdom | [Apply](https://jobs.ashbyhq.com/replit/7b5e1698-7baa-442e-a0d2-9683f93dbdd1) |
-| 448 | Replit | Enterprise Account Executive (London) | Remote - United Kingdom | [Apply](https://jobs.ashbyhq.com/replit/08062c98-b99a-4839-ab55-725fadc0c4da) |
-| 449 | Replit | Enterprise Account Manager (London) | Remote - United Kingdom | [Apply](https://jobs.ashbyhq.com/replit/0d1babbc-0249-436d-98f7-ae8acf1940a5) |
-| 450 | Replit | Field Engineer (London) | Remote - United Kingdom | [Apply](https://jobs.ashbyhq.com/replit/12635a4d-290e-4b50-a2ae-11b3bbb74fe5) |
-| 451 | Skyscanner | Content Designer, CRM | London | [Apply](http://www.skyscanner.net/jobs/job/7957311?gh_jid=7957311) |
-| 452 | Skyscanner | Content Designer, CRM | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7953640?gh_jid=7953640) |
-| 453 | Skyscanner | Data Engineering Manager | London | [Apply](http://www.skyscanner.net/jobs/job/7856829?gh_jid=7856829) |
-| 454 | Skyscanner | Director of Product - Data Platform and Decision Tooling | London | [Apply](http://www.skyscanner.net/jobs/job/7916820?gh_jid=7916820) |
-| 455 | Skyscanner | Director of Product - Data Platform and Decision Tooling | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7916818?gh_jid=7916818) |
-| 456 | Skyscanner | Director of Product Design | London | [Apply](http://www.skyscanner.net/jobs/job/7883116?gh_jid=7883116) |
-| 457 | Skyscanner | Director of Product Design | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7883114?gh_jid=7883114) |
-| 458 | Skyscanner | Legal Work Experience Programme | Edinburgh, Glasgow or London | [Apply](http://www.skyscanner.net/jobs/job/7871133?gh_jid=7871133) |
-| 459 | Skyscanner | Senior Accounts Payable - 6 month FTC | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7912425?gh_jid=7912425) |
-| 460 | Skyscanner | Senior Content Designer, Ads | London | [Apply](http://www.skyscanner.net/jobs/job/7930004?gh_jid=7930004) |
-| 461 | Skyscanner | Senior Content Designer, Ads | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7929996?gh_jid=7929996) |
-| 462 | Spotify | Associate Client Partner - Emerging & Scaled (New Business, German Speaking) | London | [Apply](https://jobs.lever.co/spotify/d5628547-6362-470e-8828-7ab565054eaa) |
-| 463 | Spotify | Backend Engineer- Release | London | [Apply](https://jobs.lever.co/spotify/830106b6-0055-4003-bcaa-370648915622) |
-| 464 | Spotify | Client Partner - Emerging & Scaled (Nordics / UK) | London | [Apply](https://jobs.lever.co/spotify/43e0d904-84f7-4cfa-a293-579fb9ac271f) |
-| 465 | Spotify | Frontend Engineer - Music | London | [Apply](https://jobs.lever.co/spotify/9ce12867-8c84-40c5-be40-d8831ab98925) |
-| 466 | Spotify | Full Stack Engineer - Audiobooks | London | [Apply](https://jobs.lever.co/spotify/eef2e6da-d277-469c-8ba5-3592339506d9) |
-| 467 | Spotify | Group Product Manager - Messaging | London | [Apply](https://jobs.lever.co/spotify/c25dea90-3b36-4d7f-8011-ef1efd5c6e9e) |
-| 468 | Spotify | Lead Growth Manager- UK/IE/NL | London | [Apply](https://jobs.lever.co/spotify/89e139e7-76fd-4063-8850-ba13c555446c) |
-| 469 | Spotify | Legal Counsel - Commerce & Subscriptions | London | [Apply](https://jobs.lever.co/spotify/22437625-9527-4e5a-a6d2-a114a889db90) |
-| 470 | Spotify | Legal Counsel - Licensing & Business Development | London | [Apply](https://jobs.lever.co/spotify/f328ec07-194a-442d-af32-da40cbfd4f22) |
-| 471 | Spotify | Legal Counsel - Platform Liability | London | [Apply](https://jobs.lever.co/spotify/c06439d5-1d38-4c0d-99d8-2c5431bec463) |
-| 472 | Spotify | Machine Learning Engineer, Personalization, Samba | London | [Apply](https://jobs.lever.co/spotify/4972fad1-f3d8-49ef-9d41-d132b5281942) |
-| 473 | Spotify | Senior Android Engineer - Data Platform | London | [Apply](https://jobs.lever.co/spotify/7505b9b1-ea36-4c4f-8eb6-8c7013d701d7) |
-| 474 | Spotify | Senior Applied Research Engineer - Media Quality | London | [Apply](https://jobs.lever.co/spotify/69ce7cd5-c137-435f-84bc-9da27389c7e6) |
-| 475 | Spotify | Senior C++ Engineer - Mobile Infrastructure - Connectivity | London | [Apply](https://jobs.lever.co/spotify/22d93997-35ee-4d5b-ad7c-80c5344a4f78) |
-| 476 | Spotify | Senior Engineer- Mobile iOS Platform | London | [Apply](https://jobs.lever.co/spotify/250dc806-7387-492d-b77e-68588f35b34b) |
-| 477 | Spotify | Senior Full Stack Engineer - Audiobooks | London | [Apply](https://jobs.lever.co/spotify/516a9281-8c72-45a3-a17e-81f792cfd14c) |
-| 478 | Spotify | Senior Full Stack Engineer - WhoSampled | London | [Apply](https://jobs.lever.co/spotify/6cd45243-8674-4313-8405-a5a0734122f6) |
-| 479 | Spotify | Senior Fullstack Engineer - Data Platform | London | [Apply](https://jobs.lever.co/spotify/6fe64020-9ec1-4aed-a15c-1c32dcda6248) |
-| 480 | Spotify | Senior Machine Learning Engineer - Messaging Platform | London | [Apply](https://jobs.lever.co/spotify/c322d068-5b59-4658-b618-bb2a032eeb9b) |
-| 481 | Spotify | Senior Machine Learning Engineer - Policy & Safety | London | [Apply](https://jobs.lever.co/spotify/d83cbddf-871a-4f9a-9b29-52cd676e2b3c) |
-| 482 | Spotify | Senior Machine Learning Engineer, Zeitgeist, Personalization | London | [Apply](https://jobs.lever.co/spotify/e3e57517-0677-4032-85c1-841fdc9c26c6) |
-| 483 | Spotify | Senior Product Manager – Financial Engineering - Tax Solutions | London | [Apply](https://jobs.lever.co/spotify/cc21db45-9354-496b-b1a1-d5f293c4feb8) |
-| 484 | Spotify | Senior Staff Machine Learning Engineer - Content Policy & Safety | London | [Apply](https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030) |
-| 485 | Spotify | Senior Staff Machine Learning Engineer, Content Platform | London | [Apply](https://jobs.lever.co/spotify/47d4eabf-8d5a-4dab-ac72-de7b5b56841c) |
-| 486 | Spotify | Staff Engineer - Content Intelligence Infrastructure | London | [Apply](https://jobs.lever.co/spotify/0841fdc0-1702-4ef6-b665-8a825112696c) |
-| 487 | Spotify | Staff Machine Learning Engineer - Content Intelligence | London | [Apply](https://jobs.lever.co/spotify/f58775f4-574f-40df-8b25-528381203154) |
-| 488 | Spotify | Staff Machine Learning Engineer - Policy & Safety | London | [Apply](https://jobs.lever.co/spotify/b441bb85-24c0-4ef4-971a-1372952c1c32) |
-| 489 | Stripe | Account Executive, Enterprise Billing (Existing Business) | London | [Apply](https://stripe.com/jobs/search?gh_jid=7607568) |
-| 490 | Stripe | Customer Success Manager | London | [Apply](https://stripe.com/jobs/search?gh_jid=7810205) |
-| 491 | Stripe | Customer Success Manager (French speaking) | London | [Apply](https://stripe.com/jobs/search?gh_jid=7925790) |
-| 492 | Stripe | Customer Success Manager (German speaking)  | London | [Apply](https://stripe.com/jobs/search?gh_jid=7522783) |
-| 493 | Stripe | Customer Success Manager (Spanish speaking) | London | [Apply](https://stripe.com/jobs/search?gh_jid=7925821) |
-| 494 | Stripe | EMEA Deal Pricing Strategist | London/Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=7960873) |
-| 495 | Stripe | Engagement Manager | London, UK | [Apply](https://stripe.com/jobs/search?gh_jid=7808299) |
-| 496 | Stripe | Enterprise Paid Marketing Manager | London | [Apply](https://stripe.com/jobs/search?gh_jid=7882047) |
-| 497 | Stripe | Finance and Strategy Analyst | Dublin OR London | [Apply](https://stripe.com/jobs/search?gh_jid=7963763) |
-| 498 | Stripe | GSI Partner Development Lead- EMEA | London | [Apply](https://stripe.com/jobs/search?gh_jid=7677136) |
-| 499 | Stripe | Major Financial Crimes & Insider Risk Investigator | Dublin, London | [Apply](https://stripe.com/jobs/search?gh_jid=7964854) |
-| 500 | Stripe | Manager, Customer Success Management | London | [Apply](https://stripe.com/jobs/search?gh_jid=7446791) |
-| 501 | Stripe | Mobile Engineer, Treasury | United Kingdom | [Apply](https://stripe.com/jobs/search?gh_jid=7978915) |
-| 502 | Stripe | Paid Search Marketing Manager | London | [Apply](https://stripe.com/jobs/search?gh_jid=7978584) |
-| 503 | Stripe | Product Designer, Risk | Ireland / United Kingdom | [Apply](https://stripe.com/jobs/search?gh_jid=7954118) |
-| 504 | Stripe | Product Manager, Ecosystem Risk | London | [Apply](https://stripe.com/jobs/search?gh_jid=7947422) |
-| 505 | Stripe | Regional Product Marketing Manager, United Kingdom | London | [Apply](https://stripe.com/jobs/search?gh_jid=7921325) |
-| 506 | Tide | Director of Engineering | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7748220003) |
-| 507 | Tide | Finance Sales Specialist | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7692065003) |
-| 508 | Tide | Senior Partnerships Manager | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7762091003) |
-| 509 | Tide | Senior Staff Software Engineer, Agentic Platform | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7702547003) |
-| 510 | Tide | Staff Software Engineer, Agentic Platform | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7701767003) |
-| 511 | Trainline | .NET Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/47140c35-7e05-416d-9820-ff2e57d49cb9) |
-| 512 | Trainline | Head of Commercial - Distribution  | London | [Apply](https://jobs.ashbyhq.com/trainline/58cdec22-d500-468b-a41d-98315e5b4696) |
-| 513 | Trainline | Head of FP&A - 12 Month Fixed Term Contract | London | [Apply](https://jobs.ashbyhq.com/trainline/f9c07c5d-47c6-4791-b7c5-0514c2e4ecd2) |
-| 514 | Trainline | Head of Legal - 12 month Fixed Term Contract | Edinburgh | [Apply](https://jobs.ashbyhq.com/trainline/fa49eced-2557-407b-81ff-fe9238ca9bef) |
-| 515 | Trainline | Head of Legal - 12 month Fixed Term Contract | London | [Apply](https://jobs.ashbyhq.com/trainline/ee8cd8c9-7059-44dc-949c-47502b91d09a) |
-| 516 | Trainline | Head of Privacy | London | [Apply](https://jobs.ashbyhq.com/trainline/19f76247-aa4b-4597-9558-7d4eae73e810) |
-| 517 | Trainline | Head of Strategy  | London | [Apply](https://jobs.ashbyhq.com/trainline/86f4169a-1281-4adc-bf41-e815b78dc1d0) |
-| 518 | Trainline | IT Support Analyst | London | [Apply](https://jobs.ashbyhq.com/trainline/f240bf55-4683-4284-8222-e7cd0c227d70) |
-| 519 | Trainline | Junior Product Security Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/1f8f691b-d6c1-43ab-9e18-41e30bee0284) |
-| 520 | Trainline | Junior Web Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/57919bbd-a298-4e68-82cd-75177a82e324) |
-| 521 | Trainline | Junior iOS Engineer  | London | [Apply](https://jobs.ashbyhq.com/trainline/854524b3-119a-4152-9e96-cf16d05ba9e9) |
-| 522 | Trainline | Partner Integration Manager - Spanish Markets | London | [Apply](https://jobs.ashbyhq.com/trainline/55653fa7-958d-4972-99b8-06d149fe41bb) |
-| 523 | Trainline | People Operations Advisor | London | [Apply](https://jobs.ashbyhq.com/trainline/e4abc580-5eea-4367-b6bb-9a920fe29ca2) |
-| 524 | Trainline | Product Director | London | [Apply](https://jobs.ashbyhq.com/trainline/be85017c-4335-48fb-9822-cc7870a99ef9) |
-| 525 | Trainline | Senior Android Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/81489e31-d3a1-46ad-a909-f29ba2e8b199) |
-| 526 | Trainline | Senior Backend Engineer - .Net | London | [Apply](https://jobs.ashbyhq.com/trainline/f1a75db9-5df2-4c51-91c1-17f7ed85c4cd) |
-| 527 | Trainline | Senior Commercial Partnerships Manager (Carrier Value) - 12 Month FTC | London | [Apply](https://jobs.ashbyhq.com/trainline/6415f8a7-b501-47c1-afd5-fc5804b089a1) |
-| 528 | Trainline | Senior Engineering Manager, Supply | London | [Apply](https://jobs.ashbyhq.com/trainline/cbec5994-6886-4c89-a044-3a0ab1cfc9a9) |
-| 529 | Trainline | Senior InfoSec Risk Analyst | London | [Apply](https://jobs.ashbyhq.com/trainline/2b077998-856d-480b-9561-7e34421d1b80) |
-| 530 | Trainline | Senior Product Manager - 18 Month FTC | London | [Apply](https://jobs.ashbyhq.com/trainline/8d36345b-59e7-46b9-8a67-8cc08e8ca1f2) |
-| 531 | Trainline | Senior UX Designer | London | [Apply](https://jobs.ashbyhq.com/trainline/5b88d883-6200-4501-8df0-13da39b503ce) |
-| 532 | Trainline | Strategic Business Development Manager | London | [Apply](https://jobs.ashbyhq.com/trainline/06524ac9-0ee4-4ea2-8f12-03a7ea65b175) |
-| 533 | Trainline | Web Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/2b8bc163-24ca-400d-b232-d437f56dd1f3) |
-| 534 | Twilio | Frontend Software Engineer  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7946608) |
-| 535 | Twilio | Principal Presales Engineer  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7894914) |
-| 536 | Twilio | Principal Presales Engineer, Product Specialist - CDP, Martech, AI  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7903873) |
-| 537 | Twilio | Staff Enterprise Security Engineer, AI Security | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7904291) |
-| 538 | Twilio | Strategic Account Executive (German Speaking)  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7845781) |
-| 539 | Typeform | Finance Controller | Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7811563) |
-| 540 | Typeform | Full Stack Developer  | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7942504) |
-| 541 | Typeform | Lead Product Manager - Data Capture | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7858485) |
-| 542 | Typeform | Product Designer - Integration | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7913052) |
-| 543 | Typeform | Senior Data Platform Engineer | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7850909) |
-| 544 | Typeform | Senior Product Manager - Growth | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7905221) |
-| 545 | Typeform | Senior Product Manager - Integrations  | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7898715) |
-| 546 | Typeform | Senior Web Strategist | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7457853) |
-| 547 | Vanta | Account Executive - [UK&I] | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/fb60fcb9-6a5f-45d4-988d-a7a36c798724) |
-| 548 | Vanta | Business Development Representative | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/4de4ad06-8ada-47ff-ba14-1e94701e1bce) |
-| 549 | Vanta | Business Development Representative [German Fluency] | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/15d27962-7a66-414a-8384-7c6a406fdb58) |
-| 550 | Vanta | Customer Success Manager, Growth - EMEA | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/9316bd07-f8dc-4cd4-98f7-6f64f864d926) |
-| 551 | Vanta | Revenue Operations Manager, Post Sales (EMEA) | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/fe602b56-0789-4e58-80e5-e5028e7d60ff) |
-| 552 | Vanta | Senior IT Operations Engineer, Corporate Engineering | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/12ec0be9-4bde-4544-95d5-b5589f806e98) |
-| 553 | Wise | ASO Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127252416) |
-| 554 | Wise | Account Executive - Ecommerce | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129723349) |
-| 555 | Wise | Analytics Director - Regional Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124126558) |
-| 556 | Wise | Analytics Manager - Marketing Science | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124703002) |
-| 557 | Wise | Backend Software Engineer - Recurring Payin | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125908559) |
-| 558 | Wise | Backend Software Engineer - Send for Banks | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125786366) |
-| 559 | Wise | CRM Analytics Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125290439) |
-| 560 | Wise | CRM Copywriter - 14 month FTC | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129518134) |
-| 561 | Wise | CRM Technology Engineer (Data & Platform) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126721399) |
-| 562 | Wise | Cash and Asset Treasury Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128880160) |
-| 563 | Wise | Data Engineering Manager - Treasury Global Liquidity  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125123669) |
-| 564 | Wise | Data Science Lead - AML Risk | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128692350) |
-| 565 | Wise | Engineering Lead - API Experience | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130549807) |
-| 566 | Wise | Engineering Lead - Business Accounting Integrations and Reporting | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127220718) |
-| 567 | Wise | Engineering Lead - GetPaid Formats  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127256096) |
-| 568 | Wise | Europe Investments Lead - Assets | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126700455) |
-| 569 | Wise | Finance Business Partner - Servicing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124160105) |
-| 570 | Wise | Finance Planning Senior Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126028067) |
-| 571 | Wise | Fullstack Engineer - Account Setup | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123773560) |
-| 572 | Wise | Global CS Lead - Account Specialists | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124632614) |
-| 573 | Wise | Group Content Design Lead - Grow (12-month FTC) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120477832) |
-| 574 | Wise | Group FinCrime Compliance Monitoring & Testing Manager  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129139579) |
-| 575 | Wise | Group Financial Crime Governance & Risk Senior Manager  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130749951) |
-| 576 | Wise | Head of KYC Operations - Wise Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130264070) |
-| 577 | Wise | Implementation Lead - Wise Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130008124) |
-| 578 | Wise | Internal Audit Manager (Finance & Treasury) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127217519) |
-| 579 | Wise | Lead Analyst - FinCrime | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125328640) |
-| 580 | Wise | Lead Analyst - Total Service (Operations) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130518141) |
-| 581 | Wise | Lead Analytics Engineer  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129210959) |
-| 582 | Wise | Lead Data Analyst - CRM Analytics | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125290559) |
-| 583 | Wise | Lead Data Analyst - FinCrime Operations | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128671487) |
-| 584 | Wise | Lead Data Analyst - Pricing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123633264) |
-| 585 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124589830) |
-| 586 | Wise | Lead Data Scientist - Contact Automation | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124592369) |
-| 587 | Wise | Lead Data Scientist - Fraud Prevention  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125361784) |
-| 588 | Wise | Lead Data Scientist - Marketing                         | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127829227) |
-| 589 | Wise | Lead Data Scientist - Trust and Safety | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123459318) |
-| 590 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124882799) |
-| 591 | Wise | Lead ML Engineer / Scientist | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126321421) |
-| 592 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128973677) |
-| 593 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128971294) |
-| 594 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129942659) |
-| 595 | Wise | Legal Counsel (Employment)  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130024394) |
-| 596 | Wise | Legal Counsel - UK | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124648461) |
-| 597 | Wise | Localisation Program Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123929100) |
-| 598 | Wise | Paid Display Senior Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124678559) |
-| 599 | Wise | Partnerships Sales Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000122698919) |
-| 600 | Wise | Platform Engineer - Database Platform - Python | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128400839) |
-| 601 | Wise | Principal AI Content Designer, Wise Assistant  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130004995) |
-| 602 | Wise | Principal Product Designer  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129985889) |
-| 603 | Wise | Principal Product Manager - Treasury | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123474183) |
-| 604 | Wise | Privacy and AI Counsel | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127175999) |
-| 605 | Wise | Product Compliance and Risk Manager - Assets  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126660809) |
-| 606 | Wise | Product Lead - Acquiring | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130168009) |
-| 607 | Wise | Product Lead - Onboarding Experience  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123471150) |
-| 608 | Wise | Product Lead - Pricing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124920382) |
-| 609 | Wise | Product Marketing Lead - Global Consumer  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129172790) |
-| 610 | Wise | Product Marketing Manager - Investments | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121293817) |
-| 611 | Wise | Product Marketing Manager - Trust | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121372327) |
-| 612 | Wise | RFP Enablement Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129454999) |
-| 613 | Wise | Regional CRM Manager - UK & Europe | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123890799) |
-| 614 | Wise | SEO Commercial Content Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120979555) |
-| 615 | Wise | SEO Specialist (Programmatic) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128912239) |
-| 616 | Wise | Sales Coordinator - German Speaker | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120506957) |
-| 617 | Wise | Senior Analytics Manager - Payment Operations | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125330869) |
-| 618 | Wise | Senior Assistant Company Secretary | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121967827) |
-| 619 | Wise | Senior CRM Communications Strategist | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000122465103) |
-| 620 | Wise | Senior CRM Manager - (Global) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127157629) |
-| 621 | Wise | Senior Content Designer - Send | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123685275) |
-| 622 | Wise | Senior Credit Risk Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121393687) |
-| 623 | Wise | Senior Data Analyst - Payment Operations | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125330890) |
-| 624 | Wise | Senior Data Analyst - Product Reliability  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129141539) |
-| 625 | Wise | Senior Data Science Manager - Customer Support | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125805069) |
-| 626 | Wise | Senior Data Science Manager - Marketing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124886514) |
-| 627 | Wise | Senior Engineering Lead - Business Accounting Integrations and Reporting  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120749407) |
-| 628 | Wise | Senior Engineering Lead II - Contacts Team | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130498618) |
-| 629 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) |
-| 630 | Wise | Senior Platform Engineer I - Database Platform - Python | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127447659) |
-| 631 | Wise | Senior Presales Consultant - WISE Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128762970) |
-| 632 | Wise | Senior Process Engineer | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127854626) |
-| 633 | Wise | Senior Product Analyst - Account Details | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992509) |
-| 634 | Wise | Senior Product Analyst - Competitive Intelligence | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992539) |
-| 635 | Wise | Senior Product Analyst - FinCrime | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129000636) |
-| 636 | Wise | Senior Product Analyst - Fraud Risk | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124146920) |
-| 637 | Wise | Senior Product Analyst - Invoicing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992619) |
-| 638 | Wise | Senior Product Analyst - Recurring Payins | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992529) |
-| 639 | Wise | Senior Product Analyst - SEO Product | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992519) |
-| 640 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128469058) |
-| 641 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992629) |
-| 642 | Wise | Senior Product Analytics Manager - Scalable Growth | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127852460) |
-| 643 | Wise | Senior Product Communications Strategist | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128914707) |
-| 644 | Wise | Senior Product Compliance Manager - Consumer Duty | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121996177) |
-| 645 | Wise | Senior Product Compliance Manager - KYC & Onboarding | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124104090) |
-| 646 | Wise | Senior Product Compliance Manager - WISE Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121176609) |
-| 647 | Wise | Senior Product Designer  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130195217) |
-| 648 | Wise | Senior Product Manager - Cards Pay-in Orchestration | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124645774) |
-| 649 | Wise | Senior Product Manager - Screening | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124658126) |
-| 650 | Wise | Senior Product Manager - WISE Platform - Embedded Experience | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130187180) |
-| 651 | Wise | Senior Reward Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127245722) |
-| 652 | Wise | Senior Reward Partner | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129726179) |
-| 653 | Wise | Senior Software Engineer - Business Expense Management | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120446784) |
-| 654 | Wise | Senior Software Engineer - FX Markets | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128936949) |
-| 655 | Wise | Senior Software Engineer - Global KYC and Onboarding - Java | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121132543) |
-| 656 | Wise | Senior Software Engineer I - Backend (Java) - Business Accounting Integrations and Reporting | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120449057) |
-| 657 | Wise | Senior Software Engineer I - Europe Onboarding Experience  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130737074) |
-| 658 | Wise | Senior Software Engineer I - Investments - Java | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126522129) |
-| 659 | Wise | Senior Software Engineer I - Machine Learning Platform | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130187987) |
-| 660 | Wise | Senior Software Engineer I - Receive | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127948469) |
-| 661 | Wise | Senior Software Engineer I - Regional Expansion | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130738738) |
-| 662 | Wise | Senior Software Engineer I - Servicing Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130752394) |
-| 663 | Wise | Senior Software Engineer I - Wise for Enterprise - Banks | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127948569) |
-| 664 | Wise | Senior Software Engineer II - Contacts Team - Java | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120649532) |
-| 665 | Wise | Senior Software Engineer II - Investments - Java | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126643154) |
-| 666 | Wise | Senior Software Engineer II - Send Core | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129698972) |
-| 667 | Wise | Senior Software Engineer II - Wise for Enterprise | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130550909) |
-| 668 | Wise | Senior Software Engineer- Continuous Delivery (CD) Platform  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127695269) |
-| 669 | Wise | Senior Solutions Engineer | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130551319) |
-| 670 | Wise | Senior Staff Software Engineer - Risk Assessment Platform, Servicing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129195750) |
-| 671 | Wise | Senior/Principal Product Manager - Account Experience  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000122504004) |
-| 672 | Wise | Senior/Principal Product Manager - Account Setup | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130534481) |
-| 673 | Wise | Sr Software Engineer I - Fincrime  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130159949) |
-| 674 | Wise | Staff Analyst - Pricing Experience | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125841565) |
-| 675 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124144555) |
-| 676 | Wise | Staff Data Scientist - Fraud | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123492001) |
-| 677 | Wise | Staff Product Designer | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129717894) |
-| 678 | Wise | Staff Product Designer - Send (High Volume)  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128730469) |
-| 679 | Wise | Staff Software Engineer - Global KYC and Onboarding | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121134742) |
-| 680 | Zopa | Analyst (Risk Technology) | London | [Apply](https://jobs.lever.co/zopa/a9102fd0-0231-4f39-89ef-93ccfdec36f1) |
-| 681 | Zopa | Analyst/Senior Treasury Analyst | London | [Apply](https://jobs.lever.co/zopa/15a2c168-7f4f-4e20-8896-f3fab035a1ba) |
-| 682 | Zopa | Android Engineer | London | [Apply](https://jobs.lever.co/zopa/b7c4f329-9bbc-4bfc-b90d-d0fee58d30fb) |
-| 683 | Zopa | Associate Director, Fraud & Financial Crime Operations | London | [Apply](https://jobs.lever.co/zopa/1811dd7f-8583-40b7-bb4a-c9aa28830a1b) |
-| 684 | Zopa | Customer Service Specialist | Manchester | [Apply](https://jobs.lever.co/zopa/f45a40f9-d0d8-4ba2-8c3f-beef6e28c92a) |
-| 685 | Zopa | Customer Service Team Leader | Manchester | [Apply](https://jobs.lever.co/zopa/d71929d3-b9da-4bb9-b149-32403b97bd53) |
-| 686 | Zopa | Financial Crime Specialist - KYC | Manchester | [Apply](https://jobs.lever.co/zopa/4696af9b-32d0-4944-a3d7-52881d68a84f) |
-| 687 | Zopa | Financial Crime Specialist - Transaction Monitoring & Mule | Manchester | [Apply](https://jobs.lever.co/zopa/e2f78fdd-0e0d-46cb-ba5c-3b30095a32be) |
-| 688 | Zopa | Head of Fraud Operations | London | [Apply](https://jobs.lever.co/zopa/9fa4f450-f54b-4323-ab40-fe507b6db10e) |
-| 689 | Zopa | Head of Valuations, Credit Strategy | London | [Apply](https://jobs.lever.co/zopa/981c77d3-a77d-4d95-97ec-a18ab1ab510b) |
-| 690 | Zopa | Senior Complaints Manager | London | [Apply](https://jobs.lever.co/zopa/69b55344-d016-46e4-8d46-6f952170e077) |
-| 691 | Zopa | Senior Compliance Manager (1st Line of Defence) | London | [Apply](https://jobs.lever.co/zopa/150ac881-b143-4d44-84d8-ed1ac9b3d325) |
-| 692 | Zopa | Senior Credit Strategy Analyst | London | [Apply](https://jobs.lever.co/zopa/f27694a9-9aed-43a5-8aa5-d0effa612d33) |
-| 693 | Zopa | Senior IT Services Engineer | London | [Apply](https://jobs.lever.co/zopa/9fc88926-b074-495f-afb8-68dd4dddca6c) |
-| 694 | Zopa | Senior Marketing Analyst | London | [Apply](https://jobs.lever.co/zopa/0b7b6838-7088-4b7f-85c6-40f7ca253b9c) |
-| 695 | Zopa | Senior Product Analyst (AI) | London | [Apply](https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f) |
-| 696 | Zopa | Senior Web Content Manager | London | [Apply](https://jobs.lever.co/zopa/ad61a31d-dc2a-49b8-8977-22fdd9c4f310) |
-| 697 | Zopa | Talent Acquisition Lead - Product & Analytics | London | [Apply](https://jobs.lever.co/zopa/7510a6c8-1647-4176-90ff-693810d101c8) |
-| 698 | Zopa | Talent Partner - Technology | London | [Apply](https://jobs.lever.co/zopa/90e68d5f-b4b7-481b-8600-989aa680d8d3) |
+| 303 | Lendable | Financial Operations Executive | London | [Apply](https://jobs.ashbyhq.com/lendable/e0abc246-3d3e-4268-9416-bb6652410d3f) |
+| 304 | Lendable | Graduate - Operations Transformation Associate | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/lendable/533f1d1c-36a3-40f9-bb30-5c712faf67f3) |
+| 305 | Lendable | Graduate Analyst - £48,000 + Share Options | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/lendable/6aaf5b7f-98d5-4d20-9270-636b99a858fd) |
+| 306 | Lendable | Growth Partnership Executive | London | [Apply](https://jobs.ashbyhq.com/lendable/128651df-c290-47d9-9a5b-1fb18bbe0266) |
+| 307 | Lendable | Head of Complaints | London | [Apply](https://jobs.ashbyhq.com/lendable/04f9875f-c126-44b7-805e-4443b58dc567) |
+| 308 | Lendable | Head of Creative | London | [Apply](https://jobs.ashbyhq.com/lendable/23e3463b-3b19-4242-9e87-4244728483f0) |
+| 309 | Lendable | Head of Financial Crime Operations | London | [Apply](https://jobs.ashbyhq.com/lendable/19ce71cd-3f83-49ad-86ce-71d49e08cc5f) |
+| 310 | Lendable | Head of Growth Partnerships | London | [Apply](https://jobs.ashbyhq.com/lendable/e208300a-90a0-4346-9dd5-fdcc4a9f4a69) |
+| 311 | Lendable | Head of SEO | London | [Apply](https://jobs.ashbyhq.com/lendable/2384a8f6-f54c-40ee-9c50-663f47c388e5) |
+| 312 | Lendable | Lead Data Scientist (Non-Lending) | London | [Apply](https://jobs.ashbyhq.com/lendable/6a4605bf-91c8-4779-8571-ffc2832a6465) |
+| 313 | Lendable | Lead Data Scientist - Recommendation System | London | [Apply](https://jobs.ashbyhq.com/lendable/3bd799cb-b8d0-47f8-bd18-252674a4ce02) |
+| 314 | Lendable | Lead Product Analyst | London, United Kingdom | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) |
+| 315 | Lendable | Lead Python Engineer  | London | [Apply](https://jobs.ashbyhq.com/lendable/4765f58a-c1a8-438a-aa48-93dd9fdb11f1) |
+| 316 | Lendable | Operations & Process Improvement Intern - Financial Crime Ops | London | [Apply](https://jobs.ashbyhq.com/lendable/68e876da-fa27-4b9e-ad09-ca4805efa8a5) |
+| 317 | Lendable | People Operations Specialist | London | [Apply](https://jobs.ashbyhq.com/lendable/1876d009-0ea8-48c4-9a58-8c469d756791) |
+| 318 | Lendable | Performance Creative | London | [Apply](https://jobs.ashbyhq.com/lendable/9d1cdf09-f286-4c78-8274-39e3ce7fc5b1) |
+| 319 | Lendable | Performance Marketer | London | [Apply](https://jobs.ashbyhq.com/lendable/f84c8729-b09f-4432-b723-f5c2c1b88d5b) |
+| 320 | Lendable | Principal Data Scientist  | London | [Apply](https://jobs.ashbyhq.com/lendable/c023f118-f529-4019-9e37-b9847fbbf889) |
+| 321 | Lendable | Product Manager - UK Cards | London | [Apply](https://jobs.ashbyhq.com/lendable/e2de68f4-c6e1-4cad-94f0-7cfc444d16ab) |
+| 322 | Lendable | Python Engineer | London | [Apply](https://jobs.ashbyhq.com/lendable/9c1b6ab5-5582-46b1-ae58-d9720c8b8440) |
+| 323 | Lendable | Senior AI Engineer (AI Engineering)  | London | [Apply](https://jobs.ashbyhq.com/lendable/1ad4072d-09cb-4d8d-9c4a-2100780dbe8d) |
+| 324 | Lendable | Senior AI Engineer (Contract) | London | [Apply](https://jobs.ashbyhq.com/lendable/579df46b-b3cc-4532-a823-8a18f732b0b7) |
+| 325 | Lendable | Senior Data Scientist - UK Cards | London/Kent | [Apply](https://jobs.ashbyhq.com/lendable/5482b502-f17b-42e3-aac4-d14e93ef6862) |
+| 326 | Lendable | Senior Engineering Manager | London | [Apply](https://jobs.ashbyhq.com/lendable/322cb051-0d32-4431-9ee1-d160db63afcc) |
+| 327 | Lendable | Senior IT Systems Engineer | London | [Apply](https://jobs.ashbyhq.com/lendable/f43a5d36-4e16-4a7b-bf91-42bb3f71e33d) |
+| 328 | Lendable | Senior Product Manager - UK Cards | London | [Apply](https://jobs.ashbyhq.com/lendable/636b90ec-028d-461a-b358-c7b871918dd8) |
+| 329 | Lendable | Senior Technical SEO | London | [Apply](https://jobs.ashbyhq.com/lendable/dacae1c4-3af8-4723-94ea-934556807b3e) |
+| 330 | Lendable | Strategy & Operations - Department Owner | London/Kent | [Apply](https://jobs.ashbyhq.com/lendable/a9ae7ae6-c60d-4f6d-9f3f-9bc0a6331492) |
+| 331 | Lendable | Strategy and Operations Manager | London | [Apply](https://jobs.ashbyhq.com/lendable/9c17a3c3-f022-43c5-8416-a700c2f50719) |
+| 332 | Lendable | Video Producer | London | [Apply](https://jobs.ashbyhq.com/lendable/ce000381-02f0-4341-8ae0-27bf2a7e60ba) |
+| 333 | Moneybox | Customer Care Team Lead (FTC - Mat Cover) | London Office | [Apply](https://jobs.lever.co/moneyboxapp/4e38e444-2330-45cc-8164-165772c31ade) |
+| 334 | Moneybox | Head of Brand & Creative - 12-month FTC | London Office | [Apply](https://jobs.lever.co/moneyboxapp/3b36c00e-2e6a-45e1-9fad-d80385087ae0) |
+| 335 | Moneybox | Legal Counsel | London Office | [Apply](https://jobs.lever.co/moneyboxapp/d1ac9ff3-6745-4a89-9307-5b01cf938202) |
+| 336 | Moneybox | Product Designer | London Office | [Apply](https://jobs.lever.co/moneyboxapp/3395ad66-3475-42ac-8eca-37d893a23dec) |
+| 337 | Moneybox | Product Manager | London Office | [Apply](https://jobs.lever.co/moneyboxapp/92f5f9a4-25d3-427d-a026-50f4bf57c170) |
+| 338 | Moneybox | Senior Analytics Engineer | London | [Apply](https://jobs.lever.co/moneyboxapp/0835653c-0370-433c-ad23-f2ba3434b25b) |
+| 339 | Moneybox | Senior Brand and Creative Manager | London Office | [Apply](https://jobs.lever.co/moneyboxapp/c71bd0d3-81c8-4a81-8a17-9045d21c6519) |
+| 340 | Moneybox | Senior Product Designer | London Office | [Apply](https://jobs.lever.co/moneyboxapp/c5ce266f-3992-4697-91c9-86e11e0dba13) |
+| 341 | Moneybox | Senior Product Manager | London | [Apply](https://jobs.lever.co/moneyboxapp/05db8f79-2b84-49e7-bf1d-1d8005119564) |
+| 342 | Moneybox | Senior Systems Engineer | London | [Apply](https://jobs.lever.co/moneyboxapp/cecf93f1-97c8-411c-a095-907f3ba780fc) |
+| 343 | Moneybox | Staff AI Engineer | London | [Apply](https://jobs.lever.co/moneyboxapp/d8768322-aaaf-4c84-a16a-d76d3325a1e9) |
+| 344 | Moneybox | Treasury Associate | London | [Apply](https://jobs.lever.co/moneyboxapp/ebb94546-5d58-4e4e-b45c-649338bf01cc) |
+| 345 | MongoDB | Principal Partner Programs Lead | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7942147) |
+| 346 | MongoDB | Senior Solutions Architect | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7942609) |
+| 347 | MongoDB | Sr. Manager, Venture & Startup Marketing | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7898811) |
+| 348 | Monzo | Card Acquiring, Business Banking Customer Operations Advisor  | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7908745) |
+| 349 | Monzo | Chief of Staff | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7962857) |
+| 350 | Monzo | Director of Product Design, Payments | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7825424) |
+| 351 | Monzo | Engineering Director, Security | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7912647) |
+| 352 | Monzo | Finance Forecasting Modeller | UK | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7904675) |
+| 353 | Monzo | Head of Credit Strategy Oversight | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7962678) |
+| 354 | Monzo | Lead Analytics Engineer, Borrowing | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7873998) |
+| 355 | Monzo | Lead Product Designer | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6758088) |
+| 356 | Monzo | New Bets Lead  | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7613895) |
+| 357 | Monzo | Product Marketing Lead, Core Banking | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7966820) |
+| 358 | Monzo | Sales Account Executive  | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7946620) |
+| 359 | Monzo | Senior Controls Manager | London; Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7988046) |
+| 360 | Monzo | Senior Finance Business Partner | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7921307) |
+| 361 | Monzo | Senior Forecasting Modeller | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7811962) |
+| 362 | Monzo | Senior Manager, Control Process Automation & Data | London; Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7988048) |
+| 363 | Monzo | Senior Offensive Security Engineer | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7981938) |
+| 364 | Monzo | Senior Product Marketing Manager, Borrowing | London | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7861991) |
+| 365 | Monzo | Staff Product Designer | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6994700) |
+| 366 | Monzo | Technical Accounting & Advisory Senior Manager | Cardiff, London or Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7971941) |
+| 367 | Monzo | Third Party Risk Manager (FTC) | London; Remote (UK) | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7893700) |
+| 368 | Ocado Technology | Commercial Partnerships Manager | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4862310101&gh_jid=4862310101) |
+| 369 | Ocado Technology | Data Science Lead - Fulfilment  | Krakow, Poland; London, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4863559101&gh_jid=4863559101) |
+| 370 | Ocado Technology | Data Science Lead - Logistics  | London, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4863555101&gh_jid=4863555101) |
+| 371 | Ocado Technology | Data Science Manager - Fulfilment  | Krakow, Poland; London, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4860728101&gh_jid=4860728101) |
+| 372 | Ocado Technology | Data Science Manager - Logistics  | London, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4860458101&gh_jid=4860458101) |
+| 373 | Ocado Technology | Engineering Technician | Bicester, Oxfordshire, UK | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4863842101&gh_jid=4863842101) |
+| 374 | Ocado Technology | Legal Counsel - Employment  | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4849674101&gh_jid=4849674101) |
+| 375 | Ocado Technology | Maintenance Technician | Bicester, Oxfordshire, UK | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4853254101&gh_jid=4853254101) |
+| 376 | Ocado Technology | Partner Growth Manager | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4862320101&gh_jid=4862320101) |
+| 377 | Ocado Technology | Partner Success Manager | Hatfield, United Kingdom | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4862327101&gh_jid=4862327101) |
+| 378 | OpenAI | AI Deployment Engineer - Startups | London, UK | [Apply](https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f) |
+| 379 | OpenAI | AI Deployment Engineer | Codex | London, UK | [Apply](https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e) |
+| 380 | OpenAI | AI Deployment Manager, Core | London, UK | [Apply](https://jobs.ashbyhq.com/openai/04fcb92f-08d2-491e-b50a-de65c7827e5c) |
+| 381 | OpenAI | Corporate Security Operations Manager, London | London, UK | [Apply](https://jobs.ashbyhq.com/openai/7b9c71ba-fb29-4788-90c4-9b6d6908c108) |
+| 382 | OpenAI | Customer Success Manager, Ads Solutions | London, UK | [Apply](https://jobs.ashbyhq.com/openai/3a2b9078-f4ac-4d97-89b2-2bbf59919796) |
+| 383 | OpenAI | Data Scientist, Safety | London, UK | [Apply](https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633) |
+| 384 | OpenAI | Head of GTM Partnerships, EMEA | London, UK | [Apply](https://jobs.ashbyhq.com/openai/6fa49e2b-6ec1-4bae-a2d9-26a355ec3ba2) |
+| 385 | OpenAI | International Benefits Lead  | London, UK | [Apply](https://jobs.ashbyhq.com/openai/e72a6386-fdde-4c79-ab19-52f54ed5bf15) |
+| 386 | OpenAI | Manager, AI Deployment Engineering - Codex | London, UK | [Apply](https://jobs.ashbyhq.com/openai/da8dd5fd-1dec-4610-9508-5a156af9ca92) |
+| 387 | OpenAI | Manager, Forward Deployed Engineering - London | London, UK | [Apply](https://jobs.ashbyhq.com/openai/68f1345b-313f-4917-88ce-b281b01a4864) |
+| 388 | OpenAI | Partner AI Deployment Engineer - AWS | London, UK | [Apply](https://jobs.ashbyhq.com/openai/4071e415-36d6-4bc2-95e9-6196102f0ad5) |
+| 389 | OpenAI | Physical Security Systems Engineer | London, UK | [Apply](https://jobs.ashbyhq.com/openai/776b9a6b-8be2-43f7-88bc-2f45f747c44a) |
+| 390 | OpenAI | Regional Sales Manager, Ads Solutions EMEA | London, UK | [Apply](https://jobs.ashbyhq.com/openai/20a7d4fa-36eb-4a1b-aa15-5fb1d71ee187) |
+| 391 | OpenAI | Researcher, Training - London  | London, UK | [Apply](https://jobs.ashbyhq.com/openai/6fdc9e35-c9d9-49fb-a8f7-80d2d7f03968) |
+| 392 | OpenAI | Strategic Delivery Lead, International Public Sector | London, UK | [Apply](https://jobs.ashbyhq.com/openai/ff23e555-b23b-49dc-a56d-94f2d74398b9) |
+| 393 | OpenAI | Technical Threat Investigator, Threat Intel Engineering - UK | London, UK | [Apply](https://jobs.ashbyhq.com/openai/ace9f6ba-0448-47ba-83a0-714a59c0dfa9) |
+| 394 | OpenAI | VC Partnerships Manager | London, UK | [Apply](https://jobs.ashbyhq.com/openai/4024944a-4c0f-403a-98e0-b75bca280329) |
+| 395 | Palantir | Application Security Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/205c3184-4272-41a9-a1e2-5352d4d00910) |
+| 396 | Palantir | Backend Software Engineer - Application Development | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/10dfc8bc-99ad-4ca2-ab76-853cb90a92c2) |
+| 397 | Palantir | Backend Software Engineer - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/f70cdff7-c62f-4b73-a136-909e5e3d1891) |
+| 398 | Palantir | Deployment Strategist | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/79c3f906-622b-4261-8fc6-8af0028caa27) |
+| 399 | Palantir | Deployment Strategist - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/2f3a0a57-8f77-44d2-99c3-18aef115374f) |
+| 400 | Palantir | Edge Infrastructure Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/fe65ee3c-61e0-4eb6-99e5-c90e38e7043f) |
+| 401 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) |
+| 402 | Palantir | Forward Deployed Enablement Engineer - Customer Success | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/00c2c97b-8514-4617-9883-e53e486b6dcd) |
+| 403 | Palantir | Forward Deployed Infrastructure Engineer - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846) |
+| 404 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) |
+| 405 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) |
+| 406 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) |
+| 407 | Palantir | Full Stack Software Engineer - Application Development | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/c44510a1-9537-4c52-ae81-51546979fe47) |
+| 408 | Palantir | Government Contracts Specialist | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/6374282c-0330-4f98-b2a8-1afc4070f8f5) |
+| 409 | Palantir | Hacking for Health - UK Summer Bootcamp | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/54530b3f-7446-4600-aef3-bfeb47101830) |
+| 410 | Palantir | Incident Management Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/0dd51d8f-aa78-49f9-ae39-e3b2daa082d1) |
+| 411 | Palantir | Information Security Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/f110dd36-0df3-4586-96c6-a095b461d3d4) |
+| 412 | Palantir | Mobility Tax Analyst | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/d879b190-b6a1-41e1-9eca-bf94d36037e1) |
+| 413 | Palantir | People Relations Specialist | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/fbdcd64f-651c-4b34-97ef-61419eb7d4e6) |
+| 414 | Palantir | Platform Engineer - Identity and Access Management (IAM) | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/666d13c7-c6f0-43fb-a0ab-091c338085dc) |
+| 415 | Palantir | Product Designer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/2d8b7eaa-5c08-44ef-a0f0-5a96cee2794d) |
+| 416 | Palantir | Production Engineer - Database Operations | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63) |
+| 417 | Palantir | Revenue Accounting Manager | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/14dbdeb9-1537-4ccf-83ac-608287efa00f) |
+| 418 | Palantir | Senior Backend Software Engineer - Application Development | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/a92b55d0-1d36-4884-8e65-f456450b3a74) |
+| 419 | Palantir | Senior Backend Software Engineer - Infrastructure | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/2cd25c0b-088d-4a5c-9b96-1165a33fe652) |
+| 420 | Palantir | Senior Front End Software Engineer - Application Development | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/4e7d0732-f477-4c7a-aac9-abd62f8c9987) |
+| 421 | Palantir | Senior Revenue Accountant | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/5b4f55a5-e883-445e-853d-7e0d40eec055) |
+| 422 | Palantir | Senior Software Engineer, Substrate | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/b80d45be-7fe8-4a11-b159-65551320c61f) |
+| 423 | Palantir | Site Reliability Operations Analyst - UK Government | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/98bbe55b-f591-4272-a486-d82404d2c576) |
+| 424 | Palantir | Software Engineer - Apollo Platform | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/f75cb0d2-6608-450b-848e-0f27937c930d) |
+| 425 | Palantir | Support Engineer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/40d0499b-e2ec-42cc-8a19-c454ed510195) |
+| 426 | Palantir | Systems Engineer - Business Systems | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/1ec0ff9f-3d9d-43bc-8aa0-005a887513d0) |
+| 427 | Palantir | Talent Sourcer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/8192371d-eb54-4b17-85bf-88fb4b1d4073) |
+| 428 | Palantir | Technical Writer | London, United Kingdom | [Apply](https://jobs.lever.co/palantir/c9426c38-9c6f-44bc-acad-bb2e6ed315f6) |
+| 429 | Pendo | Account Executive, Enterprise Sales - EMEA | London, UK  | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8531282002) |
+| 430 | Pendo | Business Development Representative - French Markets | London  | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8542606002) |
+| 431 | Pendo | Sr Customer Engineer - Presales & Post Sales | London, UK  | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8547445002) |
+| 432 | Pendo | Sr Presales & Post Sales Customer Engineer II | London, UK | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8547466002) |
+| 433 | Pendo | Sr. Product Designer | Sheffield, UK | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8553651002) |
+| 434 | PostHog | AI Research Engineer | Hybrid (UK) | [Apply](https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3) |
+| 435 | Ramp | Account Executive, UK | London | [Apply](https://jobs.ashbyhq.com/ramp/1515fe6d-1d8e-475b-a5ee-cefe43e78cb7) |
+| 436 | Ramp | Customer Experience Associate - London | London | [Apply](https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240) |
+| 437 | Ramp | GTM Associate - Europe  | London | [Apply](https://jobs.ashbyhq.com/ramp/20331539-c49c-4bf7-a719-a7e1b6e55537) |
+| 438 | Replit | Business Development Representative (London) | Remote - United Kingdom | [Apply](https://jobs.ashbyhq.com/replit/7b5e1698-7baa-442e-a0d2-9683f93dbdd1) |
+| 439 | Replit | Enterprise Account Executive (London) | Remote - United Kingdom | [Apply](https://jobs.ashbyhq.com/replit/08062c98-b99a-4839-ab55-725fadc0c4da) |
+| 440 | Replit | Enterprise Account Manager (London) | Remote - United Kingdom | [Apply](https://jobs.ashbyhq.com/replit/0d1babbc-0249-436d-98f7-ae8acf1940a5) |
+| 441 | Replit | Field Engineer (London) | Remote - United Kingdom | [Apply](https://jobs.ashbyhq.com/replit/12635a4d-290e-4b50-a2ae-11b3bbb74fe5) |
+| 442 | Skyscanner | Content Designer, CRM | London | [Apply](http://www.skyscanner.net/jobs/job/7957311?gh_jid=7957311) |
+| 443 | Skyscanner | Content Designer, CRM | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7953640?gh_jid=7953640) |
+| 444 | Skyscanner | Data Engineering Manager | London | [Apply](http://www.skyscanner.net/jobs/job/7856829?gh_jid=7856829) |
+| 445 | Skyscanner | Director of Product - Data Platform and Decision Tooling | London | [Apply](http://www.skyscanner.net/jobs/job/7916820?gh_jid=7916820) |
+| 446 | Skyscanner | Director of Product - Data Platform and Decision Tooling | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7916818?gh_jid=7916818) |
+| 447 | Skyscanner | Director of Product Design | London | [Apply](http://www.skyscanner.net/jobs/job/7883116?gh_jid=7883116) |
+| 448 | Skyscanner | Director of Product Design | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7883114?gh_jid=7883114) |
+| 449 | Skyscanner | Senior Accounts Payable - 6 month FTC | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7912425?gh_jid=7912425) |
+| 450 | Skyscanner | Senior Content Designer, Ads | London | [Apply](http://www.skyscanner.net/jobs/job/7930004?gh_jid=7930004) |
+| 451 | Skyscanner | Senior Content Designer, Ads | Edinburgh | [Apply](http://www.skyscanner.net/jobs/job/7929996?gh_jid=7929996) |
+| 452 | Spotify | Associate Client Partner - Emerging & Scaled (New Business, German Speaking) | London | [Apply](https://jobs.lever.co/spotify/d5628547-6362-470e-8828-7ab565054eaa) |
+| 453 | Spotify | Backend Engineer- Release | London | [Apply](https://jobs.lever.co/spotify/830106b6-0055-4003-bcaa-370648915622) |
+| 454 | Spotify | Client Partner - Emerging & Scaled (Nordics / UK) | London | [Apply](https://jobs.lever.co/spotify/43e0d904-84f7-4cfa-a293-579fb9ac271f) |
+| 455 | Spotify | Frontend Engineer - Music | London | [Apply](https://jobs.lever.co/spotify/9ce12867-8c84-40c5-be40-d8831ab98925) |
+| 456 | Spotify | Full Stack Engineer - Audiobooks | London | [Apply](https://jobs.lever.co/spotify/eef2e6da-d277-469c-8ba5-3592339506d9) |
+| 457 | Spotify | Group Product Manager - Messaging | London | [Apply](https://jobs.lever.co/spotify/c25dea90-3b36-4d7f-8011-ef1efd5c6e9e) |
+| 458 | Spotify | Lead Growth Manager- UK/IE/NL | London | [Apply](https://jobs.lever.co/spotify/89e139e7-76fd-4063-8850-ba13c555446c) |
+| 459 | Spotify | Legal Counsel - Commerce & Subscriptions | London | [Apply](https://jobs.lever.co/spotify/22437625-9527-4e5a-a6d2-a114a889db90) |
+| 460 | Spotify | Legal Counsel - Licensing & Business Development | London | [Apply](https://jobs.lever.co/spotify/f328ec07-194a-442d-af32-da40cbfd4f22) |
+| 461 | Spotify | Legal Counsel - Platform Liability | London | [Apply](https://jobs.lever.co/spotify/c06439d5-1d38-4c0d-99d8-2c5431bec463) |
+| 462 | Spotify | Machine Learning Engineer, Personalization, Samba | London | [Apply](https://jobs.lever.co/spotify/4972fad1-f3d8-49ef-9d41-d132b5281942) |
+| 463 | Spotify | Senior Applied Research Engineer - Media Quality | London | [Apply](https://jobs.lever.co/spotify/69ce7cd5-c137-435f-84bc-9da27389c7e6) |
+| 464 | Spotify | Senior C++ Engineer - Mobile Infrastructure - Connectivity | London | [Apply](https://jobs.lever.co/spotify/22d93997-35ee-4d5b-ad7c-80c5344a4f78) |
+| 465 | Spotify | Senior Engineer- Mobile iOS Platform | London | [Apply](https://jobs.lever.co/spotify/250dc806-7387-492d-b77e-68588f35b34b) |
+| 466 | Spotify | Senior Full Stack Engineer - Audiobooks | London | [Apply](https://jobs.lever.co/spotify/516a9281-8c72-45a3-a17e-81f792cfd14c) |
+| 467 | Spotify | Senior Full Stack Engineer - WhoSampled | London | [Apply](https://jobs.lever.co/spotify/6cd45243-8674-4313-8405-a5a0734122f6) |
+| 468 | Spotify | Senior Fullstack Engineer - Data Platform | London | [Apply](https://jobs.lever.co/spotify/6fe64020-9ec1-4aed-a15c-1c32dcda6248) |
+| 469 | Spotify | Senior Machine Learning Engineer - Messaging Platform | London | [Apply](https://jobs.lever.co/spotify/c322d068-5b59-4658-b618-bb2a032eeb9b) |
+| 470 | Spotify | Senior Machine Learning Engineer - Policy & Safety | London | [Apply](https://jobs.lever.co/spotify/d83cbddf-871a-4f9a-9b29-52cd676e2b3c) |
+| 471 | Spotify | Senior Machine Learning Engineer, Zeitgeist, Personalization | London | [Apply](https://jobs.lever.co/spotify/e3e57517-0677-4032-85c1-841fdc9c26c6) |
+| 472 | Spotify | Senior Product Manager – Financial Engineering - Tax Solutions | London | [Apply](https://jobs.lever.co/spotify/cc21db45-9354-496b-b1a1-d5f293c4feb8) |
+| 473 | Spotify | Senior Staff Machine Learning Engineer - Content Policy & Safety | London | [Apply](https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030) |
+| 474 | Spotify | Senior Staff Machine Learning Engineer, Content Platform | London | [Apply](https://jobs.lever.co/spotify/47d4eabf-8d5a-4dab-ac72-de7b5b56841c) |
+| 475 | Spotify | Staff Engineer - Content Intelligence Infrastructure | London | [Apply](https://jobs.lever.co/spotify/0841fdc0-1702-4ef6-b665-8a825112696c) |
+| 476 | Spotify | Staff Machine Learning Engineer - Content Intelligence | London | [Apply](https://jobs.lever.co/spotify/f58775f4-574f-40df-8b25-528381203154) |
+| 477 | Spotify | Staff Machine Learning Engineer - Policy & Safety | London | [Apply](https://jobs.lever.co/spotify/b441bb85-24c0-4ef4-971a-1372952c1c32) |
+| 478 | Stripe | Account Executive, Enterprise Grower (Billing) | London | [Apply](https://stripe.com/jobs/search?gh_jid=7607568) |
+| 479 | Stripe | Customer Success Manager | London | [Apply](https://stripe.com/jobs/search?gh_jid=7810205) |
+| 480 | Stripe | Customer Success Manager (French speaking) | London | [Apply](https://stripe.com/jobs/search?gh_jid=7925790) |
+| 481 | Stripe | Customer Success Manager (German speaking)  | London | [Apply](https://stripe.com/jobs/search?gh_jid=7522783) |
+| 482 | Stripe | Customer Success Manager (Spanish speaking) | London | [Apply](https://stripe.com/jobs/search?gh_jid=7925821) |
+| 483 | Stripe | EMEA Deal Pricing Strategist | London/Dublin | [Apply](https://stripe.com/jobs/search?gh_jid=7960873) |
+| 484 | Stripe | Engagement Manager | London, UK | [Apply](https://stripe.com/jobs/search?gh_jid=7808299) |
+| 485 | Stripe | Enterprise Paid Marketing Manager | London | [Apply](https://stripe.com/jobs/search?gh_jid=7882047) |
+| 486 | Stripe | Finance and Strategy Analyst | Dublin OR London | [Apply](https://stripe.com/jobs/search?gh_jid=7963763) |
+| 487 | Stripe | GSI Partner Development Lead- EMEA | London | [Apply](https://stripe.com/jobs/search?gh_jid=7677136) |
+| 488 | Stripe | Major Financial Crimes & Insider Risk Investigator | Dublin, London | [Apply](https://stripe.com/jobs/search?gh_jid=7964854) |
+| 489 | Stripe | Manager, Customer Success Management | London | [Apply](https://stripe.com/jobs/search?gh_jid=7446791) |
+| 490 | Stripe | Mobile Engineer, Treasury | United Kingdom | [Apply](https://stripe.com/jobs/search?gh_jid=7978915) |
+| 491 | Stripe | Paid Search Marketing Manager | London | [Apply](https://stripe.com/jobs/search?gh_jid=7978584) |
+| 492 | Stripe | Product Designer, Risk | Ireland / United Kingdom | [Apply](https://stripe.com/jobs/search?gh_jid=7954118) |
+| 493 | Stripe | Product Manager, Ecosystem Risk | London | [Apply](https://stripe.com/jobs/search?gh_jid=7947422) |
+| 494 | Stripe | Regional Product Marketing Manager, United Kingdom | London | [Apply](https://stripe.com/jobs/search?gh_jid=7921325) |
+| 495 | Tide | Director of Engineering | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7748220003) |
+| 496 | Tide | Finance Sales Specialist | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7692065003) |
+| 497 | Tide | Senior Partnerships Manager | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7762091003) |
+| 498 | Tide | Senior Staff Software Engineer, Agentic Platform | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7702547003) |
+| 499 | Tide | Staff Software Engineer, Agentic Platform | United Kingdom | [Apply](https://job-boards.greenhouse.io/tide/jobs/7701767003) |
+| 500 | Trainline | .NET Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/47140c35-7e05-416d-9820-ff2e57d49cb9) |
+| 501 | Trainline | Head of Commercial - Distribution  | London | [Apply](https://jobs.ashbyhq.com/trainline/58cdec22-d500-468b-a41d-98315e5b4696) |
+| 502 | Trainline | Head of FP&A - 12 Month Fixed Term Contract | London | [Apply](https://jobs.ashbyhq.com/trainline/f9c07c5d-47c6-4791-b7c5-0514c2e4ecd2) |
+| 503 | Trainline | Head of Legal - 12 month Fixed Term Contract | Edinburgh | [Apply](https://jobs.ashbyhq.com/trainline/fa49eced-2557-407b-81ff-fe9238ca9bef) |
+| 504 | Trainline | Head of Legal - 12 month Fixed Term Contract | London | [Apply](https://jobs.ashbyhq.com/trainline/ee8cd8c9-7059-44dc-949c-47502b91d09a) |
+| 505 | Trainline | Head of Privacy | London | [Apply](https://jobs.ashbyhq.com/trainline/19f76247-aa4b-4597-9558-7d4eae73e810) |
+| 506 | Trainline | Head of Strategy  | London | [Apply](https://jobs.ashbyhq.com/trainline/86f4169a-1281-4adc-bf41-e815b78dc1d0) |
+| 507 | Trainline | IT Support Analyst | London | [Apply](https://jobs.ashbyhq.com/trainline/f240bf55-4683-4284-8222-e7cd0c227d70) |
+| 508 | Trainline | Junior Product Security Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/1f8f691b-d6c1-43ab-9e18-41e30bee0284) |
+| 509 | Trainline | Junior Web Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/57919bbd-a298-4e68-82cd-75177a82e324) |
+| 510 | Trainline | Junior iOS Engineer  | London | [Apply](https://jobs.ashbyhq.com/trainline/854524b3-119a-4152-9e96-cf16d05ba9e9) |
+| 511 | Trainline | Partner Integration Manager - Spanish Markets | London | [Apply](https://jobs.ashbyhq.com/trainline/55653fa7-958d-4972-99b8-06d149fe41bb) |
+| 512 | Trainline | People Operations Advisor | London | [Apply](https://jobs.ashbyhq.com/trainline/e4abc580-5eea-4367-b6bb-9a920fe29ca2) |
+| 513 | Trainline | Product Director | London | [Apply](https://jobs.ashbyhq.com/trainline/be85017c-4335-48fb-9822-cc7870a99ef9) |
+| 514 | Trainline | Senior Android Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/81489e31-d3a1-46ad-a909-f29ba2e8b199) |
+| 515 | Trainline | Senior Backend Engineer - .Net | London | [Apply](https://jobs.ashbyhq.com/trainline/f1a75db9-5df2-4c51-91c1-17f7ed85c4cd) |
+| 516 | Trainline | Senior Commercial Partnerships Manager (Carrier Value) - 12 Month FTC | London | [Apply](https://jobs.ashbyhq.com/trainline/6415f8a7-b501-47c1-afd5-fc5804b089a1) |
+| 517 | Trainline | Senior Engineering Manager, Supply | London | [Apply](https://jobs.ashbyhq.com/trainline/cbec5994-6886-4c89-a044-3a0ab1cfc9a9) |
+| 518 | Trainline | Senior InfoSec Risk Analyst | London | [Apply](https://jobs.ashbyhq.com/trainline/2b077998-856d-480b-9561-7e34421d1b80) |
+| 519 | Trainline | Senior Product Manager - 18 Month FTC | London | [Apply](https://jobs.ashbyhq.com/trainline/8d36345b-59e7-46b9-8a67-8cc08e8ca1f2) |
+| 520 | Trainline | Senior UX Designer | London | [Apply](https://jobs.ashbyhq.com/trainline/5b88d883-6200-4501-8df0-13da39b503ce) |
+| 521 | Trainline | Strategic Business Development Manager | London | [Apply](https://jobs.ashbyhq.com/trainline/06524ac9-0ee4-4ea2-8f12-03a7ea65b175) |
+| 522 | Trainline | Web Engineer | London | [Apply](https://jobs.ashbyhq.com/trainline/2b8bc163-24ca-400d-b232-d437f56dd1f3) |
+| 523 | Twilio | Frontend Software Engineer  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7946608) |
+| 524 | Twilio | Principal Presales Engineer  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7894914) |
+| 525 | Twilio | Principal Presales Engineer, Product Specialist - CDP, Martech, AI  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7903873) |
+| 526 | Twilio | Staff Enterprise Security Engineer, AI Security | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7904291) |
+| 527 | Twilio | Strategic Account Executive (German Speaking)  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7845781) |
+| 528 | Typeform | Finance Controller | Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7811563) |
+| 529 | Typeform | Full Stack Developer  | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7942504) |
+| 530 | Typeform | Lead Product Manager - Data Capture | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7858485) |
+| 531 | Typeform | Product Designer - Integration | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7913052) |
+| 532 | Typeform | Senior Data Platform Engineer | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7850909) |
+| 533 | Typeform | Senior Product Manager - Growth | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7905221) |
+| 534 | Typeform | Senior Product Manager - Integrations  | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7898715) |
+| 535 | Typeform | Senior Web Strategist | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/7457853) |
+| 536 | Vanta | Account Executive - [UK&I] | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/fb60fcb9-6a5f-45d4-988d-a7a36c798724) |
+| 537 | Vanta | Business Development Representative | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/4de4ad06-8ada-47ff-ba14-1e94701e1bce) |
+| 538 | Vanta | Business Development Representative [German Fluency] | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/15d27962-7a66-414a-8384-7c6a406fdb58) |
+| 539 | Vanta | Customer Success Manager, Growth - EMEA | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/9316bd07-f8dc-4cd4-98f7-6f64f864d926) |
+| 540 | Vanta | Revenue Operations Manager, Post Sales (EMEA) | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/fe602b56-0789-4e58-80e5-e5028e7d60ff) |
+| 541 | Vanta | Senior IT Operations Engineer, Corporate Engineering | London, UK | [Apply](https://jobs.ashbyhq.com/vanta/12ec0be9-4bde-4544-95d5-b5589f806e98) |
+| 542 | Wise | ASO Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127252416) |
+| 543 | Wise | Account Executive - Ecommerce | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129723349) |
+| 544 | Wise | Analytics Director - Regional Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124126558) |
+| 545 | Wise | Analytics Manager - Marketing Science | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124703002) |
+| 546 | Wise | Backend Software Engineer - Recurring Payin | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125908559) |
+| 547 | Wise | Backend Software Engineer - Send for Banks | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125786366) |
+| 548 | Wise | CRM Analytics Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125290439) |
+| 549 | Wise | CRM Copywriter - 14 month FTC | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129518134) |
+| 550 | Wise | CRM Technology Engineer (Data & Platform) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126721399) |
+| 551 | Wise | Cash and Asset Treasury Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128880160) |
+| 552 | Wise | Data Engineering Manager - Treasury Global Liquidity  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125123669) |
+| 553 | Wise | Data Science Lead - AML Risk | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128692350) |
+| 554 | Wise | Engineering Lead - API Experience | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130549807) |
+| 555 | Wise | Engineering Lead - Business Accounting Integrations and Reporting | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127220718) |
+| 556 | Wise | Engineering Lead - GetPaid Formats  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127256096) |
+| 557 | Wise | Europe Investments Lead - Assets | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126700455) |
+| 558 | Wise | Finance Business Partner - Servicing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124160105) |
+| 559 | Wise | Finance Planning Senior Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126028067) |
+| 560 | Wise | Fullstack Engineer - Account Setup | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123773560) |
+| 561 | Wise | Global CS Lead - Account Specialists | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124632614) |
+| 562 | Wise | Group Content Design Lead - Grow (12-month FTC) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120477832) |
+| 563 | Wise | Group FinCrime Compliance Monitoring & Testing Manager  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129139579) |
+| 564 | Wise | Group Financial Crime Governance & Risk Senior Manager  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130749951) |
+| 565 | Wise | Head of KYC Operations - Wise Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130264070) |
+| 566 | Wise | Implementation Lead - Wise Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130008124) |
+| 567 | Wise | Internal Audit Manager (Finance & Treasury) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127217519) |
+| 568 | Wise | Lead Analyst - FinCrime | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125328640) |
+| 569 | Wise | Lead Analyst - Total Service (Operations) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130518141) |
+| 570 | Wise | Lead Analytics Engineer  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129210959) |
+| 571 | Wise | Lead Data Analyst - CRM Analytics | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125290559) |
+| 572 | Wise | Lead Data Analyst - FinCrime Operations | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128671487) |
+| 573 | Wise | Lead Data Analyst - Pricing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123633264) |
+| 574 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124589830) |
+| 575 | Wise | Lead Data Scientist - Contact Automation | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124592369) |
+| 576 | Wise | Lead Data Scientist - Fraud Prevention  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125361784) |
+| 577 | Wise | Lead Data Scientist - Marketing                         | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127829227) |
+| 578 | Wise | Lead Data Scientist - Trust and Safety | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123459318) |
+| 579 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124882799) |
+| 580 | Wise | Lead ML Engineer / Scientist | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126321421) |
+| 581 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128973677) |
+| 582 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128971294) |
+| 583 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129942659) |
+| 584 | Wise | Legal Counsel (Employment)  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130024394) |
+| 585 | Wise | Legal Counsel - UK | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124648461) |
+| 586 | Wise | Localisation Program Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123929100) |
+| 587 | Wise | Paid Display Senior Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124678559) |
+| 588 | Wise | Partnerships Sales Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000122698919) |
+| 589 | Wise | Platform Engineer - Database Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130826770) |
+| 590 | Wise | Principal AI Content Designer, Wise Assistant  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130004995) |
+| 591 | Wise | Principal Product Designer  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129985889) |
+| 592 | Wise | Principal Product Manager - Treasury | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123474183) |
+| 593 | Wise | Privacy and AI Counsel | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127175999) |
+| 594 | Wise | Product Compliance and Risk Manager - Assets  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126660809) |
+| 595 | Wise | Product Lead - Acquiring | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130168009) |
+| 596 | Wise | Product Lead - Onboarding Experience  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123471150) |
+| 597 | Wise | Product Lead - Pricing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124920382) |
+| 598 | Wise | Product Marketing Lead - Global Consumer  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129172790) |
+| 599 | Wise | Product Marketing Manager - Investments | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121293817) |
+| 600 | Wise | Product Marketing Manager - Trust | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121372327) |
+| 601 | Wise | RFP Enablement Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129454999) |
+| 602 | Wise | Regional CRM Manager - UK & Europe | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123890799) |
+| 603 | Wise | SEO Commercial Content Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120979555) |
+| 604 | Wise | SEO Specialist (Programmatic) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128912239) |
+| 605 | Wise | Sales Coordinator - German Speaker | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120506957) |
+| 606 | Wise | Senior Analytics Manager - Payment Operations | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125330869) |
+| 607 | Wise | Senior Assistant Company Secretary | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121967827) |
+| 608 | Wise | Senior CRM Communications Strategist | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000122465103) |
+| 609 | Wise | Senior CRM Manager - (Global) | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127157629) |
+| 610 | Wise | Senior Content Designer - Send | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123685275) |
+| 611 | Wise | Senior Credit Risk Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121393687) |
+| 612 | Wise | Senior Data Analyst - Finance Reporting  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000131097479) |
+| 613 | Wise | Senior Data Analyst - Payment Operations | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125330890) |
+| 614 | Wise | Senior Data Analyst - Product Reliability  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129141539) |
+| 615 | Wise | Senior Data Science Manager - Customer Support | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125805069) |
+| 616 | Wise | Senior Data Science Manager - Marketing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124886514) |
+| 617 | Wise | Senior Engineering Lead - Business Accounting Integrations and Reporting  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120749407) |
+| 618 | Wise | Senior Engineering Lead II - Contacts Team | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130498618) |
+| 619 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) |
+| 620 | Wise | Senior Platform Engineer I - Database Platform - Python | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127447659) |
+| 621 | Wise | Senior Presales Consultant - WISE Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128762970) |
+| 622 | Wise | Senior Process Engineer | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127854626) |
+| 623 | Wise | Senior Product Analyst - Account Details | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992509) |
+| 624 | Wise | Senior Product Analyst - Competitive Intelligence | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992539) |
+| 625 | Wise | Senior Product Analyst - FinCrime | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129000636) |
+| 626 | Wise | Senior Product Analyst - Fraud Risk | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124146920) |
+| 627 | Wise | Senior Product Analyst - Invoicing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992619) |
+| 628 | Wise | Senior Product Analyst - Recurring Payins | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992529) |
+| 629 | Wise | Senior Product Analyst - SEO Product | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992519) |
+| 630 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128469058) |
+| 631 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992629) |
+| 632 | Wise | Senior Product Analytics Manager - Scalable Growth | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127852460) |
+| 633 | Wise | Senior Product Communications Strategist | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128914707) |
+| 634 | Wise | Senior Product Compliance Manager - Consumer Duty | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121996177) |
+| 635 | Wise | Senior Product Compliance Manager - KYC & Onboarding | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124104090) |
+| 636 | Wise | Senior Product Compliance Manager - WISE Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121176609) |
+| 637 | Wise | Senior Product Designer  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130195217) |
+| 638 | Wise | Senior Product Manager - Cards Pay-in Orchestration | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124645774) |
+| 639 | Wise | Senior Product Manager - Screening | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124658126) |
+| 640 | Wise | Senior Product Manager - WISE Platform - Embedded Experience | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130187180) |
+| 641 | Wise | Senior Reward Manager | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127245722) |
+| 642 | Wise | Senior Reward Partner | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129726179) |
+| 643 | Wise | Senior Software Engineer - Business Expense Management | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120446784) |
+| 644 | Wise | Senior Software Engineer - FX Markets | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128936949) |
+| 645 | Wise | Senior Software Engineer - Global KYC and Onboarding - Java | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121132543) |
+| 646 | Wise | Senior Software Engineer I - Backend (Java) - Business Accounting Integrations and Reporting | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120449057) |
+| 647 | Wise | Senior Software Engineer I - Europe Onboarding Experience  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130737074) |
+| 648 | Wise | Senior Software Engineer I - Investments - Java | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126522129) |
+| 649 | Wise | Senior Software Engineer I - Machine Learning Platform | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130187987) |
+| 650 | Wise | Senior Software Engineer I - Receive | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127948469) |
+| 651 | Wise | Senior Software Engineer I - Regional Expansion | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130738738) |
+| 652 | Wise | Senior Software Engineer I - Servicing Platform | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130752394) |
+| 653 | Wise | Senior Software Engineer I - Wise for Enterprise - Banks | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127948569) |
+| 654 | Wise | Senior Software Engineer II - Contacts Team - Java | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000120649532) |
+| 655 | Wise | Senior Software Engineer II - Investments - Java | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000126643154) |
+| 656 | Wise | Senior Software Engineer II - Send Core | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129698972) |
+| 657 | Wise | Senior Software Engineer II - Wise for Enterprise | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000131099747) |
+| 658 | Wise | Senior Software Engineer- Continuous Delivery (CD) Platform  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000127695269) |
+| 659 | Wise | Senior Solutions Engineer | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000131103194) |
+| 660 | Wise | Senior Staff Software Engineer - Risk Assessment Platform, Servicing | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129195750) |
+| 661 | Wise | Senior/Principal Product Manager - Account Experience  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000122504004) |
+| 662 | Wise | Senior/Principal Product Manager - Account Setup | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130534481) |
+| 663 | Wise | Sr Software Engineer I - Fincrime  | London, England, United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130159949) |
+| 664 | Wise | Staff Analyst - Pricing Experience | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000125841565) |
+| 665 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000124144555) |
+| 666 | Wise | Staff Data Scientist - Fraud | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000123492001) |
+| 667 | Wise | Staff Product Designer | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000129717894) |
+| 668 | Wise | Staff Product Designer - Send (High Volume)  | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000128730469) |
+| 669 | Wise | Staff Software Engineer - Global KYC and Onboarding | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000121134742) |
+| 670 | Wise | iOS Engineer - Recommend Team | London, , United Kingdom | [Apply](https://jobs.smartrecruiters.com/Wise/744000130856109) |
+| 671 | Zopa | Analyst (Risk Technology) | London | [Apply](https://jobs.lever.co/zopa/a9102fd0-0231-4f39-89ef-93ccfdec36f1) |
+| 672 | Zopa | Analyst/Senior Treasury Analyst | London | [Apply](https://jobs.lever.co/zopa/15a2c168-7f4f-4e20-8896-f3fab035a1ba) |
+| 673 | Zopa | Android Engineer | London | [Apply](https://jobs.lever.co/zopa/b7c4f329-9bbc-4bfc-b90d-d0fee58d30fb) |
+| 674 | Zopa | Associate Director, Fraud & Financial Crime Operations | London | [Apply](https://jobs.lever.co/zopa/1811dd7f-8583-40b7-bb4a-c9aa28830a1b) |
+| 675 | Zopa | Customer Service Specialist | Manchester | [Apply](https://jobs.lever.co/zopa/f45a40f9-d0d8-4ba2-8c3f-beef6e28c92a) |
+| 676 | Zopa | Customer Service Team Leader | Manchester | [Apply](https://jobs.lever.co/zopa/d71929d3-b9da-4bb9-b149-32403b97bd53) |
+| 677 | Zopa | Financial Crime Specialist - KYC | Manchester | [Apply](https://jobs.lever.co/zopa/4696af9b-32d0-4944-a3d7-52881d68a84f) |
+| 678 | Zopa | Financial Crime Specialist - Transaction Monitoring & Mule | Manchester | [Apply](https://jobs.lever.co/zopa/e2f78fdd-0e0d-46cb-ba5c-3b30095a32be) |
+| 679 | Zopa | Head of Fraud Operations | London | [Apply](https://jobs.lever.co/zopa/9fa4f450-f54b-4323-ab40-fe507b6db10e) |
+| 680 | Zopa | Head of Valuations, Credit Strategy | London | [Apply](https://jobs.lever.co/zopa/981c77d3-a77d-4d95-97ec-a18ab1ab510b) |
+| 681 | Zopa | Senior Complaints Manager | London | [Apply](https://jobs.lever.co/zopa/69b55344-d016-46e4-8d46-6f952170e077) |
+| 682 | Zopa | Senior Compliance Manager (1st Line of Defence) | London | [Apply](https://jobs.lever.co/zopa/150ac881-b143-4d44-84d8-ed1ac9b3d325) |
+| 683 | Zopa | Senior Credit Strategy Analyst | London | [Apply](https://jobs.lever.co/zopa/f27694a9-9aed-43a5-8aa5-d0effa612d33) |
+| 684 | Zopa | Senior IT Services Engineer | London | [Apply](https://jobs.lever.co/zopa/9fc88926-b074-495f-afb8-68dd4dddca6c) |
+| 685 | Zopa | Senior Marketing Analyst | London | [Apply](https://jobs.lever.co/zopa/0b7b6838-7088-4b7f-85c6-40f7ca253b9c) |
+| 686 | Zopa | Senior Product Analyst (AI) | London | [Apply](https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f) |
+| 687 | Zopa | Senior Web Content Manager | London | [Apply](https://jobs.lever.co/zopa/ad61a31d-dc2a-49b8-8977-22fdd9c4f310) |
+| 688 | Zopa | Talent Acquisition Lead - Product & Analytics | London | [Apply](https://jobs.lever.co/zopa/7510a6c8-1647-4176-90ff-693810d101c8) |
+| 689 | Zopa | Talent Partner - Technology | London | [Apply](https://jobs.lever.co/zopa/90e68d5f-b4b7-481b-8600-989aa680d8d3) |
 
 ---
 
 ## Top Matches (UK Only)
 
-Found **90** UK match(es) with score >= 3.
+Found **88** UK match(es) with score >= 3.
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -730,95 +721,93 @@ Found **90** UK match(es) with score >= 3.
 | 7 | Monzo | Senior Data Scientist | Cardiff, London or Remote (UK) | 5 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6180814) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'a/b' |
 | 8 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France | 5 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 | 9 | OpenAI | Data Scientist, Integrity Measurement | London, UK | 4 | [Apply](https://jobs.ashbyhq.com/openai/a7a326e7-6718-42ab-a4d8-b16d5021c99b) | title match: 'data scientist'; keyword: 'measurement' |
-| 10 | Deliveroo | Commercial Excellence - Data Analyst (SMB Hub) - 12 months FTC | Manchester - Main Office | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/584aeb7c-9ec4-4023-89df-2e31898b72ca) | title match: 'data analyst' |
-| 11 | Deliveroo | Senior Data Scientist  | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
-| 12 | Deliveroo | Analytics Engineering Director | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/bd222dde-69c8-47b5-a8c1-6d5a5f7a9fe4) | title match: 'analytics engineer' |
-| 13 | Lendable | Data Scientist - US Products | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/8dfde002-766d-4ed7-b192-292f57deef35) | title match: 'data scientist' |
-| 14 | Lendable | Senior Strategy and Data Analyst | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/fdfbe01f-4e33-48c7-a03a-e4e1e217f8e9) | title match: 'data analyst' |
-| 15 | Lendable | Senior Data Scientist - US Products | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/578f11cb-cc4c-4212-87a3-7b5c297751df) | title match: 'data scientist' |
-| 16 | Lendable | Lead Product Analyst | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) | title match: 'product analyst' |
-| 17 | Lendable | Lead Data Scientist (Non-Lending) | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/6a4605bf-91c8-4779-8571-ffc2832a6465) | title match: 'data scientist' |
-| 18 | Lendable | Data Scientist - UK Cards | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/e18b9159-6dd2-46be-9aac-fb60f13feca1) | title match: 'data scientist' |
+| 10 | Moneybox | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/moneyboxapp/0835653c-0370-433c-ad23-f2ba3434b25b) | title match: 'analytics engineer' |
+| 11 | Deliveroo | Commercial Excellence - Data Analyst (SMB Hub) - 12 months FTC | Manchester - Main Office | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/584aeb7c-9ec4-4023-89df-2e31898b72ca) | title match: 'data analyst' |
+| 12 | Deliveroo | Senior Data Scientist  | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
+| 13 | Deliveroo | Analytics Engineering Director | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/bd222dde-69c8-47b5-a8c1-6d5a5f7a9fe4) | title match: 'analytics engineer' |
+| 14 | Lendable | Data Scientist - US Products | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/8dfde002-766d-4ed7-b192-292f57deef35) | title match: 'data scientist' |
+| 15 | Lendable | Senior Strategy and Data Analyst | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/fdfbe01f-4e33-48c7-a03a-e4e1e217f8e9) | title match: 'data analyst' |
+| 16 | Lendable | Senior Data Scientist - US Products | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/578f11cb-cc4c-4212-87a3-7b5c297751df) | title match: 'data scientist' |
+| 17 | Lendable | Lead Product Analyst | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193) | title match: 'product analyst' |
+| 18 | Lendable | Lead Data Scientist (Non-Lending) | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/6a4605bf-91c8-4779-8571-ffc2832a6465) | title match: 'data scientist' |
 | 19 | Lendable | Senior Data Scientist - UK Cards | London/Kent | 3 | [Apply](https://jobs.ashbyhq.com/lendable/5482b502-f17b-42e3-aac4-d14e93ef6862) | title match: 'data scientist' |
 | 20 | Lendable | Lead Data Scientist - Recommendation System | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/3bd799cb-b8d0-47f8-bd18-252674a4ce02) | title match: 'data scientist' |
 | 21 | Lendable | Principal Data Scientist  | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/c023f118-f529-4019-9e37-b9847fbbf889) | title match: 'data scientist' |
-| 22 | ASOS | Applied Scientist | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127892520) | title match: 'applied scientist' |
-| 23 | MongoDB | Senior Solutions Architect | London | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7942609) | title match: 'solutions architect' |
-| 24 | Moneybox | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/moneyboxapp/0835653c-0370-433c-ad23-f2ba3434b25b) | title match: 'analytics engineer' |
-| 25 | Zopa | Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/zopa/fb333f1c-4bcb-45f6-ba65-3f08f7b81444) | title match: 'analytics engineer' |
-| 26 | Zopa | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/zopa/acf89e89-e2ec-444c-816a-c1e4527deb0b) | title match: 'analytics engineer' |
-| 27 | Zopa | Senior Data Analyst - Fraud & Financial Crime | London | 3 | [Apply](https://jobs.lever.co/zopa/4d112894-42fe-4ac2-a709-34a5d294bf48) | title match: 'data analyst' |
-| 28 | Zopa | Senior Marketing Analyst | London | 3 | [Apply](https://jobs.lever.co/zopa/0b7b6838-7088-4b7f-85c6-40f7ca253b9c) | title match: 'marketing analyst' |
-| 29 | Zopa | Senior Product Analyst (AI) | London | 3 | [Apply](https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f) | title match: 'product analyst' |
-| 30 | Linear | Solutions Engineer, Europe | London | 3 | [Apply](https://jobs.ashbyhq.com/linear/d37b3d76-3080-47f9-8a19-60505573112c) | title match: 'solutions engineer' |
-| 31 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed' |
-| 32 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed' |
-| 33 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed' |
-| 34 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed' |
-| 35 | Wise | Senior Solutions Engineer | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000130551319) | title match: 'solutions engineer' |
-| 36 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129942659) | title match: 'product analyst' |
-| 37 | Wise | Lead Analytics Engineer  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129210959) | title match: 'analytics engineer' |
-| 38 | Wise | Senior Data Analyst - Product Reliability  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129141539) | title match: 'data analyst' |
-| 39 | Wise | Senior Product Analyst - FinCrime | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129000636) | title match: 'product analyst' |
-| 40 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128973677) | title match: 'product analyst' |
-| 41 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128971294) | title match: 'product analyst' |
-| 42 | Wise | Lead Data Analyst - FinCrime Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128671487) | title match: 'data analyst' |
-| 43 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128469058) | title match: 'product analyst' |
-| 44 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992629) | title match: 'product analyst' |
-| 45 | Wise | Senior Product Analyst - Invoicing | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992619) | title match: 'product analyst' |
-| 46 | Wise | Senior Product Analyst - Competitive Intelligence | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992539) | title match: 'product analyst' |
-| 47 | Wise | Senior Product Analyst - Recurring Payins | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992529) | title match: 'product analyst' |
-| 48 | Wise | Senior Product Analyst - SEO Product | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992519) | title match: 'product analyst' |
-| 49 | Wise | Senior Product Analyst - Account Details | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992509) | title match: 'product analyst' |
-| 50 | Wise | Senior Product Analytics Manager - Scalable Growth | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127852460) | title match: 'product analytics' |
-| 51 | Wise | Lead Data Scientist - Marketing                         | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127829227) | title match: 'data scientist' |
-| 52 | Wise | Lead Data Scientist - Fraud Prevention  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000125361784) | title match: 'data scientist' |
-| 53 | Wise | Senior Data Analyst - Payment Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000125330890) | title match: 'data analyst' |
-| 54 | Wise | Lead Data Analyst - CRM Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000125290559) | title match: 'data analyst' |
-| 55 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124882799) | title match: 'growth analyst' |
-| 56 | Wise | Lead Data Scientist - Contact Automation | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124592369) | title match: 'data scientist' |
-| 57 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124589830) | title match: 'data analyst' |
-| 58 | Wise | Senior Product Analyst - Fraud Risk | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124146920) | title match: 'product analyst' |
-| 59 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124144555) | title match: 'data analyst' |
-| 60 | Wise | Lead Data Analyst - Pricing | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123633264) | title match: 'data analyst' |
-| 61 | Wise | Staff Data Scientist - Fraud | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123492001) | title match: 'data scientist' |
-| 62 | Wise | Lead Data Scientist - Trust and Safety | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123459318) | title match: 'data scientist' |
-| 63 | Wise | Product Analytics Manager - Liquidity (Investments) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000113454827) | title match: 'product analytics' |
-| 64 | Intercom | Senior Data Scientist | London, England | 3 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7749323) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+1 more) |
-| 65 | Block (Square) | Solutions Engineer | London, United Kingdom | 3 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer' |
-| 66 | Elastic | Principal Data Scientist - Agent Builder | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7957356&gh_jid=7957356) | title match: 'data scientist' |
-| 67 | Elastic | Senior Developer Advocate (Video Content Creator) | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130) | title match: 'developer advocate' |
-| 68 | Elastic | Senior Solutions Architect | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7349982&gh_jid=7349982) | title match: 'solutions architect' |
-| 69 | Elastic | Solutions Architect | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7525999&gh_jid=7525999) | title match: 'solutions architect' |
-| 70 | Datadog | Product Solutions Architect 3 | Amsterdam, The Netherlands; Dublin, Ireland; London, United Kingdom; Madrid, Spain; Paris, France | 3 | [Apply](https://careers.datadoghq.com/detail/7527768/?gh_jid=7527768) | title match: 'solutions architect' |
-| 71 | OpenAI |  AI Deployment Engineer, Large Enterprise | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/b904267b-6320-4469-93ce-e74da6586e6a) | title match: 'deployment engineer' |
-| 72 | OpenAI | Forward Deployed Engineer - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283) | title match: 'forward deployed' |
-| 73 | OpenAI | Forward Deployed Software Engineer - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/54b2072e-4c1c-40e4-b2dc-ec51d9d0ab60) | title match: 'forward deployed' |
-| 74 | OpenAI | AI Deployment Engineer | Codex | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/03e9c605-5b93-4589-888d-959a8071b9be) | title match: 'deployment engineer' |
-| 75 | OpenAI | Partner AI Deployment Engineer - AWS | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/4071e415-36d6-4bc2-95e9-6196102f0ad5) | title match: 'deployment engineer' |
-| 76 | OpenAI | Manager, Forward Deployed Engineering - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/68f1345b-313f-4917-88ce-b281b01a4864) | title match: 'forward deployed' |
-| 77 | OpenAI | AI Deployment Engineer | Codex | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e) | title match: 'deployment engineer' |
-| 78 | OpenAI | AI Deployment Engineer - Startups | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f) | title match: 'deployment engineer' |
-| 79 | OpenAI | Data Scientist, Safety | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633) | title match: 'data scientist' |
-| 80 | OpenAI | Manager, AI Deployment Engineering - Codex | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/da8dd5fd-1dec-4610-9508-5a156af9ca92) | title match: 'deployment engineer' |
-| 81 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002) | title match: 'forward deployed' |
-| 82 | Databricks | Delivery Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) | title match: 'solutions architect' |
-| 83 | Databricks | Delivery Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8452394002) | title match: 'solutions architect' |
-| 84 | Databricks | Lead Solutions Architect (Digital Natives Business) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002) | title match: 'solutions architect' |
-| 85 | Databricks | Lead Solutions Architect  - Strategic Customers | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7642125002) | title match: 'solutions architect' |
-| 86 | Databricks | Senior Solutions Architect (Enterprise Accounts) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002) | title match: 'solutions architect' |
-| 87 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect' |
-| 88 | Databricks | Senior Solutions Architect (Utilities/Energy) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480817002) | title match: 'solutions architect' |
-| 89 | Databricks | Senior Specialist Solutions Engineer (AI/ML) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8572873002) | title match: 'solutions engineer' |
-| 90 | Databricks | Solutions Architect (Retail/CPG) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8452396002) | title match: 'solutions architect' |
+| 22 | Zopa | Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/zopa/fb333f1c-4bcb-45f6-ba65-3f08f7b81444) | title match: 'analytics engineer' |
+| 23 | Zopa | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.lever.co/zopa/acf89e89-e2ec-444c-816a-c1e4527deb0b) | title match: 'analytics engineer' |
+| 24 | Zopa | Senior Marketing Analyst | London | 3 | [Apply](https://jobs.lever.co/zopa/0b7b6838-7088-4b7f-85c6-40f7ca253b9c) | title match: 'marketing analyst' |
+| 25 | Zopa | Senior Product Analyst (AI) | London | 3 | [Apply](https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f) | title match: 'product analyst' |
+| 26 | ASOS | Applied Scientist | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127892520) | title match: 'applied scientist' |
+| 27 | MongoDB | Senior Solutions Architect | London | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7942609) | title match: 'solutions architect' |
+| 28 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002) | title match: 'forward deployed' |
+| 29 | Databricks | Delivery Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8452394002) | title match: 'solutions architect' |
+| 30 | Databricks | Delivery Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) | title match: 'solutions architect' |
+| 31 | Databricks | Lead Solutions Architect (Digital Natives Business) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002) | title match: 'solutions architect' |
+| 32 | Databricks | Lead Solutions Architect  - Strategic Customers | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7642125002) | title match: 'solutions architect' |
+| 33 | Databricks | Senior Solutions Architect (Enterprise Accounts) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002) | title match: 'solutions architect' |
+| 34 | Databricks | Senior Solutions Architect - Lakewatch | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002) | title match: 'solutions architect' |
+| 35 | Databricks | Senior Solutions Architect (Utilities/Energy) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8480817002) | title match: 'solutions architect' |
+| 36 | Databricks | Senior Specialist Solutions Engineer (AI/ML) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8572873002) | title match: 'solutions engineer' |
+| 37 | Databricks | Solutions Architect (Retail/CPG) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8452396002) | title match: 'solutions architect' |
+| 38 | Linear | Solutions Engineer, Europe | London | 3 | [Apply](https://jobs.ashbyhq.com/linear/d37b3d76-3080-47f9-8a19-60505573112c) | title match: 'solutions engineer' |
+| 39 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed' |
+| 40 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed' |
+| 41 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed' |
+| 42 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed' |
+| 43 | Wise | Senior Solutions Engineer | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000131103194) | title match: 'solutions engineer' |
+| 44 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129942659) | title match: 'product analyst' |
+| 45 | Wise | Lead Analytics Engineer  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129210959) | title match: 'analytics engineer' |
+| 46 | Wise | Senior Data Analyst - Product Reliability  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129141539) | title match: 'data analyst' |
+| 47 | Wise | Senior Product Analyst - FinCrime | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000129000636) | title match: 'product analyst' |
+| 48 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128973677) | title match: 'product analyst' |
+| 49 | Wise | Lead Product Analyst - Consumer Account | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128971294) | title match: 'product analyst' |
+| 50 | Wise | Lead Data Analyst - FinCrime Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128671487) | title match: 'data analyst' |
+| 51 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128469058) | title match: 'product analyst' |
+| 52 | Wise | Senior Product Analyst, Accounting Integrations & Reporting | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992629) | title match: 'product analyst' |
+| 53 | Wise | Senior Product Analyst - Invoicing | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992619) | title match: 'product analyst' |
+| 54 | Wise | Senior Product Analyst - Competitive Intelligence | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992539) | title match: 'product analyst' |
+| 55 | Wise | Senior Product Analyst - Recurring Payins | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992529) | title match: 'product analyst' |
+| 56 | Wise | Senior Product Analyst - SEO Product | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992519) | title match: 'product analyst' |
+| 57 | Wise | Senior Product Analyst - Account Details | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992509) | title match: 'product analyst' |
+| 58 | Wise | Senior Product Analytics Manager - Scalable Growth | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127852460) | title match: 'product analytics' |
+| 59 | Wise | Lead Data Scientist - Marketing                         | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127829227) | title match: 'data scientist' |
+| 60 | Wise | Lead Data Scientist - Fraud Prevention  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000125361784) | title match: 'data scientist' |
+| 61 | Wise | Senior Data Analyst - Payment Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000125330890) | title match: 'data analyst' |
+| 62 | Wise | Lead Data Analyst - CRM Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000125290559) | title match: 'data analyst' |
+| 63 | Wise | Lead Growth Analyst - Marketing Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124882799) | title match: 'growth analyst' |
+| 64 | Wise | Lead Data Scientist - Contact Automation | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124592369) | title match: 'data scientist' |
+| 65 | Wise | Lead Data Analyst - Treasury (FX Markets) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124589830) | title match: 'data analyst' |
+| 66 | Wise | Senior Product Analyst - Fraud Risk | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124146920) | title match: 'product analyst' |
+| 67 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124144555) | title match: 'data analyst' |
+| 68 | Wise | Lead Data Analyst - Pricing | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123633264) | title match: 'data analyst' |
+| 69 | Wise | Staff Data Scientist - Fraud | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123492001) | title match: 'data scientist' |
+| 70 | Wise | Lead Data Scientist - Trust and Safety | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000123459318) | title match: 'data scientist' |
+| 71 | Wise | Product Analytics Manager - Liquidity (Investments) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000113454827) | title match: 'product analytics' |
+| 72 | Intercom | Senior Data Scientist | London, England | 3 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7749323) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+1 more) |
+| 73 | Block (Square) | Solutions Engineer | London, United Kingdom | 3 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer' |
+| 74 | Elastic | Principal Data Scientist - Agent Builder | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7957356&gh_jid=7957356) | title match: 'data scientist' |
+| 75 | Elastic | Senior Developer Advocate (Video Content Creator) | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130) | title match: 'developer advocate' |
+| 76 | Elastic | Senior Solutions Architect | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7349982&gh_jid=7349982) | title match: 'solutions architect' |
+| 77 | Elastic | Solutions Architect | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=7525999&gh_jid=7525999) | title match: 'solutions architect' |
+| 78 | Datadog | Product Solutions Architect 3 | Amsterdam, The Netherlands; Dublin, Ireland; London, United Kingdom; Madrid, Spain; Paris, France | 3 | [Apply](https://careers.datadoghq.com/detail/7527768/?gh_jid=7527768) | title match: 'solutions architect' |
+| 79 | OpenAI |  AI Deployment Engineer, Large Enterprise | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/b904267b-6320-4469-93ce-e74da6586e6a) | title match: 'deployment engineer' |
+| 80 | OpenAI | Forward Deployed Engineer - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283) | title match: 'forward deployed' |
+| 81 | OpenAI | Forward Deployed Software Engineer - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/54b2072e-4c1c-40e4-b2dc-ec51d9d0ab60) | title match: 'forward deployed' |
+| 82 | OpenAI | AI Deployment Engineer | Codex | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/03e9c605-5b93-4589-888d-959a8071b9be) | title match: 'deployment engineer' |
+| 83 | OpenAI | Partner AI Deployment Engineer - AWS | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/4071e415-36d6-4bc2-95e9-6196102f0ad5) | title match: 'deployment engineer' |
+| 84 | OpenAI | Manager, Forward Deployed Engineering - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/68f1345b-313f-4917-88ce-b281b01a4864) | title match: 'forward deployed' |
+| 85 | OpenAI | AI Deployment Engineer | Codex | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/8335b0cb-bad7-4f10-9e44-b245ccc2842e) | title match: 'deployment engineer' |
+| 86 | OpenAI | AI Deployment Engineer - Startups | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f) | title match: 'deployment engineer' |
+| 87 | OpenAI | Data Scientist, Safety | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/666119c9-ff97-4e81-9805-94d7525bd633) | title match: 'data scientist' |
+| 88 | OpenAI | Manager, AI Deployment Engineering - Codex | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/da8dd5fd-1dec-4610-9508-5a156af9ca92) | title match: 'deployment engineer' |
 
 ---
 
 ## Summary
 
-- **Total UK jobs:** 1076
-- **New UK jobs:** 698
-- **Top UK matches (score >= 3):** 90
+- **Total UK jobs:** 1062
+- **New UK jobs:** 689
+- **Top UK matches (score >= 3):** 88
 - **Unknown ATS companies:** 18
 
 ---
