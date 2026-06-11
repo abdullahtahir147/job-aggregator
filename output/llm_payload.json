@@ -25,7 +25,7 @@
     "intent_delta": 3,
     "match_reason": "+3 title match: 'experimentation'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'",
     "intent_reasons": "boost: experimentation (+3)",
-    "posted_at": "2026-05-15T08:44:57Z"
+    "posted_at": "2026-06-11T03:24:38Z"
   },
   {
     "rank": 3,
@@ -39,7 +39,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-06-09T20:33:50Z"
+    "posted_at": "2026-06-10T23:27:24Z"
   },
   {
     "rank": 4,
@@ -156,20 +156,6 @@
   {
     "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Lendable",
-    "title": "Lead Product Analyst",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.ashbyhq.com/lendable/17b8f44a-a102-4541-8a99-23edc7017193",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-20T08:12:39Z"
-  },
-  {
-    "rank": 13,
-    "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
     "location": "London, , United Kingdom",
@@ -182,7 +168,7 @@
     "posted_at": "2026-06-03T08:44:48.505Z"
   },
   {
-    "rank": 14,
+    "rank": 13,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -196,7 +182,7 @@
     "posted_at": "2026-05-28T14:19:20.957Z"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -210,7 +196,7 @@
     "posted_at": "2026-05-28T14:18:29.170Z"
   },
   {
-    "rank": 16,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -224,7 +210,7 @@
     "posted_at": "2026-05-26T11:41:38.513Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst, Accounting Integrations & Reporting",
@@ -238,7 +224,7 @@
     "posted_at": "2026-05-23T06:53:21.786Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Invoicing",
@@ -252,7 +238,7 @@
     "posted_at": "2026-05-23T06:52:22.893Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Competitive Intelligence",
@@ -266,7 +252,7 @@
     "posted_at": "2026-05-23T06:50:47.103Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Recurring Payins",
@@ -280,7 +266,7 @@
     "posted_at": "2026-05-23T06:50:11.011Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - SEO Product",
@@ -294,7 +280,7 @@
     "posted_at": "2026-05-23T06:49:39.989Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Account Details",
@@ -308,7 +294,7 @@
     "posted_at": "2026-05-23T06:48:41.748Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
@@ -322,7 +308,7 @@
     "posted_at": "2026-02-28T13:12:25Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -336,7 +322,7 @@
     "posted_at": "2026-06-09T17:10:30Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -347,6 +333,20 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-05-19T07:30:18Z"
+    "posted_at": "2026-06-10T23:27:15Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect (Enterprise Accounts)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-06-10T23:21:43Z"
   }
 ]
