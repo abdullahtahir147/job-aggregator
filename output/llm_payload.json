@@ -1,6 +1,21 @@
 [
   {
     "rank": 1,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Intercom",
+    "title": "Senior Solutions Engineer",
+    "location": "London, England",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/8011085",
+    "final_score": 12,
+    "base_score": 3,
+    "intent_delta": 6,
+    "match_reason": "+3 title match: 'solutions engineer'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: solutions engineer (+2); boost: experimentation (+3); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;job__description body&quot;&gt;\n&lt;div&gt;\n&lt;h2&gt;&lt;strong&gt;What’s The Opportunity?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Fin is an AI-first company revolutionizing how customer service is delivered today. Our entire platform is driven by an advanced AI Agent who we call Fin, who blends automation with empathy, setting ",
+    "posted_at": "2026-06-16T15:49:13Z"
+  },
+  {
+    "rank": 2,
     "tag": "MARKETING_SCIENCE",
     "company": "Wise",
     "title": "Senior Marketing Data Analyst - Marketing Science",
@@ -14,7 +29,7 @@
     "posted_at": "2026-05-01T14:08:18.898Z"
   },
   {
-    "rank": 2,
+    "rank": 3,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Datadog",
     "title": "Senior Customer Data Science - Solutions / Experimentation",
@@ -28,7 +43,21 @@
     "posted_at": "2026-06-11T03:24:38Z"
   },
   {
-    "rank": 3,
+    "rank": 4,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8551531002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-06-17T06:28:20Z"
+  },
+  {
+    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Manager, Forward Deployed Engineering - London",
@@ -42,7 +71,7 @@
     "posted_at": "2026-04-23T22:13:01Z"
   },
   {
-    "rank": 4,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -56,7 +85,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 5,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -70,7 +99,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 6,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -84,7 +113,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 7,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -98,7 +127,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 8,
+    "rank": 10,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analytics Manager - Scalable Growth",
@@ -112,7 +141,7 @@
     "posted_at": "2026-05-22T10:33:11.015Z"
   },
   {
-    "rank": 9,
+    "rank": 11,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
@@ -126,7 +155,7 @@
     "posted_at": "2026-06-09T15:01:27.999Z"
   },
   {
-    "rank": 10,
+    "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "ASOS",
     "title": "Senior Product Analyst ",
@@ -140,7 +169,7 @@
     "posted_at": "2026-06-09T14:24:59.782Z"
   },
   {
-    "rank": 11,
+    "rank": 13,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Recommend",
@@ -154,7 +183,7 @@
     "posted_at": "2026-06-12T16:19:40.328Z"
   },
   {
-    "rank": 12,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -168,7 +197,7 @@
     "posted_at": "2026-06-12T16:16:40.348Z"
   },
   {
-    "rank": 13,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -182,7 +211,7 @@
     "posted_at": "2026-06-12T16:15:38.752Z"
   },
   {
-    "rank": 14,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -196,7 +225,7 @@
     "posted_at": "2026-06-03T08:44:48.505Z"
   },
   {
-    "rank": 15,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -210,7 +239,7 @@
     "posted_at": "2026-05-28T14:19:20.957Z"
   },
   {
-    "rank": 16,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -224,7 +253,7 @@
     "posted_at": "2026-05-28T14:18:29.170Z"
   },
   {
-    "rank": 17,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -238,7 +267,7 @@
     "posted_at": "2026-05-26T11:41:38.513Z"
   },
   {
-    "rank": 18,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst, Accounting Integrations & Reporting",
@@ -252,7 +281,7 @@
     "posted_at": "2026-05-23T06:53:21.786Z"
   },
   {
-    "rank": 19,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Invoicing",
@@ -266,7 +295,7 @@
     "posted_at": "2026-05-23T06:52:22.893Z"
   },
   {
-    "rank": 20,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Competitive Intelligence",
@@ -280,7 +309,7 @@
     "posted_at": "2026-05-23T06:50:47.103Z"
   },
   {
-    "rank": 21,
+    "rank": 23,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Recurring Payins",
@@ -294,7 +323,7 @@
     "posted_at": "2026-05-23T06:50:11.011Z"
   },
   {
-    "rank": 22,
+    "rank": 24,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - SEO Product",
@@ -308,7 +337,7 @@
     "posted_at": "2026-05-23T06:49:39.989Z"
   },
   {
-    "rank": 23,
+    "rank": 25,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Account Details",
@@ -320,33 +349,5 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-05-23T06:48:41.748Z"
-  },
-  {
-    "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Zopa",
-    "title": "Senior Product Analyst (AI)",
-    "location": "London",
-    "url": "https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-02-28T13:12:25Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Block (Square)",
-    "title": "Solutions Engineer",
-    "location": "London, United Kingdom",
-    "url": "http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions engineer'",
-    "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-06-09T17:10:30Z"
   }
 ]
