@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `c731f2d4b074`
-**Timestamp:** 2026-06-19T12:51:23Z
+**Run ID:** `9c9621fdceab`
+**Timestamp:** 2026-06-20T11:21:27Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 7671
+**New jobs this run:** 7673
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **402** new high-scoring job(s).
+Found **400** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -39,13 +39,13 @@ Found **402** new high-scoring job(s).
 | 24 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
 | 25 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
 
-... and 377 more not shown
+... and 375 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **672** new UK posting(s) not in top matches.
+Found **675** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -55,52 +55,52 @@ Found **672** new UK posting(s) not in top matches.
 | 4 | ASOS | Assistant Designer - WW | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131847400) |
 | 5 | ASOS | Assistant Designer - WW Footwear | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000124107189) |
 | 6 | ASOS | Assistant Merchandiser (Menwear)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129723843) |
-| 7 | ASOS | Buyer (Branded) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128945044) |
-| 8 | ASOS | Community Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132865629) |
-| 9 | ASOS | D365 Senior Functional Consultant (Supply Chain) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132578804) |
-| 10 | ASOS | Designer - Topshop Denim | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131478438) |
-| 11 | ASOS | Digital Trading Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127402700) |
-| 12 | ASOS | Dynamics 365 Support Manager | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128920429) |
-| 13 | ASOS | Finance Manager  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131419490) |
-| 14 | ASOS | Global Consumer & Brand Strategy Lead | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131857340) |
-| 15 | ASOS | HR Shared Services Advisor - 6 month FTC | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129810369) |
-| 16 | ASOS | Hair and Makeup Artist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131172319) |
-| 17 | ASOS | Hairstylist (6 month FTC)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127241291) |
-| 18 | ASOS | Head of Agentic Systems Engineering  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132242657) |
-| 19 | ASOS | Head of Partner Brands | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131836799) |
-| 20 | ASOS | Head of Pricing and Analytics | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130727916) |
-| 21 | ASOS | Head of Sustainability (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126501479) |
-| 22 | ASOS | Junior Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131653839) |
-| 23 | ASOS | Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131711668) |
-| 24 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132881439) |
-| 25 | ASOS | Machine Learning Engineer (Recommenders) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123249548) |
-| 26 | ASOS | Manager, Special Projects (AI & Automation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126668206) |
-| 27 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129123397) |
-| 28 | ASOS | Mid-Weight Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131846669) |
-| 29 | ASOS | PPC Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130783434) |
-| 30 | ASOS | Partner Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132825550) |
-| 31 | ASOS | Platform Engineer | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129985917) |
-| 32 | ASOS | Principal Engineering Lead | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133039689) |
-| 33 | ASOS | Product Manager – Customer Profile & Identity (12‑month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126043549) |
-| 34 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629085) |
-| 35 | ASOS | Senior AI Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
-| 36 | ASOS | Senior Applied Diffusion Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131906197) |
-| 37 | ASOS | Senior Brand Manager - MW (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132601709) |
-| 38 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
-| 39 | ASOS | Senior Creative Producer (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131632199) |
-| 40 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126486839) |
+| 7 | ASOS | Brand Marketing Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133065170) |
+| 8 | ASOS | Buyer (Branded) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128945044) |
+| 9 | ASOS | Community Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132865629) |
+| 10 | ASOS | D365 Senior Functional Consultant (Supply Chain) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132578804) |
+| 11 | ASOS | Designer - Topshop Denim | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131478438) |
+| 12 | ASOS | Digital Trading Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127402700) |
+| 13 | ASOS | Dynamics 365 Support Manager | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128920429) |
+| 14 | ASOS | Finance Manager  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131419490) |
+| 15 | ASOS | Finance Manager - Customer & Commercial | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133073140) |
+| 16 | ASOS | Global Consumer & Brand Strategy Lead | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131857340) |
+| 17 | ASOS | HR Shared Services Advisor - 6 month FTC | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129810369) |
+| 18 | ASOS | Hair and Makeup Artist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131172319) |
+| 19 | ASOS | Hairstylist (6 month FTC)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127241291) |
+| 20 | ASOS | Head of Agentic Systems Engineering  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132242657) |
+| 21 | ASOS | Head of Partner Brands | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131836799) |
+| 22 | ASOS | Head of Pricing and Analytics | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130727916) |
+| 23 | ASOS | Head of Sustainability (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126501479) |
+| 24 | ASOS | Junior Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131653839) |
+| 25 | ASOS | Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131711668) |
+| 26 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132881439) |
+| 27 | ASOS | Machine Learning Engineer (Recommenders) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123249548) |
+| 28 | ASOS | Manager, Special Projects (AI & Automation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126668206) |
+| 29 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129123397) |
+| 30 | ASOS | Mid-Weight Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131846669) |
+| 31 | ASOS | PPC Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130783434) |
+| 32 | ASOS | Partner Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132825550) |
+| 33 | ASOS | Platform Engineer | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129985917) |
+| 34 | ASOS | Principal Engineering Lead | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133039689) |
+| 35 | ASOS | Product Manager – Customer Profile & Identity (12‑month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126043549) |
+| 36 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629085) |
+| 37 | ASOS | Senior AI Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
+| 38 | ASOS | Senior Applied Diffusion Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131906197) |
+| 39 | ASOS | Senior Brand Manager - MW (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132601709) |
+| 40 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
 
-... and 632 more not shown
+... and 635 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **6597** other new posting(s).
+Found **6598** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
-| 1 | ASOS | Garment Merchandiser (Turkey) | Istanbul, Istanbul, Turkey | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127863349) |
+| 1 | ASOS | Garment Merchandiser (Turkey) | Istanbul, Istanbul, Turkey | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133077479) |
 | 2 | Airtable | Account Executive, SLED | Austin, TX; Remote - US | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8391589002) |
 | 3 | Airtable | Delivery Consultant | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8582568002) |
 | 4 | Airtable | Delivery Consultant- West Coast | San Francisco, CA; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597950002) |
@@ -119,24 +119,24 @@ Found **6597** other new posting(s).
 | 17 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
 | 18 | Airtable | Technical Account Manager | Remote - US; Remote - Canada | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8584253002) |
 | 19 | Block (Square) |  Finance & Strategy Senior Manager | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5025543008?gh_jid=5025543008) |
-| 20 | Block (Square) | ASIC Validation Engineer | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5115892008?gh_jid=5115892008) |
-| 21 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
+| 20 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
+| 21 | Block (Square) | ASIC Validation Engineer | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5115892008?gh_jid=5115892008) |
 | 22 | Block (Square) | Account Manager, SMB  | Melbourne, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5258372008?gh_jid=5258372008) |
 | 23 | Block (Square) | Account Manager, Vancouver  | Vancouver, British Columbia, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5255274008?gh_jid=5255274008) |
 | 24 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 25 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 
-... and 6572 more not shown
+... and 6573 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 7671
-- **Top matches (score ≥ 3):** 402
-  - of which UK: 71
-- **New UK jobs (other):** 672
-- **Other new jobs:** 6597
+- **Total new jobs:** 7673
+- **Top matches (score ≥ 3):** 400
+  - of which UK: 69
+- **New UK jobs (other):** 675
+- **Other new jobs:** 6598
 
 ---
 _Generated by job-aggregator diff mode_
