@@ -1,45 +1,45 @@
 # Diff Report
 
-**Run ID:** `113bc2c9f7c4`
-**Timestamp:** 2026-06-21T11:48:09Z
+**Run ID:** `0f30d208bd89`
+**Timestamp:** 2026-06-22T14:46:45Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 7679
+**New jobs this run:** 7696
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **400** new high-scoring job(s).
+Found **395** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | OpenAI | Data Scientist, Core Experimentation  | Seattle | 8 | [Apply](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
 | 2 | Figma | Data Scientist, Marketing | San Francisco, CA • New York, NY • United States | 7 | [Apply](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) | title match: 'data scientist'; keyword: 'attribution'; keyword: 'incrementality' (+8 more) |
 | 3 | Twilio | Staff Data Scientist | Remote - US | 6 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7821458) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+1 more) |
-| 4 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) | title match: 'marketing data'; title match: 'data analyst' |
-| 5 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
+| 4 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
+| 5 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) | title match: 'marketing data'; title match: 'data analyst' |
 | 6 | BoschGroup | Marketing Data Analyst – Mexico | Ciudad de México, CDMX, Mexico | 6 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128585820) | title match: 'marketing data'; title match: 'data analyst' |
 | 7 | Tide | Senior Product Analyst | India, Delhi NCR | 5 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768184003) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' |
 | 8 | Twilio | Marketing Analyst, PLG & Self-Serve Analytics | Remote - US | 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923207) | title match: 'marketing analyst'; keyword: 'experiment'; keyword: 'experimentation' |
 | 9 | Braze | Senior Marketing Data Analyst | São Paulo | 5 | [Apply](https://boards.greenhouse.io/braze/jobs/8002934?gh_jid=8002934) | title match: 'marketing data'; title match: 'data analyst'; keyword: 'attribution' (+1 more) |
-| 10 | Datadog | Senior Customer Data Science - Solutions / Experimentation | London, United Kingdom; Paris, France 🇬🇧 | 5 | [Apply](https://careers.datadoghq.com/detail/7810544/?gh_jid=7810544) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
-| 11 | OpenAI | Senior Data Engineer, Core Experimentation | Seattle | 5 | [Apply](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
-| 12 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
-| 13 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 14 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
-| 15 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 16 | Stripe | Data Analyst,  Financial Enablement | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7874654) | title match: 'data analyst' |
-| 17 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
-| 18 | Stripe | Data Scientist, Economic Insights & Research | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7980402) | title match: 'data scientist' |
-| 19 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
-| 20 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
-| 21 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
-| 22 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
-| 23 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
-| 24 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
-| 25 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
+| 10 | OpenAI | Senior Data Engineer, Core Experimentation | Seattle | 5 | [Apply](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
+| 11 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
+| 12 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
+| 13 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
+| 14 | Stripe | Data Scientist | Seattle, WA | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7809414) | title match: 'data scientist' |
+| 15 | Stripe | Data Scientist, Economic Insights & Research | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7980402) | title match: 'data scientist' |
+| 16 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
+| 17 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
+| 18 | Stripe | Forward Deployed AI Accelerator, Marketing | Singapore, Sydney | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7748114) | title match: 'forward deployed' |
+| 19 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
+| 20 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
+| 21 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
+| 22 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
+| 23 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
+| 24 | Stripe | Partner Solutions Architect, Technology Partnerships | United States | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7964568) | title match: 'solutions architect' |
+| 25 | Stripe | Program Manager, Solutions Architecture (GTM Transformation) | Chicago, Atlanta, US-Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7470827) | title match: 'solutions architect' |
 
-... and 375 more not shown
+... and 370 more not shown
 
 ---
 
@@ -96,7 +96,7 @@ Found **674** new UK posting(s) not in top matches.
 
 ## Other New Jobs
 
-Found **6605** other new posting(s).
+Found **6627** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **6605** other new posting(s).
 | 24 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | 25 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 
-... and 6580 more not shown
+... and 6602 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 7679
-- **Top matches (score ≥ 3):** 400
-  - of which UK: 69
+- **Total new jobs:** 7696
+- **Top matches (score ≥ 3):** 395
+  - of which UK: 67
 - **New UK jobs (other):** 674
-- **Other new jobs:** 6605
+- **Other new jobs:** 6627
 
 ---
 _Generated by job-aggregator diff mode_
