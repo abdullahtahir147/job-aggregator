@@ -324,20 +324,6 @@
   },
   {
     "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Zopa",
-    "title": "Senior Product Analyst (AI)",
-    "location": "London",
-    "url": "https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-02-28T13:12:25Z"
-  },
-  {
-    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -349,5 +335,19 @@
     "match_reason": "+3 title match: 'solutions engineer'",
     "intent_reasons": "boost: solutions engineer (+2)",
     "posted_at": "2026-06-09T17:10:30Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Delivery Solutions Architect",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-06-15T18:30:50Z"
   }
 ]
