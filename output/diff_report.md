@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `63a32ef36ac6`
-**Timestamp:** 2026-06-25T11:43:24Z
+**Run ID:** `a7b42b9a0d33`
+**Timestamp:** 2026-06-26T11:47:20Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 7923
+**New jobs this run:** 7970
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **408** new high-scoring job(s).
+Found **413** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -39,13 +39,13 @@ Found **408** new high-scoring job(s).
 | 24 | Stripe | Solutions Architect, Commercial, UK  | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7882492) | title match: 'solutions architect' |
 | 25 | Stripe | Solutions Architect, (Italian fluency)  | Milan | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
 
-... and 383 more not shown
+... and 388 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **695** new UK posting(s) not in top matches.
+Found **689** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -56,47 +56,47 @@ Found **695** new UK posting(s) not in top matches.
 | 5 | ASOS | Assistant Merchandiser (Topshop) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133563619) |
 | 6 | ASOS | Business Automation Associate  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134221769) |
 | 7 | ASOS | Buyer (Branded) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128945044) |
-| 8 | ASOS | Community Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132865629) |
-| 9 | ASOS | D365 Senior Functional Consultant (Supply Chain) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132578804) |
-| 10 | ASOS | Designer - Topshop Denim | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131478438) |
-| 11 | ASOS | Digital Trading Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127402700) |
-| 12 | ASOS | Digital Trading Assistant - Topshop | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133904749) |
-| 13 | ASOS | Digital Trading Manager - Topshop Topman | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133647380) |
-| 14 | ASOS | Dynamics 365 Support Manager | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128920429) |
-| 15 | ASOS | Finance Manager  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131419490) |
-| 16 | ASOS | Finance Manager - Customer & Commercial | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133073140) |
-| 17 | ASOS | Global Consumer & Brand Strategy Lead | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131857340) |
-| 18 | ASOS | HR Shared Services Advisor - 6 month FTC | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129810369) |
-| 19 | ASOS | Hair and Makeup Artist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131172319) |
-| 20 | ASOS | Hairstylist (6 month FTC)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127241291) |
-| 21 | ASOS | Head of Agentic Systems Engineering  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132242657) |
-| 22 | ASOS | Head of PR & Events | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134002659) |
-| 23 | ASOS | Head of Partner Brands | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131836799) |
-| 24 | ASOS | Head of Pricing and Analytics | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130727916) |
-| 25 | ASOS | Head of Sustainability (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126501479) |
-| 26 | ASOS | Health and Safety Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133581855) |
-| 27 | ASOS | Junior Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131653839) |
-| 28 | ASOS | Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131711668) |
-| 29 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132881439) |
-| 30 | ASOS | Machine Learning Engineer (Recommenders) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123249548) |
-| 31 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129123397) |
-| 32 | ASOS | Mid-Weight Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131846669) |
-| 33 | ASOS | PPC Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130783434) |
-| 34 | ASOS | Partner Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132825550) |
-| 35 | ASOS | Platform Engineer | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129985917) |
-| 36 | ASOS | Principal Engineering Lead | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133039689) |
-| 37 | ASOS | Product Manager – Customer Profile & Identity (12‑month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126043549) |
-| 38 | ASOS | Senior AI Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
-| 39 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133905259) |
-| 40 | ASOS | Senior Applied Diffusion Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131906197) |
+| 8 | ASOS | D365 Senior Functional Consultant (Supply Chain) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132578804) |
+| 9 | ASOS | Designer - Topshop Denim | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131478438) |
+| 10 | ASOS | Digital Trading Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127402700) |
+| 11 | ASOS | Digital Trading Assistant - Topshop | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133904749) |
+| 12 | ASOS | Digital Trading Manager - Topshop Topman | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133647380) |
+| 13 | ASOS | Dynamics 365 Support Manager | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000128920429) |
+| 14 | ASOS | Finance Manager  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131419490) |
+| 15 | ASOS | Finance Manager - Customer & Commercial | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133073140) |
+| 16 | ASOS | HR Shared Services Advisor - 6 month FTC | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129810369) |
+| 17 | ASOS | Hair and Makeup Artist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131172319) |
+| 18 | ASOS | Hairstylist (6 month FTC)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127241291) |
+| 19 | ASOS | Head of Agentic Systems Engineering  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132242657) |
+| 20 | ASOS | Head of PR & Events | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134002659) |
+| 21 | ASOS | Head of Partner Brands | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131836799) |
+| 22 | ASOS | Head of Pricing and Analytics | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130727916) |
+| 23 | ASOS | Head of Sustainability (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126501479) |
+| 24 | ASOS | Health and Safety Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133581855) |
+| 25 | ASOS | Junior Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131653839) |
+| 26 | ASOS | Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131711668) |
+| 27 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132881439) |
+| 28 | ASOS | Machine Learning Engineer (Recommenders) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000123249548) |
+| 29 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129123397) |
+| 30 | ASOS | Mid-Weight Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131846669) |
+| 31 | ASOS | PPC Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130783434) |
+| 32 | ASOS | Partner Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132825550) |
+| 33 | ASOS | Platform Engineer | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129985917) |
+| 34 | ASOS | Principal Engineering Lead | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133039689) |
+| 35 | ASOS | Product Manager – Customer Profile & Identity (12‑month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126043549) |
+| 36 | ASOS | Senior AI Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000122629991) |
+| 37 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133905259) |
+| 38 | ASOS | Senior Applied Diffusion Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131906197) |
+| 39 | ASOS | Senior Brand Manager - MW (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132601709) |
+| 40 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
 
-... and 655 more not shown
+... and 649 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **6820** other new posting(s).
+Found **6868** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -104,19 +104,19 @@ Found **6820** other new posting(s).
 | 2 | Airtable | Account Executive, SLED | Austin, TX; Remote - US | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8391589002) |
 | 3 | Airtable | Delivery Consultant | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8582568002) |
 | 4 | Airtable | Delivery Consultant- West Coast | San Francisco, CA; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597950002) |
-| 5 | Airtable | GTM Engineer | San Francisco, CA; New York, NY | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8536588002) |
-| 6 | Airtable | Global Payroll Manager | San Francisco, CA & Remote CA (PT) | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
-| 7 | Airtable | Lead Solutions Consultant | Sydney, Australia | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
-| 8 | Airtable | Procurement Operations Manager |  San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8603626002) |
-| 9 | Airtable | Product Designer (8+ YOE) | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8400776002) |
-| 10 | Airtable | Product Security Engineer | San Francisco, CA; New York, NY; Remote (Seattle, WA only) | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8533547002) |
-| 11 | Airtable | Program Manager, Community (Contract) | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8604559002) |
-| 12 | Airtable | Program Manager, Professional Services - East | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
-| 13 | Airtable | Program Manager, Professional Services - West | San Francisco, CA; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
-| 14 | Airtable | Senior Analyst, People Technology | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8447535002) |
-| 15 | Airtable | Senior Manager, Marketing AI Operations | San Francisco, CA; New York, NY; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8382119002) |
-| 16 | Airtable | Senior Mid Market Account Executive, AI Native | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8209823002) |
-| 17 | Airtable | Senior Social Media Manager | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8577941002) |
+| 5 | Airtable | Director, AI Transformation & Customer Success | Remote - US | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8602201002) |
+| 6 | Airtable | GTM Engineer | San Francisco, CA; New York, NY | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8536588002) |
+| 7 | Airtable | Global Payroll Manager | San Francisco, CA & Remote CA (PT) | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
+| 8 | Airtable | Lead Solutions Consultant | Sydney, Australia | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
+| 9 | Airtable | Procurement Operations Manager |  San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8603626002) |
+| 10 | Airtable | Product Designer (8+ YOE) | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8400776002) |
+| 11 | Airtable | Product Security Engineer | San Francisco, CA; New York, NY; Remote (Seattle, WA only) | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8533547002) |
+| 12 | Airtable | Program Manager, Community (Contract) | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8604559002) |
+| 13 | Airtable | Program Manager, Professional Services - East | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
+| 14 | Airtable | Program Manager, Professional Services - West | San Francisco, CA; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
+| 15 | Airtable | Senior Analyst, People Technology | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8447535002) |
+| 16 | Airtable | Senior Manager, Marketing AI Operations | San Francisco, CA; New York, NY; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8382119002) |
+| 17 | Airtable | Senior Mid Market Account Executive, AI Native | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8209823002) |
 | 18 | Airtable | Senior Solutions Architect | Remote - US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
 | 19 | Airtable | Senior Solutions Architect- West Coast | Remote-US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597941002) |
 | 20 | Airtable | Software Engineer, Product Frontend (8+ YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397228002) |
@@ -126,17 +126,17 @@ Found **6820** other new posting(s).
 | 24 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
 | 25 | Block (Square) | ASIC Validation Engineer | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5115892008?gh_jid=5115892008) |
 
-... and 6795 more not shown
+... and 6843 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 7923
-- **Top matches (score ≥ 3):** 408
-  - of which UK: 66
-- **New UK jobs (other):** 695
-- **Other new jobs:** 6820
+- **Total new jobs:** 7970
+- **Top matches (score ≥ 3):** 413
+  - of which UK: 65
+- **New UK jobs (other):** 689
+- **Other new jobs:** 6868
 
 ---
 _Generated by job-aggregator diff mode_
