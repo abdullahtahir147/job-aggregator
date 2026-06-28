@@ -1,22 +1,22 @@
 # Diff Report
 
-**Run ID:** `f52047504de8`
-**Timestamp:** 2026-06-27T11:00:03Z
+**Run ID:** `7a5a9e9efe24`
+**Timestamp:** 2026-06-28T11:11:43Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 8029
+**New jobs this run:** 8019
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **407** new high-scoring job(s).
+Found **406** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | OpenAI | Data Scientist, Core Experimentation  | Seattle | 8 | [Apply](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
 | 2 | Figma | Data Scientist, Marketing | San Francisco, CA • New York, NY • United States | 7 | [Apply](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) | title match: 'data scientist'; keyword: 'attribution'; keyword: 'incrementality' (+8 more) |
-| 3 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
-| 4 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) | title match: 'marketing data'; title match: 'data analyst' |
+| 3 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) | title match: 'marketing data'; title match: 'data analyst' |
+| 4 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
 | 5 | BoschGroup | Marketing Data Analyst – Mexico | Ciudad de México, CDMX, Mexico | 6 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000128585820) | title match: 'marketing data'; title match: 'data analyst' |
 | 6 | Twilio | Marketing Analyst, PLG & Self-Serve Analytics | Remote - US | 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923207) | title match: 'marketing analyst'; keyword: 'experiment'; keyword: 'experimentation' |
 | 7 | Braze | Senior Marketing Data Analyst | São Paulo | 5 | [Apply](https://boards.greenhouse.io/braze/jobs/8002934?gh_jid=8002934) | title match: 'marketing data'; title match: 'data analyst'; keyword: 'attribution' (+1 more) |
@@ -24,22 +24,22 @@ Found **407** new high-scoring job(s).
 | 9 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
 | 10 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
 | 11 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
-| 12 | Lendable | Data Analyst (Operations Analytics) | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/16e4f951-a35b-4e74-b75a-bf24c72ed4d3) | title match: 'data analyst' |
-| 13 | Lendable | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/33260f89-2388-46f5-b294-9f3a8c557cc7) | title match: 'analytics engineer' |
-| 14 | Lendable | Lead Data Scientist (Non-Lending) | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/6a4605bf-91c8-4779-8571-ffc2832a6465) | title match: 'data scientist' |
-| 15 | Lendable | Junior Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) | title match: 'analytics engineer' |
-| 16 | Lendable | Principal Data Scientist  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/c023f118-f529-4019-9e37-b9847fbbf889) | title match: 'data scientist' |
-| 17 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 18 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
-| 19 | Stripe | Data Scientist, Economic Insights & Research | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7980402) | title match: 'data scientist' |
-| 20 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
-| 21 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
-| 22 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
-| 23 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
-| 24 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
-| 25 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
+| 12 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
+| 13 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
+| 14 | Stripe | Data Scientist, Economic Insights & Research | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7980402) | title match: 'data scientist' |
+| 15 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
+| 16 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
+| 17 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
+| 18 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
+| 19 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
+| 20 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
+| 21 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
+| 22 | Stripe | Partner Solutions Architect, Technology Partnerships | United States | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7964568) | title match: 'solutions architect' |
+| 23 | Stripe | Program Manager, Solutions Architecture (GTM Transformation) | Chicago, Atlanta, US-Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7470827) | title match: 'solutions architect' |
+| 24 | Stripe | Solutions Architect, AI | US-San Francisco | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7975723) | title match: 'solutions architect' |
+| 25 | Stripe | Solutions Architect (Australia) | Sydney, Australia | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7366524) | title match: 'solutions architect' |
 
-... and 382 more not shown
+... and 381 more not shown
 
 ---
 
@@ -96,7 +96,7 @@ Found **700** new UK posting(s) not in top matches.
 
 ## Other New Jobs
 
-Found **6922** other new posting(s).
+Found **6913** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **6922** other new posting(s).
 | 24 | Block (Square) |  Finance & Strategy Senior Manager | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5025543008?gh_jid=5025543008) |
 | 25 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
 
-... and 6897 more not shown
+... and 6888 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 8029
-- **Top matches (score ≥ 3):** 407
-  - of which UK: 62
+- **Total new jobs:** 8019
+- **Top matches (score ≥ 3):** 406
+  - of which UK: 61
 - **New UK jobs (other):** 700
-- **Other new jobs:** 6922
+- **Other new jobs:** 6913
 
 ---
 _Generated by job-aggregator diff mode_
