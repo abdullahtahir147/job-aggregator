@@ -270,6 +270,20 @@
     "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
+    "title": "AWS Cloud Partner Solutions Architect — EMEA",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611599002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-06-29T06:43:05Z"
+  },
+  {
+    "rank": 21,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
     "title": "Delivery Solutions Architect",
     "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002",
@@ -281,7 +295,7 @@
     "posted_at": "2026-06-26T20:17:36Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Enterprise Accounts)",
@@ -295,7 +309,7 @@
     "posted_at": "2026-06-26T20:17:36Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect - Lakewatch",
@@ -309,7 +323,7 @@
     "posted_at": "2026-06-26T20:17:35Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Retail/CPG)",
@@ -323,7 +337,7 @@
     "posted_at": "2026-06-26T20:17:38Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Engineer - Qatar & S.Africa Fly-in",
@@ -335,19 +349,5 @@
     "match_reason": "+3 title match: 'solutions engineer'",
     "intent_reasons": "boost: solutions engineer (+2)",
     "posted_at": "2026-06-26T20:17:36Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Senior Specialist Solutions Engineer (AI/ML)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8600818002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions engineer'",
-    "intent_reasons": "boost: solutions engineer (+2)",
-    "posted_at": "2026-06-26T20:17:38Z"
   }
 ]
