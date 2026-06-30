@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `10200473c342` | 2026-06-29T13:11:10Z
-**Companies:** 133 | **Jobs:** 11974 | **New:** 8021 | **New UK:** 754 | **Unknown ATS:** 18
+**Run:** `4fe12e94545c` | 2026-06-30T11:47:02Z
+**Companies:** 133 | **Jobs:** 12014 | **New:** 8114 | **New UK:** 749 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 40
 
 ## Apply Now
@@ -48,6 +48,11 @@
 
 ## Worth a Look
 
+- **ASOS — Senior Product Analyst ** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, England, United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000134830559)
+
 - **ASOS — Applied Scientist** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
   London, England, United Kingdom
   Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
@@ -57,11 +62,6 @@
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000134518699)
-
-- **Wise — Lead Product Analyst - Recommend** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000131942289)
 
 - **Wise — Lead Product Analyst - Onboarding** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
