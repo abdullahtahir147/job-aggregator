@@ -100,6 +100,21 @@
   },
   {
     "rank": 8,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Typeform",
+    "title": "Senior Forward Deployed Engineer",
+    "location": "United Kingdom (Remote) ",
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/8043151",
+    "final_score": 10,
+    "base_score": 1,
+    "intent_delta": 6,
+    "match_reason": "+3 title match: 'forward deployed'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: forward deployed (+4); boost: solutions engineer (+2); boost: growth (+1); boost: product (+1); penalty: risk (-2)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;9:1-9:22;507-528&quot;&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt;\n&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;11:1-11:181;530-710&quot;&gt;Typeform is a leading provider of interactive forms, surveys, and data collection experiences. We help businesses create more engaging ways to collect, manage, and understand data.&lt;/p&gt;\n&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;13:1-13:258;712-969&quot;&gt;This team sits at the intersection of our go-to-market and product organizations, working directly with enterprise customers to validate use cases, accelerate strategic opportunities, and shape how our products evolve through real-world customer engagement.&lt;/p&gt;\n&lt;h2 class=&quot;text-text-100 mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;15:1-15:22;971-992&quot;&gt;&lt;strong&gt;About the role&lt;/s",
+    "posted_at": "2026-07-02T06:26:06Z"
+  },
+  {
+    "rank": 9,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analytics Manager - Scalable Growth",
@@ -113,7 +128,21 @@
     "posted_at": "2026-05-22T10:33:11.015Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
+    "tag": "APPLIED_AI_FDE",
+    "company": "ASOS",
+    "title": "Applied Scientist",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000135285519",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'applied scientist'",
+    "intent_reasons": "boost: applied scientist (+3)",
+    "posted_at": "2026-07-01T14:29:53.951Z"
+  },
+  {
+    "rank": 11,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "ASOS",
     "title": "Senior Product Analyst ",
@@ -127,21 +156,21 @@
     "posted_at": "2026-06-29T15:47:11.686Z"
   },
   {
-    "rank": 10,
-    "tag": "APPLIED_AI_FDE",
-    "company": "ASOS",
-    "title": "Applied Scientist",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000131174524",
+    "rank": 12,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Lead Product Analyst - Regional Expansion",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000135469859",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
-    "match_reason": "+3 title match: 'applied scientist'",
-    "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-06-09T15:01:27.999Z"
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-07-02T10:35:11.920Z"
   },
   {
-    "rank": 11,
+    "rank": 13,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Buisness",
@@ -155,7 +184,7 @@
     "posted_at": "2026-06-26T16:36:58.221Z"
   },
   {
-    "rank": 12,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -169,7 +198,7 @@
     "posted_at": "2026-06-12T16:16:40.348Z"
   },
   {
-    "rank": 13,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -183,21 +212,7 @@
     "posted_at": "2026-06-12T16:15:38.752Z"
   },
   {
-    "rank": 14,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Regional Expansion",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000129942659",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-06-03T08:44:48.505Z"
-  },
-  {
-    "rank": 15,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -211,7 +226,7 @@
     "posted_at": "2026-05-28T14:19:20.957Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Consumer Account",
@@ -225,7 +240,7 @@
     "posted_at": "2026-05-28T14:18:29.170Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -239,7 +254,7 @@
     "posted_at": "2026-05-26T11:41:38.513Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Competitive Intelligence",
@@ -253,7 +268,7 @@
     "posted_at": "2026-05-23T06:50:47.103Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
@@ -267,7 +282,7 @@
     "posted_at": "2026-02-28T13:12:25Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -281,7 +296,7 @@
     "posted_at": "2026-06-09T17:10:30Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -292,10 +307,10 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-06-30T20:07:37Z"
+    "posted_at": "2026-07-01T18:31:45Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -306,10 +321,10 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-06-30T20:07:35Z"
+    "posted_at": "2026-07-01T18:31:38Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Enterprise Accounts)",
@@ -320,10 +335,10 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-06-30T20:07:35Z"
+    "posted_at": "2026-07-01T18:31:37Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect - Lakewatch",
@@ -334,20 +349,6 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-06-30T20:07:34Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Senior Solutions Architect (Retail/CPG)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-06-30T20:07:37Z"
+    "posted_at": "2026-07-01T18:31:35Z"
   }
 ]
