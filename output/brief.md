@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `539a4e3f75fb` | 2026-07-05T11:07:37Z
-**Companies:** 133 | **Jobs:** 12052 | **New:** 8308 | **New UK:** 776 | **Unknown ATS:** 18
+**Run:** `4e078fab54f6` | 2026-07-06T12:53:25Z
+**Companies:** 133 | **Jobs:** 12051 | **New:** 8332 | **New UK:** 772 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 40
 
 ## Apply Now
@@ -58,10 +58,10 @@
   Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000135285519)
 
-- **ASOS — Senior Product Analyst ** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, England, United Kingdom
+- **Wise — Lead Product Analyst - Send** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/ASOS/744000134830559)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000135970609)
 
 - **Wise — Lead Product Analyst - Regional Expansion** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom

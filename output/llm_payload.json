@@ -144,16 +144,16 @@
   {
     "rank": 11,
     "tag": "PRODUCT_GROWTH_DATA",
-    "company": "ASOS",
-    "title": "Senior Product Analyst ",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000134830559",
+    "company": "Wise",
+    "title": "Lead Product Analyst - Send",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000135970609",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-06-29T15:47:11.686Z"
+    "posted_at": "2026-07-06T10:29:02.131Z"
   },
   {
     "rank": 12,
