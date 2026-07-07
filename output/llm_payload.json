@@ -341,14 +341,14 @@
     "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "Senior Solutions Architect - Lakewatch",
+    "title": "Senior Solutions Architect (Retail/CPG)",
     "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493140002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
     "final_score": 8,
     "base_score": 3,
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-01T18:31:35Z"
+    "posted_at": "2026-07-01T18:31:42Z"
   }
 ]
