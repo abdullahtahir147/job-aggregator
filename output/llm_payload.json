@@ -3,16 +3,16 @@
     "rank": 1,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
-    "title": "Senior Solutions Engineer",
+    "title": "Senior Solutions Architect",
     "location": "London, England",
     "url": "https://job-boards.greenhouse.io/intercom/jobs/8011085",
-    "final_score": 12,
+    "final_score": 14,
     "base_score": 3,
-    "intent_delta": 6,
-    "match_reason": "+3 title match: 'solutions engineer'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'",
-    "intent_reasons": "boost: solutions engineer (+2); boost: experimentation (+3); boost: product (+1)",
+    "intent_delta": 8,
+    "match_reason": "+3 title match: 'solutions architect'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: solutions engineer (+2); boost: solutions architect (+2); boost: experimentation (+3); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;job__description body&quot;&gt;\n&lt;div&gt;\n&lt;h2&gt;&lt;strong&gt;What’s The Opportunity?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Fin is an AI-first company revolutionizing how customer service is delivered today. Our entire platform is driven by an advanced AI Agent who we call Fin, who blends automation with empathy, setting ",
-    "posted_at": "2026-06-16T15:49:13Z"
+    "posted_at": "2026-07-07T10:53:18Z"
   },
   {
     "rank": 2,
@@ -129,6 +129,20 @@
   },
   {
     "rank": 10,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "ASOS",
+    "title": "Senior Product Analyst ",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000136233969",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-07-07T13:20:30.011Z"
+  },
+  {
+    "rank": 11,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
@@ -142,21 +156,21 @@
     "posted_at": "2026-07-01T14:29:53.951Z"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
-    "title": "Lead Product Analyst - Send",
+    "title": "Senior Product Analyst - Regional Expansion",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000135970609",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000136310259",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-07-06T10:29:02.131Z"
+    "posted_at": "2026-07-07T18:58:36.368Z"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -170,77 +184,7 @@
     "posted_at": "2026-07-02T10:35:11.920Z"
   },
   {
-    "rank": 13,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Business Operations - Wise Buisness",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000134518699",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-06-26T16:36:58.221Z"
-  },
-  {
     "rank": 14,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Onboarding",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000131941869",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-06-12T16:16:40.348Z"
-  },
-  {
-    "rank": 15,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Business Account Management",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000131941719",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-06-12T16:15:38.752Z"
-  },
-  {
-    "rank": 16,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Business Onboarding",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000128973677",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-28T14:19:20.957Z"
-  },
-  {
-    "rank": 17,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Consumer Account",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000128971294",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-28T14:18:29.170Z"
-  },
-  {
-    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -254,7 +198,7 @@
     "posted_at": "2026-05-26T11:41:38.513Z"
   },
   {
-    "rank": 19,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Competitive Intelligence",
@@ -268,7 +212,7 @@
     "posted_at": "2026-05-23T06:50:47.103Z"
   },
   {
-    "rank": 20,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
@@ -282,7 +226,7 @@
     "posted_at": "2026-02-28T13:12:25Z"
   },
   {
-    "rank": 21,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -296,7 +240,7 @@
     "posted_at": "2026-07-03T11:57:17Z"
   },
   {
-    "rank": 22,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -310,7 +254,7 @@
     "posted_at": "2026-07-01T18:31:45Z"
   },
   {
-    "rank": 23,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -324,7 +268,7 @@
     "posted_at": "2026-07-03T05:59:15Z"
   },
   {
-    "rank": 24,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Enterprise Accounts)",
@@ -338,7 +282,7 @@
     "posted_at": "2026-07-01T18:31:37Z"
   },
   {
-    "rank": 25,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Retail/CPG)",
@@ -350,5 +294,61 @@
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
     "posted_at": "2026-07-01T18:31:42Z"
+  },
+  {
+    "rank": 22,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Engineer - Qatar & S.Africa Fly-in",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585873002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions engineer'",
+    "intent_reasons": "boost: solutions engineer (+2)",
+    "posted_at": "2026-07-06T09:42:59Z"
+  },
+  {
+    "rank": 23,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Specialist Solutions Engineer (AI/ML)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8600818002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions engineer'",
+    "intent_reasons": "boost: solutions engineer (+2)",
+    "posted_at": "2026-07-08T06:29:49Z"
+  },
+  {
+    "rank": 24,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Solutions Architect - Lakebase",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568015002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-07-01T18:31:40Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "MongoDB",
+    "title": "Senior Solutions Architect",
+    "location": "London",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7942609",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-07-06T12:17:28Z"
   }
 ]

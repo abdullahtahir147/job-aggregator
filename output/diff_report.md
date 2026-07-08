@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `2139ba0feb8d`
-**Timestamp:** 2026-07-07T11:56:46Z
+**Run ID:** `c26933e48ff4`
+**Timestamp:** 2026-07-08T11:09:00Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 8373
+**New jobs this run:** 8415
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **430** new high-scoring job(s).
+Found **431** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -20,32 +20,32 @@ Found **430** new high-scoring job(s).
 | 5 | Twilio | Marketing Analyst, PLG & Self-Serve Analytics | Remote - US | 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923207) | title match: 'marketing analyst'; keyword: 'experiment'; keyword: 'experimentation' |
 | 6 | Braze | Senior Marketing Data Analyst | São Paulo | 5 | [Apply](https://boards.greenhouse.io/braze/jobs/8002934?gh_jid=8002934) | title match: 'marketing data'; title match: 'data analyst'; keyword: 'attribution' (+1 more) |
 | 7 | OpenAI | Senior Data Engineer, Core Experimentation | Seattle | 5 | [Apply](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
-| 8 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
-| 9 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 10 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 11 | Stripe | Data Analyst - Economic Insights & Communications | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7376419) | title match: 'data analyst' |
-| 12 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
-| 13 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
-| 14 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
-| 15 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
-| 16 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
-| 17 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
-| 18 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
-| 19 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
-| 20 | Stripe | Partner Solutions Architect, Technology Partnerships | United States | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7964568) | title match: 'solutions architect' |
-| 21 | Stripe | Program Manager, Solutions Architecture (GTM Transformation) | Chicago, Atlanta, US-Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7470827) | title match: 'solutions architect' |
-| 22 | Stripe | Solutions Architect, AI | US-San Francisco | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7975723) | title match: 'solutions architect' |
-| 23 | Stripe | Solutions Architect, Commercial, UK  | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7882492) | title match: 'solutions architect' |
-| 24 | Stripe | Solutions Architect, (Italian fluency)  | Milan | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7784353) | title match: 'solutions architect' |
-| 25 | Stripe | Solutions Architect, Startups and SMB | Dublin, Ireland | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7903814) | title match: 'solutions architect' |
+| 8 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
+| 9 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
+| 10 | Lendable | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/33260f89-2388-46f5-b294-9f3a8c557cc7) | title match: 'analytics engineer' |
+| 11 | Lendable | Graduate Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380) | title match: 'analytics engineer' |
+| 12 | Lendable | Lead Data Scientist (Non-Lending) | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/6a4605bf-91c8-4779-8571-ffc2832a6465) | title match: 'data scientist' |
+| 13 | Lendable | Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/731c9247-b0e5-4678-b2f7-2979d40f681f) | title match: 'analytics engineer' |
+| 14 | Lendable | Junior Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) | title match: 'analytics engineer' |
+| 15 | Lendable | Principal Data Scientist  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/c023f118-f529-4019-9e37-b9847fbbf889) | title match: 'data scientist' |
+| 16 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
+| 17 | Stripe | Data Analyst - Economic Insights & Communications | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7376419) | title match: 'data analyst' |
+| 18 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
+| 19 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
+| 20 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
+| 21 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
+| 22 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
+| 23 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
+| 24 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
+| 25 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
 
-... and 405 more not shown
+... and 406 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **713** new UK posting(s) not in top matches.
+Found **714** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -54,49 +54,49 @@ Found **713** new UK posting(s) not in top matches.
 | 3 | ASOS | Assistant Designer - WW Footwear | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000124107189) |
 | 4 | ASOS | Assistant Merchandiser (Topshop) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135218029) |
 | 5 | ASOS | Business Automation Associate  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134221769) |
-| 6 | ASOS | D365 Senior Functional Consultant (Supply Chain) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132578804) |
-| 7 | ASOS | Designer - Topshop Denim | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131478438) |
-| 8 | ASOS | Digital Studio Operator (6 MONTH FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135689263) |
-| 9 | ASOS | Digital Trading Assistant - Topshop | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133904749) |
-| 10 | ASOS | Digital Trading Manager - Topshop Topman | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133647380) |
-| 11 | ASOS | Fabric Sourcing Partner | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135468772) |
-| 12 | ASOS | Finance Data Analyst | London, England, United Kingdom | -2 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135720339) |
-| 13 | ASOS | Finance Manager - Customer & Commercial | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133073140) |
-| 14 | ASOS | HR Shared Services Advisor - 6 month FTC | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129810369) |
-| 15 | ASOS | Hairstylist (6 month FTC)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127241291) |
-| 16 | ASOS | Head of PR & Events | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134002659) |
-| 17 | ASOS | Head of Sustainability (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126501479) |
-| 18 | ASOS | Health and Safety Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133581855) |
-| 19 | ASOS | Junior Model Assistant (6 MONTH FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135725481) |
-| 20 | ASOS | Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131711668) |
-| 21 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135754419) |
-| 22 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135038137) |
-| 23 | ASOS | Mid-Weight Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131846669) |
-| 24 | ASOS | PPC Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130783434) |
-| 25 | ASOS | PR Executive (12 Month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134826669) |
-| 26 | ASOS | Platform Engineer – Data Science & AI Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135683144) |
-| 27 | ASOS | Principal Engineering Lead (Customer Experience) | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134783429) |
-| 28 | ASOS | Senior AI / LLM Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135043984) |
-| 29 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134965339) |
-| 30 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133905259) |
-| 31 | ASOS | Senior Applied Diffusion Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131906197) |
-| 32 | ASOS | Senior Assistant Buyer (Dress Up WW Fashion Brands) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136180539) |
-| 33 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
-| 34 | ASOS | Senior Creative Producer (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131632199) |
-| 35 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133993459) |
-| 36 | ASOS | Senior Finance Analyst | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133337029) |
-| 37 | ASOS | Senior Hair and Makeup Artist - 6M FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133584559) |
+| 6 | ASOS | Buyer (Sportswear) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136218503) |
+| 7 | ASOS | D365 Senior Functional Consultant (Supply Chain) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000132578804) |
+| 8 | ASOS | Designer - Topshop Denim | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131478438) |
+| 9 | ASOS | Digital Studio Operator (6 MONTH FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135689263) |
+| 10 | ASOS | Digital Trading Assistant - Topshop | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133904749) |
+| 11 | ASOS | Digital Trading Manager - Topshop Topman | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133647380) |
+| 12 | ASOS | Fabric Sourcing Partner | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135468772) |
+| 13 | ASOS | Finance Analyst | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136407631) |
+| 14 | ASOS | Finance Manager - Customer & Commercial | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133073140) |
+| 15 | ASOS | HR Shared Services Advisor - 6 month FTC | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000129810369) |
+| 16 | ASOS | Hairstylist (6 month FTC)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127241291) |
+| 17 | ASOS | Head of PR & Events | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134002659) |
+| 18 | ASOS | Head of Sustainability (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126501479) |
+| 19 | ASOS | Health and Safety Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133581855) |
+| 20 | ASOS | Junior Model Assistant (6 MONTH FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135725481) |
+| 21 | ASOS | Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136270379) |
+| 22 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135754419) |
+| 23 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135038137) |
+| 24 | ASOS | Mid-Weight Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131846669) |
+| 25 | ASOS | PPC Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130783434) |
+| 26 | ASOS | PR Executive (12 Month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134826669) |
+| 27 | ASOS | Platform Engineer – Data Science & AI Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135683144) |
+| 28 | ASOS | Principal Engineering Lead (Customer Experience) | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134783429) |
+| 29 | ASOS | Senior AI / LLM Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135043984) |
+| 30 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134965339) |
+| 31 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133905259) |
+| 32 | ASOS | Senior Applied Diffusion Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131906197) |
+| 33 | ASOS | Senior Assistant Buyer (Dress Up WW Fashion Brands) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136180539) |
+| 34 | ASOS | Senior Category Manager – Supply Chain  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127397426) |
+| 35 | ASOS | Senior Creative Producer (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131632199) |
+| 36 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133993459) |
+| 37 | ASOS | Senior Finance Analyst | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133337029) |
 | 38 | ASOS | Senior Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135754416) |
 | 39 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133593069) |
 | 40 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133308505) |
 
-... and 673 more not shown
+... and 674 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **7230** other new posting(s).
+Found **7270** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **7230** other new posting(s).
 | 24 | Airtable | Software Engineer, Product Frontend (8+ YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397228002) |
 | 25 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
 
-... and 7205 more not shown
+... and 7245 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 8373
-- **Top matches (score ≥ 3):** 430
-  - of which UK: 59
-- **New UK jobs (other):** 713
-- **Other new jobs:** 7230
+- **Total new jobs:** 8415
+- **Top matches (score ≥ 3):** 431
+  - of which UK: 56
+- **New UK jobs (other):** 714
+- **Other new jobs:** 7270
 
 ---
 _Generated by job-aggregator diff mode_
