@@ -129,6 +129,20 @@
   },
   {
     "rank": 10,
+    "tag": "APPLIED_AI_FDE",
+    "company": "ASOS",
+    "title": "Applied Scientist - Forecasting",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000137100038",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'applied scientist'",
+    "intent_reasons": "boost: applied scientist (+3)",
+    "posted_at": "2026-07-10T10:41:35.502Z"
+  },
+  {
+    "rank": 11,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "ASOS",
     "title": "Senior Product Analyst ",
@@ -142,7 +156,7 @@
     "posted_at": "2026-07-07T13:20:30.011Z"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
@@ -156,7 +170,7 @@
     "posted_at": "2026-07-01T14:29:53.951Z"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Regional Expansion",
@@ -170,7 +184,7 @@
     "posted_at": "2026-07-07T18:58:36.368Z"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -184,7 +198,7 @@
     "posted_at": "2026-07-02T10:35:11.920Z"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -198,7 +212,7 @@
     "posted_at": "2026-05-26T11:41:38.513Z"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Competitive Intelligence",
@@ -212,7 +226,7 @@
     "posted_at": "2026-05-23T06:50:47.103Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
@@ -226,7 +240,7 @@
     "posted_at": "2026-02-28T13:12:25Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "Block (Square)",
     "title": "Solutions Engineer",
@@ -240,7 +254,7 @@
     "posted_at": "2026-07-03T11:57:17Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -254,7 +268,7 @@
     "posted_at": "2026-07-01T18:31:45Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -268,7 +282,7 @@
     "posted_at": "2026-07-03T05:59:15Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Enterprise Accounts)",
@@ -282,7 +296,7 @@
     "posted_at": "2026-07-01T18:31:37Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Retail/CPG)",
@@ -296,7 +310,7 @@
     "posted_at": "2026-07-01T18:31:42Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Engineer - Qatar & S.Africa Fly-in",
@@ -310,7 +324,7 @@
     "posted_at": "2026-07-06T09:42:59Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Specialist Solutions Engineer (AI/ML)",
@@ -324,7 +338,7 @@
     "posted_at": "2026-07-08T06:29:49Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Solutions Architect - Lakebase",
@@ -336,19 +350,5 @@
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
     "posted_at": "2026-07-01T18:31:40Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "MongoDB",
-    "title": "Senior Solutions Architect",
-    "location": "London",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7942609",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-06T12:17:28Z"
   }
 ]
