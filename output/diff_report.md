@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `c563f0721528`
-**Timestamp:** 2026-07-10T11:58:37Z
+**Run ID:** `ffd62390c57f`
+**Timestamp:** 2026-07-11T10:19:00Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 8588
+**New jobs this run:** 8646
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **442** new high-scoring job(s).
+Found **450** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -20,32 +20,32 @@ Found **442** new high-scoring job(s).
 | 5 | Twilio | Marketing Analyst, PLG & Self-Serve Analytics | Remote - US | 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923207) | title match: 'marketing analyst'; keyword: 'experiment'; keyword: 'experimentation' |
 | 6 | Braze | Senior Marketing Data Analyst | São Paulo | 5 | [Apply](https://boards.greenhouse.io/braze/jobs/8002934?gh_jid=8002934) | title match: 'marketing data'; title match: 'data analyst'; keyword: 'attribution' (+1 more) |
 | 7 | OpenAI | Senior Data Engineer, Core Experimentation | Seattle | 5 | [Apply](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
-| 8 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
-| 9 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 10 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
-| 11 | Stripe | Billing Solutions Architect | Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7728618) | title match: 'solutions architect' |
-| 12 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 13 | Stripe | Data Analyst - Economic Insights & Communications | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7376419) | title match: 'data analyst' |
-| 14 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
-| 15 | Stripe | Data Scientist, Global Growth | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8043052) | title match: 'data scientist' |
-| 16 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
-| 17 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
-| 18 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
-| 19 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
-| 20 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
-| 21 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
-| 22 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
-| 23 | Stripe | Partner Solutions Architect, Technology Partnerships | United States | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7964568) | title match: 'solutions architect' |
-| 24 | Stripe | Program Manager, Solutions Architecture (GTM Transformation) | Chicago, Atlanta, US-Remote | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7470827) | title match: 'solutions architect' |
-| 25 | Stripe | Solutions Architect, AI | US-San Francisco | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7975723) | title match: 'solutions architect' |
+| 8 | OpenAI | Engineering Manager, Core Experimentation | Seattle | 5 | [Apply](https://jobs.ashbyhq.com/openai/eda0d516-94bd-4257-9679-aded0d709fba) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
+| 9 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
+| 10 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
+| 11 | Lendable | Junior Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) | title match: 'analytics engineer' |
+| 12 | Lendable | Data Scientist | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/805595d4-ce39-47db-82f5-8066c8fdea89) | title match: 'data scientist' |
+| 13 | Lendable | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/33260f89-2388-46f5-b294-9f3a8c557cc7) | title match: 'analytics engineer' |
+| 14 | Lendable | Graduate Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380) | title match: 'analytics engineer' |
+| 15 | Lendable | Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/731c9247-b0e5-4678-b2f7-2979d40f681f) | title match: 'analytics engineer' |
+| 16 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
+| 17 | Stripe | Data Analyst - Economic Insights & Communications | US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7376419) | title match: 'data analyst' |
+| 18 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
+| 19 | Stripe | Data Scientist, Global Growth | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8043052) | title match: 'data scientist' |
+| 20 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
+| 21 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
+| 22 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
+| 23 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
+| 24 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
+| 25 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
 
-... and 417 more not shown
+... and 425 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **728** new UK posting(s) not in top matches.
+Found **729** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -90,13 +90,13 @@ Found **728** new UK posting(s) not in top matches.
 | 39 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133593069) |
 | 40 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133308505) |
 
-... and 688 more not shown
+... and 689 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **7418** other new posting(s).
+Found **7467** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -107,36 +107,36 @@ Found **7418** other new posting(s).
 | 5 | Airtable | Delivery Consultant | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8582568002) |
 | 6 | Airtable | Delivery Consultant- West Coast | San Francisco, CA; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597950002) |
 | 7 | Airtable | Director, AI Transformation & Customer Success | Remote - US | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8602201002) |
-| 8 | Airtable | GTM Engineer | San Francisco, CA; New York, NY | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8536588002) |
-| 9 | Airtable | Global Payroll Manager | San Francisco, CA & Remote CA (PT) | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
-| 10 | Airtable | Lead Solutions Consultant | Sydney, Australia | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
-| 11 | Airtable | Manager, Business Development Representatives | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8626638002) |
-| 12 | Airtable | Manager, Sales Strategy & Planning  | Remote - US | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8610944002) |
-| 13 | Airtable | Procurement Operations Manager |  San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8603626002) |
-| 14 | Airtable | Product Designer (8+ YOE) | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8400776002) |
-| 15 | Airtable | Product Security Engineer | San Francisco, CA; New York, NY; Remote (Seattle, WA only) | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8533547002) |
-| 16 | Airtable | Program Manager, Community (Contract) | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8604559002) |
-| 17 | Airtable | Program Manager, Professional Services - East | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
-| 18 | Airtable | Program Manager, Professional Services - West | San Francisco, CA; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
-| 19 | Airtable | Senior Analyst, People Technology | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8447535002) |
-| 20 | Airtable | Senior Manager, Marketing AI Operations | San Francisco, CA; New York, NY; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8382119002) |
-| 21 | Airtable | Senior Manager, Procurement | San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8594452002) |
-| 22 | Airtable | Senior Mid Market Account Executive, AI Native | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8209823002) |
-| 23 | Airtable | Senior Solutions Architect | Remote - US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
-| 24 | Airtable | Senior Solutions Architect- West Coast | Remote-US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597941002) |
-| 25 | Airtable | Software Engineer, Product Frontend (8+ YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397228002) |
+| 8 | Airtable | Global Payroll Manager | San Francisco, CA & Remote CA (PT) | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
+| 9 | Airtable | Lead Solutions Consultant | Sydney, Australia | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8563194002) |
+| 10 | Airtable | Manager, Business Development Representatives | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8626638002) |
+| 11 | Airtable | Manager, Sales Strategy & Planning  | Remote - US | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8610944002) |
+| 12 | Airtable | Procurement Operations Manager |  San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8603626002) |
+| 13 | Airtable | Product Designer (8+ YOE) | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8400776002) |
+| 14 | Airtable | Product Security Engineer | San Francisco, CA; New York, NY; Remote (Seattle, WA only) | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8533547002) |
+| 15 | Airtable | Program Manager, Community (Contract) | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8604559002) |
+| 16 | Airtable | Program Manager, Professional Services - East | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
+| 17 | Airtable | Program Manager, Professional Services - West | San Francisco, CA; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
+| 18 | Airtable | Senior Analyst, People Technology | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8447535002) |
+| 19 | Airtable | Senior Manager, Marketing AI Operations | San Francisco, CA; New York, NY; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8382119002) |
+| 20 | Airtable | Senior Manager, Procurement | San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8594452002) |
+| 21 | Airtable | Senior Mid Market Account Executive, AI Native | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8209823002) |
+| 22 | Airtable | Senior Solutions Architect | Remote - US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
+| 23 | Airtable | Senior Solutions Architect- West Coast | Remote-US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597941002) |
+| 24 | Airtable | Software Engineer, Product Frontend (8+ YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397228002) |
+| 25 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
 
-... and 7393 more not shown
+... and 7442 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 8588
-- **Top matches (score ≥ 3):** 442
-  - of which UK: 57
-- **New UK jobs (other):** 728
-- **Other new jobs:** 7418
+- **Total new jobs:** 8646
+- **Top matches (score ≥ 3):** 450
+  - of which UK: 62
+- **New UK jobs (other):** 729
+- **Other new jobs:** 7467
 
 ---
 _Generated by job-aggregator diff mode_

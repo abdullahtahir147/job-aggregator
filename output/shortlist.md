@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `c563f0721528`
-**Generated:** 2026-07-10T11:58:37Z
+**Run ID:** `ffd62390c57f`
+**Generated:** 2026-07-11T10:19:00Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -9,7 +9,7 @@
 **Freshness filter:** <= 7d
 **Results:** 25
 
-### APPLIED_AI_FDE (17)
+### APPLIED_AI_FDE (13)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
@@ -22,14 +22,10 @@
 | 8 | Typeform | Senior Forward Deployed Engineer | United Kingdom (Remote)  | 0d | 10 | 1 | +9 | [Apply](https://job-boards.greenhouse.io/typeform/jobs/8043151) | title match: 'forward deployed'; exclude kw: 'platform'; very recent (0d) |
 | 10 | ASOS | Applied Scientist - Forecasting | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137100038) | title match: 'applied scientist'; very recent (0d) |
 | 12 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135285519) | title match: 'applied scientist'; very recent (0d) |
-| 18 | Block (Square) | Solutions Engineer | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](http://block.xyz/careers/jobs/5187354008?gh_jid=5187354008) | title match: 'solutions engineer'; very recent (0d) |
-| 19 | Databricks | AWS Cloud Partner Solutions Architect — EMEA | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8611599002) | title match: 'solutions architect'; very recent (0d) |
-| 20 | Databricks | Delivery Solutions Architect | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) | title match: 'solutions architect'; very recent (0d) |
-| 21 | Databricks | Senior Solutions Architect (Enterprise Accounts) | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002) | title match: 'solutions architect'; very recent (0d) |
-| 22 | Databricks | Senior Solutions Architect (Retail/CPG) | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002) | title match: 'solutions architect'; very recent (0d) |
-| 23 | Databricks | Senior Solutions Engineer - Qatar & S.Africa Fly-in | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8585873002) | title match: 'solutions engineer'; very recent (0d) |
-| 24 | Databricks | Senior Specialist Solutions Engineer (AI/ML) | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8600818002) | title match: 'solutions engineer'; very recent (0d) |
-| 25 | Databricks | Solutions Architect - Lakebase | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8568015002) | title match: 'solutions architect'; very recent (0d) |
+| 22 | Databricks | AWS Cloud Partner Solutions Architect — EMEA | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8611599002) | title match: 'solutions architect'; very recent (0d) |
+| 23 | Databricks | Delivery Solutions Architect | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) | title match: 'solutions architect'; very recent (0d) |
+| 24 | Databricks | Senior Solutions Architect (Enterprise Accounts) | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002) | title match: 'solutions architect'; very recent (0d) |
+| 25 | Databricks | Senior Solutions Architect (Retail/CPG) | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002) | title match: 'solutions architect'; very recent (0d) |
 
 ### MARKETING_SCIENCE (1)
 
@@ -37,17 +33,21 @@
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
 | 2 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom | 0d | 12 | 6 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) | title match: 'marketing data'; title match: 'data analyst'; very recent (0d) |
 
-### PRODUCT_GROWTH_DATA (7)
+### PRODUCT_GROWTH_DATA (11)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
 | 9 | Wise | Senior Product Analytics Manager - Scalable Growth | London, , United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127852460) | title match: 'product analytics'; very recent (0d) |
 | 11 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136233969) | title match: 'product analyst'; very recent (0d) |
-| 13 | Wise | Senior Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000136310259) | title match: 'product analyst'; very recent (0d) |
-| 14 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000135469859) | title match: 'product analyst'; very recent (0d) |
-| 15 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128469058) | title match: 'product analyst'; very recent (0d) |
-| 16 | Wise | Senior Product Analyst - Competitive Intelligence | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992539) | title match: 'product analyst'; very recent (0d) |
-| 17 | Zopa | Senior Product Analyst (AI) | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f) | title match: 'product analyst'; very recent (0d) |
+| 13 | Wise | Lead Product Analyst - Business Operations - Wise Buisness | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000137140659) | title match: 'product analyst'; very recent (0d) |
+| 14 | Wise | Lead Product Analyst - Send | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000137140569) | title match: 'product analyst'; very recent (0d) |
+| 15 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000137136380) | title match: 'product analyst'; very recent (0d) |
+| 16 | Wise | Lead Product Analyst - Business Account Management | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000137139919) | title match: 'product analyst'; very recent (0d) |
+| 17 | Wise | Senior Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000136310259) | title match: 'product analyst'; very recent (0d) |
+| 18 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000135469859) | title match: 'product analyst'; very recent (0d) |
+| 19 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000128469058) | title match: 'product analyst'; very recent (0d) |
+| 20 | Wise | Senior Product Analyst - Competitive Intelligence | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000127992539) | title match: 'product analyst'; very recent (0d) |
+| 21 | Zopa | Senior Product Analyst (AI) | London | 0d | 9 | 3 | +6 | [Apply](https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f) | title match: 'product analyst'; very recent (0d) |
 
 ---
 _Generated by job-aggregator shortlist_
