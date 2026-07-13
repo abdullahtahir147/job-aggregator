@@ -31,6 +31,20 @@
   {
     "rank": 3,
     "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Remote - United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-07-12T11:25:20Z"
+  },
+  {
+    "rank": 4,
+    "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Manager, Forward Deployed Engineering - London",
     "location": "London, UK",
@@ -43,7 +57,7 @@
     "posted_at": "2026-04-23T22:13:01Z"
   },
   {
-    "rank": 4,
+    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -57,7 +71,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 5,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -71,7 +85,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -85,7 +99,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -99,7 +113,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "Typeform",
     "title": "Senior Forward Deployed Engineer",
@@ -114,7 +128,7 @@
     "posted_at": "2026-07-02T06:26:06Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analytics Manager - Scalable Growth",
@@ -128,7 +142,7 @@
     "posted_at": "2026-05-22T10:33:11.015Z"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist - Forecasting",
@@ -142,7 +156,7 @@
     "posted_at": "2026-07-10T10:41:35.502Z"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "ASOS",
     "title": "Senior Product Analyst ",
@@ -156,7 +170,7 @@
     "posted_at": "2026-07-07T13:20:30.011Z"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
@@ -170,7 +184,7 @@
     "posted_at": "2026-07-01T14:29:53.951Z"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Buisness",
@@ -184,7 +198,7 @@
     "posted_at": "2026-07-10T13:47:25.721Z"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -198,7 +212,7 @@
     "posted_at": "2026-07-10T13:46:49.499Z"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -212,7 +226,7 @@
     "posted_at": "2026-07-10T13:45:12.082Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -226,7 +240,7 @@
     "posted_at": "2026-07-10T13:44:25.624Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Regional Expansion",
@@ -240,7 +254,7 @@
     "posted_at": "2026-07-07T18:58:36.368Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -254,7 +268,7 @@
     "posted_at": "2026-07-02T10:35:11.920Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -268,7 +282,7 @@
     "posted_at": "2026-05-26T11:41:38.513Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Competitive Intelligence",
@@ -282,7 +296,7 @@
     "posted_at": "2026-05-23T06:50:47.103Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
@@ -296,7 +310,7 @@
     "posted_at": "2026-02-28T13:12:25Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -310,7 +324,7 @@
     "posted_at": "2026-07-01T18:31:45Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -324,7 +338,7 @@
     "posted_at": "2026-07-03T05:59:15Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Enterprise Accounts)",
@@ -336,19 +350,5 @@
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
     "posted_at": "2026-07-01T18:31:37Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Senior Solutions Architect (Retail/CPG)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-01T18:31:42Z"
   }
 ]
