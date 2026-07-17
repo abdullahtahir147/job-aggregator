@@ -40,7 +40,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-07-12T11:25:20Z"
+    "posted_at": "2026-07-16T22:39:34Z"
   },
   {
     "rank": 4,
@@ -171,20 +171,6 @@
   },
   {
     "rank": 13,
-    "tag": "APPLIED_AI_FDE",
-    "company": "ASOS",
-    "title": "Applied Scientist",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000135285519",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'applied scientist'",
-    "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-07-01T14:29:53.951Z"
-  },
-  {
-    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Intercom",
     "title": "Senior Analytics Engineer",
@@ -196,10 +182,10 @@
     "match_reason": "+3 title match: 'analytics engineer'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'; -2 exclude kw: 'infrastructure'",
     "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What is the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;The Analytics Engineering team provides all parts of Fin&#39;s business with the right set of accurate and up-to-date data tables that form the basis of all of our most important operational and strategic data-driven decisions. The team uses their deep knowledge of how GTM and Pro",
-    "posted_at": "2026-07-14T07:10:10Z"
+    "posted_at": "2026-07-17T05:39:42Z"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Buisness",
@@ -213,7 +199,7 @@
     "posted_at": "2026-07-10T13:47:25.721Z"
   },
   {
-    "rank": 16,
+    "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -227,7 +213,7 @@
     "posted_at": "2026-07-10T13:46:49.499Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -241,7 +227,7 @@
     "posted_at": "2026-07-10T13:45:12.082Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -255,7 +241,7 @@
     "posted_at": "2026-07-10T13:44:25.624Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Regional Expansion",
@@ -269,7 +255,7 @@
     "posted_at": "2026-07-07T18:58:36.368Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -283,7 +269,7 @@
     "posted_at": "2026-07-02T10:35:11.920Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -297,7 +283,7 @@
     "posted_at": "2026-05-26T11:41:38.513Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Competitive Intelligence",
@@ -311,7 +297,7 @@
     "posted_at": "2026-05-23T06:50:47.103Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
@@ -325,7 +311,7 @@
     "posted_at": "2026-02-28T13:12:25Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -336,10 +322,10 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-01T18:31:45Z"
+    "posted_at": "2026-07-16T22:39:34Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -350,6 +336,20 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-03T05:59:15Z"
+    "posted_at": "2026-07-16T22:39:34Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect (Enterprise Accounts)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-07-16T22:39:34Z"
   }
 ]
