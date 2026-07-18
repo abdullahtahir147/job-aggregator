@@ -1,22 +1,22 @@
 # Diff Report
 
-**Run ID:** `1cd030211c40`
-**Timestamp:** 2026-07-17T10:52:01Z
+**Run ID:** `220c1d54cc73`
+**Timestamp:** 2026-07-18T10:22:30Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 8862
+**New jobs this run:** 8885
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **451** new high-scoring job(s).
+Found **449** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | OpenAI | Data Scientist, Core Experimentation  | Seattle | 8 | [Apply](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
 | 2 | Figma | Data Scientist, Marketing | San Francisco, CA • New York, NY • United States | 7 | [Apply](https://boards.greenhouse.io/figma/jobs/6013303004?gh_jid=6013303004) | title match: 'data scientist'; keyword: 'attribution'; keyword: 'incrementality' (+8 more) |
-| 3 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) | title match: 'marketing data'; title match: 'data analyst' |
-| 4 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
+| 3 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
+| 4 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494) | title match: 'marketing data'; title match: 'data analyst' |
 | 5 | Monzo | Senior Data Scientist | Barcelona | 5 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8064099) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'a/b' |
 | 6 | Twilio | Marketing Analyst, PLG & Self-Serve Analytics | Remote - US | 5 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7923207) | title match: 'marketing analyst'; keyword: 'experiment'; keyword: 'experimentation' |
 | 7 | Braze | Senior Marketing Data Analyst | São Paulo | 5 | [Apply](https://boards.greenhouse.io/braze/jobs/8002934?gh_jid=8002934) | title match: 'marketing data'; title match: 'data analyst'; keyword: 'attribution' (+1 more) |
@@ -24,28 +24,28 @@ Found **451** new high-scoring job(s).
 | 9 | OpenAI | Engineering Manager, Core Experimentation | Seattle | 5 | [Apply](https://jobs.ashbyhq.com/openai/eda0d516-94bd-4257-9679-aded0d709fba) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 | 10 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
 | 11 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 12 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 13 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
-| 14 | Stripe | Data Scientist, Global Growth | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8043052) | title match: 'data scientist' |
-| 15 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
-| 16 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
-| 17 | Stripe | Financial Data Analyst | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8044924) | title match: 'data analyst' |
-| 18 | Stripe | Forward Deployed AI Accelerator, Marketing | Remote in the US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055930) | title match: 'forward deployed' |
-| 19 | Stripe | Forward Deployed Engineer, Professional Services | Dublin, Ireland  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055050) | title match: 'forward deployed' |
-| 20 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
-| 21 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
-| 22 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
-| 23 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
-| 24 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
-| 25 | Stripe | Partner Solutions Architect, Technology Partnerships | United States | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7964568) | title match: 'solutions architect' |
+| 12 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
+| 13 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
+| 14 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
+| 15 | Stripe | Data Scientist, Global Growth | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8043052) | title match: 'data scientist' |
+| 16 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
+| 17 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
+| 18 | Stripe | Financial Data Analyst | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8044924) | title match: 'data analyst' |
+| 19 | Stripe | Forward Deployed AI Accelerator, Marketing | Remote in the US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055930) | title match: 'forward deployed' |
+| 20 | Stripe | Forward Deployed Engineer, Professional Services | Dublin, Ireland  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055050) | title match: 'forward deployed' |
+| 21 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
+| 22 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
+| 23 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
+| 24 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
+| 25 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
 
-... and 426 more not shown
+... and 424 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **736** new UK posting(s) not in top matches.
+Found **745** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -69,8 +69,8 @@ Found **736** new UK posting(s) not in top matches.
 | 18 | ASOS | Head of Sustainability (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000126501479) |
 | 19 | ASOS | Health and Safety Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133581855) |
 | 20 | ASOS | Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137632640) |
-| 21 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137836956) |
-| 22 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000135038137) |
+| 21 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000138330460) |
+| 22 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000138335499) |
 | 23 | ASOS | Merchandising Assistant  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137707480) |
 | 24 | ASOS | Mid-Weight Shoot Producer (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131846669) |
 | 25 | ASOS | PPC Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000130783434) |
@@ -84,19 +84,19 @@ Found **736** new UK posting(s) not in top matches.
 | 33 | ASOS | Senior Applied Diffusion Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000131906197) |
 | 34 | ASOS | Senior Assistant Buyer (Dress Up WW Fashion Brands) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136180539) |
 | 35 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136774489) |
-| 36 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137494849) |
-| 37 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137474529) |
+| 36 | ASOS | Senior Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000138330421) |
+| 37 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000138331750) |
 | 38 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133308505) |
 | 39 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127827561) |
 | 40 | ASOS | Senior Online Trading Manager  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000134226314) |
 
-... and 696 more not shown
+... and 705 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **7675** other new posting(s).
+Found **7691** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **7675** other new posting(s).
 | 24 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
 | 25 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
 
-... and 7650 more not shown
+... and 7666 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 8862
-- **Top matches (score ≥ 3):** 451
-  - of which UK: 62
-- **New UK jobs (other):** 736
-- **Other new jobs:** 7675
+- **Total new jobs:** 8885
+- **Top matches (score ≥ 3):** 449
+  - of which UK: 63
+- **New UK jobs (other):** 745
+- **Other new jobs:** 7691
 
 ---
 _Generated by job-aggregator diff mode_

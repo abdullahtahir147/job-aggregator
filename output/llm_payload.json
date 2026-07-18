@@ -20,13 +20,13 @@
     "company": "Wise",
     "title": "Senior Marketing Data Analyst - Marketing Science",
     "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000124132059",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000138353494",
     "final_score": 12,
     "base_score": 6,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'marketing data'; +3 title match: 'data analyst'",
     "intent_reasons": "boost: marketing science (+3)",
-    "posted_at": "2026-05-01T14:08:18.898Z"
+    "posted_at": "2026-07-17T14:43:07.442Z"
   },
   {
     "rank": 3,
@@ -40,7 +40,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-07-16T22:39:34Z"
+    "posted_at": "2026-07-18T01:00:05Z"
   },
   {
     "rank": 4,
@@ -322,7 +322,7 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-16T22:39:34Z"
+    "posted_at": "2026-07-18T01:05:04Z"
   },
   {
     "rank": 24,
@@ -336,7 +336,7 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-16T22:39:34Z"
+    "posted_at": "2026-07-18T00:43:47Z"
   },
   {
     "rank": 25,
@@ -350,6 +350,6 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-16T22:39:34Z"
+    "posted_at": "2026-07-18T00:39:31Z"
   }
 ]

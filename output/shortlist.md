@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `1cd030211c40`
-**Generated:** 2026-07-17T10:52:01Z
+**Run ID:** `220c1d54cc73`
+**Generated:** 2026-07-18T10:22:30Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -30,7 +30,7 @@
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 2 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom | 0d | 12 | 6 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059) | title match: 'marketing data'; title match: 'data analyst'; very recent (0d) |
+| 2 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom | 0d | 12 | 6 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494) | title match: 'marketing data'; title match: 'data analyst'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (12)
 

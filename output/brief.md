@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `1cd030211c40` | 2026-07-17T10:52:01Z
-**Companies:** 133 | **Jobs:** 12226 | **New:** 8862 | **New UK:** 798 | **Unknown ATS:** 18
+**Run:** `220c1d54cc73` | 2026-07-18T10:22:30Z
+**Companies:** 133 | **Jobs:** 12233 | **New:** 8885 | **New UK:** 808 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 33
 
 ## Apply Now
@@ -14,7 +14,7 @@
 - **Wise — Senior Marketing Data Analyst - Marketing Science** [MARKETING_SCIENCE]  Score: 12 (base 6, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'marketing data'; title match: 'data analyst' | boost: marketing science (+3) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000124132059)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494)
 
 - **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   Remote - United Kingdom
