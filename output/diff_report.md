@@ -1,9 +1,9 @@
 # Diff Report
 
-**Run ID:** `220c1d54cc73`
-**Timestamp:** 2026-07-18T10:22:30Z
+**Run ID:** `4c2b0a4b0d75`
+**Timestamp:** 2026-07-19T10:38:16Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 8885
+**New jobs this run:** 8869
 
 ---
 
@@ -24,20 +24,20 @@ Found **449** new high-scoring job(s).
 | 9 | OpenAI | Engineering Manager, Core Experimentation | Seattle | 5 | [Apply](https://jobs.ashbyhq.com/openai/eda0d516-94bd-4257-9679-aded0d709fba) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 | 10 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
 | 11 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 12 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
-| 13 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 14 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
-| 15 | Stripe | Data Scientist, Global Growth | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8043052) | title match: 'data scientist' |
-| 16 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
-| 17 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
-| 18 | Stripe | Financial Data Analyst | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8044924) | title match: 'data analyst' |
-| 19 | Stripe | Forward Deployed AI Accelerator, Marketing | Remote in the US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055930) | title match: 'forward deployed' |
-| 20 | Stripe | Forward Deployed Engineer, Professional Services | Dublin, Ireland  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055050) | title match: 'forward deployed' |
-| 21 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
-| 22 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London 🇬🇧 | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
-| 23 | Stripe | Partner Solutions Architect - Billing | USA  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927330) | title match: 'solutions architect' |
-| 24 | Stripe | Partner Solutions Architect, (German fluency) | Berlin, Munich  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7919325) | title match: 'solutions architect' |
-| 25 | Stripe | Partner Solutions Architect - LatAm | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7927324) | title match: 'solutions architect' |
+| 12 | Lendable | Junior Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) | title match: 'analytics engineer' |
+| 13 | Lendable | Data Scientist | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/805595d4-ce39-47db-82f5-8066c8fdea89) | title match: 'data scientist' |
+| 14 | Lendable | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/33260f89-2388-46f5-b294-9f3a8c557cc7) | title match: 'analytics engineer' |
+| 15 | Lendable | Graduate Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380) | title match: 'analytics engineer' |
+| 16 | Lendable | Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/731c9247-b0e5-4678-b2f7-2979d40f681f) | title match: 'analytics engineer' |
+| 17 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
+| 18 | Stripe | Data Analyst, Macro Analytics | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=6166982) | title match: 'data analyst' |
+| 19 | Stripe | Data Scientist, Global Growth | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8043052) | title match: 'data scientist' |
+| 20 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
+| 21 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
+| 22 | Stripe | Financial Data Analyst | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8044924) | title match: 'data analyst' |
+| 23 | Stripe | Forward Deployed AI Accelerator, Marketing | Remote in the US | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055930) | title match: 'forward deployed' |
+| 24 | Stripe | Forward Deployed Engineer, Professional Services | Dublin, Ireland  | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055050) | title match: 'forward deployed' |
+| 25 | Stripe | Forward Deployed Integration Engineer, Professional Services | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8009604) | title match: 'forward deployed' |
 
 ... and 424 more not shown
 
@@ -96,7 +96,7 @@ Found **745** new UK posting(s) not in top matches.
 
 ## Other New Jobs
 
-Found **7691** other new posting(s).
+Found **7675** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **7691** other new posting(s).
 | 24 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
 | 25 | Block (Square) | ASIC Validation Engineer | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
 
-... and 7666 more not shown
+... and 7650 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 8885
+- **Total new jobs:** 8869
 - **Top matches (score ≥ 3):** 449
   - of which UK: 63
 - **New UK jobs (other):** 745
-- **Other new jobs:** 7691
+- **Other new jobs:** 7675
 
 ---
 _Generated by job-aggregator diff mode_
