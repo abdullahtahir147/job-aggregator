@@ -12,7 +12,7 @@
     "match_reason": "+3 title match: 'solutions architect'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'",
     "intent_reasons": "boost: solutions engineer (+2); boost: solutions architect (+2); boost: experimentation (+3); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;job__description body&quot;&gt;\n&lt;div&gt;\n&lt;h2&gt;&lt;strong&gt;What’s The Opportunity?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Fin is an AI-first company revolutionizing how customer service is delivered today. Our entire platform is driven by an advanced AI Agent who we call Fin, who blends automation with empathy, setting ",
-    "posted_at": "2026-07-10T18:01:36Z"
+    "posted_at": "2026-07-20T13:52:46Z"
   },
   {
     "rank": 2,
@@ -182,7 +182,7 @@
     "match_reason": "+3 title match: 'analytics engineer'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'; -2 exclude kw: 'infrastructure'",
     "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What is the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;The Analytics Engineering team provides all parts of Fin&#39;s business with the right set of accurate and up-to-date data tables that form the basis of all of our most important operational and strategic data-driven decisions. The team uses their deep knowledge of how GTM and Pro",
-    "posted_at": "2026-07-17T05:39:42Z"
+    "posted_at": "2026-07-20T13:52:46Z"
   },
   {
     "rank": 14,
@@ -285,34 +285,6 @@
   {
     "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Wise Business",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000128469058",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-26T11:41:38.513Z"
-  },
-  {
-    "rank": 22,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Competitive Intelligence",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000127992539",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-05-23T06:50:47.103Z"
-  },
-  {
-    "rank": 23,
-    "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
     "location": "London",
@@ -325,7 +297,7 @@
     "posted_at": "2026-02-28T13:12:25Z"
   },
   {
-    "rank": 24,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AWS Cloud Partner Solutions Architect — EMEA",
@@ -339,7 +311,7 @@
     "posted_at": "2026-07-18T01:05:04Z"
   },
   {
-    "rank": 25,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -351,5 +323,33 @@
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
     "posted_at": "2026-07-18T00:43:47Z"
+  },
+  {
+    "rank": 24,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect (Enterprise Accounts)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-07-18T00:39:31Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect (Retail/CPG)",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-07-18T00:57:59Z"
   }
 ]
