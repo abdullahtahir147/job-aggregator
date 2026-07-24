@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `7f030fd97aaa`
-**Generated:** 2026-07-23T11:14:39Z
+**Run ID:** `f42fd274d313`
+**Generated:** 2026-07-24T11:05:47Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -19,8 +19,8 @@
 | 5 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
 | 6 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed'; very recent (0d) |
 | 7 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed'; very recent (0d) |
-| 8 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
-| 9 | Typeform | Senior Forward Deployed Engineer | United Kingdom (Remote)  | 0d | 10 | 1 | +9 | [Apply](https://job-boards.greenhouse.io/typeform/jobs/8043151) | title match: 'forward deployed'; exclude kw: 'platform'; very recent (0d) |
+| 8 | Palantir | Forward Deployed Software Engineer - NATO | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0) | title match: 'forward deployed'; very recent (0d) |
+| 9 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
 | 11 | ASOS | Applied Scientist - Forecasting | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137100038) | title match: 'applied scientist'; very recent (0d) |
 | 22 | Databricks | AWS Cloud Partner Solutions Architect — EMEA | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8611599002) | title match: 'solutions architect'; very recent (0d) |
 | 23 | Databricks | Delivery Solutions Architect | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) | title match: 'solutions architect'; very recent (0d) |

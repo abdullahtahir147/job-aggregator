@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `7f030fd97aaa` | 2026-07-23T11:14:39Z
-**Companies:** 133 | **Jobs:** 12355 | **New:** 9141 | **New UK:** 818 | **Unknown ATS:** 18
+**Run:** `f42fd274d313` | 2026-07-24T11:05:47Z
+**Companies:** 133 | **Jobs:** 12348 | **New:** 9171 | **New UK:** 827 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 35
 
 ## Apply Now
@@ -41,17 +41,17 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850)
 
+- **Palantir — Forward Deployed Software Engineer - NATO** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
+  London, United Kingdom
+  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
+  [Apply](https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0)
+
+## Worth a Look
+
 - **Palantir — Forward Deployed Software Engineer - UK Government** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152)
-
-## Worth a Look
-
-- **Typeform — Senior Forward Deployed Engineer** [APPLIED_AI_FDE]  Score: 10 (base 1, Δ+9) | 0d old
-  United Kingdom (Remote) 
-  Why: title match: 'forward deployed'; exclude kw: 'platform' | boost: forward deployed (+4); boost: solutions engineer (+2); boost: growth (... | very recent (0d)
-  [Apply](https://job-boards.greenhouse.io/typeform/jobs/8043151)
 
 - **Wise — Senior Product Analytics Manager - Scalable Growth** [PRODUCT_GROWTH_DATA]  Score: 10 (base 3, Δ+7) | 0d old
   London, , United Kingdom
