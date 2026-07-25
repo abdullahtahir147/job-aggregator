@@ -40,7 +40,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-07-21T13:21:54Z"
+    "posted_at": "2026-07-24T19:29:03Z"
   },
   {
     "rank": 4,
@@ -307,7 +307,7 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-18T01:05:04Z"
+    "posted_at": "2026-07-24T19:29:05Z"
   },
   {
     "rank": 23,
@@ -321,7 +321,7 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-18T00:43:47Z"
+    "posted_at": "2026-07-24T19:29:01Z"
   },
   {
     "rank": 24,
@@ -335,20 +335,20 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-18T00:39:31Z"
+    "posted_at": "2026-07-24T19:29:00Z"
   },
   {
     "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "Senior Solutions Architect (Retail/CPG)",
+    "title": "Senior Specialist Solutions Architect (AI/ML)",
     "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8615245002",
     "final_score": 8,
     "base_score": 3,
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-18T00:57:59Z"
+    "posted_at": "2026-07-24T19:29:05Z"
   }
 ]

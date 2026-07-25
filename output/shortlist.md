@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `f42fd274d313`
-**Generated:** 2026-07-24T11:05:47Z
+**Run ID:** `46c1a2e30351`
+**Generated:** 2026-07-25T10:37:51Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -25,7 +25,7 @@
 | 22 | Databricks | AWS Cloud Partner Solutions Architect — EMEA | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8611599002) | title match: 'solutions architect'; very recent (0d) |
 | 23 | Databricks | Delivery Solutions Architect | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) | title match: 'solutions architect'; very recent (0d) |
 | 24 | Databricks | Senior Solutions Architect (Enterprise Accounts) | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002) | title match: 'solutions architect'; very recent (0d) |
-| 25 | Databricks | Senior Solutions Architect (Retail/CPG) | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002) | title match: 'solutions architect'; very recent (0d) |
+| 25 | Databricks | Senior Specialist Solutions Architect (AI/ML) | London, United Kingdom | 0d | 8 | 3 | +5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8615245002) | title match: 'solutions architect'; very recent (0d) |
 
 ### MARKETING_SCIENCE (1)
 
