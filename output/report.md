@@ -1,10 +1,10 @@
 # Job Aggregation Report
 
-**Run ID:** `46c1a2e30351`
-**Timestamp:** 2026-07-25T10:37:51Z
+**Run ID:** `bce565c29768`
+**Timestamp:** 2026-07-26T10:46:57Z
 **Companies processed:** 133
-**Total jobs found:** 12403
-**New jobs this run:** 9249
+**Total jobs found:** 12406
+**New jobs this run:** 9252
 
 ---
 
@@ -859,21 +859,21 @@ Found **85** UK match(es) with score >= 3.
 | 1 | Deliveroo | Senior Data Scientist - Experimentation | London - The River Building HQ | 8 | [Apply](https://jobs.ashbyhq.com/deliveroo/e2a26e27-5d65-4add-8732-6a92675145de) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
 | 2 | Intercom | Senior Data Scientist - Product Analytics | London, England | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/6317929) | title match: 'data scientist'; title match: 'product analytics'; keyword: 'experiment' (+2 more) |
 | 3 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494) | title match: 'marketing data'; title match: 'data analyst' |
-| 4 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
-| 5 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
-| 6 | Ocado Technology | Data Analyst | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4873170101&gh_jid=4873170101) | title match: 'data analyst' |
-| 7 | Ocado Technology | Ecommerce Data Analyst | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4895408101&gh_jid=4895408101) | title match: 'data analyst' |
-| 8 | Ocado Technology | GA4 Data Analyst | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4933839101&gh_jid=4933839101) | title match: 'data analyst' |
-| 9 | Ocado Technology | Geospatial Data Analyst  | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4933617101&gh_jid=4933617101) | title match: 'data analyst' |
-| 10 | Ocado Technology | Senior Data Analyst | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4897923101&gh_jid=4897923101) | title match: 'data analyst' |
-| 11 | Lendable | Senior Strategy and Data Analyst | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/fdfbe01f-4e33-48c7-a03a-e4e1e217f8e9) | title match: 'data analyst' |
-| 12 | Lendable | Junior Analytics Engineer  | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) | title match: 'analytics engineer' |
-| 13 | Lendable | Data Scientist | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/805595d4-ce39-47db-82f5-8066c8fdea89) | title match: 'data scientist' |
-| 14 | Lendable | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/33260f89-2388-46f5-b294-9f3a8c557cc7) | title match: 'analytics engineer' |
-| 15 | Lendable | Graduate Analytics Engineer  | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380) | title match: 'analytics engineer' |
-| 16 | Lendable | Analytics Engineer | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/731c9247-b0e5-4678-b2f7-2979d40f681f) | title match: 'analytics engineer' |
-| 17 | Lendable | Staff Analytics Engineer | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/391fefce-7b77-4f5c-8606-5cce76629d8e) | title match: 'analytics engineer' |
-| 18 | Zopa | Senior Product Analyst (AI) | London | 3 | [Apply](https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f) | title match: 'product analyst' |
+| 4 | Lendable | Senior Strategy and Data Analyst | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/lendable/fdfbe01f-4e33-48c7-a03a-e4e1e217f8e9) | title match: 'data analyst' |
+| 5 | Lendable | Junior Analytics Engineer  | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) | title match: 'analytics engineer' |
+| 6 | Lendable | Data Scientist | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/805595d4-ce39-47db-82f5-8066c8fdea89) | title match: 'data scientist' |
+| 7 | Lendable | Senior Analytics Engineer | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/33260f89-2388-46f5-b294-9f3a8c557cc7) | title match: 'analytics engineer' |
+| 8 | Lendable | Graduate Analytics Engineer  | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380) | title match: 'analytics engineer' |
+| 9 | Lendable | Analytics Engineer | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/731c9247-b0e5-4678-b2f7-2979d40f681f) | title match: 'analytics engineer' |
+| 10 | Lendable | Staff Analytics Engineer | London | 3 | [Apply](https://jobs.ashbyhq.com/lendable/391fefce-7b77-4f5c-8606-5cce76629d8e) | title match: 'analytics engineer' |
+| 11 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
+| 12 | Stripe | Global Head of Specialist Solutions Architecture, Revenue  | London | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7963508) | title match: 'solutions architect' |
+| 13 | Zopa | Senior Product Analyst (AI) | London | 3 | [Apply](https://jobs.lever.co/zopa/a544cc9a-a6a5-4067-a4e5-35546bc2367f) | title match: 'product analyst' |
+| 14 | Ocado Technology | Data Analyst | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4873170101&gh_jid=4873170101) | title match: 'data analyst' |
+| 15 | Ocado Technology | Ecommerce Data Analyst | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4895408101&gh_jid=4895408101) | title match: 'data analyst' |
+| 16 | Ocado Technology | GA4 Data Analyst | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4933839101&gh_jid=4933839101) | title match: 'data analyst' |
+| 17 | Ocado Technology | Geospatial Data Analyst  | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4933617101&gh_jid=4933617101) | title match: 'data analyst' |
+| 18 | Ocado Technology | Senior Data Analyst | Hatfield, United Kingdom | 3 | [Apply](https://careers.ocadogroup.com/jobs/details?gh_jid=4897923101&gh_jid=4897923101) | title match: 'data analyst' |
 | 19 | Deliveroo | Senior Data Scientist (Economist) | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/69b18306-5975-49bd-8282-a5a243faf839) | title match: 'data scientist' |
 | 20 | Deliveroo | Senior Analytics Engineer | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/70697702-ea50-4be3-a55b-58e6ccece84e) | title match: 'analytics engineer' |
 | 21 | Deliveroo | Senior Data Scientist  | London - The River Building HQ | 3 | [Apply](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) | title match: 'data scientist' |
@@ -897,10 +897,10 @@ Found **85** UK match(es) with score >= 3.
 | 39 | Databricks | Sr. Specialist Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8642617002) | title match: 'solutions architect' |
 | 40 | MongoDB | Senior Solutions Architect | London | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7942609) | title match: 'solutions architect' |
 | 41 | MongoDB | Vice President, Solutions Architecture - EMEA | Dublin; London | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8056751) | title match: 'solutions architect' |
-| 42 | ASOS | Applied Scientist - Forecasting | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137100038) | title match: 'applied scientist' |
-| 43 | ASOS | Digital Analytics Engineer | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136274749) | title match: 'analytics engineer' |
-| 44 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136233969) | title match: 'product analyst' |
-| 45 | Linear | Solutions Engineer, Europe | London | 3 | [Apply](https://jobs.ashbyhq.com/linear/d37b3d76-3080-47f9-8a19-60505573112c) | title match: 'solutions engineer' |
+| 42 | Linear | Solutions Engineer, Europe | London | 3 | [Apply](https://jobs.ashbyhq.com/linear/d37b3d76-3080-47f9-8a19-60505573112c) | title match: 'solutions engineer' |
+| 43 | ASOS | Applied Scientist - Forecasting | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000137100038) | title match: 'applied scientist' |
+| 44 | ASOS | Digital Analytics Engineer | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136274749) | title match: 'analytics engineer' |
+| 45 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136233969) | title match: 'product analyst' |
 | 46 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed' |
 | 47 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed' |
 | 48 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed' |

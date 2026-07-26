@@ -1,9 +1,9 @@
 # Diff Report
 
-**Run ID:** `46c1a2e30351`
-**Timestamp:** 2026-07-25T10:37:51Z
+**Run ID:** `bce565c29768`
+**Timestamp:** 2026-07-26T10:46:57Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 9249
+**New jobs this run:** 9252
 
 ---
 
@@ -21,8 +21,8 @@ Found **480** new high-scoring job(s).
 | 6 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
 | 7 | Datadog | Manager I, Engineering - Applied AI/ML Product Analytics Suite | Paris, France | 6 | [Apply](https://careers.datadoghq.com/detail/8081251/?gh_jid=8081251) | title match: 'applied ai'; title match: 'product analytics' |
 | 8 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494) | title match: 'marketing data'; title match: 'data analyst' |
-| 9 | Tide | Senior Product Analyst | India, Delhi NCR | 5 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768184003) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' |
-| 10 | Monzo | Senior Data Scientist | Barcelona | 5 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8064099) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'a/b' |
+| 9 | Monzo | Senior Data Scientist | Barcelona | 5 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8064099) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'a/b' |
+| 10 | Tide | Senior Product Analyst | India, Delhi NCR | 5 | [Apply](https://job-boards.greenhouse.io/tide/jobs/7768184003) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' |
 | 11 | Pendo | Sr. Data Scientist | Raleigh, NC | 5 | [Apply](https://job-boards.greenhouse.io/pendo/jobs/8635152002) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' |
 | 12 | Braze | Senior Marketing Data Analyst | São Paulo | 5 | [Apply](https://boards.greenhouse.io/braze/jobs/8002934?gh_jid=8002934) | title match: 'marketing data'; title match: 'data analyst'; keyword: 'attribution' (+1 more) |
 | 13 | Gusto | Senior Performance Marketing Manager, GTM Experimentation | Denver, CO;San Francisco, CA;New York, NY | 5 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8075908) | title match: 'experimentation'; keyword: 'attribution'; keyword: 'experiment' (+3 more) |
@@ -30,14 +30,14 @@ Found **480** new high-scoring job(s).
 | 15 | OpenAI | Engineering Manager, Core Experimentation | Seattle | 5 | [Apply](https://jobs.ashbyhq.com/openai/eda0d516-94bd-4257-9679-aded0d709fba) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 | 16 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
 | 17 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
-| 18 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
-| 19 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 20 | Stripe | Data Analyst, Financial Data Engineering | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8070572) | title match: 'data analyst' |
-| 21 | Stripe | Data Scientist, Global Growth | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8043052) | title match: 'data scientist' |
-| 22 | Stripe | Data Scientist, Payments | Dublin | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8018297) | title match: 'data scientist' |
-| 23 | Stripe | Engineering Manager, Forward Deployed (Privy) | NYC-Privy | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7947546) | title match: 'forward deployed' |
-| 24 | Stripe | Financial Data Analyst | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8044924) | title match: 'data analyst' |
-| 25 | Stripe | Forward Deployed AI Accelerator, Marketing | Remote in the US, Remote in Canada | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8055930) | title match: 'forward deployed' |
+| 18 | Lendable | Junior Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/95c5d395-316d-4193-b11d-d4d1341a7390) | title match: 'analytics engineer' |
+| 19 | Lendable | Data Scientist | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/805595d4-ce39-47db-82f5-8066c8fdea89) | title match: 'data scientist' |
+| 20 | Lendable | Senior Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/33260f89-2388-46f5-b294-9f3a8c557cc7) | title match: 'analytics engineer' |
+| 21 | Lendable | Graduate Analytics Engineer  | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380) | title match: 'analytics engineer' |
+| 22 | Lendable | Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/731c9247-b0e5-4678-b2f7-2979d40f681f) | title match: 'analytics engineer' |
+| 23 | Lendable | Staff Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/391fefce-7b77-4f5c-8606-5cce76629d8e) | title match: 'analytics engineer' |
+| 24 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
+| 25 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
 
 ... and 455 more not shown
 
@@ -96,7 +96,7 @@ Found **766** new UK posting(s) not in top matches.
 
 ## Other New Jobs
 
-Found **8003** other new posting(s).
+Found **8006** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **8003** other new posting(s).
 | 24 | Airtable | Senior Solutions Architect- West Coast | Remote-US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597941002) |
 | 25 | Airtable | Software Engineer, Product Frontend (8+ YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397228002) |
 
-... and 7978 more not shown
+... and 7981 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 9249
+- **Total new jobs:** 9252
 - **Top matches (score ≥ 3):** 480
   - of which UK: 67
 - **New UK jobs (other):** 766
-- **Other new jobs:** 8003
+- **Other new jobs:** 8006
 
 ---
 _Generated by job-aggregator diff mode_
