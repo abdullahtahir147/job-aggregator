@@ -187,6 +187,20 @@
     "rank": 14,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
+    "title": "Lead Product Analyst - Regional Expansion",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000140052569",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-07-27T16:31:42.073Z"
+  },
+  {
+    "rank": 15,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
     "title": "Lead Product Analyst",
     "location": "London, , United Kingdom",
     "url": "https://jobs.smartrecruiters.com/Wise/744000138588732",
@@ -198,7 +212,7 @@
     "posted_at": "2026-07-20T09:00:04.399Z"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Buisness",
@@ -212,7 +226,7 @@
     "posted_at": "2026-07-10T13:47:25.721Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -226,7 +240,7 @@
     "posted_at": "2026-07-10T13:46:49.499Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -240,7 +254,7 @@
     "posted_at": "2026-07-10T13:45:12.082Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -254,7 +268,7 @@
     "posted_at": "2026-07-10T13:44:25.624Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Regional Expansion",
@@ -266,20 +280,6 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-07-07T18:58:36.368Z"
-  },
-  {
-    "rank": 20,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Regional Expansion",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000135469859",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-07-02T10:35:11.920Z"
   },
   {
     "rank": 21,
@@ -341,14 +341,14 @@
     "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "Senior Specialist Solutions Architect (AI/ML)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8615245002",
+    "title": "Senior Solutions Architect (Large Retail Account)",
+    "location": "Remote - United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
     "final_score": 8,
     "base_score": 3,
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-24T19:29:05Z"
+    "posted_at": "2026-07-27T14:31:14Z"
   }
 ]
