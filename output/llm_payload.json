@@ -181,7 +181,7 @@
     "match_reason": "+3 title match: 'analytics engineer'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'; -2 exclude kw: 'infrastructure'",
     "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What is the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;The Analytics Engineering team provides all parts of Fin&#39;s business with the right set of accurate and up-to-date data tables that form the basis of all of our most important operational and strategic data-driven decisions. The team uses their deep knowledge of how GTM and Pro",
-    "posted_at": "2026-07-20T13:52:46Z"
+    "posted_at": "2026-07-29T05:31:46Z"
   },
   {
     "rank": 14,
@@ -298,6 +298,20 @@
   {
     "rank": 22,
     "tag": "APPLIED_AI_FDE",
+    "company": "Braze",
+    "title": "Senior Lead AI Solutions Consultant",
+    "location": "London",
+    "url": "https://boards.greenhouse.io/braze/jobs/7797704?gh_jid=7797704",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'ai solutions'",
+    "intent_reasons": "boost: ai solutions (+2)",
+    "posted_at": "2026-07-16T15:04:08Z"
+  },
+  {
+    "rank": 23,
+    "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AWS Cloud Partner Solutions Architect — EMEA",
     "location": "London, United Kingdom",
@@ -310,7 +324,7 @@
     "posted_at": "2026-07-24T19:29:05Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Delivery Solutions Architect",
@@ -324,7 +338,7 @@
     "posted_at": "2026-07-24T19:29:01Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Solutions Architect (Enterprise Accounts)",
@@ -336,19 +350,5 @@
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
     "posted_at": "2026-07-24T19:29:00Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Senior Solutions Architect (Large Retail Account)",
-    "location": "Remote - United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
-    "final_score": 8,
-    "base_score": 3,
-    "intent_delta": 2,
-    "match_reason": "+3 title match: 'solutions architect'",
-    "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-27T14:31:14Z"
   }
 ]
