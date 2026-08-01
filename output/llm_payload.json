@@ -213,21 +213,6 @@
   {
     "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Intercom",
-    "title": "Senior Analytics Engineer",
-    "location": "London, England",
-    "url": "https://job-boards.greenhouse.io/intercom/jobs/8053723",
-    "final_score": 9,
-    "base_score": 1,
-    "intent_delta": 5,
-    "match_reason": "+3 title match: 'analytics engineer'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'; -2 exclude kw: 'platform'; -2 exclude kw: 'infrastructure'",
-    "intent_reasons": "boost: experimentation (+3); boost: growth (+1); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What is the opportunity?&amp;nbsp;&lt;/h2&gt;\n&lt;p&gt;The Analytics Engineering team provides all parts of Fin&#39;s business with the right set of accurate and up-to-date data tables that form the basis of all of our most important operational and strategic data-driven decisions. The team uses their deep knowledge of how GTM and Pro",
-    "posted_at": "2026-07-29T05:31:46Z"
-  },
-  {
-    "rank": 17,
-    "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
     "location": "London, , United Kingdom",
@@ -240,7 +225,7 @@
     "posted_at": "2026-07-30T09:24:21.526Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -254,7 +239,7 @@
     "posted_at": "2026-07-27T16:31:42.073Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst",
@@ -268,7 +253,7 @@
     "posted_at": "2026-07-20T09:00:04.399Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Buisness",
@@ -282,7 +267,7 @@
     "posted_at": "2026-07-10T13:47:25.721Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -296,7 +281,7 @@
     "posted_at": "2026-07-10T13:46:49.499Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -310,7 +295,7 @@
     "posted_at": "2026-07-10T13:45:12.082Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -324,7 +309,7 @@
     "posted_at": "2026-07-10T13:44:25.624Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Regional Expansion",
@@ -338,7 +323,7 @@
     "posted_at": "2026-07-07T18:58:36.368Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Zopa",
     "title": "Senior Product Analyst (AI)",
@@ -350,5 +335,19 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-02-28T13:12:25Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Coinbase",
+    "title": "Solutions Architect",
+    "location": "Hybrid - London, UK",
+    "url": "https://www.coinbase.com/careers/positions/8096720?gh_jid=8096720",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-07-30T13:48:03Z"
   }
 ]
