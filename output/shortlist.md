@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `2b0e454582dd`
-**Generated:** 2026-08-02T10:44:09Z
+**Run ID:** `83b5e3f1febb`
+**Generated:** 2026-08-03T12:30:16Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -38,7 +38,7 @@
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 13 | Wise | Senior Product Analytics Manager - Scalable Growth | London, , United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138576379) | title match: 'product analytics'; very recent (0d) |
+| 13 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141201259) | title match: 'product analyst'; very recent (0d) |
 | 16 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000140639529) | title match: 'product analyst'; very recent (0d) |
 | 17 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000140052569) | title match: 'product analyst'; very recent (0d) |
 | 18 | Wise | Lead Product Analyst | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138588732) | title match: 'product analyst'; very recent (0d) |

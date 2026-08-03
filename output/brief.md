@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `2b0e454582dd` | 2026-08-02T10:44:09Z
-**Companies:** 133 | **Jobs:** 12406 | **New:** 9424 | **New UK:** 854 | **Unknown ATS:** 18
+**Run:** `83b5e3f1febb` | 2026-08-03T12:30:16Z
+**Companies:** 133 | **Jobs:** 12383 | **New:** 9415 | **New UK:** 842 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 32
 
 ## Apply Now
@@ -68,10 +68,10 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a)
 
-- **Wise — Senior Product Analytics Manager - Scalable Growth** [PRODUCT_GROWTH_DATA]  Score: 10 (base 3, Δ+7) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analytics' | boost: product analytics (+2); boost: growth (+1); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000138576379)
+- **ASOS — Senior Product Analyst ** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, England, United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000141201259)
 
 - **ASOS — Senior Applied Scientist** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
   London, England, United Kingdom

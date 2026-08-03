@@ -171,16 +171,16 @@
   {
     "rank": 13,
     "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analytics Manager - Scalable Growth",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000138576379",
-    "final_score": 10,
+    "company": "ASOS",
+    "title": "Senior Product Analyst ",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000141201259",
+    "final_score": 9,
     "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'product analytics'",
-    "intent_reasons": "boost: product analytics (+2); boost: growth (+1); boost: product (+1)",
-    "posted_at": "2026-07-20T07:59:31.034Z"
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-08-03T08:24:17.414Z"
   },
   {
     "rank": 14,
