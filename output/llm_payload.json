@@ -340,14 +340,14 @@
     "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "AWS Cloud Partner Solutions Architect — EMEA",
+    "title": "Delivery Solutions Architect",
     "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611599002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002",
     "final_score": 8,
     "base_score": 3,
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-24T19:29:05Z"
+    "posted_at": "2026-07-24T19:29:01Z"
   }
 ]
