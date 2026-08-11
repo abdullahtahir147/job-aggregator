@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `07fda1ec16c7`
-**Generated:** 2026-08-10T10:22:05Z
+**Run ID:** `0524e1fe4c16`
+**Generated:** 2026-08-11T10:03:42Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -40,8 +40,8 @@
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
 | 12 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141201259) | title match: 'product analyst'; very recent (0d) |
-| 15 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000140639529) | title match: 'product analyst'; very recent (0d) |
-| 16 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000140052569) | title match: 'product analyst'; very recent (0d) |
+| 15 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000142643219) | title match: 'product analyst'; very recent (0d) |
+| 16 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000140639529) | title match: 'product analyst'; very recent (0d) |
 | 17 | Wise | Lead Product Analyst | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138588732) | title match: 'product analyst'; very recent (0d) |
 | 18 | Wise | Lead Product Analyst - Business Operations - Wise Buisness | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000137140659) | title match: 'product analyst'; very recent (0d) |
 | 19 | Wise | Lead Product Analyst - Send | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000137140569) | title match: 'product analyst'; very recent (0d) |

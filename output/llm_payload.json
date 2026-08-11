@@ -200,6 +200,20 @@
     "rank": 15,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
+    "title": "Lead Product Analyst - Regional Expansion",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000142643219",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-08-10T13:19:07.587Z"
+  },
+  {
+    "rank": 16,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
     "location": "London, , United Kingdom",
     "url": "https://jobs.smartrecruiters.com/Wise/744000140639529",
@@ -209,20 +223,6 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-07-30T09:24:21.526Z"
-  },
-  {
-    "rank": 16,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Regional Expansion",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000140052569",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-07-27T16:31:42.073Z"
   },
   {
     "rank": 17,
