@@ -40,7 +40,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-07-24T19:29:03Z"
+    "posted_at": "2026-08-11T14:54:40Z"
   },
   {
     "rank": 4,
@@ -54,7 +54,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-07-30T04:34:49Z"
+    "posted_at": "2026-08-11T14:54:42Z"
   },
   {
     "rank": 5,
@@ -334,7 +334,7 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-24T19:29:01Z"
+    "posted_at": "2026-08-11T14:54:38Z"
   },
   {
     "rank": 25,
@@ -348,6 +348,6 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-07-24T19:29:00Z"
+    "posted_at": "2026-08-11T14:54:38Z"
   }
 ]
