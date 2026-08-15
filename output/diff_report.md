@@ -1,25 +1,25 @@
 # Diff Report
 
-**Run ID:** `a7d30407baa9`
-**Timestamp:** 2026-08-14T10:09:03Z
+**Run ID:** `bc8e780b62a2`
+**Timestamp:** 2026-08-15T09:30:21Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 9831
+**New jobs this run:** 9883
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **517** new high-scoring job(s).
+Found **532** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | OpenAI | Data Scientist, Core Experimentation  | Seattle | 8 | [Apply](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
-| 2 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
-| 3 | Block (Square) | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 4 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 5 | Block (Square) | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 6 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494) | title match: 'marketing data'; title match: 'data analyst' |
-| 7 | Datadog | Manager I, Engineering - Applied AI/ML Product Analytics Suite | Paris, France | 6 | [Apply](https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768) | title match: 'applied ai'; title match: 'product analytics' |
+| 2 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 3 | Block (Square) | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 4 | Block (Square) | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 5 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
+| 6 | Datadog | Manager I, Engineering - Applied AI/ML Product Analytics Suite | Paris, France | 6 | [Apply](https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768) | title match: 'applied ai'; title match: 'product analytics' |
+| 7 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494) | title match: 'marketing data'; title match: 'data analyst' |
 | 8 | OpenAI | Applied AI Architect | Seoul, South Korea | 6 | [Apply](https://jobs.ashbyhq.com/openai/ad06299f-d4e2-4de6-a925-b2e94b3c1d0b) | title match: 'applied ai'; title match: 'ai architect' |
 | 9 | OpenAI | Applied AI Architect, Digital Natives | Paris, France | 6 | [Apply](https://jobs.ashbyhq.com/openai/06ec3598-8028-4a17-9654-1b2f21cbdd41) | title match: 'applied ai'; title match: 'ai architect' |
 | 10 | OpenAI | Applied AI Architect, Large Enterprise | Madrid, Spain | 6 | [Apply](https://jobs.ashbyhq.com/openai/8cec4384-c211-4f12-99f7-b16c8aa46afb) | title match: 'applied ai'; title match: 'ai architect' |
@@ -34,18 +34,18 @@ Found **517** new high-scoring job(s).
 | 19 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
 | 20 | LaunchDarkly | Developer Advocate, Growth | Remote - US | 4 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7819879003) | title match: 'developer advocate'; keyword: 'attribution'; keyword: 'experiment' (+2 more) |
 | 21 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
-| 22 | Stripe | Accounting AI Solutions Lead | Seattle, San Francisco, New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8103750) | title match: 'ai solutions' |
-| 23 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 24 | Stripe | Data Analyst, Financial Data Engineering | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8070572) | title match: 'data analyst' |
-| 25 | Stripe | Data Analyst, Payments | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8044924) | title match: 'data analyst' |
+| 22 | Lendable | Growth Analyst | Virginia | 3 | [Apply](https://jobs.ashbyhq.com/lendable/9a2cc4b9-7a03-4a8e-a459-78a6f8ab4b49) | title match: 'growth analyst' |
+| 23 | Lendable | Data Scientist | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/805595d4-ce39-47db-82f5-8066c8fdea89) | title match: 'data scientist' |
+| 24 | Lendable | Analytics Engineer | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/731c9247-b0e5-4678-b2f7-2979d40f681f) | title match: 'analytics engineer' |
+| 25 | Lendable | Senior Analytics Engineer (6 month contract) | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/957e4b7a-9c0c-4b5f-9478-241641024e4f) | title match: 'analytics engineer' |
 
-... and 492 more not shown
+... and 507 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **829** new UK posting(s) not in top matches.
+Found **826** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -90,13 +90,13 @@ Found **829** new UK posting(s) not in top matches.
 | 39 | ASOS | Senior Product Manager (Brand Experiences)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141970459) |
 | 40 | ASOS | Senior Product Manager (CRM) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141501991) |
 
-... and 789 more not shown
+... and 786 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **8485** other new posting(s).
+Found **8525** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -105,38 +105,38 @@ Found **8485** other new posting(s).
 | 3 | Airtable | Delivery Consultant | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8654173002) |
 | 4 | Airtable | Global Payroll Manager | San Francisco, CA & Remote CA (PT) | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8490611002) |
 | 5 | Airtable | Manager, Business Development Representatives | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8626638002) |
-| 6 | Airtable | Procurement Operations Manager |  San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8603626002) |
-| 7 | Airtable | Product Designer (8+ YOE) | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8400776002) |
-| 8 | Airtable | Program Manager, Professional Services - East | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
-| 9 | Airtable | Program Manager, Professional Services - West | San Francisco, CA; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
-| 10 | Airtable | Senior Delivery Consultant | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8582568002) |
-| 11 | Airtable | Senior Delivery Consultant- West Coast | San Francisco, CA; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597950002) |
-| 12 | Airtable | Senior Manager, Procurement | San Francisco, CA; New York, NY; Austin, TX | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8594452002) |
-| 13 | Airtable | Senior Mid Market Account Executive, AI Native | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8209823002) |
-| 14 | Airtable | Senior Solutions Architect | Remote - US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
-| 15 | Airtable | Senior Solutions Architect- West Coast | Remote-US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597941002) |
-| 16 | Airtable | Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397515002) |
-| 17 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
-| 18 | Block (Square) | AI Legal Program Manager  | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5367290008?gh_jid=5367290008) |
-| 19 | Block (Square) | Account Manager, SMB | Sydney, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5317296008?gh_jid=5317296008) |
-| 20 | Block (Square) | Account Manager, SMB  | Melbourne, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5258372008?gh_jid=5258372008) |
-| 21 | Block (Square) | Account Manager, SMB  | Brisbane, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5317297008?gh_jid=5317297008) |
-| 22 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
-| 23 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 24 | Block (Square) | Business Development Rep | Sydney, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5366536008?gh_jid=5366536008) |
-| 25 | Block (Square) | Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5193491008?gh_jid=5193491008) |
+| 6 | Airtable | Product Designer (8+ YOE) | San Francisco, CA | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8400776002) |
+| 7 | Airtable | Program Manager, Professional Services - East | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586863002) |
+| 8 | Airtable | Program Manager, Professional Services - West | San Francisco, CA; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8586865002) |
+| 9 | Airtable | Senior Delivery Consultant | New York, NY; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8582568002) |
+| 10 | Airtable | Senior Delivery Consultant- West Coast | San Francisco, CA; Austin, TX; Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597950002) |
+| 11 | Airtable | Senior Mid Market Account Executive, AI Native | Austin, TX | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8209823002) |
+| 12 | Airtable | Senior Solutions Architect | Remote - US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
+| 13 | Airtable | Senior Solutions Architect- West Coast | Remote-US | -1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8597941002) |
+| 14 | Airtable | Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8397515002) |
+| 15 | Airtable | Strategic Account Executive, AI Native | San Francisco, CA | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8551939002) |
+| 16 | Block (Square) | AI Legal Program Manager  | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5367290008?gh_jid=5367290008) |
+| 17 | Block (Square) | Account Manager, SMB | Sydney, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5317296008?gh_jid=5317296008) |
+| 18 | Block (Square) | Account Manager, SMB  | Melbourne, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5258372008?gh_jid=5258372008) |
+| 19 | Block (Square) | Account Manager, SMB  | Brisbane, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5317297008?gh_jid=5317297008) |
+| 20 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
+| 21 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 22 | Block (Square) | Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5193491008?gh_jid=5193491008) |
+| 23 | Block (Square) | Business Development Rep | Sydney, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5366536008?gh_jid=5366536008) |
+| 24 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 25 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
 
-... and 8460 more not shown
+... and 8500 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 9831
-- **Top matches (score ≥ 3):** 517
+- **Total new jobs:** 9883
+- **Top matches (score ≥ 3):** 532
   - of which UK: 79
-- **New UK jobs (other):** 829
-- **Other new jobs:** 8485
+- **New UK jobs (other):** 826
+- **Other new jobs:** 8525
 
 ---
 _Generated by job-aggregator diff mode_
