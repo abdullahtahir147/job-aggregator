@@ -170,17 +170,17 @@
   },
   {
     "rank": 13,
-    "tag": "PRODUCT_GROWTH_DATA",
+    "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
-    "title": "Senior Product Analyst ",
+    "title": "Applied Scientist - Forecasting",
     "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000141201259",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000143779649",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-08-03T08:24:17.414Z"
+    "match_reason": "+3 title match: 'applied scientist'",
+    "intent_reasons": "boost: applied scientist (+3)",
+    "posted_at": "2026-08-17T09:07:00.418Z"
   },
   {
     "rank": 14,
@@ -188,30 +188,16 @@
     "company": "ASOS",
     "title": "Senior Applied Scientist",
     "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000140726629",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000143777150",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'applied scientist'",
     "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-07-30T15:47:11.477Z"
+    "posted_at": "2026-08-17T09:06:15.430Z"
   },
   {
     "rank": 15,
-    "tag": "APPLIED_AI_FDE",
-    "company": "ASOS",
-    "title": "Applied Scientist - Forecasting",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000137100038",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'applied scientist'",
-    "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-07-10T10:41:35.502Z"
-  },
-  {
-    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -225,7 +211,7 @@
     "posted_at": "2026-08-10T13:19:07.587Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -239,7 +225,7 @@
     "posted_at": "2026-07-30T09:24:21.526Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst",
@@ -253,7 +239,7 @@
     "posted_at": "2026-07-20T09:00:04.399Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Buisness",
@@ -267,7 +253,7 @@
     "posted_at": "2026-07-10T13:47:25.721Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -281,7 +267,7 @@
     "posted_at": "2026-07-10T13:46:49.499Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -295,7 +281,7 @@
     "posted_at": "2026-07-10T13:45:12.082Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -309,7 +295,7 @@
     "posted_at": "2026-07-10T13:44:25.624Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Regional Expansion",
@@ -323,6 +309,20 @@
     "posted_at": "2026-07-07T18:58:36.368Z"
   },
   {
+    "rank": 23,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Coinbase",
+    "title": "Solutions Architect",
+    "location": "Hybrid - London, UK",
+    "url": "https://www.coinbase.com/careers/positions/8096720?gh_jid=8096720",
+    "final_score": 8,
+    "base_score": 3,
+    "intent_delta": 2,
+    "match_reason": "+3 title match: 'solutions architect'",
+    "intent_reasons": "boost: solutions architect (+2)",
+    "posted_at": "2026-08-16T16:05:50Z"
+  },
+  {
     "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
@@ -334,20 +334,20 @@
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-08-11T14:54:38Z"
+    "posted_at": "2026-08-17T05:16:53Z"
   },
   {
     "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "Senior Solutions Architect (Enterprise Accounts)",
+    "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
     "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
     "final_score": 8,
     "base_score": 3,
     "intent_delta": 2,
     "match_reason": "+3 title match: 'solutions architect'",
     "intent_reasons": "boost: solutions architect (+2)",
-    "posted_at": "2026-08-11T14:54:38Z"
+    "posted_at": "2026-08-17T03:46:40Z"
   }
 ]

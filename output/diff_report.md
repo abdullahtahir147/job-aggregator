@@ -1,25 +1,25 @@
 # Diff Report
 
-**Run ID:** `8dafea50595f`
-**Timestamp:** 2026-08-16T09:32:09Z
+**Run ID:** `27a5ed15c29b`
+**Timestamp:** 2026-08-17T09:48:56Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 9893
+**New jobs this run:** 9877
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **531** new high-scoring job(s).
+Found **533** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | OpenAI | Data Scientist, Core Experimentation  | Seattle | 8 | [Apply](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
-| 2 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
-| 3 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 4 | Block (Square) | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 5 | Block (Square) | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 6 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494) | title match: 'marketing data'; title match: 'data analyst' |
-| 7 | Datadog | Manager I, Engineering - Applied AI/ML Product Analytics Suite | Paris, France | 6 | [Apply](https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768) | title match: 'applied ai'; title match: 'product analytics' |
+| 2 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 3 | Block (Square) | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 4 | Block (Square) | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 5 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
+| 6 | Datadog | Manager I, Engineering - Applied AI/ML Product Analytics Suite | Paris, France | 6 | [Apply](https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768) | title match: 'applied ai'; title match: 'product analytics' |
+| 7 | Wise | Senior Marketing Data Analyst - Marketing Science | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494) | title match: 'marketing data'; title match: 'data analyst' |
 | 8 | OpenAI | Applied AI Architect | Seoul, South Korea | 6 | [Apply](https://jobs.ashbyhq.com/openai/ad06299f-d4e2-4de6-a925-b2e94b3c1d0b) | title match: 'applied ai'; title match: 'ai architect' |
 | 9 | OpenAI | Applied AI Architect, Digital Natives | Paris, France | 6 | [Apply](https://jobs.ashbyhq.com/openai/06ec3598-8028-4a17-9654-1b2f21cbdd41) | title match: 'applied ai'; title match: 'ai architect' |
 | 10 | OpenAI | Applied AI Architect, Large Enterprise | Madrid, Spain | 6 | [Apply](https://jobs.ashbyhq.com/openai/8cec4384-c211-4f12-99f7-b16c8aa46afb) | title match: 'applied ai'; title match: 'ai architect' |
@@ -33,19 +33,19 @@ Found **531** new high-scoring job(s).
 | 18 | GoCardless | Product Analyst | Lisbon, Portugal | 4 | [Apply](https://job-boards.greenhouse.io/gocardless/jobs/7938467) | title match: 'product analyst'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
 | 19 | Figma | Data Scientist, Core Data -  PhD (2026) | San Francisco, CA • New York, NY | 4 | [Apply](https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+5 more) |
 | 20 | LaunchDarkly | Developer Advocate, Growth | Remote - US | 4 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7819879003) | title match: 'developer advocate'; keyword: 'attribution'; keyword: 'experiment' (+2 more) |
-| 21 | Stripe | Accounting AI Solutions Lead | Seattle, San Francisco, New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8103750) | title match: 'ai solutions' |
-| 22 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
-| 23 | Stripe | Data Analyst, Financial Data Engineering | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8070572) | title match: 'data analyst' |
-| 24 | Stripe | Data Analyst, Payments | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8044924) | title match: 'data analyst' |
-| 25 | Stripe | Data Scientist, Fraud | Toronto | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8113100) | title match: 'data scientist' |
+| 21 | Monzo | Senior Analytics Engineer | Cardiff, London or Remote (UK) 🇬🇧 | 3 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/6076740) | title match: 'analytics engineer' |
+| 22 | Stripe | Accounting AI Solutions Lead | Seattle, San Francisco, New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8103750) | title match: 'ai solutions' |
+| 23 | Stripe | Data Analyst | Mexico City | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=7978488) | title match: 'data analyst' |
+| 24 | Stripe | Data Analyst, Financial Data Engineering | New York | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8070572) | title match: 'data analyst' |
+| 25 | Stripe | Data Analyst, Payments | Singapore | 3 | [Apply](https://stripe.com/jobs/search?gh_jid=8044924) | title match: 'data analyst' |
 
-... and 506 more not shown
+... and 508 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **826** new UK posting(s) not in top matches.
+Found **814** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -63,7 +63,7 @@ Found **826** new UK posting(s) not in top matches.
 | 12 | ASOS | Hair/Makeup Artist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141879889) |
 | 13 | ASOS | Health and Safety Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141447650) |
 | 14 | ASOS | Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000139323379) |
-| 15 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141202699) |
+| 15 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000143778394) |
 | 16 | ASOS | Marketplace Compliance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000138335499) |
 | 17 | ASOS | Online Trading Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000143328069) |
 | 18 | ASOS | Platform Engineer – Data Science & AI Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000143391739) |
@@ -80,8 +80,8 @@ Found **826** new UK posting(s) not in top matches.
 | 29 | ASOS | Senior Designer - Topshop - Jersey | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000142159929) |
 | 30 | ASOS | Senior Employment Tax Manager - 12 month fixed term contract | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000139105969) |
 | 31 | ASOS | Senior Human Rights Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000142816529) |
-| 32 | ASOS | Senior Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141864149) |
-| 33 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141864624) |
+| 32 | ASOS | Senior Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000143779359) |
+| 33 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000143777354) |
 | 34 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133308505) |
 | 35 | ASOS | Senior Machine Learning Scientist (Personalisation) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000127827561) |
 | 36 | ASOS | Senior Online Trading Manager  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000139576549) |
@@ -90,13 +90,13 @@ Found **826** new UK posting(s) not in top matches.
 | 39 | ASOS | Senior Product Manager (Brand Experiences)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141970459) |
 | 40 | ASOS | Senior Product Manager (CRM) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000141501991) |
 
-... and 786 more not shown
+... and 774 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **8536** other new posting(s).
+Found **8530** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -121,22 +121,22 @@ Found **8536** other new posting(s).
 | 19 | Block (Square) | Account Manager, SMB  | Brisbane, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5317297008?gh_jid=5317297008) |
 | 20 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | 21 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 22 | Block (Square) | Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5193491008?gh_jid=5193491008) |
-| 23 | Block (Square) | Business Development Rep | Sydney, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5366536008?gh_jid=5366536008) |
-| 24 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
-| 25 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
+| 22 | Block (Square) | Business Development Rep | Sydney, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5366536008?gh_jid=5366536008) |
+| 23 | Block (Square) | Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5193491008?gh_jid=5193491008) |
+| 24 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
+| 25 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
 
-... and 8511 more not shown
+... and 8505 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 9893
-- **Top matches (score ≥ 3):** 531
-  - of which UK: 79
-- **New UK jobs (other):** 826
-- **Other new jobs:** 8536
+- **Total new jobs:** 9877
+- **Top matches (score ≥ 3):** 533
+  - of which UK: 80
+- **New UK jobs (other):** 814
+- **Other new jobs:** 8530
 
 ---
 _Generated by job-aggregator diff mode_
