@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `13361eaf3330` | 2026-08-19T09:38:42Z
-**Companies:** 133 | **Jobs:** 12272 | **New:** 9670 | **New UK:** 890 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 26
+**Run:** `856b2aa9cab4` | 2026-08-20T09:39:44Z
+**Companies:** 133 | **Jobs:** 12550 | **New:** 9966 | **New UK:** 903 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 27
 
 ## Apply Now
 
@@ -10,11 +10,6 @@
   London, England
   Why: title match: 'solutions architect'; keyword: 'experiment'; keyword: 'experimentation' (+1 more) | boost: solutions engineer (+2); boost: solutions architect (+2); boost: exper... | very recent (0d)
   [Apply](https://job-boards.greenhouse.io/intercom/jobs/8011085)
-
-- **Wise — Senior Marketing Data Analyst - Marketing Science** [MARKETING_SCIENCE]  Score: 12 (base 6, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'marketing data'; title match: 'data analyst' | boost: marketing science (+3) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000138353494)
 
 - **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   Remote - United Kingdom
@@ -46,12 +41,12 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c)
 
-## Worth a Look
-
 - **Palantir — Forward Deployed Software Engineer** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850)
+
+## Worth a Look
 
 - **Palantir — Forward Deployed Software Engineer - NATO** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
@@ -83,6 +78,16 @@
   Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000143777150)
 
+- **Wise — Senior Marketing Data Analyst - Paid Social** [ANALYTICS_BI]  Score: 9 (base 6, Δ+3) | 0d old
+  London, , United Kingdom
+  Why: title match: 'marketing data'; title match: 'data analyst' | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000144349305)
+
+- **Wise — Lead Product Analyst - Business Operations - Wise Business** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, , United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000144339564)
+
 - **Wise — Lead Product Analyst - Regional Expansion** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
@@ -97,11 +102,6 @@
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000138588732)
-
-- **Wise — Lead Product Analyst - Business Operations - Wise Buisness** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000137140659)
 
 - **Wise — Lead Product Analyst - Send** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
