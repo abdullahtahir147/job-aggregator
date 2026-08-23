@@ -1,24 +1,24 @@
 # Diff Report
 
-**Run ID:** `288ead587ccc`
-**Timestamp:** 2026-08-22T09:31:41Z
+**Run ID:** `8a851ed441ee`
+**Timestamp:** 2026-08-23T09:32:39Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 10059
+**New jobs this run:** 9757
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **543** new high-scoring job(s).
+Found **518** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | OpenAI | Data Scientist, Core Experimentation  | Seattle | 8 | [Apply](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
-| 2 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
-| 3 | Block (Square) | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 2 | Wise | Senior Marketing Data Analyst - Paid Social | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000144349305) | title match: 'marketing data'; title match: 'data analyst' |
+| 3 | Intercom | Senior GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
 | 4 | Block (Square) | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 5 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 6 | Wise | Senior Marketing Data Analyst - Paid Social | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000144349305) | title match: 'marketing data'; title match: 'data analyst' |
+| 5 | Block (Square) | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 6 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
 | 7 | Datadog | Manager I, Engineering - Applied AI/ML Product Analytics Suite | Paris, France | 6 | [Apply](https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768) | title match: 'applied ai'; title match: 'product analytics' |
 | 8 | OpenAI | Applied AI Architect | Seoul, South Korea | 6 | [Apply](https://jobs.ashbyhq.com/openai/ad06299f-d4e2-4de6-a925-b2e94b3c1d0b) | title match: 'applied ai'; title match: 'ai architect' |
 | 9 | OpenAI | Applied AI Architect, Digital Natives | Paris, France | 6 | [Apply](https://jobs.ashbyhq.com/openai/06ec3598-8028-4a17-9654-1b2f21cbdd41) | title match: 'applied ai'; title match: 'ai architect' |
@@ -39,13 +39,13 @@ Found **543** new high-scoring job(s).
 | 24 | Lendable | Senior Analytics Engineer (6 month FTC) | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/265935cd-7b69-4621-9136-f2bb0955a438) | title match: 'analytics engineer' |
 | 25 | Lendable | Growth Analyst | London 🇬🇧 | 3 | [Apply](https://jobs.ashbyhq.com/lendable/eb217993-5f94-480d-a7e3-41c4bfaae2c9) | title match: 'growth analyst' |
 
-... and 518 more not shown
+... and 493 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **842** new UK posting(s) not in top matches.
+Found **835** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -90,13 +90,13 @@ Found **842** new UK posting(s) not in top matches.
 | 39 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000143777354) |
 | 40 | ASOS | Senior Machine Learning Engineer (Recommendations) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000133308505) |
 
-... and 802 more not shown
+... and 795 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **8674** other new posting(s).
+Found **8404** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -122,21 +122,21 @@ Found **8674** other new posting(s).
 | 20 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 21 | Block (Square) | Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5193491008?gh_jid=5193491008) |
 | 22 | Block (Square) | Business Development Rep | Sydney, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5366536008?gh_jid=5366536008) |
-| 23 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
-| 24 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
-| 25 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 23 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
+| 24 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
+| 25 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
 
-... and 8649 more not shown
+... and 8379 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 10059
-- **Top matches (score ≥ 3):** 543
+- **Total new jobs:** 9757
+- **Top matches (score ≥ 3):** 518
   - of which UK: 79
-- **New UK jobs (other):** 842
-- **Other new jobs:** 8674
+- **New UK jobs (other):** 835
+- **Other new jobs:** 8404
 
 ---
 _Generated by job-aggregator diff mode_
