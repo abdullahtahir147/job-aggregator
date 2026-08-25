@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `a88ae35fdeab` | 2026-08-24T09:53:47Z
-**Companies:** 133 | **Jobs:** 12590 | **New:** 10059 | **New UK:** 917 | **Unknown ATS:** 18
+**Run:** `a33f4f268e4c` | 2026-08-25T09:40:28Z
+**Companies:** 133 | **Jobs:** 12661 | **New:** 10138 | **New UK:** 918 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 26
 
 ## Apply Now
@@ -63,20 +63,20 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a)
 
-- **ASOS — Senior Product Analyst ** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, England, United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/ASOS/744000144706189)
-
-- **ASOS — Applied Scientist - Forecasting** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
-  London, England, United Kingdom
-  Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/ASOS/744000143779649)
-
 - **ASOS — Senior Applied Scientist** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
   London, England, United Kingdom
   Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/ASOS/744000143777150)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000145314499)
+
+- **ASOS — Applied Scientist** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
+  London, England, United Kingdom
+  Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000145314149)
+
+- **ASOS — Senior Product Analyst ** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
+  London, England, United Kingdom
+  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000145298719)
 
 - **Intercom — Senior Solutions Architect** [APPLIED_AI_FDE]  Score: 9 (base 1, Δ+8) | 0d old
   London, England

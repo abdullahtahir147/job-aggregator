@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `a88ae35fdeab`
-**Generated:** 2026-08-24T09:53:47Z
+**Run ID:** `a33f4f268e4c`
+**Generated:** 2026-08-25T09:40:28Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -30,15 +30,15 @@
 | 9 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
 | 10 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | title match: 'forward deployed'; very recent (0d) |
 | 11 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
-| 13 | ASOS | Applied Scientist - Forecasting | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000143779649) | title match: 'applied scientist'; very recent (0d) |
-| 14 | ASOS | Senior Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000143777150) | title match: 'applied scientist'; very recent (0d) |
+| 12 | ASOS | Senior Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000145314499) | title match: 'applied scientist'; very recent (0d) |
+| 13 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000145314149) | title match: 'applied scientist'; very recent (0d) |
 | 15 | Intercom | Senior Solutions Architect | London, England | 0d | 9 | 1 | +8 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8011085) | title match: 'solutions architect'; exclude kw: 'platform'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (9)
 
 | # | Company | Title | Location | Age | Score | Base | Δ | Link | Reason |
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
-| 12 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000144706189) | title match: 'product analyst'; very recent (0d) |
+| 14 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000145298719) | title match: 'product analyst'; very recent (0d) |
 | 18 | Wise | Lead Product Analyst - Business Operations - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000144339564) | title match: 'product analyst'; very recent (0d) |
 | 19 | Wise | Lead Product Analyst - Regional Expansion | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000142643219) | title match: 'product analyst'; very recent (0d) |
 | 20 | Wise | Senior Product Analyst - Wise Business | London, , United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000140639529) | title match: 'product analyst'; very recent (0d) |
