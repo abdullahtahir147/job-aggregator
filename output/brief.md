@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `a33f4f268e4c` | 2026-08-25T09:40:28Z
-**Companies:** 133 | **Jobs:** 12661 | **New:** 10138 | **New UK:** 918 | **Unknown ATS:** 18
+**Run:** `8817648b136a` | 2026-08-26T09:48:44Z
+**Companies:** 133 | **Jobs:** 12679 | **New:** 10172 | **New UK:** 907 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 26
 
 ## Apply Now
@@ -91,7 +91,7 @@
 - **Wise — Senior Marketing Data Analyst - Paid Social** [ANALYTICS_BI]  Score: 9 (base 6, Δ+3) | 0d old
   London, , United Kingdom
   Why: title match: 'marketing data'; title match: 'data analyst' | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000144349305)
+  [Apply](https://jobs.smartrecruiters.com/Wise/744000145552159)
 
 - **Wise — Lead Product Analyst - Business Operations - Wise Business** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, , United Kingdom
