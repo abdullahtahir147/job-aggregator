@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `8817648b136a` | 2026-08-26T09:48:44Z
-**Companies:** 133 | **Jobs:** 12679 | **New:** 10172 | **New UK:** 907 | **Unknown ATS:** 18
+**Run:** `0b156bb42607` | 2026-08-27T19:43:39Z
+**Companies:** 133 | **Jobs:** 12741 | **New:** 10276 | **New UK:** 918 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 26
 
 ## Apply Now
@@ -78,7 +78,7 @@
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000145298719)
 
-- **Intercom — Senior Solutions Architect** [APPLIED_AI_FDE]  Score: 9 (base 1, Δ+8) | 0d old
+- **Intercom — Solutions Architect** [APPLIED_AI_FDE]  Score: 9 (base 1, Δ+8) | 0d old
   London, England
   Why: title match: 'solutions architect'; exclude kw: 'platform' | boost: solutions engineer (+2); boost: solutions architect (+2); boost: produ... | very recent (0d)
   [Apply](https://job-boards.greenhouse.io/intercom/jobs/8011085)

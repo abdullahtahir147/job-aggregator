@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `8817648b136a`
-**Generated:** 2026-08-26T09:48:44Z
+**Run ID:** `0b156bb42607`
+**Generated:** 2026-08-27T19:43:39Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -32,7 +32,7 @@
 | 11 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
 | 12 | ASOS | Senior Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000145314499) | title match: 'applied scientist'; very recent (0d) |
 | 13 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000145314149) | title match: 'applied scientist'; very recent (0d) |
-| 15 | Intercom | Senior Solutions Architect | London, England | 0d | 9 | 1 | +8 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8011085) | title match: 'solutions architect'; exclude kw: 'platform'; very recent (0d) |
+| 15 | Intercom | Solutions Architect | London, England | 0d | 9 | 1 | +8 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8011085) | title match: 'solutions architect'; exclude kw: 'platform'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (9)
 
