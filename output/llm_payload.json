@@ -197,6 +197,21 @@
   },
   {
     "rank": 15,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Intercom",
+    "title": "Solutions Architect",
+    "location": "London, England",
+    "url": "https://job-boards.greenhouse.io/intercom/jobs/8011085",
+    "final_score": 9,
+    "base_score": 1,
+    "intent_delta": 5,
+    "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
+    "intent_reasons": "boost: solutions engineer (+2); boost: solutions architect (+2); boost: product (+1)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;job__description body&quot;&gt;\n&lt;h2&gt;&lt;strong&gt;What’s The Opportunity?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Fin is looking for an exceptional Solutions Architect to join our vibrant Customer Solutions Team. In this role, you’ll engage directly with our customers as their trusted advisor, playing a pivotal part in defi",
+    "posted_at": "2026-08-26T17:38:54Z"
+  },
+  {
+    "rank": 16,
     "tag": "DEVREL_EVANGELISM",
     "company": "Supabase",
     "title": "Developer Relations Engineer (London, UK)",
@@ -210,7 +225,7 @@
     "posted_at": "2026-08-21T00:33:52Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Business",
@@ -224,7 +239,7 @@
     "posted_at": "2026-08-28T16:41:04.402Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -238,7 +253,7 @@
     "posted_at": "2026-08-28T16:40:33.921Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -252,7 +267,7 @@
     "posted_at": "2026-08-28T16:40:05.324Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -266,7 +281,7 @@
     "posted_at": "2026-08-28T16:39:30.923Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Marketing Data Analyst - Paid Social",
@@ -280,7 +295,7 @@
     "posted_at": "2026-08-25T15:31:24.887Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -294,7 +309,7 @@
     "posted_at": "2026-08-10T13:19:07.587Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst - Wise Business",
@@ -308,7 +323,7 @@
     "posted_at": "2026-07-30T09:24:21.526Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst",
@@ -322,7 +337,7 @@
     "posted_at": "2026-07-20T09:00:04.399Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Account Management",
@@ -334,19 +349,5 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-07-10T13:44:25.624Z"
-  },
-  {
-    "rank": 25,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Senior Product Analyst - Regional Expansion",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000136310259",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-07-07T18:58:36.368Z"
   }
 ]
