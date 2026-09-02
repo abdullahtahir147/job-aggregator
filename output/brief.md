@@ -1,10 +1,20 @@
 # Job Brief
 
-**Run:** `3ab14c4f146b` | 2026-09-01T14:03:04Z
-**Companies:** 133 | **Jobs:** 12762 | **New:** 10327 | **New UK:** 911 | **Unknown ATS:** 18
+**Run:** `bdad001ed233` | 2026-09-02T13:28:44Z
+**Companies:** 133 | **Jobs:** 12739 | **New:** 10340 | **New UK:** 915 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 25
 
 ## Apply Now
+
+- **OpenAI — Applied AI Architect, Education** [APPLIED_AI_FDE]  Score: 13 (base 6, Δ+7) | 0d old
+  London, UK
+  Why: title match: 'applied ai'; title match: 'ai architect' | boost: applied ai (+4) | very recent (0d)
+  [Apply](https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4)
+
+- **Spotify — Engineering Manager - Experimentation** [PRODUCT_GROWTH_DATA]  Score: 11 (base 5, Δ+6) | 0d old
+  London
+  Why: title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' | boost: experimentation (+3) | very recent (0d)
+  [Apply](https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd)
 
 - **Databricks — AI Engineer - FDE (Forward Deployed Engineer)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   Remote - United Kingdom
@@ -15,6 +25,11 @@
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002)
+
+- **Databricks — Sr. Manager, AI Forward Deployed Engineering (AI-FDE) ** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
+  London, United Kingdom
+  Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
+  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8770279002)
 
 - **OpenAI — Manager, Applied AI Engineering (Large Enterprise)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, UK
@@ -31,6 +46,8 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798)
 
+## Worth a Look
+
 - **Palantir — Forward Deployed Reliability Engineer** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
@@ -45,8 +62,6 @@
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0)
-
-## Worth a Look
 
 - **Palantir — Forward Deployed Software Engineer - UK Government** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
@@ -63,15 +78,15 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a)
 
-- **ASOS — Senior Applied Scientist** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
-  London, England, United Kingdom
-  Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/ASOS/744000145314499)
-
 - **ASOS — Applied Scientist** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
   London, England, United Kingdom
   Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/ASOS/744000145314149)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000146975620)
+
+- **ASOS — Senior Applied Scientist** [APPLIED_AI_FDE]  Score: 9 (base 3, Δ+6) | 0d old
+  London, England, United Kingdom
+  Why: title match: 'applied scientist' | boost: applied scientist (+3) | very recent (0d)
+  [Apply](https://jobs.smartrecruiters.com/ASOS/744000146974625)
 
 - **ASOS — Senior Product Analyst ** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
   London, England, United Kingdom
@@ -92,21 +107,6 @@
   London, , United Kingdom
   Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/Wise/744000146226581)
-
-- **Wise — Lead Product Analyst - Business Onboarding** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000146226825)
-
-- **Wise — Lead Product Analyst - Send** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000146226295)
-
-- **Wise — Lead Product Analyst - Onboarding** [PRODUCT_GROWTH_DATA]  Score: 9 (base 3, Δ+6) | 0d old
-  London, , United Kingdom
-  Why: title match: 'product analyst' | boost: product analyst (+2); boost: product (+1) | very recent (0d)
-  [Apply](https://jobs.smartrecruiters.com/Wise/744000146228469)
 
 ---
 _Generated by job-aggregator brief_
