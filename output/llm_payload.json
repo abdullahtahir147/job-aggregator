@@ -58,20 +58,6 @@
   {
     "rank": 5,
     "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Sr. Manager, AI Forward Deployed Engineering (AI-FDE) ",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8770279002",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-09-02T00:36:14Z"
-  },
-  {
-    "rank": 6,
-    "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Manager, Applied AI Engineering (Large Enterprise)",
     "location": "London, UK",
@@ -84,7 +70,7 @@
     "posted_at": "2026-08-05T09:04:22Z"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer",
@@ -98,7 +84,7 @@
     "posted_at": "2026-08-18T16:32:42Z"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -112,7 +98,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -126,7 +112,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -140,7 +126,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 11,
+    "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - NATO",
@@ -154,7 +140,7 @@
     "posted_at": "2026-07-23T12:53:46Z"
   },
   {
-    "rank": 12,
+    "rank": 11,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -168,7 +154,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 13,
+    "rank": 12,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -182,7 +168,7 @@
     "posted_at": "2025-08-01T12:23:17Z"
   },
   {
-    "rank": 14,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - UK Government",
@@ -196,7 +182,7 @@
     "posted_at": "2021-07-01T17:35:48Z"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
@@ -210,7 +196,7 @@
     "posted_at": "2026-09-02T12:32:46.530Z"
   },
   {
-    "rank": 16,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Senior Applied Scientist",
@@ -224,7 +210,7 @@
     "posted_at": "2026-09-02T12:32:17.263Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "ASOS",
     "title": "Senior Product Analyst ",
@@ -238,7 +224,7 @@
     "posted_at": "2026-08-24T14:35:16.844Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
     "title": "Solutions Architect",
@@ -253,7 +239,7 @@
     "posted_at": "2026-08-26T17:38:54Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "DEVREL_EVANGELISM",
     "company": "Supabase",
     "title": "Developer Relations Engineer (London, UK)",
@@ -267,7 +253,7 @@
     "posted_at": "2026-08-21T00:33:52Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Business",
@@ -281,7 +267,7 @@
     "posted_at": "2026-08-28T16:41:04.402Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -295,7 +281,7 @@
     "posted_at": "2026-08-28T16:40:33.921Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -309,7 +295,7 @@
     "posted_at": "2026-08-28T16:40:05.324Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Onboarding",
@@ -323,7 +309,7 @@
     "posted_at": "2026-08-28T16:39:30.923Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "ANALYTICS_BI",
     "company": "Wise",
     "title": "Senior Marketing Data Analyst - Paid Social",
@@ -337,7 +323,7 @@
     "posted_at": "2026-08-25T15:31:24.887Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Regional Expansion",
@@ -349,5 +335,19 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-08-10T13:19:07.587Z"
+  },
+  {
+    "rank": 25,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst - Wise Business",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000140639529",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-07-30T09:24:21.526Z"
   }
 ]
