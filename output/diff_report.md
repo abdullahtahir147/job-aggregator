@@ -1,25 +1,25 @@
 # Diff Report
 
-**Run ID:** `e09f3ab0bcaa`
-**Timestamp:** 2026-09-06T12:46:14Z
+**Run ID:** `8f593773d524`
+**Timestamp:** 2026-09-07T14:57:05Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 10587
+**New jobs this run:** 10616
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **587** new high-scoring job(s).
+Found **595** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | OpenAI | Data Scientist, Core Experimentation  | Seattle | 8 | [Apply](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
 | 2 | Ramp | AI Solutions Engineer | New York, NY (HQ) | 6 | [Apply](https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919) | title match: 'solutions engineer'; title match: 'ai solutions' |
-| 3 | Wise | Senior Marketing Data Analyst - Paid Social | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000145552159) | title match: 'marketing data'; title match: 'data analyst' |
-| 4 | Intercom | GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
-| 5 | Block (Square) | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 6 | Block (Square) | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) | title match: 'product data scientist'; title match: 'data scientist' |
-| 7 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 3 | Block (Square) | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 4 | Block (Square) | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 5 | Block (Square) | Staff Product Data Scientist, Lending | New York, NY, United States of America | 6 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) | title match: 'product data scientist'; title match: 'data scientist' |
+| 6 | Intercom | GTM Data Analyst | Chicago, Illinois | 6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/7851785) | title match: 'data analyst'; keyword: 'incrementality'; keyword: 'experiment' (+4 more) |
+| 7 | Wise | Senior Marketing Data Analyst - Paid Social | London, , United Kingdom 🇬🇧 | 6 | [Apply](https://jobs.smartrecruiters.com/Wise/744000145552159) | title match: 'marketing data'; title match: 'data analyst' |
 | 8 | Datadog | Manager I, Engineering - Applied AI/ML Product Analytics Suite | Paris, France | 6 | [Apply](https://careers.datadoghq.com/detail/8127768/?gh_jid=8127768) | title match: 'applied ai'; title match: 'product analytics' |
 | 9 | OpenAI | Applied AI Architect | Seoul, South Korea | 6 | [Apply](https://jobs.ashbyhq.com/openai/ad06299f-d4e2-4de6-a925-b2e94b3c1d0b) | title match: 'applied ai'; title match: 'ai architect' |
 | 10 | OpenAI | Applied AI Architect | Singapore | 6 | [Apply](https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410) | title match: 'applied ai'; title match: 'ai architect' |
@@ -39,13 +39,13 @@ Found **587** new high-scoring job(s).
 | 24 | LaunchDarkly | Senior Developer Advocate, Growth | Remote - US | 4 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7819879003) | title match: 'developer advocate'; keyword: 'attribution'; keyword: 'experiment' (+2 more) |
 | 25 | LaunchDarkly | Staff Enterprise Developer Advocate | Remote - US | 4 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7895529003) | title match: 'developer advocate'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
 
-... and 562 more not shown
+... and 570 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **871** new UK posting(s) not in top matches.
+Found **861** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -90,13 +90,13 @@ Found **871** new UK posting(s) not in top matches.
 | 39 | ASOS | Senior Indirect Tax analyst | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000146140939) |
 | 40 | ASOS | Senior Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000146975690) |
 
-... and 831 more not shown
+... and 821 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **9129** other new posting(s).
+Found **9160** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -116,27 +116,27 @@ Found **9129** other new posting(s).
 | 14 | Block (Square) | Account Manager, SMB | Sydney, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5317296008?gh_jid=5317296008) |
 | 15 | Block (Square) | Account Manager, SMB  | Melbourne, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5258372008?gh_jid=5258372008) |
 | 16 | Block (Square) | Account Manager, SMB  | Brisbane, Australia | 0 | [Apply](http://block.xyz/careers/jobs/5317297008?gh_jid=5317297008) |
-| 17 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
-| 18 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 17 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 18 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
 | 19 | Block (Square) | Bilingual Account Manager,Mid-Market | San Francisco, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5232920008?gh_jid=5232920008) |
 | 20 | Block (Square) | Business Development Rep | Sydney, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5366536008?gh_jid=5366536008) |
 | 21 | Block (Square) | Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5193491008?gh_jid=5193491008) |
 | 22 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
-| 23 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
-| 24 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
-| 25 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
+| 23 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
+| 24 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
+| 25 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
 
-... and 9104 more not shown
+... and 9135 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 10587
-- **Top matches (score ≥ 3):** 587
-  - of which UK: 81
-- **New UK jobs (other):** 871
-- **Other new jobs:** 9129
+- **Total new jobs:** 10616
+- **Top matches (score ≥ 3):** 595
+  - of which UK: 83
+- **New UK jobs (other):** 861
+- **Other new jobs:** 9160
 
 ---
 _Generated by job-aggregator diff mode_
