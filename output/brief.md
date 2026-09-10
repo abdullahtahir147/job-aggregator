@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `302e6f050ae1` | 2026-09-09T13:36:59Z
-**Companies:** 133 | **Jobs:** 12803 | **New:** 10501 | **New UK:** 924 | **Unknown ATS:** 18
+**Run:** `87d1b00cff67` | 2026-09-10T13:28:19Z
+**Companies:** 133 | **Jobs:** 12827 | **New:** 10567 | **New UK:** 952 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 19
 
 ## Apply Now
@@ -26,10 +26,10 @@
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
   [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002)
 
-- **GitLab — Forward Deployed Engineer - EMEA** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
-  Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom
+- **Notion — Forward Deployed Engineer, Manager -London** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
+  London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
-  [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8522265002)
+  [Apply](https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5)
 
 - **OpenAI — Manager, Applied AI Engineering (Large Enterprise)** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, UK

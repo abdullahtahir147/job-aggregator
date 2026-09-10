@@ -58,16 +58,16 @@
   {
     "rank": 5,
     "tag": "APPLIED_AI_FDE",
-    "company": "GitLab",
-    "title": "Forward Deployed Engineer - EMEA",
-    "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Netherlands; Remote, United Kingdom",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8522265002",
+    "company": "Notion",
+    "title": "Forward Deployed Engineer, Manager -London",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5",
     "final_score": 10,
     "base_score": 3,
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-09-03T10:45:28Z"
+    "posted_at": "2026-09-09T16:23:19Z"
   },
   {
     "rank": 6,
@@ -282,6 +282,20 @@
   },
   {
     "rank": 21,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Wise",
+    "title": "Senior Product Analyst, Regional Expansion, Global Coverage",
+    "location": "London, , United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/Wise/744000148564999",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-09-09T16:31:06.000Z"
+  },
+  {
+    "rank": 22,
     "tag": "CORE_DS",
     "company": "Wise",
     "title": "Lead Data Scientist - Causal Inference",
@@ -295,7 +309,7 @@
     "posted_at": "2026-09-07T15:35:12.741Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Business",
@@ -309,7 +323,7 @@
     "posted_at": "2026-08-28T16:41:04.402Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Onboarding",
@@ -323,7 +337,7 @@
     "posted_at": "2026-08-28T16:40:33.921Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Send",
@@ -335,19 +349,5 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-08-28T16:40:05.324Z"
-  },
-  {
-    "rank": 25,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Onboarding",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000146228469",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-08-28T16:39:30.923Z"
   }
 ]
