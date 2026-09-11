@@ -58,6 +58,20 @@
   {
     "rank": 5,
     "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Sr. Manager, AI Forward Deployed Engineering (AI-FDE) ",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8770279002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-09-11T02:33:03Z"
+  },
+  {
+    "rank": 6,
+    "tag": "APPLIED_AI_FDE",
     "company": "Notion",
     "title": "Forward Deployed Engineer, Manager -London",
     "location": "London, United Kingdom",
@@ -70,7 +84,7 @@
     "posted_at": "2026-09-09T16:23:19Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Manager, Applied AI Engineering (Large Enterprise)",
@@ -84,7 +98,7 @@
     "posted_at": "2026-08-05T09:04:22Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Digital Natives",
@@ -98,7 +112,7 @@
     "posted_at": "2026-09-08T08:10:32Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -112,7 +126,21 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
+    "tag": "APPLIED_AI_FDE",
+    "company": "OpenAI",
+    "title": "Applied AI Engineer, Codex",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'applied ai'",
+    "intent_reasons": "boost: applied ai (+4)",
+    "posted_at": "2026-09-11T07:44:32Z"
+  },
+  {
+    "rank": 11,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -126,7 +154,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 10,
+    "rank": 12,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -140,7 +168,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 11,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -154,7 +182,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 12,
+    "rank": 14,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - NATO",
@@ -168,7 +196,7 @@
     "posted_at": "2026-07-23T12:53:46Z"
   },
   {
-    "rank": 13,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -182,7 +210,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 14,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -196,7 +224,7 @@
     "posted_at": "2025-08-01T12:23:17Z"
   },
   {
-    "rank": 15,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - UK Government",
@@ -210,35 +238,35 @@
     "posted_at": "2021-07-01T17:35:48Z"
   },
   {
-    "rank": 16,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
     "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000146975620",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000149017179",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'applied scientist'",
     "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-09-02T12:32:46.530Z"
+    "posted_at": "2026-09-11T13:05:02.187Z"
   },
   {
-    "rank": 17,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Senior Applied Scientist",
     "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000146974625",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000149015977",
     "final_score": 9,
     "base_score": 3,
     "intent_delta": 3,
     "match_reason": "+3 title match: 'applied scientist'",
     "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-09-02T12:32:17.263Z"
+    "posted_at": "2026-09-11T13:04:28.153Z"
   },
   {
-    "rank": 18,
+    "rank": 20,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "ASOS",
     "title": "Senior Product Analyst ",
@@ -252,7 +280,7 @@
     "posted_at": "2026-08-24T14:35:16.844Z"
   },
   {
-    "rank": 19,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
     "title": "Solutions Architect",
@@ -263,11 +291,11 @@
     "intent_delta": 5,
     "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
     "intent_reasons": "boost: solutions engineer (+2); boost: solutions architect (+2); boost: product (+1)",
-    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt; is the AI Customer Agent company on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey – from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk for one single system that is designed to meet the needs of modern day support teams.&lt;/p&gt;\n&lt;p&gt;Founded in 2011, Fin became one of the fastest growing companies and remains one of the largest private software companies in the world with nearly 30,000 global businesses using our products to transform their customer support. Driven by our core values, we push boundaries, build with speed and intensity, and relentlessly deliver incredible value to our customers.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;job__description body&quot;&gt;\n&lt;h2&gt;&lt;strong&gt;What’s The Opportunity?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Fin is looking for an exceptional Solutions Architect to join our vibrant Customer Solutions Team. In this role, you’ll engage directly with our customers as their trusted advisor, playing a pivotal part in defi",
-    "posted_at": "2026-09-08T16:11:58Z"
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt;, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system.&lt;/p&gt;\n&lt;p&gt;Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we&#39;re building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn&#39;t a buzzword, it&#39;s a way of life. The world of work as we know it is changing, and we&#39;re looking for Trailblazers who are passionate about bettering business and the world through AI.&lt;/p&gt;\n&lt;p&gt;Ready to level up your career at the company leading workforce transformation in the agentic era? You&#39;re in the right place. Agentforce is the future of AI, and you are the future of Salesforce.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;job__description body&quot;&gt;\n&lt;h2&gt;&lt;strong&gt;What’s The Opportunity?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt",
+    "posted_at": "2026-09-10T17:43:22Z"
   },
   {
-    "rank": 20,
+    "rank": 22,
     "tag": "DEVREL_EVANGELISM",
     "company": "Supabase",
     "title": "Developer Relations Engineer (London, UK)",
@@ -281,7 +309,7 @@
     "posted_at": "2026-08-21T00:33:52Z"
   },
   {
-    "rank": 21,
+    "rank": 23,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Senior Product Analyst, Regional Expansion, Global Coverage",
@@ -295,7 +323,7 @@
     "posted_at": "2026-09-09T16:31:06.000Z"
   },
   {
-    "rank": 22,
+    "rank": 24,
     "tag": "CORE_DS",
     "company": "Wise",
     "title": "Lead Data Scientist - Causal Inference",
@@ -309,7 +337,7 @@
     "posted_at": "2026-09-07T15:35:12.741Z"
   },
   {
-    "rank": 23,
+    "rank": 25,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Wise",
     "title": "Lead Product Analyst - Business Operations - Wise Business",
@@ -321,33 +349,5 @@
     "match_reason": "+3 title match: 'product analyst'",
     "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
     "posted_at": "2026-08-28T16:41:04.402Z"
-  },
-  {
-    "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Business Onboarding",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000146226825",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-08-28T16:40:33.921Z"
-  },
-  {
-    "rank": 25,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "Wise",
-    "title": "Lead Product Analyst - Send",
-    "location": "London, , United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/Wise/744000146226295",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-08-28T16:40:05.324Z"
   }
 ]
