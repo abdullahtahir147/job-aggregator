@@ -81,7 +81,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-09-16T09:15:12Z"
+    "posted_at": "2026-09-16T12:09:35Z"
   },
   {
     "rank": 7,
@@ -306,7 +306,7 @@
     "match_reason": "+3 title match: 'solutions architect'; -2 exclude kw: 'platform'",
     "intent_reasons": "boost: solutions engineer (+2); boost: solutions architect (+2); boost: product (+1)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt;, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system.&lt;/p&gt;\n&lt;p&gt;Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we&#39;re building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn&#39;t a buzzword, it&#39;s a way of life. The world of work as we know it is changing, and we&#39;re looking for Trailblazers who are passionate about bettering business and the world through AI.&lt;/p&gt;\n&lt;p&gt;Ready to level up your career at the company leading workforce transformation in the agentic era? You&#39;re in the right place. Agentforce is the future of AI, and you are the future of Salesforce.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;job__description body&quot;&gt;\n&lt;h2&gt;&lt;strong&gt;What’s The Opportunity?&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt",
-    "posted_at": "2026-09-10T17:43:22Z"
+    "posted_at": "2026-09-16T13:43:49Z"
   },
   {
     "rank": 23,
