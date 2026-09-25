@@ -57,6 +57,20 @@
   },
   {
     "rank": 5,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "Spotify",
+    "title": "Engineering Manager - Experimentation",
+    "location": "London",
+    "url": "https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd",
+    "final_score": 11,
+    "base_score": 5,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'experimentation'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'",
+    "intent_reasons": "boost: experimentation (+3)",
+    "posted_at": "2026-09-01T14:33:04Z"
+  },
+  {
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AI Forward Deployed Engineer - London",
@@ -70,7 +84,7 @@
     "posted_at": "2026-09-21T13:22:12Z"
   },
   {
-    "rank": 6,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Forward Deployed Engineering - Senior Architect",
@@ -84,7 +98,7 @@
     "posted_at": "2026-09-21T13:22:12Z"
   },
   {
-    "rank": 7,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Forward Deployed Engineer (Technical Data Architect)",
@@ -98,7 +112,7 @@
     "posted_at": "2026-09-21T13:22:12Z"
   },
   {
-    "rank": 8,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Manager, AI Forward Deployed Engineering - London",
@@ -112,7 +126,21 @@
     "posted_at": "2026-09-21T13:22:12Z"
   },
   {
-    "rank": 9,
+    "rank": 10,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Moneybox",
+    "title": "Forward Deployed Engineer",
+    "location": "London Office",
+    "url": "https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-09-09T15:56:54Z"
+  },
+  {
+    "rank": 11,
     "tag": "APPLIED_AI_FDE",
     "company": "Notion",
     "title": "Forward Deployed Engineer, Manager -London",
@@ -126,7 +154,7 @@
     "posted_at": "2026-09-09T16:23:19Z"
   },
   {
-    "rank": 10,
+    "rank": 12,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Manager, Applied AI Engineering (Large Enterprise)",
@@ -140,7 +168,7 @@
     "posted_at": "2026-08-05T09:04:22Z"
   },
   {
-    "rank": 11,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Digital Natives",
@@ -154,7 +182,7 @@
     "posted_at": "2026-09-08T08:10:32Z"
   },
   {
-    "rank": 12,
+    "rank": 14,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -168,7 +196,7 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 13,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Codex",
@@ -182,7 +210,7 @@
     "posted_at": "2026-09-11T07:44:32Z"
   },
   {
-    "rank": 14,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Startups (Codex)",
@@ -196,7 +224,7 @@
     "posted_at": "2026-09-24T13:55:16Z"
   },
   {
-    "rank": 15,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -210,7 +238,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 16,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -224,7 +252,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 17,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -238,7 +266,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 18,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - NATO",
@@ -252,7 +280,7 @@
     "posted_at": "2026-07-23T12:53:46Z"
   },
   {
-    "rank": 19,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -266,7 +294,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 20,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -280,7 +308,7 @@
     "posted_at": "2025-08-01T12:23:17Z"
   },
   {
-    "rank": 21,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - UK Government",
@@ -294,7 +322,7 @@
     "posted_at": "2021-07-01T17:35:48Z"
   },
   {
-    "rank": 22,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Senior Applied Scientist",
@@ -308,7 +336,7 @@
     "posted_at": "2026-09-18T15:10:34.765Z"
   },
   {
-    "rank": 23,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Applied Scientist",
@@ -320,33 +348,5 @@
     "match_reason": "+3 title match: 'applied scientist'",
     "intent_reasons": "boost: applied scientist (+3)",
     "posted_at": "2026-09-18T15:09:43.280Z"
-  },
-  {
-    "rank": 24,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "ASOS",
-    "title": "Senior Product Analyst ",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000145298719",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'product analyst'",
-    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
-    "posted_at": "2026-08-24T14:35:16.844Z"
-  },
-  {
-    "rank": 25,
-    "tag": "DEVREL_EVANGELISM",
-    "company": "Supabase",
-    "title": "Developer Relations Engineer (London, UK)",
-    "location": "Remote, London UK",
-    "url": "https://jobs.ashbyhq.com/supabase/1acade7a-0b80-4c6c-9253-7c27a165739d",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'developer relations'",
-    "intent_reasons": "boost: developer relations (+3)",
-    "posted_at": "2026-08-21T00:33:52Z"
   }
 ]
