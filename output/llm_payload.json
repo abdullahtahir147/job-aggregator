@@ -323,6 +323,20 @@
   },
   {
     "rank": 24,
+    "tag": "PRODUCT_GROWTH_DATA",
+    "company": "ASOS",
+    "title": "Senior Product Analyst ",
+    "location": "London, England, United Kingdom",
+    "url": "https://jobs.smartrecruiters.com/ASOS/744000152132300",
+    "final_score": 9,
+    "base_score": 3,
+    "intent_delta": 3,
+    "match_reason": "+3 title match: 'product analyst'",
+    "intent_reasons": "boost: product analyst (+2); boost: product (+1)",
+    "posted_at": "2026-09-28T10:11:48.295Z"
+  },
+  {
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "ASOS",
     "title": "Senior Applied Scientist",
@@ -334,19 +348,5 @@
     "match_reason": "+3 title match: 'applied scientist'",
     "intent_reasons": "boost: applied scientist (+3)",
     "posted_at": "2026-09-18T15:10:34.765Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "ASOS",
-    "title": "Applied Scientist",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000150402019",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'applied scientist'",
-    "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-09-18T15:09:43.280Z"
   }
 ]
