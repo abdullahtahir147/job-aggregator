@@ -89,20 +89,6 @@
     "company": "Databricks",
     "title": "Forward Deployed Engineering - Senior Architect",
     "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-09-30T05:05:03Z"
-  },
-  {
-    "rank": 8,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
-    "title": "Forward Deployed Engineering - Senior Architect",
-    "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002",
     "final_score": 10,
     "base_score": 3,
@@ -110,6 +96,20 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2026-09-30T05:07:12Z"
+  },
+  {
+    "rank": 8,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Forward Deployed Engineering - Senior Architect",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-09-30T05:05:03Z"
   },
   {
     "rank": 9,
