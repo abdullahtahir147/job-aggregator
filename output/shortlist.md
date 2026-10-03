@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `09da71cd305d`
-**Generated:** 2026-10-02T15:37:26Z
+**Run ID:** `b02b44e40718`
+**Generated:** 2026-10-03T14:12:58Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -17,8 +17,8 @@
 | 2 | OpenAI | Applied AI Architect, Education | London, UK | 0d | 13 | 6 | +7 | [Apply](https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4) | title match: 'applied ai'; title match: 'ai architect'; very recent (0d) |
 | 3 | OpenAI | Applied AI Architect, Large Enterprise | London, UK | 0d | 13 | 6 | +7 | [Apply](https://jobs.ashbyhq.com/openai/557dd2ec-db6c-49b1-a0aa-193007ebd5b6) | title match: 'applied ai'; title match: 'ai architect'; very recent (0d) |
 | 6 | Databricks | AI Forward Deployed Engineer - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002) | title match: 'forward deployed'; very recent (0d) |
-| 7 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002) | title match: 'forward deployed'; very recent (0d) |
-| 8 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002) | title match: 'forward deployed'; very recent (0d) |
+| 7 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002) | title match: 'forward deployed'; very recent (0d) |
+| 8 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002) | title match: 'forward deployed'; very recent (0d) |
 | 9 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656204002) | title match: 'forward deployed'; very recent (0d) |
 | 10 | Databricks | Senior Manager, AI Forward Deployed Engineering - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002) | title match: 'forward deployed'; very recent (0d) |
 | 11 | Moneybox | Forward Deployed Engineer | London Office | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e) | title match: 'forward deployed'; very recent (0d) |
@@ -34,7 +34,7 @@
 | 21 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
 | 22 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | title match: 'forward deployed'; very recent (0d) |
 | 23 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
-| 25 | ASOS | Senior Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000150401230) | title match: 'applied scientist'; very recent (0d) |
+| 24 | ASOS | Senior Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000153235708) | title match: 'applied scientist'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (3)
 
@@ -42,7 +42,7 @@
 |---|---------|-------|----------|-----|-------|------|---|------|--------|
 | 4 | ASOS | Senior Product Manager - Experimentation | London, England, United Kingdom | 0d | 12 | 5 | +7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000150425559) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation'; very recent (0d) |
 | 5 | Spotify | Engineering Manager - Experimentation | London | 0d | 11 | 5 | +6 | [Apply](https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation'; very recent (0d) |
-| 24 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152132300) | title match: 'product analyst'; very recent (0d) |
+| 25 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152132300) | title match: 'product analyst'; very recent (0d) |
 
 ---
 _Generated by job-aggregator shortlist_
