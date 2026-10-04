@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `b02b44e40718`
-**Generated:** 2026-10-03T14:12:58Z
+**Run ID:** `6570e708a63b`
+**Generated:** 2026-10-04T14:43:14Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -17,8 +17,8 @@
 | 2 | OpenAI | Applied AI Architect, Education | London, UK | 0d | 13 | 6 | +7 | [Apply](https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4) | title match: 'applied ai'; title match: 'ai architect'; very recent (0d) |
 | 3 | OpenAI | Applied AI Architect, Large Enterprise | London, UK | 0d | 13 | 6 | +7 | [Apply](https://jobs.ashbyhq.com/openai/557dd2ec-db6c-49b1-a0aa-193007ebd5b6) | title match: 'applied ai'; title match: 'ai architect'; very recent (0d) |
 | 6 | Databricks | AI Forward Deployed Engineer - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002) | title match: 'forward deployed'; very recent (0d) |
-| 7 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002) | title match: 'forward deployed'; very recent (0d) |
-| 8 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002) | title match: 'forward deployed'; very recent (0d) |
+| 7 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002) | title match: 'forward deployed'; very recent (0d) |
+| 8 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002) | title match: 'forward deployed'; very recent (0d) |
 | 9 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656204002) | title match: 'forward deployed'; very recent (0d) |
 | 10 | Databricks | Senior Manager, AI Forward Deployed Engineering - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002) | title match: 'forward deployed'; very recent (0d) |
 | 11 | Moneybox | Forward Deployed Engineer | London Office | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e) | title match: 'forward deployed'; very recent (0d) |

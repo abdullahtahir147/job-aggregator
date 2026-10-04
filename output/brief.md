@@ -1,7 +1,7 @@
 # Job Brief
 
-**Run:** `b02b44e40718` | 2026-10-03T14:12:58Z
-**Companies:** 133 | **Jobs:** 12906 | **New:** 10855 | **New UK:** 922 | **Unknown ATS:** 18
+**Run:** `6570e708a63b` | 2026-10-04T14:43:14Z
+**Companies:** 133 | **Jobs:** 12907 | **New:** 10856 | **New UK:** 920 | **Unknown ATS:** 18
 **Freshness filter:** <= 7d | **Filtered out by age:** 14
 
 ## Apply Now
@@ -39,12 +39,12 @@
 - **Databricks — Forward Deployed Engineering - Senior Architect** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
-  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002)
+  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002)
 
 - **Databricks — Forward Deployed Engineering - Senior Architect** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
   Why: title match: 'forward deployed' | boost: forward deployed (+4) | very recent (0d)
-  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002)
+  [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002)
 
 ## Worth a Look
 
