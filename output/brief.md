@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `6570e708a63b` | 2026-10-04T14:43:14Z
-**Companies:** 133 | **Jobs:** 12907 | **New:** 10856 | **New UK:** 920 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 14
+**Run:** `c7a53258dce5` | 2026-10-05T18:12:06Z
+**Companies:** 133 | **Jobs:** 12797 | **New:** 10761 | **New UK:** 857 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 15
 
 ## Apply Now
 
@@ -26,10 +26,10 @@
   Why: title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' | boost: experimentation (+3); boost: product (+1) | very recent (0d)
   [Apply](https://jobs.smartrecruiters.com/ASOS/744000150425559)
 
-- **Spotify — Engineering Manager - Experimentation** [PRODUCT_GROWTH_DATA]  Score: 11 (base 5, Δ+6) | 0d old
-  London
-  Why: title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' | boost: experimentation (+3) | very recent (0d)
-  [Apply](https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd)
+- **Intercom — Senior Forward Deployed Data Scientist** [APPLIED_AI_FDE]  Score: 11 (base 5, Δ+6) | 0d old
+  Dublin, Ireland; London, England
+  Why: title match: 'data scientist'; title match: 'forward deployed'; keyword: 'measurement' (+1 more) | boost: forward deployed (+4); boost: measurement (+1); boost: product (+1); p... | very recent (0d)
+  [Apply](https://job-boards.greenhouse.io/intercom/jobs/8245700)
 
 - **Databricks — AI Forward Deployed Engineer - London** [APPLIED_AI_FDE]  Score: 10 (base 3, Δ+7) | 0d old
   London, United Kingdom
