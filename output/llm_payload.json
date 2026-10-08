@@ -59,7 +59,7 @@
     "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
-    "title": "Senior Forward Deployed Data Scientist",
+    "title": "Forward Deployed Data Scientist",
     "location": "Dublin, Ireland; London, England",
     "url": "https://job-boards.greenhouse.io/intercom/jobs/8245700",
     "final_score": 11,
@@ -68,7 +68,7 @@
     "match_reason": "+3 title match: 'data scientist'; +3 title match: 'forward deployed'; +1 keyword: 'measurement'; -2 exclude kw: 'platform'",
     "intent_reasons": "boost: forward deployed (+4); boost: measurement (+1); boost: product (+1); penalty: aml (-3)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt;, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.&lt;/p&gt;\n&lt;p&gt;Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system.&lt;/p&gt;\n&lt;p&gt;Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we&#39;re building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn&#39;t a buzzword, it&#39;s a way of life. The world of work as we know it is changing, and we&#39;re looking for Trailblazers who are passionate about bettering business and the world through AI.&lt;/p&gt;\n&lt;p&gt;Ready to level up your career at the company leading workforce transformation in the agentic era? You&#39;re in the right place. Agentforce is the future of AI, and you are the future of Salesforce.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;What’s the opportunity?&lt;/h2&gt;\n&lt;p&gt;The Research, Analytics &amp;amp; Data Science (RAD) team at Intercom uses data ",
-    "posted_at": "2026-10-05T06:41:00Z"
+    "posted_at": "2026-10-08T07:29:10Z"
   },
   {
     "rank": 6,
@@ -102,15 +102,15 @@
     "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "Forward Deployed Engineering - Senior Architect",
+    "title": "Forward Deployed Engineer",
     "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860431002",
     "final_score": 10,
     "base_score": 3,
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-10-06T07:43:54Z"
+    "posted_at": "2026-10-08T04:06:29Z"
   },
   {
     "rank": 9,
@@ -130,6 +130,20 @@
     "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
+    "title": "Forward Deployed Engineering - Senior Architect",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-10-06T07:43:54Z"
+  },
+  {
+    "rank": 11,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
     "title": "Senior Forward Deployed Engineer (Technical Data Architect)",
     "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656204002",
@@ -141,7 +155,7 @@
     "posted_at": "2026-10-06T06:46:08Z"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Manager, AI Forward Deployed Engineering - London",
@@ -155,7 +169,7 @@
     "posted_at": "2026-10-06T07:04:45Z"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "Moneybox",
     "title": "Forward Deployed Engineer",
@@ -169,7 +183,7 @@
     "posted_at": "2026-09-09T15:56:54Z"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "tag": "APPLIED_AI_FDE",
     "company": "Notion",
     "title": "Forward Deployed Engineer, Manager -London",
@@ -183,7 +197,7 @@
     "posted_at": "2026-09-09T16:23:19Z"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Digital Natives",
@@ -197,7 +211,7 @@
     "posted_at": "2026-09-08T08:10:32Z"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -211,7 +225,7 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Codex",
@@ -225,7 +239,7 @@
     "posted_at": "2026-09-11T07:44:32Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Startups (Codex)",
@@ -239,7 +253,7 @@
     "posted_at": "2026-09-24T13:55:16Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -253,7 +267,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -267,7 +281,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -281,7 +295,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - NATO",
@@ -295,7 +309,7 @@
     "posted_at": "2026-07-23T12:53:46Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -309,7 +323,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -323,7 +337,7 @@
     "posted_at": "2025-08-01T12:23:17Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - UK Government",
@@ -335,19 +349,5 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2021-07-01T17:35:48Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "ASOS",
-    "title": "Applied Scientist",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000153538079",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'applied scientist'",
-    "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-10-05T15:01:47.879Z"
   }
 ]
