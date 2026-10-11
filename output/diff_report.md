@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `070f8a58ade3`
-**Timestamp:** 2026-10-10T15:09:28Z
+**Run ID:** `d5dc4a694687`
+**Timestamp:** 2026-10-11T15:30:15Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 11023
+**New jobs this run:** 11021
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **633** new high-scoring job(s).
+Found **632** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -39,13 +39,13 @@ Found **633** new high-scoring job(s).
 | 24 | Spotify | Engineering Manager - Experimentation | London 🇬🇧 | 5 | [Apply](https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 | 25 | Intercom | Forward Deployed Data Scientist | Dublin, Ireland; London, England 🇬🇧 | 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8245700) | title match: 'data scientist'; title match: 'forward deployed'; keyword: 'measurement' (+1 more) |
 
-... and 608 more not shown
+... and 607 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **831** new UK posting(s) not in top matches.
+Found **830** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -90,7 +90,7 @@ Found **831** new UK posting(s) not in top matches.
 | 39 | ASOS | Senior Data Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152997109) |
 | 40 | ASOS | Senior Data Engineer - Data Science Platform | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152112459) |
 
-... and 791 more not shown
+... and 790 more not shown
 
 ---
 
@@ -132,10 +132,10 @@ Found **9559** other new posting(s).
 
 ## Summary
 
-- **Total new jobs:** 11023
-- **Top matches (score ≥ 3):** 633
+- **Total new jobs:** 11021
+- **Top matches (score ≥ 3):** 632
   - of which UK: 97
-- **New UK jobs (other):** 831
+- **New UK jobs (other):** 830
 - **Other new jobs:** 9559
 
 ---
