@@ -43,20 +43,6 @@
   },
   {
     "rank": 4,
-    "tag": "PRODUCT_GROWTH_DATA",
-    "company": "ASOS",
-    "title": "Senior Product Manager - Experimentation",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000150425559",
-    "final_score": 12,
-    "base_score": 5,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'experimentation'; +1 keyword: 'experiment'; +1 keyword: 'experimentation'",
-    "intent_reasons": "boost: experimentation (+3); boost: product (+1)",
-    "posted_at": "2026-09-18T16:59:26.989Z"
-  },
-  {
-    "rank": 5,
     "tag": "APPLIED_AI_FDE",
     "company": "Intercom",
     "title": "Forward Deployed Data Scientist",
@@ -71,7 +57,7 @@
     "posted_at": "2026-10-08T07:29:10Z"
   },
   {
-    "rank": 6,
+    "rank": 5,
     "tag": "PRODUCT_GROWTH_DATA",
     "company": "Spotify",
     "title": "Engineering Manager - Experimentation",
@@ -85,7 +71,7 @@
     "posted_at": "2026-09-01T14:33:04Z"
   },
   {
-    "rank": 7,
+    "rank": 6,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "AI Forward Deployed Engineer - London",
@@ -99,7 +85,7 @@
     "posted_at": "2026-10-06T06:36:04Z"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Forward Deployed Engineer",
@@ -111,6 +97,20 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2026-10-13T14:20:12Z"
+  },
+  {
+    "rank": 8,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Forward Deployed Engineering - Architect",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-10-14T11:59:13Z"
   },
   {
     "rank": 9,
@@ -130,15 +130,15 @@
     "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "Forward Deployed Engineering - Senior Architect",
+    "title": "Senior Engagement Manager, Forward Deployed Engineering",
     "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8884904002",
     "final_score": 10,
     "base_score": 3,
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-10-06T07:43:54Z"
+    "posted_at": "2026-10-15T07:06:47Z"
   },
   {
     "rank": 11,
@@ -171,9 +171,23 @@
   {
     "rank": 13,
     "tag": "APPLIED_AI_FDE",
+    "company": "Databricks",
+    "title": "Technical Program Manager, Forward Deployed Engineering",
+    "location": "London, United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-10-15T06:24:42Z"
+  },
+  {
+    "rank": 14,
+    "tag": "APPLIED_AI_FDE",
     "company": "Moneybox",
     "title": "Forward Deployed Engineer",
-    "location": "London",
+    "location": "London Office",
     "url": "https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e",
     "final_score": 10,
     "base_score": 3,
@@ -183,7 +197,7 @@
     "posted_at": "2026-09-09T15:56:54Z"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "Notion",
     "title": "Forward Deployed Engineer, Manager -London",
@@ -197,7 +211,7 @@
     "posted_at": "2026-09-09T16:23:19Z"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -211,7 +225,7 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Codex",
@@ -225,7 +239,7 @@
     "posted_at": "2026-09-11T07:44:32Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Startups (Codex)",
@@ -239,7 +253,7 @@
     "posted_at": "2026-09-24T13:55:16Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -253,7 +267,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -267,7 +281,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -281,7 +295,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - NATO",
@@ -295,7 +309,7 @@
     "posted_at": "2026-07-23T12:53:46Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -309,7 +323,7 @@
     "posted_at": "2023-01-11T17:48:32Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -323,7 +337,7 @@
     "posted_at": "2025-08-01T12:23:17Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer, New Grad - UK Government",
@@ -335,19 +349,5 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2021-07-01T17:35:48Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "ASOS",
-    "title": "Applied Scientist",
-    "location": "London, England, United Kingdom",
-    "url": "https://jobs.smartrecruiters.com/ASOS/744000153538079",
-    "final_score": 9,
-    "base_score": 3,
-    "intent_delta": 3,
-    "match_reason": "+3 title match: 'applied scientist'",
-    "intent_reasons": "boost: applied scientist (+3)",
-    "posted_at": "2026-10-05T15:01:47.879Z"
   }
 ]
