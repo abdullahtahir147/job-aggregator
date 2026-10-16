@@ -1,8 +1,8 @@
 # Job Brief
 
-**Run:** `c5a6c7bab2d6` | 2026-10-15T14:03:25Z
-**Companies:** 133 | **Jobs:** 13091 | **New:** 11133 | **New UK:** 941 | **Unknown ATS:** 18
-**Freshness filter:** <= 7d | **Filtered out by age:** 15
+**Run:** `490cbc503046` | 2026-10-16T13:51:28Z
+**Companies:** 133 | **Jobs:** 13126 | **New:** 11164 | **New UK:** 959 | **Unknown ATS:** 18
+**Freshness filter:** <= 7d | **Filtered out by age:** 16
 
 ## Apply Now
 
