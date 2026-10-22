@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `5cd1496f4658`
-**Generated:** 2026-10-21T14:25:00Z
+**Run ID:** `19d7b72a841c`
+**Generated:** 2026-10-22T14:26:06Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -18,25 +18,25 @@
 | 3 | OpenAI | Applied AI Architect, Large Enterprise | London, UK | 0d | 13 | 6 | +7 | [Apply](https://jobs.ashbyhq.com/openai/557dd2ec-db6c-49b1-a0aa-193007ebd5b6) | title match: 'applied ai'; title match: 'ai architect'; very recent (0d) |
 | 4 | Intercom | Forward Deployed Data Scientist | Dublin, Ireland; London, England | 0d | 11 | 5 | +6 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8245700) | title match: 'data scientist'; title match: 'forward deployed'; keyword: 'measurement' (+1 more); very recent (0d) |
 | 6 | Databricks | AI Forward Deployed Engineer - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002) | title match: 'forward deployed'; very recent (0d) |
-| 7 | Databricks | Forward Deployed Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8860431002) | title match: 'forward deployed'; very recent (0d) |
-| 8 | Databricks | Forward Deployed Engineering - Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002) | title match: 'forward deployed'; very recent (0d) |
-| 9 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002) | title match: 'forward deployed'; very recent (0d) |
-| 10 | Databricks | Senior Engagement Manager, Forward Deployed Engineering | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884904002) | title match: 'forward deployed'; very recent (0d) |
-| 11 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884753002) | title match: 'forward deployed'; very recent (0d) |
-| 12 | Databricks | Senior Manager, AI Forward Deployed Engineering - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002) | title match: 'forward deployed'; very recent (0d) |
-| 13 | Databricks | Technical Program Manager, Forward Deployed Engineering | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002) | title match: 'forward deployed'; very recent (0d) |
-| 14 | Moneybox | Forward Deployed Engineer | London Office | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e) | title match: 'forward deployed'; very recent (0d) |
-| 15 | Notion | Forward Deployed Engineer, Manager -London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5) | title match: 'forward deployed'; very recent (0d) |
-| 16 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706) | title match: 'forward deployed'; very recent (0d) |
-| 17 | OpenAI | Applied AI Engineer, Codex | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai'; very recent (0d) |
-| 18 | OpenAI | Applied AI Engineer, Startups (Codex) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20) | title match: 'applied ai'; very recent (0d) |
-| 19 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
-| 20 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed'; very recent (0d) |
-| 21 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed'; very recent (0d) |
-| 22 | Palantir | Forward Deployed Software Engineer - NATO | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0) | title match: 'forward deployed'; very recent (0d) |
-| 23 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
-| 24 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | title match: 'forward deployed'; very recent (0d) |
-| 25 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
+| 7 | Databricks | Forward Deployed Engineering - Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002) | title match: 'forward deployed'; very recent (0d) |
+| 8 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002) | title match: 'forward deployed'; very recent (0d) |
+| 9 | Databricks | Senior Engagement Manager, Forward Deployed Engineering | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884904002) | title match: 'forward deployed'; very recent (0d) |
+| 10 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884753002) | title match: 'forward deployed'; very recent (0d) |
+| 11 | Databricks | Senior Manager, AI Forward Deployed Engineering - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002) | title match: 'forward deployed'; very recent (0d) |
+| 12 | Databricks | Technical Program Manager, Forward Deployed Engineering | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002) | title match: 'forward deployed'; very recent (0d) |
+| 13 | Moneybox | Forward Deployed Engineer | London Office | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e) | title match: 'forward deployed'; very recent (0d) |
+| 14 | Notion | Forward Deployed Engineer, Manager -London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5) | title match: 'forward deployed'; very recent (0d) |
+| 15 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706) | title match: 'forward deployed'; very recent (0d) |
+| 16 | OpenAI | Applied AI Engineer, Codex | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai'; very recent (0d) |
+| 17 | OpenAI | Applied AI Engineer, Startups (Codex) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20) | title match: 'applied ai'; very recent (0d) |
+| 18 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
+| 19 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed'; very recent (0d) |
+| 20 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed'; very recent (0d) |
+| 21 | Palantir | Forward Deployed Software Engineer - NATO | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0) | title match: 'forward deployed'; very recent (0d) |
+| 22 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
+| 23 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | title match: 'forward deployed'; very recent (0d) |
+| 24 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
+| 25 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000153538079) | title match: 'applied scientist'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (1)
 
