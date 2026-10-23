@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `19d7b72a841c`
-**Generated:** 2026-10-22T14:26:06Z
+**Run ID:** `68fc9bb4649c`
+**Generated:** 2026-10-23T14:09:04Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -36,7 +36,7 @@
 | 22 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
 | 23 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | title match: 'forward deployed'; very recent (0d) |
 | 24 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed'; very recent (0d) |
-| 25 | ASOS | Applied Scientist | London, England, United Kingdom | 0d | 9 | 3 | +6 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000153538079) | title match: 'applied scientist'; very recent (0d) |
+| 25 | Zopa | Applied AI Analyst (Mid and Senior Level) - Transaction Enrichment | London | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/zopa/6d624de1-afcb-4e03-8cd8-40c55f8178d9) | title match: 'applied ai'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (1)
 
