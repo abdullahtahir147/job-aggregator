@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `73565aaf3020`
-**Timestamp:** 2026-10-29T15:57:52Z
+**Run ID:** `81889b19aca1`
+**Timestamp:** 2026-10-30T15:44:39Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 10887
+**New jobs this run:** 10898
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **582** new high-scoring job(s).
+Found **583** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -39,13 +39,13 @@ Found **582** new high-scoring job(s).
 | 24 | Spotify | Engineering Manager - Experimentation | London 🇬🇧 | 5 | [Apply](https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 | 25 | Intercom | Forward Deployed Data Scientist | Dublin, Ireland; London, England 🇬🇧 | 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8245700) | title match: 'data scientist'; title match: 'forward deployed'; keyword: 'measurement' (+1 more) |
 
-... and 557 more not shown
+... and 558 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **871** new UK posting(s) not in top matches.
+Found **869** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -59,84 +59,84 @@ Found **871** new UK posting(s) not in top matches.
 | 8 | ASOS | Associate Data Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154054514) |
 | 9 | ASOS | Brand Planning Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154020682) |
 | 10 | ASOS | Business Continuity & Insurance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156359337) |
-| 11 | ASOS | Content and Optimisation Specialist - 12 month Fixed Term Contract  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157786529) |
-| 12 | ASOS | Designer - Topshop Tailoring (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000151045589) |
-| 13 | ASOS | Designer - WW Arrange Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000149892560) |
-| 14 | ASOS | Designer - WW Jersey - ASOS Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000150056119) |
-| 15 | ASOS | Digital Trading Assistant - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157427999) |
-| 16 | ASOS | Digital Trading Specialist - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157426352) |
-| 17 | ASOS | Engineer - Endpoint Experience  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158532589) |
-| 18 | ASOS | Entry Assistant Designer - Topshop | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000155699529) |
-| 19 | ASOS | Events Assistant  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157838898) |
+| 11 | ASOS | Buying Assistant | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158567417) |
+| 12 | ASOS | Content and Optimisation Specialist - 12 month Fixed Term Contract  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157786529) |
+| 13 | ASOS | Designer - Topshop Tailoring (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000151045589) |
+| 14 | ASOS | Designer - WW Arrange Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000149892560) |
+| 15 | ASOS | Designer - WW Jersey - ASOS Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000150056119) |
+| 16 | ASOS | Digital Trading Assistant - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157427999) |
+| 17 | ASOS | Digital Trading Specialist - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157426352) |
+| 18 | ASOS | Engineer - Endpoint Experience  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158532589) |
+| 19 | ASOS | Entry Assistant Designer - Topshop | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000155699529) |
 | 20 | ASOS | Face + Body Assistant Buyer (12 Month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152350979) |
 | 21 | ASOS | Finance Business Partner - Technology | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152691461) |
 | 22 | ASOS | Finance Manager - Supply Chain | Barnsley, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156376359) |
 | 23 | ASOS | Hairstylist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154405599) |
 | 24 | ASOS | Head of Engineering (Agentic AI Systems) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157868279) |
 | 25 | ASOS | Junior Wardrobe Coordinator (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000155223509) |
-| 26 | ASOS | Lead Trading Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158318032) |
-| 27 | ASOS | Loyalty Proposition Executive | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158042832) |
-| 28 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158353559) |
-| 29 | ASOS | Midweight Stylist - 6 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000148227614) |
-| 30 | ASOS | Model Booker (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152708204) |
-| 31 | ASOS | Principal Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156361317) |
-| 32 | ASOS | Product Manager (PO & Intake Management) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157123794) |
-| 33 | ASOS | Production Operations Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000151000459) |
-| 34 | ASOS | Senior AI / LLM Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157124664) |
-| 35 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152723669) |
-| 36 | ASOS | Senior AI Engineer – Machine Learning (Computer Vision)  | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000148327939) |
-| 37 | ASOS | Senior Data Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156362979) |
-| 38 | ASOS | Senior Data Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158099439) |
-| 39 | ASOS | Senior Designer - WW Evening Jersey Dresses  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000155255209) |
-| 40 | ASOS | Senior Engineer - Endpoint Experience  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158544434) |
+| 26 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158353559) |
+| 27 | ASOS | Midweight Stylist - 6 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000148227614) |
+| 28 | ASOS | Model Booker (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152708204) |
+| 29 | ASOS | Paralegal - 6 month FTC  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158571129) |
+| 30 | ASOS | Principal Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156361317) |
+| 31 | ASOS | Product Manager (PO & Intake Management) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157123794) |
+| 32 | ASOS | Production Operations Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000151000459) |
+| 33 | ASOS | Senior AI / LLM Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157124664) |
+| 34 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152723669) |
+| 35 | ASOS | Senior AI Engineer – Machine Learning (Computer Vision)  | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000148327939) |
+| 36 | ASOS | Senior Data Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156362979) |
+| 37 | ASOS | Senior Data Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158099439) |
+| 38 | ASOS | Senior Engineer - Endpoint Experience  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158544434) |
+| 39 | ASOS | Senior Engineering Lead (FinTech AI) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157490209) |
+| 40 | ASOS | Senior Events Executive  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157837185) |
 
-... and 831 more not shown
+... and 829 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **9434** other new posting(s).
+Found **9446** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
 | 1 | Airtable | Renewals Associate | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8905022002) |
 | 2 | Block (Square) |  Enterprise Account Executive, Commerce  | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5121341008?gh_jid=5121341008) |
-| 3 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 4 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
+| 3 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
+| 4 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 5 | Block (Square) | B2B Content Marketing Lead | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5422288008?gh_jid=5422288008) |
 | 6 | Block (Square) | Bilingual Implementation Specialist  | Los Angeles, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5466280008?gh_jid=5466280008) |
-| 7 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442638008?gh_jid=5442638008) |
-| 8 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008) |
+| 7 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008) |
+| 8 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442638008?gh_jid=5442638008) |
 | 9 | Block (Square) | Business Development Lead, AI Commercialization | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5415993008?gh_jid=5415993008) |
-| 10 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
-| 11 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
-| 12 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
-| 13 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
-| 14 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
-| 15 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
-| 16 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
+| 10 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
+| 11 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
+| 12 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
+| 13 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
+| 14 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
+| 15 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
+| 16 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
 | 17 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5445869008?gh_jid=5445869008) |
 | 18 | Block (Square) | Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008) |
-| 19 | Block (Square) | Business Intelligence Analyst | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5369959008?gh_jid=5369959008) |
-| 20 | Block (Square) | Business Intelligence Analyst | San Francisco, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5439140008?gh_jid=5439140008) |
+| 19 | Block (Square) | Business Intelligence Analyst | San Francisco, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5439140008?gh_jid=5439140008) |
+| 20 | Block (Square) | Business Intelligence Analyst | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5369959008?gh_jid=5369959008) |
 | 21 | Block (Square) | Business Systems Analyst, IT Vendor Operations | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5427849008?gh_jid=5427849008) |
 | 22 | Block (Square) | Chargé de Compte PME | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5356573008?gh_jid=5356573008) |
 | 23 | Block (Square) | Chief Compliance Officer, Cash App Investing | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5431065008?gh_jid=5431065008) |
 | 24 | Block (Square) | Commerce Account Executive  | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5121335008?gh_jid=5121335008) |
 | 25 | Block (Square) | Compensation Strategy & Program Partner | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5408853008?gh_jid=5408853008) |
 
-... and 9409 more not shown
+... and 9421 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 10887
-- **Top matches (score ≥ 3):** 582
-  - of which UK: 90
-- **New UK jobs (other):** 871
-- **Other new jobs:** 9434
+- **Total new jobs:** 10898
+- **Top matches (score ≥ 3):** 583
+  - of which UK: 91
+- **New UK jobs (other):** 869
+- **Other new jobs:** 9446
 
 ---
 _Generated by job-aggregator diff mode_
