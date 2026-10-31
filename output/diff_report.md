@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `81889b19aca1`
-**Timestamp:** 2026-10-30T15:44:39Z
+**Run ID:** `ccb39aea2e9f`
+**Timestamp:** 2026-10-31T15:12:55Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 10898
+**New jobs this run:** 11220
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **583** new high-scoring job(s).
+Found **646** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -36,16 +36,16 @@ Found **583** new high-scoring job(s).
 | 21 | OpenAI | Manager, Applied AI Architect (India) | Bangalore - Remote | 6 | [Apply](https://jobs.ashbyhq.com/openai/2aae72af-8c35-42bc-86f6-9d5634391245) | title match: 'applied ai'; title match: 'ai architect' |
 | 22 | OpenAI | Product Data Scientist - Youth, Families and Learning | San Francisco | 6 | [Apply](https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1) | title match: 'product data scientist'; title match: 'data scientist' |
 | 23 | OpenAI | Applied AI Architect, OpenAI for Government | Munich, Germany | 6 | [Apply](https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b) | title match: 'applied ai'; title match: 'ai architect' |
-| 24 | Spotify | Engineering Manager - Experimentation | London 🇬🇧 | 5 | [Apply](https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
-| 25 | Intercom | Forward Deployed Data Scientist | Dublin, Ireland; London, England 🇬🇧 | 5 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8245700) | title match: 'data scientist'; title match: 'forward deployed'; keyword: 'measurement' (+1 more) |
+| 24 | GitLab | Data Scientist, Enterprise Analytics | Remote, United States | 5 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8922013002) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+3 more) |
+| 25 | Spotify | Engineering Manager - Experimentation | London 🇬🇧 | 5 | [Apply](https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
 
-... and 558 more not shown
+... and 621 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **869** new UK posting(s) not in top matches.
+Found **893** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -88,15 +88,15 @@ Found **869** new UK posting(s) not in top matches.
 | 37 | ASOS | Senior Data Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158099439) |
 | 38 | ASOS | Senior Engineer - Endpoint Experience  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158544434) |
 | 39 | ASOS | Senior Engineering Lead (FinTech AI) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157490209) |
-| 40 | ASOS | Senior Events Executive  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157837185) |
+| 40 | ASOS | Senior Events Executive  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158803189) |
 
-... and 829 more not shown
+... and 853 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **9446** other new posting(s).
+Found **9681** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -106,16 +106,16 @@ Found **9446** other new posting(s).
 | 4 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 5 | Block (Square) | B2B Content Marketing Lead | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5422288008?gh_jid=5422288008) |
 | 6 | Block (Square) | Bilingual Implementation Specialist  | Los Angeles, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5466280008?gh_jid=5466280008) |
-| 7 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008) |
-| 8 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442638008?gh_jid=5442638008) |
+| 7 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442638008?gh_jid=5442638008) |
+| 8 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008) |
 | 9 | Block (Square) | Business Development Lead, AI Commercialization | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5415993008?gh_jid=5415993008) |
-| 10 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
-| 11 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
-| 12 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
-| 13 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
-| 14 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
+| 10 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
+| 11 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
+| 12 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
+| 13 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
+| 14 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
 | 15 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
-| 16 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 16 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
 | 17 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5445869008?gh_jid=5445869008) |
 | 18 | Block (Square) | Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008) |
 | 19 | Block (Square) | Business Intelligence Analyst | San Francisco, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5439140008?gh_jid=5439140008) |
@@ -126,17 +126,17 @@ Found **9446** other new posting(s).
 | 24 | Block (Square) | Commerce Account Executive  | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5121335008?gh_jid=5121335008) |
 | 25 | Block (Square) | Compensation Strategy & Program Partner | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5408853008?gh_jid=5408853008) |
 
-... and 9421 more not shown
+... and 9656 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 10898
-- **Top matches (score ≥ 3):** 583
-  - of which UK: 91
-- **New UK jobs (other):** 869
-- **Other new jobs:** 9446
+- **Total new jobs:** 11220
+- **Top matches (score ≥ 3):** 646
+  - of which UK: 97
+- **New UK jobs (other):** 893
+- **Other new jobs:** 9681
 
 ---
 _Generated by job-aggregator diff mode_
