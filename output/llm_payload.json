@@ -96,7 +96,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-10-28T11:43:38Z"
+    "posted_at": "2026-11-01T02:37:07Z"
   },
   {
     "rank": 8,
@@ -110,7 +110,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-10-28T06:29:53Z"
+    "posted_at": "2026-11-01T02:36:50Z"
   },
   {
     "rank": 9,
@@ -138,7 +138,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-10-06T06:45:55Z"
+    "posted_at": "2026-11-01T02:36:33Z"
   },
   {
     "rank": 11,
@@ -152,7 +152,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-10-19T12:29:01Z"
+    "posted_at": "2026-11-01T02:36:55Z"
   },
   {
     "rank": 12,
@@ -194,10 +194,24 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-10-15T11:48:11Z"
+    "posted_at": "2026-11-01T02:36:53Z"
   },
   {
     "rank": 15,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Moneybox",
+    "title": "Forward Deployed Engineer",
+    "location": "London Office",
+    "url": "https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-09-09T15:56:54Z"
+  },
+  {
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "Notion",
     "title": "Forward Deployed Engineer, Manager -London",
@@ -211,7 +225,7 @@
     "posted_at": "2026-09-09T16:23:19Z"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -225,7 +239,7 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Codex",
@@ -239,7 +253,7 @@
     "posted_at": "2026-09-11T07:44:32Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Startups (Codex)",
@@ -253,7 +267,7 @@
     "posted_at": "2026-09-24T13:55:16Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Delivery Lead - London",
@@ -267,7 +281,7 @@
     "posted_at": "2026-10-30T14:00:43Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -281,7 +295,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -295,7 +309,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -309,7 +323,7 @@
     "posted_at": "2009-12-05T00:00:00Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - NATO",
@@ -323,7 +337,7 @@
     "posted_at": "2026-07-23T12:53:46Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer - UK Government",
@@ -335,19 +349,5 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2023-01-11T17:48:32Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2025-08-01T12:23:17Z"
   }
 ]

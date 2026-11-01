@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `ccb39aea2e9f`
-**Generated:** 2026-10-31T15:12:55Z
+**Run ID:** `5b6d814242d2`
+**Generated:** 2026-11-01T15:54:18Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -26,17 +26,17 @@
 | 12 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002) | title match: 'forward deployed'; very recent (0d) |
 | 13 | Databricks | Senior Manager, AI Forward Deployed Engineering - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002) | title match: 'forward deployed'; very recent (0d) |
 | 14 | Databricks | Technical Program Manager, Forward Deployed Engineering | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002) | title match: 'forward deployed'; very recent (0d) |
-| 15 | Notion | Forward Deployed Engineer, Manager -London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5) | title match: 'forward deployed'; very recent (0d) |
-| 16 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706) | title match: 'forward deployed'; very recent (0d) |
-| 17 | OpenAI | Applied AI Engineer, Codex | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai'; very recent (0d) |
-| 18 | OpenAI | Applied AI Engineer, Startups (Codex) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20) | title match: 'applied ai'; very recent (0d) |
-| 19 | OpenAI | Applied AI Delivery Lead - London | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85) | title match: 'applied ai'; very recent (0d) |
-| 20 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
-| 21 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed'; very recent (0d) |
-| 22 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed'; very recent (0d) |
-| 23 | Palantir | Forward Deployed Software Engineer - NATO | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0) | title match: 'forward deployed'; very recent (0d) |
-| 24 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
-| 25 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | title match: 'forward deployed'; very recent (0d) |
+| 15 | Moneybox | Forward Deployed Engineer | London Office | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e) | title match: 'forward deployed'; very recent (0d) |
+| 16 | Notion | Forward Deployed Engineer, Manager -London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5) | title match: 'forward deployed'; very recent (0d) |
+| 17 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706) | title match: 'forward deployed'; very recent (0d) |
+| 18 | OpenAI | Applied AI Engineer, Codex | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai'; very recent (0d) |
+| 19 | OpenAI | Applied AI Engineer, Startups (Codex) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20) | title match: 'applied ai'; very recent (0d) |
+| 20 | OpenAI | Applied AI Delivery Lead - London | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85) | title match: 'applied ai'; very recent (0d) |
+| 21 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
+| 22 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed'; very recent (0d) |
+| 23 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed'; very recent (0d) |
+| 24 | Palantir | Forward Deployed Software Engineer - NATO | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/73d1a90c-162d-4cb6-9e0c-4c8de9561ad0) | title match: 'forward deployed'; very recent (0d) |
+| 25 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (1)
 
