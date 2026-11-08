@@ -1,10 +1,10 @@
 # Job Aggregation Report
 
-**Run ID:** `3a313212b935`
-**Timestamp:** 2026-11-07T15:33:22Z
+**Run ID:** `1f55392bbbe2`
+**Timestamp:** 2026-11-08T15:52:26Z
 **Companies processed:** 133
-**Total jobs found:** 13168
-**New jobs this run:** 11451
+**Total jobs found:** 13162
+**New jobs this run:** 11446
 
 ---
 
@@ -179,9 +179,9 @@ Found **1022** new UK posting(s) since last run.
 | 163 | Braze | Account Executive, Enterprise | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8186090) |
 | 164 | Braze | Account Executive, Scale | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8301790) |
 | 165 | Braze | Atlassian Administrator II | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8302809) |
-| 166 | Braze | Business Development Representative | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8303845) |
+| 166 | Braze | Business Development Representative | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8303843) |
 | 167 | Braze | Business Development Representative | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8243115) |
-| 168 | Braze | Business Development Representative | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8303843) |
+| 168 | Braze | Business Development Representative | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8303845) |
 | 169 | Braze | Business Development Representative, Enterprise | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8276040) |
 | 170 | Braze | Deal Execution Analyst | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8312678) |
 | 171 | Braze | Enterprise Account Executive | London | [Apply](https://job-boards.greenhouse.io/braze/jobs/8303847) |
@@ -225,8 +225,8 @@ Found **1022** new UK posting(s) since last run.
 | 209 | Coinbase | IT Support Engineer | London, UK | [Apply](https://www.coinbase.com/careers/positions/8350017?gh_jid=8350017) |
 | 210 | Coinbase | Prime Sales Trader | Remote - UK | [Apply](https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951) |
 | 211 | Coinbase | Product Marketing Manager - EMEA | Remote - UK | [Apply](https://www.coinbase.com/careers/positions/8350767?gh_jid=8350767) |
-| 212 | Coinbase | Risk & Monitoring Analyst III | Remote - UK | [Apply](https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699) |
-| 213 | Coinbase | Risk & Monitoring Analyst III | Remote - UK | [Apply](https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696) |
+| 212 | Coinbase | Risk & Monitoring Analyst III | Remote - UK | [Apply](https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696) |
+| 213 | Coinbase | Risk & Monitoring Analyst III | Remote - UK | [Apply](https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699) |
 | 214 | Coinbase | Senior Complaints Analyst | London, UK | [Apply](https://www.coinbase.com/careers/positions/8289798?gh_jid=8289798) |
 | 215 | Coinbase | Senior Data Scientist, Product  | Remote - UK | [Apply](https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668) |
 | 216 | Coinbase | Specialist, Market Operations | Remote - UK | [Apply](https://www.coinbase.com/careers/positions/8222267?gh_jid=8222267) |
@@ -279,8 +279,8 @@ Found **1022** new UK posting(s) since last run.
 | 263 | Databricks | Strategy & Execution Manager | London, United Kingdom; Paris, France | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8873053002) |
 | 264 | Databricks | Tech Lead Manager - Lakebase | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8651161002) |
 | 265 | Databricks | Technical Program Manager, Forward Deployed Engineering | London, United Kingdom | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002) |
-| 266 | Datadog | Principal GSI Partner Manager - Accenture (EMEA) | London, United Kingdom | [Apply](https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989) |
-| 267 | Datadog | Principal GSI Partner Manager - Accenture (EMEA) | United Kingdom, Remote | [Apply](https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733) |
+| 266 | Datadog | Principal GSI Partner Manager - Accenture (EMEA) | United Kingdom, Remote | [Apply](https://careers.datadoghq.com/detail/8203733/?gh_jid=8203733) |
+| 267 | Datadog | Principal GSI Partner Manager - Accenture (EMEA) | London, United Kingdom | [Apply](https://careers.datadoghq.com/detail/8219989/?gh_jid=8219989) |
 | 268 | Datadog | Principal Partner Manager - Channels (UKI) | London, United Kingdom | [Apply](https://careers.datadoghq.com/detail/8082007/?gh_jid=8082007) |
 | 269 | Datadog | Recruiter, Enterprise Sales | Dublin, Ireland; London, United Kingdom | [Apply](https://careers.datadoghq.com/detail/8096400/?gh_jid=8096400) |
 | 270 | Datadog | Regional Manager, Sales Engineering - UK | London, United Kingdom | [Apply](https://careers.datadoghq.com/detail/8048106/?gh_jid=8048106) |
@@ -488,8 +488,8 @@ Found **1022** new UK posting(s) since last run.
 | 472 | Moneybox | Senior QA Engineer 1 | London Office | [Apply](https://jobs.lever.co/moneyboxapp/88525346-eadb-4512-bca7-2f79b472a268) |
 | 473 | Moneybox | Support Team Executive | Hybrid or Remote within the UK | [Apply](https://jobs.lever.co/moneyboxapp/58e11d09-63d8-47cf-93d3-f449ee0067f8) |
 | 474 | MongoDB | Director, Customer Success Management | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8256905) |
-| 475 | MongoDB | Enterprise Account Executive | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8153715) |
-| 476 | MongoDB | Enterprise Account Executive | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8260947) |
+| 475 | MongoDB | Enterprise Account Executive | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8260947) |
+| 476 | MongoDB | Enterprise Account Executive | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8153715) |
 | 477 | MongoDB | Enterprise Account Executive, AI Natives | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8147938) |
 | 478 | MongoDB | Regional Director, Enterprise, Growth | London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8279464) |
 | 479 | MongoDB | Senior Customer Success Manager | Dublin, Ireland; London | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8091796) |
@@ -774,8 +774,8 @@ Found **1022** new UK posting(s) since last run.
 | 758 | Twilio | Legal Services Manager | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8303973) |
 | 759 | Twilio | New Business Account Executive | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8327527) |
 | 760 | Twilio | New Business Account Executive (German speaker) | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8143768) |
-| 761 | Twilio | Presales Engineer | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8064090) |
-| 762 | Twilio | Presales Engineer | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8243073) |
+| 761 | Twilio | Presales Engineer | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8243073) |
+| 762 | Twilio | Presales Engineer | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8064090) |
 | 763 | Twilio | Presales Engineer (German Speaking)  | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8000178) |
 | 764 | Twilio | Sales Development Representative 2 | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8112239) |
 | 765 | Twilio | Security Engineer, Incident Response | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8055481) |
@@ -784,8 +784,8 @@ Found **1022** new UK posting(s) since last run.
 | 768 | Twilio | Senior Manager, New Business DACH & Benelux | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8201677) |
 | 769 | Twilio | Senior Solutions Engineer | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8327839) |
 | 770 | Twilio | Senior Strategic Account Executive (French Speaker) | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8157507) |
-| 771 | Twilio | Strategic Account Executive | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8160532) |
-| 772 | Twilio | Strategic Account Executive | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8243069) |
+| 771 | Twilio | Strategic Account Executive | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8243069) |
+| 772 | Twilio | Strategic Account Executive | Remote - United Kingdom | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8160532) |
 | 773 | Typeform | AI Product Operations Lead | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/8184931) |
 | 774 | Typeform | Senior Account Executive  | United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/8208256) |
 | 775 | Typeform | Senior IT Engineer | Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; United Kingdom (Remote)  | [Apply](https://job-boards.greenhouse.io/typeform/jobs/8330526) |
@@ -1073,86 +1073,86 @@ Found **108** UK match(es) with score >= 3.
 | 26 | Trainline | Senior Data Scientist | London | 3 | [Apply](https://jobs.ashbyhq.com/trainline/2757aa18-5e60-45cf-ac9d-be11dee1afe2) | title match: 'data scientist' |
 | 27 | Trainline | Senior Data Scientist | London | 3 | [Apply](https://jobs.ashbyhq.com/trainline/f1181e4f-8df4-41f6-a1d6-2ca1fd620ab7) | title match: 'data scientist' |
 | 28 | Trainline | Data Analyst | London | 3 | [Apply](https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63) | title match: 'data analyst' |
-| 29 | Zopa | Applied AI Analyst (Mid and Senior Level) - Transaction Enrichment | London | 3 | [Apply](https://jobs.lever.co/zopa/6d624de1-afcb-4e03-8cd8-40c55f8178d9) | title match: 'applied ai' |
-| 30 | Zopa | Product Analyst (Mid and Senior Level) - Joint Account | London | 3 | [Apply](https://jobs.lever.co/zopa/b00f2b6a-6c60-4b6e-8f8e-5c3630b1240c) | title match: 'product analyst' |
-| 31 | Notion | Manager, Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5) | title match: 'forward deployed' |
-| 32 | Databricks | AI Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8927179002) | title match: 'forward deployed' |
-| 33 | Databricks | Delivery Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) | title match: 'solutions architect' |
-| 34 | Databricks | Delivery Solutions Architect  | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8742059002) | title match: 'solutions architect' |
-| 35 | Databricks | Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8921476002) | title match: 'forward deployed' |
-| 36 | Databricks | Forward Deployed Engineer - Emerging Enterprise & DNB | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002) | title match: 'forward deployed' |
-| 37 | Databricks | Forward Deployed Engineering Manager | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002) | title match: 'forward deployed' |
-| 38 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002) | title match: 'forward deployed' |
-| 39 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB) | Remote - United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002) | title match: 'solutions architect' |
-| 40 | Databricks | Senior Engagement Manager, Forward Deployed Engineering | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884904002) | title match: 'forward deployed' |
-| 41 | Databricks | Senior Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8927390002) | title match: 'forward deployed' |
-| 42 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002) | title match: 'forward deployed' |
-| 43 | Databricks | Senior Manager, AI Forward Deployed Engineering - London | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002) | title match: 'forward deployed' |
-| 44 | Databricks | Senior Product Specialist Partner Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8895472002) | title match: 'solutions architect' |
-| 45 | Databricks | Senior Solutions Architect (Banking, Financial Services) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002) | title match: 'solutions architect' |
-| 46 | Databricks | Senior Solutions Architect (Data & AI) - Leeds based | Remote - United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002) | title match: 'solutions architect' |
-| 47 | Databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002) | title match: 'solutions architect' |
-| 48 | Databricks | Senior Solutions Architect (Transport) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7642125002) | title match: 'solutions architect' |
-| 49 | Databricks | Senior Specialist Solutions Architect (AI/ML) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8615245002) | title match: 'solutions architect' |
-| 50 | Databricks | Solutions Architect (Digital Native Business) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8768958002) | title match: 'solutions architect' |
-| 51 | Databricks | Solutions Architect - Lakebase | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8568015002) | title match: 'solutions architect' |
-| 52 | Databricks | Solutions Architect (Media, Entertainment and Agencies) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8733726002) | title match: 'solutions architect' |
-| 53 | Databricks | Technical Program Manager, Forward Deployed Engineering | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002) | title match: 'forward deployed' |
+| 29 | Notion | Manager, Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5) | title match: 'forward deployed' |
+| 30 | Databricks | AI Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8927179002) | title match: 'forward deployed' |
+| 31 | Databricks | Delivery Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002) | title match: 'solutions architect' |
+| 32 | Databricks | Delivery Solutions Architect  | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8742059002) | title match: 'solutions architect' |
+| 33 | Databricks | Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8921476002) | title match: 'forward deployed' |
+| 34 | Databricks | Forward Deployed Engineer - Emerging Enterprise & DNB | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002) | title match: 'forward deployed' |
+| 35 | Databricks | Forward Deployed Engineering Manager | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002) | title match: 'forward deployed' |
+| 36 | Databricks | Forward Deployed Engineering - Senior Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002) | title match: 'forward deployed' |
+| 37 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB) | Remote - United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8403943002) | title match: 'solutions architect' |
+| 38 | Databricks | Senior Engagement Manager, Forward Deployed Engineering | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884904002) | title match: 'forward deployed' |
+| 39 | Databricks | Senior Forward Deployed Engineer | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8927390002) | title match: 'forward deployed' |
+| 40 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002) | title match: 'forward deployed' |
+| 41 | Databricks | Senior Manager, AI Forward Deployed Engineering - London | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002) | title match: 'forward deployed' |
+| 42 | Databricks | Senior Product Specialist Partner Solutions Architect | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8895472002) | title match: 'solutions architect' |
+| 43 | Databricks | Senior Solutions Architect (Banking, Financial Services) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002) | title match: 'solutions architect' |
+| 44 | Databricks | Senior Solutions Architect (Data & AI) - Leeds based | Remote - United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002) | title match: 'solutions architect' |
+| 45 | Databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002) | title match: 'solutions architect' |
+| 46 | Databricks | Senior Solutions Architect (Transport) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7642125002) | title match: 'solutions architect' |
+| 47 | Databricks | Senior Specialist Solutions Architect (AI/ML) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8615245002) | title match: 'solutions architect' |
+| 48 | Databricks | Solutions Architect (Digital Native Business) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8768958002) | title match: 'solutions architect' |
+| 49 | Databricks | Solutions Architect - Lakebase | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8568015002) | title match: 'solutions architect' |
+| 50 | Databricks | Solutions Architect (Media, Entertainment and Agencies) | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8733726002) | title match: 'solutions architect' |
+| 51 | Databricks | Technical Program Manager, Forward Deployed Engineering | London, United Kingdom | 3 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002) | title match: 'forward deployed' |
+| 52 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157485134) | title match: 'product analyst' |
+| 53 | ASOS | Applied Scientist | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157484844) | title match: 'applied scientist' |
 | 54 | MongoDB | Senior Solutions Architect | London | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8345848) | title match: 'solutions architect' |
 | 55 | MongoDB | Senior Solutions Architect (Search Specialist)  | Barcelona; Dublin; London | 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8248829) | title match: 'solutions architect' |
-| 56 | Moneybox | Data Product & Analytics Engineering Senior Manager | London Office | 3 | [Apply](https://jobs.lever.co/moneyboxapp/a2f9d82a-46eb-4767-85d2-049d946b6115) | title match: 'analytics engineer' |
-| 57 | Moneybox | Forward Deployed Engineer | London Office | 3 | [Apply](https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e) | title match: 'forward deployed' |
-| 58 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed' |
-| 59 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed' |
-| 60 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed' |
-| 61 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed' |
-| 62 | Palantir | Forward Deployed Software Engineer, Internship - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) | title match: 'forward deployed' |
-| 63 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | title match: 'forward deployed' |
-| 64 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed' |
-| 65 | ASOS | Senior Product Analyst  | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157485134) | title match: 'product analyst' |
-| 66 | ASOS | Applied Scientist | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157484844) | title match: 'applied scientist' |
+| 56 | Zopa | Applied AI Analyst (Mid and Senior Level) - Transaction Enrichment | London | 3 | [Apply](https://jobs.lever.co/zopa/6d624de1-afcb-4e03-8cd8-40c55f8178d9) | title match: 'applied ai' |
+| 57 | Zopa | Product Analyst (Mid and Senior Level) - Joint Account | London | 3 | [Apply](https://jobs.lever.co/zopa/b00f2b6a-6c60-4b6e-8f8e-5c3630b1240c) | title match: 'product analyst' |
+| 58 | Moneybox | Data Product & Analytics Engineering Senior Manager | London Office | 3 | [Apply](https://jobs.lever.co/moneyboxapp/a2f9d82a-46eb-4767-85d2-049d946b6115) | title match: 'analytics engineer' |
+| 59 | Moneybox | Forward Deployed Engineer | London Office | 3 | [Apply](https://jobs.lever.co/moneyboxapp/86ca8aba-f5c8-4d52-8cdf-66a2e999335e) | title match: 'forward deployed' |
+| 60 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed' |
+| 61 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed' |
+| 62 | Palantir | Forward Deployed Software Engineer | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) | title match: 'forward deployed' |
+| 63 | Palantir | Forward Deployed Software Engineer - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152) | title match: 'forward deployed' |
+| 64 | Palantir | Forward Deployed Software Engineer, Internship - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) | title match: 'forward deployed' |
+| 65 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0) | title match: 'forward deployed' |
+| 66 | Palantir | Forward Deployed Software Engineer, New Grad - UK Government | London, United Kingdom | 3 | [Apply](https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a) | title match: 'forward deployed' |
 | 67 | Spotify | Data Scientist  - Business Analytics | London | 3 | [Apply](https://jobs.lever.co/spotify/b4f6cd01-1d5d-41a9-b287-6d10416da03c) | title match: 'data scientist' |
 | 68 | Spotify | Data Scientist, Company Planning & Execution | London | 3 | [Apply](https://jobs.lever.co/spotify/8a9cc53c-48c0-4d43-8287-d81ab09e74fa) | title match: 'data scientist' |
 | 69 | Form3 | Reporting & Data Analyst (6-Month FTC) | 100% Remote (UK) | 3 | [Apply](https://www.form3.tech/careers/vacancies/8885575002?gh_jid=8885575002) | title match: 'data analyst' |
-| 70 | Supabase | Developer Relations Engineer (London, UK) | Remote, London UK | 3 | [Apply](https://jobs.ashbyhq.com/supabase/1acade7a-0b80-4c6c-9253-7c27a165739d) | title match: 'developer relations' |
-| 71 | Vanta | Manager, Solutions Engineering - EMEA | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/vanta/2daebe8c-69af-44f3-a81f-38fb17da30a0) | title match: 'solutions engineer' |
-| 72 | Elastic | Senior Developer Advocate | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8283720&gh_jid=8283720) | title match: 'developer advocate' |
-| 73 | Elastic | Senior Solutions Architect | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8023149&gh_jid=8023149) | title match: 'solutions architect' |
-| 74 | Elastic | Solutions Architect - Search Specialist  | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8153272&gh_jid=8153272) | title match: 'solutions architect' |
-| 75 | OpenAI | Applied AI Engineer, Digital Natives | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294) | title match: 'applied ai' |
-| 76 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706) | title match: 'forward deployed' |
-| 77 | OpenAI | Applied AI Engineer, Codex | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai' |
-| 78 | OpenAI | Applied AI Engineer, Government, International | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a) | title match: 'applied ai' |
-| 79 | OpenAI | Applied AI Engineer, Startups (Codex) | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20) | title match: 'applied ai' |
-| 80 | OpenAI | Forward Deployed Engineer - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283) | title match: 'forward deployed' |
-| 81 | OpenAI | Applied AI Delivery Lead - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85) | title match: 'applied ai' |
-| 82 | Wise | Data Analyst - Risk & Controls | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160214675) | title match: 'data analyst' |
-| 83 | Wise | Senior Data Analyst - Growth | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160166785) | title match: 'data analyst' |
-| 84 | Wise | Lead Data Analyst - FinCrime Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160166089) | title match: 'data analyst' |
-| 85 | Wise | Lead Data Scientist - Agentic AI / AML  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000159590339) | title match: 'data scientist' |
-| 86 | Wise | Lead Data Scientist - Treasury Liquidity | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000159403619) | title match: 'data scientist' |
-| 87 | Wise | Lead Data Analyst - Financial Reporting | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000159204072) | title match: 'data analyst' |
-| 88 | Wise | Lead Data Scientist - KYC/onboarding  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000159067369) | title match: 'data scientist' |
-| 89 | Wise | Lead Data Scientist - AML | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000156256909) | title match: 'data scientist' |
-| 90 | Wise | Senior Product Analyst (IC2), SEND | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155718929) | title match: 'product analyst' |
-| 91 | Wise | Lead Product Analyst - FinCrime | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155548425) | title match: 'product analyst' |
-| 92 | Wise | Lead Data Scientist - Receive Risk | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155521879) | title match: 'data scientist' |
-| 93 | Wise | Senior Product Analytics Manager (AL2), SEND  | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155283709) | title match: 'product analytics' |
-| 94 | Wise | Lead Data Scientist - Scams Prevention | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155279229) | title match: 'data scientist' |
-| 95 | Wise | Lead Data Analyst - Treasury Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155230559) | title match: 'data analyst' |
-| 96 | Wise | Senior Product Analytics Manager - Wise Business | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000154402499) | title match: 'product analytics' |
-| 97 | Wise | Senior Product Analyst - Financial Crime | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000154400469) | title match: 'product analyst' |
-| 98 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000153105990) | title match: 'product analyst' |
-| 99 | Wise | Lead Product Analyst - Send | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000153108384) | title match: 'product analyst' |
-| 100 | Wise | Lead Product Analyst - Onboarding | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000153110739) | title match: 'product analyst' |
-| 101 | Wise | Lead Product Analyst - Business Squad | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000153110119) | title match: 'product analyst' |
-| 102 | Wise | Lead Marketing Analyst - Growth Enablement | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000151858969) | title match: 'marketing analyst' |
-| 103 | Wise | Senior Product Analyst - FinCrime  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000145512059) | title match: 'product analyst' |
-| 104 | Wise | Lead Product Analyst | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138588732) | title match: 'product analyst' |
-| 105 | Wise | Senior Data Analyst - CRM Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138396514) | title match: 'data analyst' |
-| 106 | Wise | Senior Data Analyst - Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000134029584) | title match: 'data analyst' |
-| 107 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124144555) | title match: 'data analyst' |
-| 108 | Wise | Product Analytics Manager - Liquidity (Investments) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000113454827) | title match: 'product analytics' |
+| 70 | Wise | Data Analyst - Risk & Controls | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160214675) | title match: 'data analyst' |
+| 71 | Wise | Senior Data Analyst - Growth | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160166785) | title match: 'data analyst' |
+| 72 | Wise | Lead Data Analyst - FinCrime Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000160166089) | title match: 'data analyst' |
+| 73 | Wise | Lead Data Scientist - Agentic AI / AML  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000159590339) | title match: 'data scientist' |
+| 74 | Wise | Lead Data Scientist - Treasury Liquidity | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000159403619) | title match: 'data scientist' |
+| 75 | Wise | Lead Data Analyst - Financial Reporting | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000159204072) | title match: 'data analyst' |
+| 76 | Wise | Lead Data Scientist - KYC/onboarding  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000159067369) | title match: 'data scientist' |
+| 77 | Wise | Lead Data Scientist - AML | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000156256909) | title match: 'data scientist' |
+| 78 | Wise | Senior Product Analyst (IC2), SEND | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155718929) | title match: 'product analyst' |
+| 79 | Wise | Lead Product Analyst - FinCrime | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155548425) | title match: 'product analyst' |
+| 80 | Wise | Lead Data Scientist - Receive Risk | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155521879) | title match: 'data scientist' |
+| 81 | Wise | Senior Product Analytics Manager (AL2), SEND  | London, England, United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155283709) | title match: 'product analytics' |
+| 82 | Wise | Lead Data Scientist - Scams Prevention | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155279229) | title match: 'data scientist' |
+| 83 | Wise | Lead Data Analyst - Treasury Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000155230559) | title match: 'data analyst' |
+| 84 | Wise | Senior Product Analytics Manager - Wise Business | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000154402499) | title match: 'product analytics' |
+| 85 | Wise | Senior Product Analyst - Financial Crime | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000154400469) | title match: 'product analyst' |
+| 86 | Wise | Lead Product Analyst - Business Onboarding | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000153105990) | title match: 'product analyst' |
+| 87 | Wise | Lead Product Analyst - Send | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000153108384) | title match: 'product analyst' |
+| 88 | Wise | Lead Product Analyst - Onboarding | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000153110739) | title match: 'product analyst' |
+| 89 | Wise | Lead Product Analyst - Business Squad | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000153110119) | title match: 'product analyst' |
+| 90 | Wise | Lead Marketing Analyst - Growth Enablement | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000151858969) | title match: 'marketing analyst' |
+| 91 | Wise | Senior Product Analyst - FinCrime  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000145512059) | title match: 'product analyst' |
+| 92 | Wise | Lead Product Analyst | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138588732) | title match: 'product analyst' |
+| 93 | Wise | Senior Data Analyst - CRM Analytics | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000138396514) | title match: 'data analyst' |
+| 94 | Wise | Senior Data Analyst - Operations | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000134029584) | title match: 'data analyst' |
+| 95 | Wise | Staff Data Analyst, Operations  | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000124144555) | title match: 'data analyst' |
+| 96 | Wise | Product Analytics Manager - Liquidity (Investments) | London, , United Kingdom | 3 | [Apply](https://jobs.smartrecruiters.com/Wise/744000113454827) | title match: 'product analytics' |
+| 97 | Supabase | Developer Relations Engineer (London, UK) | Remote, London UK | 3 | [Apply](https://jobs.ashbyhq.com/supabase/1acade7a-0b80-4c6c-9253-7c27a165739d) | title match: 'developer relations' |
+| 98 | Vanta | Manager, Solutions Engineering - EMEA | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/vanta/2daebe8c-69af-44f3-a81f-38fb17da30a0) | title match: 'solutions engineer' |
+| 99 | Elastic | Senior Developer Advocate | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8283720&gh_jid=8283720) | title match: 'developer advocate' |
+| 100 | Elastic | Senior Solutions Architect | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8023149&gh_jid=8023149) | title match: 'solutions architect' |
+| 101 | Elastic | Solutions Architect - Search Specialist  | United Kingdom | 3 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8153272&gh_jid=8153272) | title match: 'solutions architect' |
+| 102 | OpenAI | Applied AI Engineer, Digital Natives | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294) | title match: 'applied ai' |
+| 103 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706) | title match: 'forward deployed' |
+| 104 | OpenAI | Applied AI Engineer, Codex | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai' |
+| 105 | OpenAI | Applied AI Engineer, Government, International | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a) | title match: 'applied ai' |
+| 106 | OpenAI | Applied AI Engineer, Startups (Codex) | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20) | title match: 'applied ai' |
+| 107 | OpenAI | Forward Deployed Engineer - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283) | title match: 'forward deployed' |
+| 108 | OpenAI | Applied AI Delivery Lead - London | London, UK | 3 | [Apply](https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85) | title match: 'applied ai' |
 
 ---
 
