@@ -1,142 +1,142 @@
 # Diff Report
 
-**Run ID:** `93f6ab86cc43`
-**Timestamp:** 2026-11-10T16:54:29Z
+**Run ID:** `815d6980a345`
+**Timestamp:** 2026-11-11T16:59:14Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 11504
+**New jobs this run:** 11544
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **644** new high-scoring job(s).
+Found **651** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
 | 1 | OpenAI | Data Scientist, Core Experimentation  | Seattle | 8 | [Apply](https://jobs.ashbyhq.com/openai/e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92) | title match: 'data scientist'; title match: 'experimentation'; keyword: 'experiment' (+1 more) |
 | 2 | Monzo | Staff Data Scientist | Barcelona; Cardiff, London or Remote (UK); London 🇬🇧 | 7 | [Apply](https://job-boards.greenhouse.io/monzo/jobs/8232732) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+2 more) |
-| 3 | Ramp | AI Solutions Engineer | New York, NY (HQ) | 6 | [Apply](https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919) | title match: 'solutions engineer'; title match: 'ai solutions' |
-| 4 | Ramp | Software Engineer, Forward Deployed, AI Solutions | New York, NY (HQ) | 6 | [Apply](https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27) | title match: 'forward deployed'; title match: 'ai solutions' |
-| 5 | OpenAI | Applied AI Architect | Sydney, Australia | 6 | [Apply](https://jobs.ashbyhq.com/openai/b47aae11-78e1-4321-947a-94a2fa3e83b4) | title match: 'applied ai'; title match: 'ai architect' |
-| 6 | OpenAI | Manager, Applied AI Architects | London, UK 🇬🇧 | 6 | [Apply](https://jobs.ashbyhq.com/openai/f794c64d-bc5c-430b-b645-bff8c202b80e) | title match: 'applied ai'; title match: 'ai architect' |
-| 7 | OpenAI | Applied AI Architect | Seoul, South Korea | 6 | [Apply](https://jobs.ashbyhq.com/openai/ad06299f-d4e2-4de6-a925-b2e94b3c1d0b) | title match: 'applied ai'; title match: 'ai architect' |
-| 8 | OpenAI | Applied AI Architect | Singapore | 6 | [Apply](https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410) | title match: 'applied ai'; title match: 'ai architect' |
-| 9 | OpenAI | Applied AI Architect (Brazil) | São Paulo | 6 | [Apply](https://jobs.ashbyhq.com/openai/5db54c88-2ff4-4a2e-98e2-68439d59e3df) | title match: 'applied ai'; title match: 'ai architect' |
-| 10 | OpenAI | Applied AI Architect, Cyber | San Francisco | 6 | [Apply](https://jobs.ashbyhq.com/openai/b46ffd99-f9f2-440c-ac13-448eb7911ad6) | title match: 'applied ai'; title match: 'ai architect' |
-| 11 | OpenAI | Manager, Cyber - Applied AI Architect  | San Francisco | 6 | [Apply](https://jobs.ashbyhq.com/openai/8ac9a248-4069-45cc-a00e-82f22f1e7ed2) | title match: 'applied ai'; title match: 'ai architect' |
-| 12 | OpenAI | Applied AI Architect, Partner | Tokyo, Japan | 6 | [Apply](https://jobs.ashbyhq.com/openai/0916f210-e851-493c-b8ec-51cf00152be1) | title match: 'applied ai'; title match: 'ai architect' |
-| 13 | OpenAI | Manager, Applied AI Architects - Digital Natives | Munich, Germany | 6 | [Apply](https://jobs.ashbyhq.com/openai/e45913b7-b84d-49d3-a0b6-c19b55185272) | title match: 'applied ai'; title match: 'ai architect' |
-| 14 | OpenAI | Manager, Applied AI Architects | Paris, France | 6 | [Apply](https://jobs.ashbyhq.com/openai/1c4d812f-d6da-4ea3-b1b3-d1877610b731) | title match: 'applied ai'; title match: 'ai architect' |
-| 15 | OpenAI | Applied AI Architect, Government | Washington, DC | 6 | [Apply](https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2) | title match: 'applied ai'; title match: 'ai architect' |
-| 16 | OpenAI | Manager, Applied AI Architects | Tokyo, Japan | 6 | [Apply](https://jobs.ashbyhq.com/openai/69398837-5ceb-44d8-b95a-e53c2acf5230) | title match: 'applied ai'; title match: 'ai architect' |
-| 17 | OpenAI | Applied AI Architect, Education | London, UK 🇬🇧 | 6 | [Apply](https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4) | title match: 'applied ai'; title match: 'ai architect' |
-| 18 | OpenAI | Applied AI Architect, Large Enterprise | London, UK 🇬🇧 | 6 | [Apply](https://jobs.ashbyhq.com/openai/557dd2ec-db6c-49b1-a0aa-193007ebd5b6) | title match: 'applied ai'; title match: 'ai architect' |
-| 19 | OpenAI | Manager, Applied AI Architect (India) | Bangalore - Remote | 6 | [Apply](https://jobs.ashbyhq.com/openai/2aae72af-8c35-42bc-86f6-9d5634391245) | title match: 'applied ai'; title match: 'ai architect' |
-| 20 | OpenAI | Product Data Scientist - Youth, Families and Learning | San Francisco | 6 | [Apply](https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1) | title match: 'product data scientist'; title match: 'data scientist' |
-| 21 | OpenAI | Applied AI Architect, OpenAI for Government | Munich, Germany | 6 | [Apply](https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b) | title match: 'applied ai'; title match: 'ai architect' |
-| 22 | Databricks | Applied AI Architect | United States | 6 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8933544002) | title match: 'applied ai'; title match: 'ai architect' |
-| 23 | Databricks | Senior EMEA AI Solutions Architect | London, United Kingdom 🇬🇧 | 6 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8895476002) | title match: 'ai solutions'; title match: 'solutions architect' |
-| 24 | GitLab | Data Scientist, Enterprise Analytics | Remote, Canada; Remote, United States | 5 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8922013002) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+3 more) |
-| 25 | Spotify | Engineering Manager - Experimentation | London 🇬🇧 | 5 | [Apply](https://jobs.lever.co/spotify/9d0ac2f3-1bef-4e8d-a3cb-a3c855d2b2bd) | title match: 'experimentation'; keyword: 'experiment'; keyword: 'experimentation' |
+| 3 | Databricks | Applied AI Architect | United States | 6 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8933544002) | title match: 'applied ai'; title match: 'ai architect' |
+| 4 | Databricks | Senior EMEA AI Solutions Architect | London, United Kingdom 🇬🇧 | 6 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8895476002) | title match: 'ai solutions'; title match: 'solutions architect' |
+| 5 | Ramp | AI Solutions Engineer | New York, NY (HQ) | 6 | [Apply](https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919) | title match: 'solutions engineer'; title match: 'ai solutions' |
+| 6 | Ramp | Software Engineer, Forward Deployed, AI Solutions | New York, NY (HQ) | 6 | [Apply](https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27) | title match: 'forward deployed'; title match: 'ai solutions' |
+| 7 | OpenAI | Applied AI Architect | Sydney, Australia | 6 | [Apply](https://jobs.ashbyhq.com/openai/b47aae11-78e1-4321-947a-94a2fa3e83b4) | title match: 'applied ai'; title match: 'ai architect' |
+| 8 | OpenAI | Manager, Applied AI Architects | London, UK 🇬🇧 | 6 | [Apply](https://jobs.ashbyhq.com/openai/f794c64d-bc5c-430b-b645-bff8c202b80e) | title match: 'applied ai'; title match: 'ai architect' |
+| 9 | OpenAI | Applied AI Architect | Seoul, South Korea | 6 | [Apply](https://jobs.ashbyhq.com/openai/ad06299f-d4e2-4de6-a925-b2e94b3c1d0b) | title match: 'applied ai'; title match: 'ai architect' |
+| 10 | OpenAI | Applied AI Architect | Singapore | 6 | [Apply](https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410) | title match: 'applied ai'; title match: 'ai architect' |
+| 11 | OpenAI | Applied AI Architect (Brazil) | São Paulo | 6 | [Apply](https://jobs.ashbyhq.com/openai/5db54c88-2ff4-4a2e-98e2-68439d59e3df) | title match: 'applied ai'; title match: 'ai architect' |
+| 12 | OpenAI | Applied AI Architect, Cyber | San Francisco | 6 | [Apply](https://jobs.ashbyhq.com/openai/b46ffd99-f9f2-440c-ac13-448eb7911ad6) | title match: 'applied ai'; title match: 'ai architect' |
+| 13 | OpenAI | Manager, Cyber - Applied AI Architect  | San Francisco | 6 | [Apply](https://jobs.ashbyhq.com/openai/8ac9a248-4069-45cc-a00e-82f22f1e7ed2) | title match: 'applied ai'; title match: 'ai architect' |
+| 14 | OpenAI | Applied AI Architect, Partner | Tokyo, Japan | 6 | [Apply](https://jobs.ashbyhq.com/openai/0916f210-e851-493c-b8ec-51cf00152be1) | title match: 'applied ai'; title match: 'ai architect' |
+| 15 | OpenAI | Manager, Applied AI Architects - Digital Natives | Munich, Germany | 6 | [Apply](https://jobs.ashbyhq.com/openai/e45913b7-b84d-49d3-a0b6-c19b55185272) | title match: 'applied ai'; title match: 'ai architect' |
+| 16 | OpenAI | Manager, Applied AI Architects | Paris, France | 6 | [Apply](https://jobs.ashbyhq.com/openai/1c4d812f-d6da-4ea3-b1b3-d1877610b731) | title match: 'applied ai'; title match: 'ai architect' |
+| 17 | OpenAI | Applied AI Architect, Government | Washington, DC | 6 | [Apply](https://jobs.ashbyhq.com/openai/6882c919-600e-43c8-92f9-803d4eb3bcd2) | title match: 'applied ai'; title match: 'ai architect' |
+| 18 | OpenAI | Manager, Applied AI Architects | Tokyo, Japan | 6 | [Apply](https://jobs.ashbyhq.com/openai/69398837-5ceb-44d8-b95a-e53c2acf5230) | title match: 'applied ai'; title match: 'ai architect' |
+| 19 | OpenAI | Applied AI Architect, Education | London, UK 🇬🇧 | 6 | [Apply](https://jobs.ashbyhq.com/openai/98bffd0e-05cf-4748-93f1-b115c84e37b4) | title match: 'applied ai'; title match: 'ai architect' |
+| 20 | OpenAI | Applied AI Architect, Large Enterprise | London, UK 🇬🇧 | 6 | [Apply](https://jobs.ashbyhq.com/openai/557dd2ec-db6c-49b1-a0aa-193007ebd5b6) | title match: 'applied ai'; title match: 'ai architect' |
+| 21 | OpenAI | Manager, Applied AI Architect (India) | Bangalore - Remote | 6 | [Apply](https://jobs.ashbyhq.com/openai/2aae72af-8c35-42bc-86f6-9d5634391245) | title match: 'applied ai'; title match: 'ai architect' |
+| 22 | OpenAI | Product Data Scientist - Youth, Families and Learning | San Francisco | 6 | [Apply](https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1) | title match: 'product data scientist'; title match: 'data scientist' |
+| 23 | OpenAI | Applied AI Architect, OpenAI for Government | Munich, Germany | 6 | [Apply](https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b) | title match: 'applied ai'; title match: 'ai architect' |
+| 24 | OpenAI | Applied AI Architect, Cyber | Vancouver | 6 | [Apply](https://jobs.ashbyhq.com/openai/97e3df39-8a0b-493d-8cc4-c35e01491516) | title match: 'applied ai'; title match: 'ai architect' |
+| 25 | OpenAI | Manager, Applied AI Architects (Australia) | Sydney, Australia | 6 | [Apply](https://jobs.ashbyhq.com/openai/f4552c9d-e15f-4f2c-bf03-fd2cc1e11068) | title match: 'applied ai'; title match: 'ai architect' |
 
-... and 619 more not shown
+... and 626 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **919** new UK posting(s) not in top matches.
+Found **929** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
-| 1 | ASOS | Account Manager (ASOS Fulfilment Services) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158352420) |
-| 2 | ASOS | Account Manager (Partner Fulfilment) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156854069) |
-| 3 | ASOS | Accounts Payable Assistant - Non-Stock - 6 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160214629) |
-| 4 | ASOS | Android Engineer | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136154689) |
-| 5 | ASOS | Assistant Buyer – Test & React ADWW (12 Month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156128539) |
-| 6 | ASOS | Assistant Designer - MW ASOS Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159904039) |
-| 7 | ASOS | Assistant Merchandiser  (ADWW) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160672719) |
-| 8 | ASOS | Assistant Merchandiser (Topshop) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160674269) |
-| 9 | ASOS | Assistant Pricing Manager 12 Months Fixed Term Contract | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156821880) |
-| 10 | ASOS | Associate Data Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159449334) |
-| 11 | ASOS | Brand Planning Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154020682) |
-| 12 | ASOS | Business Continuity & Insurance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156359337) |
-| 13 | ASOS | Business Support Administrator - 12 Month FTC | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160631362) |
-| 14 | ASOS | Content and Optimisation Manager - 12 months Fixed Term Contract  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160558219) |
-| 15 | ASOS | Content and Optimisation Specialist - 12 month Fixed Term Contract  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157786529) |
-| 16 | ASOS | Designer - WW Arrange Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000149892560) |
-| 17 | ASOS | Designer - WW Jersey - ASOS Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000150056119) |
-| 18 | ASOS | Digital Trading Assistant - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157427999) |
-| 19 | ASOS | Entry Assistant Designer - Topshop | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000155699529) |
-| 20 | ASOS | Face + Body Assistant Buyer (12 Month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152350979) |
-| 21 | ASOS | Finance Business Partner - Technology | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152691461) |
-| 22 | ASOS | Finance Manager - Supply Chain | Barnsley, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156376359) |
-| 23 | ASOS | Hairstylist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154405599) |
-| 24 | ASOS | Head of CRM and Lifecycle Product - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160585464) |
-| 25 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158353559) |
-| 26 | ASOS | Merchandising Assistant  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159935510) |
-| 27 | ASOS | Model Booker (3 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160848529) |
-| 28 | ASOS | Paralegal - 6 month FTC  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158571129) |
-| 29 | ASOS | Principal Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156361317) |
-| 30 | ASOS | Product Manager (PO & Intake Management) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157123794) |
-| 31 | ASOS | Product Specialist | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159401956) |
-| 32 | ASOS | Product Specialist 7 month FTC | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159404309) |
-| 33 | ASOS | Production Operations Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000151000459) |
-| 34 | ASOS | Project Manager - 12 month FTC | Barnsley, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159638896) |
-| 35 | ASOS | SOC and Incident Response Lead | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159844450) |
-| 36 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159896249) |
-| 37 | ASOS | Senior AI / LLM Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157124664) |
-| 38 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152723669) |
-| 39 | ASOS | Senior AI Engineer – Machine Learning (Computer Vision)  | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000148327939) |
-| 40 | ASOS | Senior Data Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156362979) |
+| 1 | ASOS | Account Manager (Partner Fulfilment) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156854069) |
+| 2 | ASOS | Accounts Payable Assistant - Non-Stock - 6 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160214629) |
+| 3 | ASOS | Android Engineer | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000136154689) |
+| 4 | ASOS | Assistant Buyer – Test & React ADWW (12 Month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156128539) |
+| 5 | ASOS | Assistant Designer - MW ASOS Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159904039) |
+| 6 | ASOS | Assistant Merchandiser  (ADWW) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160672719) |
+| 7 | ASOS | Assistant Merchandiser (Topshop) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160674269) |
+| 8 | ASOS | Assistant Pricing Manager 12 Months Fixed Term Contract | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156821880) |
+| 9 | ASOS | Brand Planning Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154020682) |
+| 10 | ASOS | Business Continuity & Insurance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156359337) |
+| 11 | ASOS | Business Support Administrator - 12 Month FTC | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160631362) |
+| 12 | ASOS | Content and Optimisation Manager - 12 months Fixed Term Contract  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160558219) |
+| 13 | ASOS | Content and Optimisation Specialist - 12 month Fixed Term Contract  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157786529) |
+| 14 | ASOS | Designer - WW Arrange Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000149892560) |
+| 15 | ASOS | Designer - WW Jersey - ASOS Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000150056119) |
+| 16 | ASOS | Digital Trading Assistant - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157427999) |
+| 17 | ASOS | Entry Assistant Designer - Topshop | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000155699529) |
+| 18 | ASOS | Face + Body Assistant Buyer (12 Month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152350979) |
+| 19 | ASOS | Finance Business Partner - Technology | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152691461) |
+| 20 | ASOS | Finance Manager - Supply Chain | Barnsley, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156376359) |
+| 21 | ASOS | Hairstylist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154405599) |
+| 22 | ASOS | Head of CRM and Lifecycle Product - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160585464) |
+| 23 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158353559) |
+| 24 | ASOS | Merchandising Assistant  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159935510) |
+| 25 | ASOS | Model Booker (3 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160848529) |
+| 26 | ASOS | Paralegal - 6 month FTC  | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158571129) |
+| 27 | ASOS | Principal Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156361317) |
+| 28 | ASOS | Principal Software Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161069549) |
+| 29 | ASOS | Product Manager (PO & Intake Management) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157123794) |
+| 30 | ASOS | Product Specialist | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159401956) |
+| 31 | ASOS | Product Specialist 7 month FTC | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159404309) |
+| 32 | ASOS | Production Operations Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000151000459) |
+| 33 | ASOS | Project Manager (Supply Chain) - 12 month FTC | Barnsley, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161116237) |
+| 34 | ASOS | SOC and Incident Response Lead | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159844450) |
+| 35 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159896249) |
+| 36 | ASOS | Senior AI / LLM Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157124664) |
+| 37 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152723669) |
+| 38 | ASOS | Senior AI Engineer – Machine Learning (Computer Vision)  | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000148327939) |
+| 39 | ASOS | Senior Data Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161052299) |
+| 40 | ASOS | Senior Data Engineer  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158099439) |
 
-... and 879 more not shown
+... and 889 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **9941** other new posting(s).
+Found **9964** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
-| 1 | Airtable | Renewals Associate | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8905022002) |
-| 2 | Airtable | Senior Solutions Architect | Remote - US | 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
-| 3 | Block (Square) |  Enterprise Account Executive, Commerce  | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5121341008?gh_jid=5121341008) |
-| 4 | Block (Square) | Account Executive Manager | Tokyo, Japan | -5 | [Apply](http://block.xyz/careers/jobs/5410307008?gh_jid=5410307008) |
-| 5 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
-| 6 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 7 | Block (Square) | B2B Content Marketing Lead | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5422288008?gh_jid=5422288008) |
-| 8 | Block (Square) | Bilingual Implementation Specialist  | Los Angeles, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5466280008?gh_jid=5466280008) |
-| 9 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442638008?gh_jid=5442638008) |
+| 1 | Airtable | Customer Success Manager | Remote - US | -5 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8936208002) |
+| 2 | Airtable | Renewals Associate | Remote - US | 0 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8905022002) |
+| 3 | Airtable | Senior Solutions Architect | Remote - US | 1 | [Apply](https://job-boards.greenhouse.io/airtable/jobs/8498915002) |
+| 4 | Block (Square) |  Enterprise Account Executive, Commerce  | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5121341008?gh_jid=5121341008) |
+| 5 | Block (Square) | Account Executive Manager | Tokyo, Japan | -5 | [Apply](http://block.xyz/careers/jobs/5410307008?gh_jid=5410307008) |
+| 6 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | -2 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
+| 7 | Block (Square) | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | -2 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 8 | Block (Square) | B2B Content Marketing Lead | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5422288008?gh_jid=5422288008) |
+| 9 | Block (Square) | Bilingual Implementation Specialist  | Los Angeles, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5466280008?gh_jid=5466280008) |
 | 10 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008) |
-| 11 | Block (Square) | Business Development Lead, AI Commercialization | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5415993008?gh_jid=5415993008) |
-| 12 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
-| 13 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
-| 14 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
-| 15 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
-| 16 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
-| 17 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 11 | Block (Square) | Bilingual Mandarin Business Development Rep | Melbourne, Australia | -5 | [Apply](http://block.xyz/careers/jobs/5442638008?gh_jid=5442638008) |
+| 12 | Block (Square) | Business Development Lead, AI Commercialization | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5415993008?gh_jid=5415993008) |
+| 13 | Block (Square) | Business Development Rep Associate | Atlanta, GA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
+| 14 | Block (Square) | Business Development Rep Associate | Bay Area, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
+| 15 | Block (Square) | Business Development Rep Associate | Saint Louis, MO, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
+| 16 | Block (Square) | Business Development Rep Associate | Seattle, WA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
+| 17 | Block (Square) | Business Development Rep Associate | Scottsdale, AZ, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
 | 18 | Block (Square) | Business Development Rep Associate | Los Angeles, CA, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
-| 19 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5445869008?gh_jid=5445869008) |
-| 20 | Block (Square) | Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008) |
-| 21 | Block (Square) | Business Intelligence Analyst | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5369959008?gh_jid=5369959008) |
+| 19 | Block (Square) | Business Development Rep Associate | DC Metro, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 20 | Block (Square) | Business Development Rep Associate - Bilingual French | Toronto, Ontario, Canada | -5 | [Apply](http://block.xyz/careers/jobs/5445869008?gh_jid=5445869008) |
+| 21 | Block (Square) | Business Development Rep Associate, New York City | New York, NY, United States of America | -5 | [Apply](http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008) |
 | 22 | Block (Square) | Business Intelligence Analyst | San Francisco, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5439140008?gh_jid=5439140008) |
-| 23 | Block (Square) | Business Systems Analyst, IT Vendor Operations | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5427849008?gh_jid=5427849008) |
-| 24 | Block (Square) | Chargé de Compte PME | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5356573008?gh_jid=5356573008) |
-| 25 | Block (Square) | Chief Compliance Officer, Cash App Investing | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5431065008?gh_jid=5431065008) |
+| 23 | Block (Square) | Business Intelligence Analyst | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5369959008?gh_jid=5369959008) |
+| 24 | Block (Square) | Business Systems Analyst, IT Vendor Operations | Bay Area, CA, United States of America | 0 | [Apply](http://block.xyz/careers/jobs/5427849008?gh_jid=5427849008) |
+| 25 | Block (Square) | Chargé de Compte PME | Toronto, Ontario, Canada | 0 | [Apply](http://block.xyz/careers/jobs/5356573008?gh_jid=5356573008) |
 
-... and 9916 more not shown
+... and 9939 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 11504
-- **Top matches (score ≥ 3):** 644
+- **Total new jobs:** 11544
+- **Top matches (score ≥ 3):** 651
   - of which UK: 93
-- **New UK jobs (other):** 919
-- **Other new jobs:** 9941
+- **New UK jobs (other):** 929
+- **Other new jobs:** 9964
 
 ---
 _Generated by job-aggregator diff mode_
