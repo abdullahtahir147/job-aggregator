@@ -187,20 +187,6 @@
     "rank": 14,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "Senior Forward Deployed Engineer (Technical Data Architect)",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-10-26T14:04:09Z"
-  },
-  {
-    "rank": 15,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
     "title": "Senior Manager, AI Forward Deployed Engineering - London",
     "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002",
@@ -212,7 +198,7 @@
     "posted_at": "2026-10-06T07:04:45Z"
   },
   {
-    "rank": 16,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Technical Program Manager, Forward Deployed Engineering",
@@ -226,7 +212,7 @@
     "posted_at": "2026-11-01T02:36:53Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "Notion",
     "title": "Manager, Forward Deployed Engineer",
@@ -240,7 +226,7 @@
     "posted_at": "2026-09-09T16:23:19Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineering Manager, Startups | Greenfield",
@@ -254,7 +240,7 @@
     "posted_at": "2026-11-10T09:00:55Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Digital Natives",
@@ -268,7 +254,7 @@
     "posted_at": "2026-11-03T09:51:48Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -282,7 +268,7 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Codex",
@@ -296,7 +282,7 @@
     "posted_at": "2026-09-11T07:44:32Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Startups (Codex)",
@@ -310,7 +296,7 @@
     "posted_at": "2026-09-24T13:55:16Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Delivery Lead - London",
@@ -324,7 +310,7 @@
     "posted_at": "2026-10-30T14:00:43Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineering Manager, Startups | Core",
@@ -338,7 +324,7 @@
     "posted_at": "2026-11-10T09:01:00Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -350,5 +336,19 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2024-05-09T14:33:01Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Reliability Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-04-22T19:15:03Z"
   }
 ]
