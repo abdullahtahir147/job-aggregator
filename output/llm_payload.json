@@ -228,6 +228,20 @@
   {
     "rank": 17,
     "tag": "APPLIED_AI_FDE",
+    "company": "Notion",
+    "title": "Forward Deployed Architect",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.ashbyhq.com/notion/7a044182-7787-47cd-b8eb-18ebf5642ed4",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2026-11-13T17:01:40Z"
+  },
+  {
+    "rank": 18,
+    "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineering Manager, Startups | Greenfield",
     "location": "London, UK",
@@ -240,7 +254,7 @@
     "posted_at": "2026-11-10T09:00:55Z"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Digital Natives",
@@ -254,7 +268,7 @@
     "posted_at": "2026-11-03T09:51:48Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -268,7 +282,7 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Codex",
@@ -282,7 +296,7 @@
     "posted_at": "2026-09-11T07:44:32Z"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Startups (Codex)",
@@ -296,7 +310,7 @@
     "posted_at": "2026-09-24T13:55:16Z"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Delivery Lead - London",
@@ -310,7 +324,7 @@
     "posted_at": "2026-10-30T14:00:43Z"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineering Manager, Startups | Core",
@@ -324,7 +338,7 @@
     "posted_at": "2026-11-10T09:01:00Z"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -336,19 +350,5 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2024-05-09T14:33:01Z"
-  },
-  {
-    "rank": 25,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Palantir",
-    "title": "Forward Deployed Reliability Engineer",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-04-22T19:15:03Z"
   }
 ]

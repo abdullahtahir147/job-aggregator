@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `e6a64755142c`
-**Generated:** 2026-11-12T17:28:33Z
+**Run ID:** `16adeec4cbb0`
+**Generated:** 2026-11-13T17:03:05Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -28,15 +28,15 @@
 | 14 | Databricks | Senior Manager, AI Forward Deployed Engineering - London | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002) | title match: 'forward deployed'; very recent (0d) |
 | 15 | Databricks | Technical Program Manager, Forward Deployed Engineering | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002) | title match: 'forward deployed'; very recent (0d) |
 | 16 | Notion | Manager, Forward Deployed Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5) | title match: 'forward deployed'; very recent (0d) |
-| 17 | OpenAI | Applied AI Engineering Manager, Startups | Greenfield | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/c0586c46-6b10-482f-af1c-a5b7eb196b3b) | title match: 'applied ai'; very recent (0d) |
-| 18 | OpenAI | Applied AI Engineer, Digital Natives | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294) | title match: 'applied ai'; very recent (0d) |
-| 19 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706) | title match: 'forward deployed'; very recent (0d) |
-| 20 | OpenAI | Applied AI Engineer, Codex | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai'; very recent (0d) |
-| 21 | OpenAI | Applied AI Engineer, Startups (Codex) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20) | title match: 'applied ai'; very recent (0d) |
-| 22 | OpenAI | Applied AI Delivery Lead - London | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85) | title match: 'applied ai'; very recent (0d) |
-| 23 | OpenAI | Applied AI Engineering Manager, Startups | Core | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/ceca6916-b8d8-42cc-a32a-c27e06744b31) | title match: 'applied ai'; very recent (0d) |
-| 24 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
-| 25 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed'; very recent (0d) |
+| 17 | Notion | Forward Deployed Architect | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/notion/7a044182-7787-47cd-b8eb-18ebf5642ed4) | title match: 'forward deployed'; very recent (0d) |
+| 18 | OpenAI | Applied AI Engineering Manager, Startups | Greenfield | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/c0586c46-6b10-482f-af1c-a5b7eb196b3b) | title match: 'applied ai'; very recent (0d) |
+| 19 | OpenAI | Applied AI Engineer, Digital Natives | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294) | title match: 'applied ai'; very recent (0d) |
+| 20 | OpenAI | Forward Deployed Engineer - London (Spanish-speaking) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/7ce64627-b273-48e1-b3bc-ef4be0444706) | title match: 'forward deployed'; very recent (0d) |
+| 21 | OpenAI | Applied AI Engineer, Codex | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai'; very recent (0d) |
+| 22 | OpenAI | Applied AI Engineer, Startups (Codex) | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20) | title match: 'applied ai'; very recent (0d) |
+| 23 | OpenAI | Applied AI Delivery Lead - London | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85) | title match: 'applied ai'; very recent (0d) |
+| 24 | OpenAI | Applied AI Engineering Manager, Startups | Core | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/ceca6916-b8d8-42cc-a32a-c27e06744b31) | title match: 'applied ai'; very recent (0d) |
+| 25 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (1)
 
