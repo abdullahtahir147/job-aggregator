@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `835aee12931c`
-**Timestamp:** 2026-11-14T15:40:22Z
+**Run ID:** `965c0642ac3b`
+**Timestamp:** 2026-11-15T16:11:16Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 11470
+**New jobs this run:** 11465
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **646** new high-scoring job(s).
+Found **648** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -39,13 +39,13 @@ Found **646** new high-scoring job(s).
 | 24 | OpenAI | Manager, Applied AI Architects (Australia) | Sydney, Australia | 6 | [Apply](https://jobs.ashbyhq.com/openai/f4552c9d-e15f-4f2c-bf03-fd2cc1e11068) | title match: 'applied ai'; title match: 'ai architect' |
 | 25 | GitLab | Data Scientist, Enterprise Analytics | Remote, Canada; Remote, United States | 5 | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8922013002) | title match: 'data scientist'; keyword: 'experiment'; keyword: 'experimentation' (+3 more) |
 
-... and 621 more not shown
+... and 623 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **915** new UK posting(s) not in top matches.
+Found **908** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -90,7 +90,7 @@ Found **915** new UK posting(s) not in top matches.
 | 39 | ASOS | Senior Designer - MW (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159904459) |
 | 40 | ASOS | Senior Engineer - Endpoint Experience  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158544434) |
 
-... and 875 more not shown
+... and 868 more not shown
 
 ---
 
@@ -132,10 +132,10 @@ Found **9909** other new posting(s).
 
 ## Summary
 
-- **Total new jobs:** 11470
-- **Top matches (score ≥ 3):** 646
+- **Total new jobs:** 11465
+- **Top matches (score ≥ 3):** 648
   - of which UK: 93
-- **New UK jobs (other):** 915
+- **New UK jobs (other):** 908
 - **Other new jobs:** 9909
 
 ---
