@@ -97,7 +97,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-13T15:13:15Z"
+    "posted_at": "2026-11-16T09:15:59Z"
   },
   {
     "rank": 8,
@@ -111,7 +111,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-13T15:13:15Z"
+    "posted_at": "2026-11-16T09:15:59Z"
   },
   {
     "rank": 9,
@@ -125,7 +125,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-13T15:13:15Z"
+    "posted_at": "2026-11-16T09:15:59Z"
   },
   {
     "rank": 10,
@@ -139,7 +139,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-13T15:13:15Z"
+    "posted_at": "2026-11-16T09:15:59Z"
   },
   {
     "rank": 11,
@@ -153,7 +153,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-13T15:13:15Z"
+    "posted_at": "2026-11-16T09:15:59Z"
   },
   {
     "rank": 12,
@@ -167,7 +167,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-13T15:13:15Z"
+    "posted_at": "2026-11-16T09:15:59Z"
   },
   {
     "rank": 13,
@@ -181,7 +181,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-13T15:13:15Z"
+    "posted_at": "2026-11-16T09:15:59Z"
   },
   {
     "rank": 14,
@@ -195,7 +195,7 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-13T15:13:15Z"
+    "posted_at": "2026-11-16T09:15:59Z"
   },
   {
     "rank": 15,
@@ -243,6 +243,20 @@
     "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
+    "title": "Applied AI Engineer - Startups",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'applied ai'",
+    "intent_reasons": "boost: applied ai (+4)",
+    "posted_at": "2026-11-16T16:16:57Z"
+  },
+  {
+    "rank": 19,
+    "tag": "APPLIED_AI_FDE",
+    "company": "OpenAI",
     "title": "Applied AI Engineer, Digital Natives",
     "location": "London, UK",
     "url": "https://jobs.ashbyhq.com/openai/7be58f3a-6005-42ed-86fa-77773ebfb294",
@@ -254,7 +268,7 @@
     "posted_at": "2026-11-03T09:51:48Z"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -268,7 +282,7 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Codex",
@@ -280,20 +294,6 @@
     "match_reason": "+3 title match: 'applied ai'",
     "intent_reasons": "boost: applied ai (+4)",
     "posted_at": "2026-09-11T07:44:32Z"
-  },
-  {
-    "rank": 21,
-    "tag": "APPLIED_AI_FDE",
-    "company": "OpenAI",
-    "title": "Applied AI Engineer, Startups (Codex)",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/openai/840963bb-7b1a-4021-91a0-40baf71b7e20",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'applied ai'",
-    "intent_reasons": "boost: applied ai (+4)",
-    "posted_at": "2026-09-24T13:55:16Z"
   },
   {
     "rank": 22,
