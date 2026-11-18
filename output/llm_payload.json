@@ -89,20 +89,6 @@
     "rank": 7,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
-    "title": "AI Forward Deployed Engineer",
-    "location": "London, United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8927179002",
-    "final_score": 10,
-    "base_score": 3,
-    "intent_delta": 4,
-    "match_reason": "+3 title match: 'forward deployed'",
-    "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-16T17:44:11Z"
-  },
-  {
-    "rank": 8,
-    "tag": "APPLIED_AI_FDE",
-    "company": "Databricks",
     "title": "Forward Deployed Engineer",
     "location": "London, United Kingdom",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8921476002",
@@ -111,10 +97,10 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-16T17:44:11Z"
+    "posted_at": "2026-11-18T10:44:34Z"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Forward Deployed Engineering Manager",
@@ -125,10 +111,10 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-16T17:44:11Z"
+    "posted_at": "2026-11-18T10:44:34Z"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Forward Deployed Engineering - Senior Architect",
@@ -139,10 +125,10 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-16T17:44:11Z"
+    "posted_at": "2026-11-18T10:44:34Z"
   },
   {
-    "rank": 11,
+    "rank": 10,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Engagement Manager, Forward Deployed Engineering",
@@ -153,10 +139,10 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-16T17:44:11Z"
+    "posted_at": "2026-11-18T10:44:34Z"
   },
   {
-    "rank": 12,
+    "rank": 11,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Forward Deployed Engineer",
@@ -167,10 +153,10 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-16T17:44:11Z"
+    "posted_at": "2026-11-18T10:44:34Z"
   },
   {
-    "rank": 13,
+    "rank": 12,
     "tag": "APPLIED_AI_FDE",
     "company": "Databricks",
     "title": "Senior Manager, AI Forward Deployed Engineering - London",
@@ -181,10 +167,10 @@
     "intent_delta": 4,
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
-    "posted_at": "2026-11-16T17:44:11Z"
+    "posted_at": "2026-11-18T10:44:34Z"
   },
   {
-    "rank": 14,
+    "rank": 13,
     "tag": "APPLIED_AI_FDE",
     "company": "Notion",
     "title": "Manager, Forward Deployed Engineer",
@@ -198,7 +184,7 @@
     "posted_at": "2026-09-09T16:23:19Z"
   },
   {
-    "rank": 15,
+    "rank": 14,
     "tag": "APPLIED_AI_FDE",
     "company": "Notion",
     "title": "Forward Deployed Architect",
@@ -212,7 +198,7 @@
     "posted_at": "2026-11-13T17:01:40Z"
   },
   {
-    "rank": 16,
+    "rank": 15,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineering Manager, Startups | Greenfield",
@@ -226,7 +212,7 @@
     "posted_at": "2026-11-10T09:00:55Z"
   },
   {
-    "rank": 17,
+    "rank": 16,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer - Startups",
@@ -240,7 +226,7 @@
     "posted_at": "2026-11-16T16:16:57Z"
   },
   {
-    "rank": 18,
+    "rank": 17,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Digital Natives",
@@ -254,7 +240,7 @@
     "posted_at": "2026-11-03T09:51:48Z"
   },
   {
-    "rank": 19,
+    "rank": 18,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Forward Deployed Engineer - London (Spanish-speaking)",
@@ -268,7 +254,7 @@
     "posted_at": "2026-09-08T21:16:39Z"
   },
   {
-    "rank": 20,
+    "rank": 19,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineer, Codex",
@@ -282,7 +268,7 @@
     "posted_at": "2026-09-11T07:44:32Z"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Delivery Lead - London",
@@ -296,7 +282,7 @@
     "posted_at": "2026-10-30T14:00:43Z"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "tag": "APPLIED_AI_FDE",
     "company": "OpenAI",
     "title": "Applied AI Engineering Manager, Startups | Core",
@@ -310,7 +296,7 @@
     "posted_at": "2026-11-10T09:01:00Z"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed AI Engineer",
@@ -324,7 +310,7 @@
     "posted_at": "2024-05-09T14:33:01Z"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Reliability Engineer",
@@ -338,7 +324,7 @@
     "posted_at": "2026-04-22T19:15:03Z"
   },
   {
-    "rank": 25,
+    "rank": 24,
     "tag": "APPLIED_AI_FDE",
     "company": "Palantir",
     "title": "Forward Deployed Software Engineer",
@@ -350,5 +336,19 @@
     "match_reason": "+3 title match: 'forward deployed'",
     "intent_reasons": "boost: forward deployed (+4)",
     "posted_at": "2009-12-05T00:00:00Z"
+  },
+  {
+    "rank": 25,
+    "tag": "APPLIED_AI_FDE",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer - UK Government",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152",
+    "final_score": 10,
+    "base_score": 3,
+    "intent_delta": 4,
+    "match_reason": "+3 title match: 'forward deployed'",
+    "intent_reasons": "boost: forward deployed (+4)",
+    "posted_at": "2023-01-11T17:48:32Z"
   }
 ]
