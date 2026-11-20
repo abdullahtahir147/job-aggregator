@@ -1,7 +1,7 @@
 # Shortlist
 
-**Run ID:** `854077ddd05b`
-**Generated:** 2026-11-19T18:05:40Z
+**Run ID:** `03b99b48ac86`
+**Generated:** 2026-11-20T17:39:59Z
 **Top N:** 25
 **UK only:** True
 **Excluded seniority:** intern, graduate, apprentice, junior
@@ -35,8 +35,8 @@
 | 21 | OpenAI | Applied AI Engineer, Codex | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/32425ea6-a64b-408d-ae54-38342b83c875) | title match: 'applied ai'; very recent (0d) |
 | 22 | OpenAI | Applied AI Delivery Lead - London | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/ec0aa7c7-8995-4e01-9939-594a94549f85) | title match: 'applied ai'; very recent (0d) |
 | 23 | OpenAI | Applied AI Engineering Manager, Startups | Core | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/ceca6916-b8d8-42cc-a32a-c27e06744b31) | title match: 'applied ai'; very recent (0d) |
-| 24 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
-| 25 | Palantir | Forward Deployed Reliability Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c) | title match: 'forward deployed'; very recent (0d) |
+| 24 | OpenAI | Forward Deployed Engineer (FDE), Cyber - London | London, UK | 0d | 10 | 3 | +7 | [Apply](https://jobs.ashbyhq.com/openai/83b21911-d467-44ab-af3b-c0b898488ab4) | title match: 'forward deployed'; very recent (0d) |
+| 25 | Palantir | Forward Deployed AI Engineer | London, United Kingdom | 0d | 10 | 3 | +7 | [Apply](https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798) | title match: 'forward deployed'; very recent (0d) |
 
 ### PRODUCT_GROWTH_DATA (1)
 
