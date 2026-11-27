@@ -1,15 +1,15 @@
 # Diff Report
 
-**Run ID:** `d1b433d8c9c8`
-**Timestamp:** 2026-11-26T18:54:10Z
+**Run ID:** `aa4fef31d13d`
+**Timestamp:** 2026-11-27T18:46:22Z
 **Previous run:** 2026-04-12T11:38:48Z
-**New jobs this run:** 11380
+**New jobs this run:** 11699
 
 ---
 
 ## Top New Matches (score ≥ 3)
 
-Found **604** new high-scoring job(s).
+Found **670** new high-scoring job(s).
 
 | # | Company | Title | Location | Score | Link | Match Reason |
 |---|---------|-------|----------|-------|------|--------------|
@@ -39,13 +39,13 @@ Found **604** new high-scoring job(s).
 | 24 | OpenAI | Applied AI Architect, Cyber | Vancouver | 6 | [Apply](https://jobs.ashbyhq.com/openai/97e3df39-8a0b-493d-8cc4-c35e01491516) | title match: 'applied ai'; title match: 'ai architect' |
 | 25 | OpenAI | Manager, Applied AI Architects (Australia) | Sydney, Australia | 6 | [Apply](https://jobs.ashbyhq.com/openai/f4552c9d-e15f-4f2c-bf03-fd2cc1e11068) | title match: 'applied ai'; title match: 'ai architect' |
 
-... and 579 more not shown
+... and 645 more not shown
 
 ---
 
 ## New UK Jobs
 
-Found **826** new UK posting(s) not in top matches.
+Found **864** new UK posting(s) not in top matches.
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -58,28 +58,28 @@ Found **826** new UK posting(s) not in top matches.
 | 7 | ASOS | Business Continuity & Insurance Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156359337) |
 | 8 | ASOS | Creative Producer (5 MONTH FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163712739) |
 | 9 | ASOS | Creative Producer Manager (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163444220) |
-| 10 | ASOS | Designer - Formal Wovens (Test and React) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161811104) |
-| 11 | ASOS | Designer - WW Arrange Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000149892560) |
-| 12 | ASOS | Engineer - Endpoint Experience  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163486339) |
-| 13 | ASOS | Finance Business Partner (Warehouse) | Barnsley, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163510274) |
-| 14 | ASOS | Fraud Investigations Specialist (12 Month Fixed Term Contract) | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163683379) |
-| 15 | ASOS | Hairstylist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154405599) |
-| 16 | ASOS | Head of CRM and Lifecycle Product - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160585464) |
-| 17 | ASOS | Junior Ai Stylist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163435548) |
-| 18 | ASOS | Junior Copywriter (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000162277839) |
-| 19 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158353559) |
-| 20 | ASOS | Machine Learning Scientist | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000162783468) |
-| 21 | ASOS | Model Booker (3 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160848529) |
-| 22 | ASOS | PPC Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163446199) |
-| 23 | ASOS | Pricing Strategy and Operations Manager  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000162253889) |
-| 24 | ASOS | Principal Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156361317) |
-| 25 | ASOS | Principal Software Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161069549) |
-| 26 | ASOS | Product Manager - Automated Inventory Planning (AIP Repeat Tool)   | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161497859) |
-| 27 | ASOS | Product Specialist | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163283570) |
-| 28 | ASOS | Product Specialist 7 month FTC | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163283849) |
-| 29 | ASOS | Production Operations Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000151000459) |
-| 30 | ASOS | Project Manager (Supply Chain) - 12 month FTC | Barnsley, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161116237) |
-| 31 | ASOS | SOC and Incident Response Lead | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159844450) |
+| 10 | ASOS | Customer Operations Senior Specialist (12 Month FTC) | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000164020659) |
+| 11 | ASOS | Designer - Formal Wovens (Test and React) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161811104) |
+| 12 | ASOS | Designer - WW Arrange Design | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000149892560) |
+| 13 | ASOS | Engineer - Endpoint Experience  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163486339) |
+| 14 | ASOS | Finance Business Partner (Warehouse) | Barnsley, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163510274) |
+| 15 | ASOS | Fraud Investigations Specialist (12 Month Fixed Term Contract) | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163683379) |
+| 16 | ASOS | Hairstylist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000154405599) |
+| 17 | ASOS | Head of CRM and Lifecycle Product - 12 month FTC | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160585464) |
+| 18 | ASOS | Junior Ai Stylist (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163435548) |
+| 19 | ASOS | Junior Copywriter (6 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000162277839) |
+| 20 | ASOS | Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000158353559) |
+| 21 | ASOS | Machine Learning Scientist | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000162783468) |
+| 22 | ASOS | Model Booker (3 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000160848529) |
+| 23 | ASOS | PPC Manager | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163446199) |
+| 24 | ASOS | Pricing Strategy and Operations Manager  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000162253889) |
+| 25 | ASOS | Principal Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000156361317) |
+| 26 | ASOS | Principal Software Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161069549) |
+| 27 | ASOS | Product Manager - Automated Inventory Planning (AIP Repeat Tool)   | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161497859) |
+| 28 | ASOS | Product Specialist | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163283570) |
+| 29 | ASOS | Product Specialist 7 month FTC | Watford, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000163283849) |
+| 30 | ASOS | Production Operations Manager (12 month FTC) | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000151000459) |
+| 31 | ASOS | Project Manager (Supply Chain) - 12 month FTC | Barnsley, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000161116237) |
 | 32 | ASOS | Security Specialist (SOC & IR)  | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000159896249) |
 | 33 | ASOS | Senior AI / LLM Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000157124664) |
 | 34 | ASOS | Senior AI Engineer (AI Platform) | London, England, United Kingdom | -7 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000152723669) |
@@ -90,13 +90,13 @@ Found **826** new UK posting(s) not in top matches.
 | 39 | ASOS | Senior Legal Counsel | London, England, United Kingdom | -5 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000162551546) |
 | 40 | ASOS | Senior Machine Learning Engineer | London, England, United Kingdom | 0 | [Apply](https://jobs.smartrecruiters.com/ASOS/744000162476706) |
 
-... and 786 more not shown
+... and 824 more not shown
 
 ---
 
 ## Other New Jobs
 
-Found **9950** other new posting(s).
+Found **10165** other new posting(s).
 
 | # | Company | Title | Location | Score | Link |
 |---|---------|-------|----------|-------|------|
@@ -126,17 +126,17 @@ Found **9950** other new posting(s).
 | 24 | Block (Square) | Channel Sales Support Agent | Sydney, Australia | -10 | [Apply](http://block.xyz/careers/jobs/5485447008?gh_jid=5485447008) |
 | 25 | Block (Square) | Channel Sales Support Agent | Melbourne, Australia | -10 | [Apply](http://block.xyz/careers/jobs/5183293008?gh_jid=5183293008) |
 
-... and 9925 more not shown
+... and 10140 more not shown
 
 ---
 
 ## Summary
 
-- **Total new jobs:** 11380
-- **Top matches (score ≥ 3):** 604
-  - of which UK: 76
-- **New UK jobs (other):** 826
-- **Other new jobs:** 9950
+- **Total new jobs:** 11699
+- **Top matches (score ≥ 3):** 670
+  - of which UK: 85
+- **New UK jobs (other):** 864
+- **Other new jobs:** 10165
 
 ---
 _Generated by job-aggregator diff mode_
